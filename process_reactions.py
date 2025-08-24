@@ -321,12 +321,19 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
             # Parse the yield on same line if present
             m = re.search(r"Yield:\s*([0-9]{1,3})\s*%", line)
             pending_yield = int(m.group(1)) if m else None
-            # The ID is within a few lines: look ahead up to +3 for CAS Reaction Number
-            j = i
+            # Look ahead for the first CAS Reaction Number in this block (robust window)
+            j = i + 1
             rid = None
-            while j < len(lines) and j <= i + 6:
-                if lines[j].strip().startswith('CAS Reaction Number:'):
-                    rid = lines[j].split(':', 1)[1].strip()
+            while j < len(lines):
+                sj = lines[j].strip()
+                if sj.startswith('CAS Reaction Number:'):
+                    rid = sj.split(':', 1)[1].strip()
+                    break
+                # stop if we hit the next block header to avoid crossing blocks
+                if sj.startswith('Steps:') or sj.startswith('Scheme '):
+                    break
+                # hard stop window to avoid pathological scans
+                if j - i > 200:
                     break
                 j += 1
             if rid:
@@ -343,7 +350,8 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                 })
 
                 # Collect step details until the next blank separator or next scheme/title block
-                k = j + 1
+                # Collect step details for this block starting after the Steps: line
+                k = i + 1
                 while k < len(lines):
                     s = lines[k].strip()
                     if not s:
@@ -1011,21 +1019,21 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 pro_smiles_list.append(smi)
 
         # Compose compound lists as "name|cas" strings
-        rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
-        sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
-        lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
+    rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
+    sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
+    lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
     # For core matching, allow any catalyst CAS to provide a name→CAS hint, but we will still output
     # ligand pairs separately; this only helps attach CAS to obvious core names like "Cuprous iodide".
     all_cat_for_core_idx = (cat_core_cas or []) + (cat_lig_cas or [])
     core_name_idx = _build_name_to_cas_index(all_cat_for_core_idx, cas_map or {}) if cas_map is not None else {}
 
-        reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
-        solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
-        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
-        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, core_name_idx)
+    reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
+    solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
+    ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
+    core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, core_name_idx)
 
-        # Raw data bundle for traceability
-        rawdata_obj = {
+    # Raw data bundle for traceability
+    rawdata_obj = {
             'txt': {
                 'title': t.get('title'),
                 'authors': t.get('authors'),
@@ -1045,8 +1053,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 'notes': r.get('notes'),
             }
         }
-
-        row = {
+    row = {
             'ReactionID': rid,
             'ReactionType': infer_reaction_type(core_generic),
             'CatalystCoreDetail': _json_list(core_pairs),
@@ -1074,12 +1081,12 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             'SOLName': _json_list(sol_names),
         }
 
-        # Build keys/hashes
-        row['CondKey'] = build_condkey(row)
-        row['CondSig'] = build_condsig(row)
-        row['FamSig'] = build_famsig(row)
+    # Build keys/hashes
+    row['CondKey'] = build_condkey(row)
+    row['CondSig'] = build_condsig(row)
+    row['FamSig'] = build_famsig(row)
 
-        rows.append(row)
+    rows.append(row)
 
     return rows
 

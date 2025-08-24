@@ -147,16 +147,27 @@ def _normalize_token_list(s: str) -> List[str]:
       (e.g., "N diethyl...").
     This reconstructs names like "N,N-diisopropylethylamine" and "N,O-bis(...)".
     """
-    # split on commas only when outside parentheses to avoid breaking groups like "N-(2,4,6-...)"
+    # split on commas only when outside parentheses/brackets to avoid breaking groups like
+    # "N-(2,4,6-...)" or "[2′,6′-... ]"
     raw: List[str] = []
     buf: List[str] = []
-    depth = 0
+    paren = 0
+    square = 0
+    curly = 0
     for ch in s:
         if ch == '(':
-            depth += 1
+            paren += 1
         elif ch == ')':
-            depth = max(0, depth - 1)
-        if ch == ',' and depth == 0:
+            paren = max(0, paren - 1)
+        elif ch == '[':
+            square += 1
+        elif ch == ']':
+            square = max(0, square - 1)
+        elif ch == '{':
+            curly += 1
+        elif ch == '}':
+            curly = max(0, curly - 1)
+        if ch == ',' and paren == 0 and square == 0 and curly == 0:
             token = ''.join(buf).strip().strip(';').strip()
             if token:
                 raw.append(token)
@@ -881,6 +892,21 @@ def _builtin_core_name_to_cas(name: str, all_rxn_cas: List[str]) -> Optional[str
     return candidates[0] if candidates else None
 
 
+def _builtin_ligand_name_to_cas(name: str) -> Optional[str]:
+    """Hardcoded fallback for a few very common ligands when mapping is unavailable.
+    Kept conservative to avoid false matches.
+    """
+    nm = (name or '').strip().lower()
+    if not nm:
+        return None
+    # Exact, canonical ligand names only
+    if nm == '1,10-phenanthroline' or nm == 'o-phenanthroline':
+        return '66-71-7'
+    if nm in {"2,2'-bipyridine", "2,2'-dipyridyl", 'bipyridine'}:
+        return '366-18-7'
+    return None
+
+
 def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[str, str]], extra_names: List[str], name_hints: Optional[Dict[str, str]] = None) -> List[str]:
     """Combine CAS-derived pairs and extra TXT names into a de-duplicated list of "name|cas" strings.
     Heuristics:
@@ -933,6 +959,7 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
 
     used_noncas: set[str] = set()
     # Emit CAS-derived entries, overlaying assigned TXT names when present
+    emitted_for_cas: Dict[str, str] = {}
     for cas in cas_list:
         e = cas_map.get(cas) or {}
         mapped_name = (e.get('Name') or e.get('Token') or '').strip()
@@ -947,6 +974,7 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
         if s not in seen:
             seen.add(s)
             out.append(s)
+            emitted_for_cas[cas] = nm
 
     # Emit remaining TXT names that are not CAS-like and not already used in assignments
     for nm in txt_noncas:
@@ -965,6 +993,9 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
                 cas_hint = name_hints.get(k)
                 if cas_hint:
                     break
+        # If this name resolves to a CAS we already emitted above, skip to avoid alias duplicates
+        if cas_hint and cas_hint in emitted_for_cas:
+            continue
         s = _pair_str(nm, cas_hint or '')
         if s not in seen:
             seen.add(s)
@@ -993,7 +1024,8 @@ def _split_cat_vs_lig_from_cas(cat_cas: List[str], cas_map: Dict[str, Dict[str, 
         hint = (e.get('CategoryHint') or '').strip().lower()
         gen = (e.get('GenericCore') or '').strip()
         name = (e.get('Name') or '').strip().lower()
-        if role.startswith('LIG') or 'ligand' in hint:
+        # Treat anything clearly marked as ligand in Role/Hint as ligand
+        if ('LIG' in role) or ('ligand' in hint):
             lig.append(cas)
         elif role.startswith('CAT') or gen or any(m in name for m in ['palladium', 'copper', 'nickel', 'iridium', 'rhodium']):
             core.append(cas)
@@ -1049,6 +1081,25 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             # Any unclassified catalyst CAS default to core
             if cat_other_cas:
                 cat_core_cas = list(dict.fromkeys(list(cat_core_cas) + list(cat_other_cas)))
+            # Fallback: if some catalyst CAS remain unmapped/ambiguous (no GenericCore/Role/metal name)
+            # and TXT includes ligand-like entries, treat those CAS as ligands to enable pairing.
+            def _is_unknown_core_cas(cas_id: str) -> bool:
+                e = (cas_map or {}).get(cas_id) or {}
+                role = (e.get('Role') or '').strip().upper()
+                gen = (e.get('GenericCore') or '').strip()
+                nm = (e.get('Name') or '').strip().lower()
+                metal_words = ['palladium', 'copper', 'nickel', 'iridium', 'rhodium']
+                has_metal_name = any(w in nm for w in metal_words)
+                return (not gen) and (not role.startswith('CAT')) and (not has_metal_name)
+
+            # Determine if TXT provided any ligand-like names
+            txt_has_ligand = any(_classify_catalyst_or_ligand(it)[0] == 'ligand' for it in (t.get('catalysts') or []))
+            if txt_has_ligand:
+                unknowns = [c for c in cat_core_cas if _is_unknown_core_cas(c)]
+                if unknowns:
+                    # move all unknowns to ligand CAS set
+                    cat_lig_cas = list(dict.fromkeys(list(cat_lig_cas) + unknowns))
+                    cat_core_cas = [c for c in cat_core_cas if c not in unknowns]
             # Names/tokens from CAS for ligands
             ligands.extend(_tokens_from_cas_list(cat_lig_cas, cas_map))
             # Core generic metal tags from catalyst CAS
@@ -1155,9 +1206,9 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 pro_smiles_list.append(smi)
 
         # Compose compound lists as "name|cas" strings
-    rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
-    sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
-    lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
+        rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
+        sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
+        lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
         # For core matching, prefer catalyst CAS names; then fall back to any reaction CAS to help attach CAS
         # to obvious core names like "Cuprous iodide" or "Cupric acetate" when RDF listed them under other roles.
         all_cat_for_core_idx = (cat_core_cas or []) + (cat_lig_cas or [])
@@ -1197,7 +1248,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
 
         reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
         solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
-    ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, merged_lig_hints)
+        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, merged_lig_hints)
         core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, merged_core_hints)
 
         # Fallback: if exactly one catalyst core CAS is present, attach it to any unmatched core names
@@ -1230,6 +1281,19 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 if p not in new_core_pairs:
                     new_core_pairs.append(p)
             core_pairs = new_core_pairs
+
+        # Built-in fallback for a few common ligands (e.g., 1,10-Phenanthroline)
+        if 'ligand_pairs' in locals() and ligand_pairs:
+            new_lig_pairs: List[str] = []
+            for p in ligand_pairs:
+                name, sep, casval = p.partition('|')
+                if sep and casval.strip() == '':
+                    fallback = _builtin_ligand_name_to_cas(name)
+                    if fallback:
+                        p = f"{name}|{fallback}"
+                if p not in new_lig_pairs:
+                    new_lig_pairs.append(p)
+            ligand_pairs = new_lig_pairs
 
         # Raw data bundle for traceability
         rawdata_obj = {

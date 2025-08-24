@@ -731,6 +731,40 @@ def _pairs_from_cas_list(cases: List[str], cas_map: Dict[str, Dict[str, str]]) -
     return pairs
 
 
+def _name_variants(nm: str) -> List[str]:
+    """Generate normalized, lowercase variants of a chemical name to improve exact-match enrichment.
+    Includes common oxidation-state synonyms (cuprous->copper(i), cupric->copper(ii), etc.).
+    """
+    base = (nm or '').strip().lower()
+    if not base:
+        return []
+    variants: set[str] = set([base])
+    rep_map = {
+        r"\bcuprous\b": "copper(i)",
+        r"\bcupric\b": "copper(ii)",
+        r"\bferrous\b": "iron(ii)",
+        r"\bferric\b": "iron(iii)",
+        r"\bstannous\b": "tin(ii)",
+        r"\bstannic\b": "tin(iv)",
+        r"\bmercurous\b": "mercury(i)",
+        r"\bmercuric\b": "mercury(ii)",
+        r"\bplumbous\b": "lead(ii)",
+        r"\bplumbic\b": "lead(iv)",
+        r"\bchromous\b": "chromium(ii)",
+        r"\bchromic\b": "chromium(iii)",
+        r"\bnickelous\b": "nickel(ii)",
+        r"\bnickelic\b": "nickel(iii)",
+    }
+    norm = base
+    for pat, repl in rep_map.items():
+        norm = re.sub(pat, repl, norm)
+    variants.add(norm)
+    # Also include a version with multiple spaces normalized and hyphens collapsed
+    variants.add(re.sub(r"\s+", " ", norm))
+    variants.add(norm.replace('-', ' '))
+    return list(variants)
+
+
 def _build_name_to_cas_index(cases: List[str], cas_map: Dict[str, Dict[str, str]]) -> Dict[str, str]:
     """Build a lowercase name -> CAS map for the provided CAS list using the mapping names.
     Skip ambiguous names that point to multiple CAS in this role.
@@ -739,18 +773,48 @@ def _build_name_to_cas_index(cases: List[str], cas_map: Dict[str, Dict[str, str]
     ambiguous: set[str] = set()
     for cas in cases or []:
         e = cas_map.get(cas) or {}
+        candidates: List[str] = []
         nm = (e.get('Name') or '').strip()
-        if not nm:
-            continue
-        key = nm.lower()
-        if key in ambiguous:
-            continue
-        if key in name_to_cas and name_to_cas[key] != cas:
-            # mark as ambiguous
-            ambiguous.add(key)
-            name_to_cas.pop(key, None)
-        else:
-            name_to_cas[key] = cas
+        tok = (e.get('Token') or '').strip()
+        if nm:
+            candidates.extend(_name_variants(nm))
+        if tok:
+            candidates.extend(_name_variants(tok))
+        for key in candidates:
+            if not key:
+                continue
+            if key in ambiguous:
+                continue
+            if key in name_to_cas and name_to_cas[key] != cas:
+                ambiguous.add(key)
+                name_to_cas.pop(key, None)
+            else:
+                name_to_cas[key] = cas
+    return name_to_cas
+
+
+def _build_global_name_to_cas_index(cas_map: Dict[str, Dict[str, str]]) -> Dict[str, str]:
+    """Build a lowercase name -> CAS map from the entire mapping (Name and Token), skipping ambiguous names."""
+    name_to_cas: Dict[str, str] = {}
+    ambiguous: set[str] = set()
+    for cas, e in (cas_map or {}).items():
+        candidates: List[str] = []
+        nm = (e.get('Name') or '').strip()
+        tok = (e.get('Token') or '').strip()
+        if nm:
+            candidates.extend(_name_variants(nm))
+        if tok:
+            candidates.extend(_name_variants(tok))
+        for key in candidates:
+            if not key:
+                continue
+            if key in ambiguous:
+                continue
+            if key in name_to_cas and name_to_cas[key] != cas:
+                ambiguous.add(key)
+                name_to_cas.pop(key, None)
+            else:
+                name_to_cas[key] = cas
     return name_to_cas
 
 
@@ -1022,38 +1086,61 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
         sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
         lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
-        # For core matching, allow any catalyst CAS to provide a name→CAS hint, but we will still output
-        # ligand pairs separately; this only helps attach CAS to obvious core names like "Cuprous iodide".
+        # For core matching, prefer catalyst CAS names; then fall back to any reaction CAS to help attach CAS
+        # to obvious core names like "Cuprous iodide" or "Cupric acetate" when RDF listed them under other roles.
         all_cat_for_core_idx = (cat_core_cas or []) + (cat_lig_cas or [])
         core_name_idx = _build_name_to_cas_index(all_cat_for_core_idx, cas_map or {}) if cas_map is not None else {}
+        # Reaction-wide indices (filtered to catalyst-like entries, then full union as last resort)
+    if cas_map is not None:
+            all_rxn_cas = (r.get('rct_cas', []) or []) + (r.get('pro_cas', []) or []) + (r.get('rgt_cas', []) or []) + (r.get('cat_cas', []) or []) + (r.get('sol_cas', []) or [])
+            # Filter to CAS that look catalyst-like per mapping (Role startswith CAT or has GenericCore)
+            catlike_cas = []
+            for c in all_rxn_cas:
+                e = (cas_map or {}).get(c) or {}
+                role = (e.get('Role') or '').strip().upper()
+                gen = (e.get('GenericCore') or '').strip()
+                if role.startswith('CAT') or gen:
+                    catlike_cas.append(c)
+            rxn_catlike_idx = _build_name_to_cas_index(catlike_cas, cas_map or {})
+            rxn_all_idx = _build_name_to_cas_index(all_rxn_cas, cas_map or {})
+            merged_core_hints = dict(core_name_idx)
+            merged_core_hints.update(rxn_catlike_idx)
+            merged_core_hints.update(rxn_all_idx)
+            # Finally, allow a global mapping fallback for well-known names (do not override existing hints)
+            global_idx = _build_global_name_to_cas_index(cas_map or {})
+            for k, v in global_idx.items():
+                if k not in merged_core_hints:
+                    merged_core_hints[k] = v
+    else:
+            merged_core_hints = core_name_idx
 
-        reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
-        solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
-        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
-        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, core_name_idx)
+            reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
+            solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
+            ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
+            core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, merged_core_hints)
 
-        # Raw data bundle for traceability
-        rawdata_obj = {
-                'txt': {
-                    'title': t.get('title'),
-                    'authors': t.get('authors'),
-                    'citation': t.get('citation'),
-                    'reagents': t.get('reagents'),
-                    'catalysts': t.get('catalysts'),
-                    'solvents': t.get('solvents'),
-                    'base_from_txt': t.get('base_from_txt'),
-                    'all_condition_lines': t.get('all_condition_lines'),
-                },
-                'rdf': {
-                    'rct_cas': r.get('rct_cas'),
-                    'pro_cas': r.get('pro_cas'),
-                    'rgt_cas': r.get('rgt_cas'),
-                    'cat_cas': r.get('cat_cas'),
-                    'sol_cas': r.get('sol_cas'),
-                    'notes': r.get('notes'),
-                }
+            # Raw data bundle for traceability
+            rawdata_obj = {
+            'txt': {
+                'title': t.get('title'),
+                'authors': t.get('authors'),
+                'citation': t.get('citation'),
+                'reagents': t.get('reagents'),
+                'catalysts': t.get('catalysts'),
+                'solvents': t.get('solvents'),
+                'base_from_txt': t.get('base_from_txt'),
+                'all_condition_lines': t.get('all_condition_lines'),
+            },
+            'rdf': {
+                'rct_cas': r.get('rct_cas'),
+                'pro_cas': r.get('pro_cas'),
+                'rgt_cas': r.get('rgt_cas'),
+                'cat_cas': r.get('cat_cas'),
+                'sol_cas': r.get('sol_cas'),
+                'notes': r.get('notes'),
             }
-        row = {
+            }
+            row = {
                 'ReactionID': rid,
                 'ReactionType': infer_reaction_type(core_generic),
                 'CatalystCoreDetail': _json_list(core_pairs),
@@ -1081,12 +1168,12 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 'SOLName': _json_list(sol_names),
             }
 
-        # Build keys/hashes
-        row['CondKey'] = build_condkey(row)
-        row['CondSig'] = build_condsig(row)
-        row['FamSig'] = build_famsig(row)
+            # Build keys/hashes
+            row['CondKey'] = build_condkey(row)
+            row['CondSig'] = build_condsig(row)
+            row['FamSig'] = build_famsig(row)
 
-        rows.append(row)
+            rows.append(row)
 
     return rows
 

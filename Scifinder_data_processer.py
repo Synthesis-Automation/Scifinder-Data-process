@@ -10,6 +10,7 @@ import os
 import sys
 import traceback
 from typing import List, Optional
+import csv  # for TSV writing
 
 
 from PyQt6 import QtWidgets, QtCore
@@ -39,46 +40,142 @@ from process_reactions import (
 
 class Worker(QtCore.QObject):
     finished = Signal(bool, str) if Signal else None  # type: ignore[misc]
+    progress = Signal(str) if Signal else None  # type: ignore[misc]
 
-    def __init__(self, rdf_path: str, txt_path: str, out_path: str, cas_maps: Optional[List[str]], auto_detect_maps: bool):
+    def __init__(self, rdf_path: Optional[str], txt_path: Optional[str], out_path: str, cas_maps: Optional[List[str]], auto_detect_maps: bool, folder_path: Optional[str] = None):
         super().__init__()
-        self.rdf_path = rdf_path
-        self.txt_path = txt_path
+        self.rdf_path = rdf_path or ''
+        self.txt_path = txt_path or ''
         self.out_path = out_path
         self.cas_maps = cas_maps or []
         self.auto_detect_maps = auto_detect_maps
+        self.folder_path = folder_path or ''
+
+    def _emit(self, msg: str):
+        sig = getattr(self, 'progress', None)
+        if sig:
+            try:
+                sig.emit(msg)
+            except Exception:
+                pass
+
+    def _build_cas_map(self):
+        cas_map_paths: List[str] = list(self.cas_maps)
+        if self.auto_detect_maps:
+            here = os.path.dirname(os.path.abspath(__file__))
+            maybe = [
+                os.path.join(here, 'Buchwald', 'cas_dictionary.csv'),
+                os.path.join(here, 'Ullman', '新建文件夹', 'ullmann_cas_to_name_mapping.csv'),
+            ]
+            cas_map_paths.extend([p for p in maybe if os.path.exists(p)])
+        return load_cas_maps(cas_map_paths) if cas_map_paths else {}
+
+    def _run_single(self):
+        self._emit("Parsing TXT…")
+        txt = parse_txt(self.txt_path)
+        self._emit("Parsing RDF…")
+        rdf = parse_rdf(self.rdf_path)
+        self._emit("Loading CAS maps…")
+        cas_map = self._build_cas_map()
+        self._emit("Assembling rows…")
+        rows = assemble_rows(txt, rdf, cas_map)
+        self._emit(f"Writing output to {self.out_path}…")
+        self._write_output(rows)
+        return rows
+
+    def _run_folder(self):
+        folder = self.folder_path
+        self._emit(f"Scanning folder: {folder}")
+        try:
+            names = os.listdir(folder)
+        except Exception as e:
+            raise RuntimeError(f"Cannot list folder: {e}")
+        # Case-insensitive index of basenames -> available extensions
+        base_to_exts = {}
+        for n in names:
+            p = os.path.join(folder, n)
+            if not os.path.isfile(p):
+                continue
+            base, ext = os.path.splitext(n)
+            base_low = base.lower()
+            ext_low = ext.lower()
+            base_to_exts.setdefault(base_low, set()).add(ext_low)
+        pairs = []
+        for base_low, exts in base_to_exts.items():
+            if '.rdf' in exts and '.txt' in exts:
+                rdf_n = next((n for n in names if os.path.splitext(n)[0].lower() == base_low and os.path.splitext(n)[1].lower() == '.rdf'), base_low + '.rdf')
+                txt_n = next((n for n in names if os.path.splitext(n)[0].lower() == base_low and os.path.splitext(n)[1].lower() == '.txt'), base_low + '.txt')
+                pairs.append((os.path.join(folder, rdf_n), os.path.join(folder, txt_n)))
+        if not pairs:
+            return [], 0
+        self._emit(f"Found {len(pairs)} RDF/TXT pairs.")
+        agg_txt = {}
+        agg_rdf = {}
+        for idx, (rdf_p, txt_p) in enumerate(sorted(pairs), start=1):
+            self._emit(f"[{idx}/{len(pairs)}] Parsing: {os.path.basename(txt_p)} + {os.path.basename(rdf_p)}")
+            try:
+                t = parse_txt(txt_p)
+                r = parse_rdf(rdf_p)
+                agg_txt.update(t)
+                agg_rdf.update(r)
+            except Exception as e:
+                self._emit(f"Failed pair: {txt_p} / {rdf_p}: {e}")
+        self._emit("Loading CAS maps…")
+        cas_map = self._build_cas_map()
+        self._emit("Assembling combined rows…")
+        rows = assemble_rows(agg_txt, agg_rdf, cas_map)
+        self._emit(f"Writing output to {self.out_path}…")
+        self._write_output(rows)
+        return rows, len(pairs)
 
     @Slot() if Slot else (lambda f: f)
     def run(self):  # heavy work off UI thread
         try:
-            txt = parse_txt(self.txt_path)
-            rdf = parse_rdf(self.rdf_path)
-
-            cas_map_paths: List[str] = list(self.cas_maps)
-            if self.auto_detect_maps:
-                here = os.path.dirname(os.path.abspath(__file__))
-                maybe = [
-                    os.path.join(here, 'Buchwald', 'cas_dictionary.csv'),
-                    os.path.join(here, 'Ullman', '新建文件夹', 'ullmann_cas_to_name_mapping.csv'),
-                ]
-                cas_map_paths.extend([p for p in maybe if os.path.exists(p)])
-            cas_map = load_cas_maps(cas_map_paths) if cas_map_paths else {}
-
-            rows = assemble_rows(txt, rdf, cas_map)
-            write_csv(rows, self.out_path)
-            if self.finished:
-                self.finished.emit(True, f"Wrote {len(rows)} rows to {self.out_path}")
+            if self.folder_path:
+                rows, npairs = self._run_folder()
+                if self.finished:
+                    self.finished.emit(True, f"Processed {npairs} pairs. Wrote {len(rows)} rows to {self.out_path}")
+            else:
+                rows = self._run_single()
+                if self.finished:
+                    self.finished.emit(True, f"Wrote {len(rows)} rows to {self.out_path}")
         except Exception as e:
             msg = f"Error: {e}\n\n{traceback.format_exc()}"
             if self.finished:
                 self.finished.emit(False, msg)
+
+    def _write_output(self, rows: List[dict]):
+        """Write rows to .tsv if the extension is .tsv; else use CSV helper."""
+        out_ext = os.path.splitext(self.out_path)[1].lower()
+        if out_ext == '.tsv':
+            # Keep the same column order as process_reactions.write_csv
+            cols = [
+                'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand',
+                'ReagentRaw', 'ReagentRole', 'Base', 'Solvent', 'Temperature_C', 'Time_h',
+                'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
+                'CondKey', 'CondSig', 'FamSig', 'RawCAS',
+                'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName', 'BASName',
+            ]
+            with open(self.out_path, 'w', newline='', encoding='utf-8') as f:
+                w = csv.DictWriter(f, fieldnames=cols, delimiter='\t', quoting=csv.QUOTE_MINIMAL)
+                w.writeheader()
+                for r in rows:
+                    w.writerow({k: r.get(k, '') for k in cols})
+        else:
+            # Fallback to CSV using existing helper
+            write_csv(rows, self.out_path)
 
 
 class MainWindow(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("SciFinder Reaction Processor")
-        self.resize(700, 360)
+        self.resize(780, 440)
+
+        # Mode selection
+        self.radio_single = QtWidgets.QRadioButton("Single RDF/TXT pair")
+        self.radio_folder = QtWidgets.QRadioButton("Process a folder of pairs")
+        self.radio_single.setChecked(True)
 
         # Inputs
         self.rdf_edit = QtWidgets.QLineEdit()
@@ -89,8 +186,12 @@ class MainWindow(QtWidgets.QWidget):
 
         self.btn_rdf = QtWidgets.QPushButton("Browse RDF…")
         self.btn_txt = QtWidgets.QPushButton("Browse TXT…")
-        self.btn_out = QtWidgets.QPushButton("Save CSV…")
+        self.btn_out = QtWidgets.QPushButton("Save As…")
         self.btn_cas = QtWidgets.QPushButton("Add CAS Map(s)…")
+
+        # Folder processing controls
+        self.folder_edit = QtWidgets.QLineEdit()
+        self.btn_folder = QtWidgets.QPushButton("Browse Folder…")
 
         self.chk_auto = QtWidgets.QCheckBox("Auto-detect built-in CAS maps")
         self.chk_auto.setChecked(True)
@@ -104,9 +205,11 @@ class MainWindow(QtWidgets.QWidget):
         self.log.setReadOnly(True)
 
         form = QtWidgets.QFormLayout()
+        form.addRow("Mode:", self._hbox(self.radio_single, self.radio_folder))
         form.addRow("RDF:", self._hbox(self.rdf_edit, self.btn_rdf))
         form.addRow("TXT:", self._hbox(self.txt_edit, self.btn_txt))
-        form.addRow("Output CSV:", self._hbox(self.out_edit, self.btn_out))
+        form.addRow("Folder:", self._hbox(self.folder_edit, self.btn_folder))
+        form.addRow("Output file:", self._hbox(self.out_edit, self.btn_out))
         form.addRow(self.chk_auto)
         form.addRow("CAS Map(s):", self._hbox(self.cas_edit, self.btn_cas))
 
@@ -125,11 +228,15 @@ class MainWindow(QtWidgets.QWidget):
         self.chk_auto.toggled.connect(self.on_auto_toggle)
         self.btn_run.clicked.connect(self.run_job)
         self.btn_quit.clicked.connect(self.close)
+        self.btn_folder.clicked.connect(self.pick_folder)
+        self.radio_single.toggled.connect(self.on_mode_toggle)
 
         # runtime state
         self.cas_paths = []
         self.thread = None
         self.worker = None
+        # initialize mode state
+        self.on_mode_toggle(self.radio_single.isChecked())
 
     def _hbox(self, *widgets):
         box = QtWidgets.QHBoxLayout()
@@ -155,11 +262,26 @@ class MainWindow(QtWidgets.QWidget):
             self.txt_edit.setText(path)
             self.suggest_out()
 
-    def pick_out(self):
-        path, _ = QtWidgets.QFileDialog.getSaveFileName(self, "Save CSV", os.getcwd(), "CSV files (*.csv)")
+    def pick_folder(self):
+        path = QtWidgets.QFileDialog.getExistingDirectory(self, "Select folder with RDF/TXT pairs", os.getcwd(), options=QtWidgets.QFileDialog.Option.ShowDirsOnly)
         if path:
-            if not path.lower().endswith('.csv'):
-                path += '.csv'
+            self.folder_edit.setText(path)
+            if not self.out_edit.text().strip():
+                self.out_edit.setText(os.path.join(path, "reactions.tsv"))
+
+    def pick_out(self):
+        # Default to TSV; allow CSV as alternative
+        path, selected_filter = QtWidgets.QFileDialog.getSaveFileName(
+            self,
+            "Save As",
+            os.getcwd(),
+            "TSV files (*.tsv);;CSV files (*.csv)"
+        )
+        if path:
+            low = path.lower()
+            if not (low.endswith('.tsv') or low.endswith('.csv')):
+                # Choose .tsv by default
+                path += '.tsv'
             self.out_edit.setText(path)
 
     def pick_cas(self):
@@ -172,6 +294,16 @@ class MainWindow(QtWidgets.QWidget):
         self.btn_cas.setEnabled(not checked)
         self.cas_edit.setEnabled(not checked)
 
+    def on_mode_toggle(self, single_checked: bool):
+        is_single = bool(single_checked)
+        for w in [self.rdf_edit, self.txt_edit, self.btn_rdf, self.btn_txt]:
+            w.setEnabled(is_single)
+        self.folder_edit.setEnabled(not is_single)
+        self.btn_folder.setEnabled(not is_single)
+        # Suggest output for folder mode
+        if not is_single and self.folder_edit.text().strip() and not self.out_edit.text().strip():
+            self.out_edit.setText(os.path.join(self.folder_edit.text().strip(), "reactions.tsv"))
+
     def suggest_out(self):
         rdf = self.rdf_edit.text().strip()
         txt = self.txt_edit.text().strip()
@@ -180,20 +312,28 @@ class MainWindow(QtWidgets.QWidget):
             base_txt = os.path.splitext(os.path.basename(txt))[0]
             # choose the longer common prefix as a hint; fallback to 'reactions'
             common = os.path.commonprefix([base_rdf, base_txt]) or 'reactions'
-            out = os.path.join(os.path.dirname(rdf), f"{common}_merged.csv")
+            out = os.path.join(os.path.dirname(rdf), f"{common}_merged.tsv")
             self.out_edit.setText(out)
 
     def validate_inputs(self) -> Optional[str]:
-        rdf = self.rdf_edit.text().strip()
-        txt = self.txt_edit.text().strip()
         out = self.out_edit.text().strip()
-        if not rdf or not os.path.exists(rdf):
-            return "Please select a valid RDF file."
-        if not txt or not os.path.exists(txt):
-            return "Please select a valid TXT file."
-        if not out:
-            return "Please choose an output CSV path."
-        return None
+        if self.radio_single.isChecked():
+            rdf = self.rdf_edit.text().strip()
+            txt = self.txt_edit.text().strip()
+            if not rdf or not os.path.exists(rdf):
+                return "Please select a valid RDF file."
+            if not txt or not os.path.exists(txt):
+                return "Please select a valid TXT file."
+            if not out:
+                return "Please choose an output CSV path."
+            return None
+        else:
+            folder = self.folder_edit.text().strip()
+            if not folder or not os.path.isdir(folder):
+                return "Please select a valid folder."
+            if not out:
+                return "Please choose an output CSV path."
+            return None
 
     def run_job(self):
         err = self.validate_inputs()
@@ -204,13 +344,23 @@ class MainWindow(QtWidgets.QWidget):
         self.log.clear()
         self.log_msg("Starting…")
 
-        self.worker = Worker(
-            rdf_path=self.rdf_edit.text().strip(),
-            txt_path=self.txt_edit.text().strip(),
-            out_path=self.out_edit.text().strip(),
-            cas_maps=self.cas_paths,
-            auto_detect_maps=self.chk_auto.isChecked(),
-        )
+        if self.radio_single.isChecked():
+            self.worker = Worker(
+                rdf_path=self.rdf_edit.text().strip(),
+                txt_path=self.txt_edit.text().strip(),
+                out_path=self.out_edit.text().strip(),
+                cas_maps=self.cas_paths,
+                auto_detect_maps=self.chk_auto.isChecked(),
+            )
+        else:
+            self.worker = Worker(
+                rdf_path=None,
+                txt_path=None,
+                out_path=self.out_edit.text().strip(),
+                cas_maps=self.cas_paths,
+                auto_detect_maps=self.chk_auto.isChecked(),
+                folder_path=self.folder_edit.text().strip(),
+            )
 
         self.thread = QtCore.QThread(self)
         self.worker.moveToThread(self.thread)
@@ -220,6 +370,9 @@ class MainWindow(QtWidgets.QWidget):
             sig.connect(self.on_finished)
             sig.connect(self.thread.quit)
             sig.connect(self.worker.deleteLater)
+        prog = getattr(self.worker, 'progress', None)
+        if prog:
+            prog.connect(self.log_msg)
         self.thread.finished.connect(self.thread.deleteLater)
         # Always re-enable UI when the thread finishes (safety net)
         self.thread.finished.connect(lambda: self.setEnabled(True))

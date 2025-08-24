@@ -67,7 +67,7 @@ def build_condkey(row: Dict[str, str]) -> str:
         except Exception:
             return "none"
 
-    cg = _join("CoreGeneric")
+    cg = _join("CatalystCoreGeneric")
     lig = _join("Ligand")
     bas = _join("ReagentRaw")
     solv = _join("Solvent")
@@ -76,7 +76,7 @@ def build_condkey(row: Dict[str, str]) -> str:
 
 def build_condsig(row: Dict[str, str]) -> str:
     parts = []
-    for c in ["CoreGeneric", "Ligand", "ReagentRaw", "Solvent"]:
+    for c in ["CatalystCoreGeneric", "Ligand", "ReagentRaw", "Solvent"]:
         try:
             parts.append("+".join(sorted(json.loads(row.get(c, "[]")))))
         except Exception:
@@ -85,9 +85,9 @@ def build_condsig(row: Dict[str, str]) -> str:
 
 
 def build_famsig(row: Dict[str, str]) -> str:
-    # collapse metal detail: here CoreGeneric is already generic tokens
+    # collapse metal detail: here CatalystCoreGeneric is already generic tokens
     try:
-        core = json.loads(row.get("CoreGeneric", "[]"))
+        core = json.loads(row.get("CatalystCoreGeneric", "[]"))
         lig = json.loads(row.get("Ligand", "[]"))
         reag = json.loads(row.get("ReagentRaw", "[]"))
         solv = json.loads(row.get("Solvent", "[]"))
@@ -107,15 +107,55 @@ def build_famsig(row: Dict[str, str]) -> str:
 
 # --------------------------- Parsing the TXT file ---------------------------
 
-_RE_TIME = re.compile(r"(?P<num>\d+(?:\.\d+)?)\s*(?P<unit>h|hr|hrs|hour|hours|min|mins|minute|minutes)\b", re.I)
+_RE_TIME = re.compile(r"(?P<num>\d+(?:\.\d+)?)\s*(?P<unit>h|hr|hrs|hour|hours|min|mins|minute|minutes|d|day|days)\b", re.I)
 _RE_TEMP_C = re.compile(r"(?P<val>-?\d+(?:\.\d+)?)\s*[^A-Za-z0-9]{0,3}C\b")  # tolerate broken degree symbol
 
 
 def _normalize_token_list(s: str) -> List[str]:
-    # Split on commas
-    toks = [t.strip().strip(';').strip() for t in s.split(',')]
-    toks = [t for t in toks if t]
-    return toks
+    """Split a comma-separated list into tokens, but keep substituent designators
+    like N,N′-, N,O-, O,O′- together as a single chemical name.
+
+    Heuristic:
+    - Initially split on commas.
+    - Then merge runs of single-letter designators (N/O/S/P/C) that precede a token
+      starting with a designator prefix such as "N-", "N′-", "O-", or with a space
+      (e.g., "N diethyl...").
+    This reconstructs names like "N,N-diisopropylethylamine" and "N,O-bis(...)".
+    """
+    raw = [t.strip().strip(';').strip() for t in s.split(',')]
+    raw = [t for t in raw if t]
+
+    def _is_single_designator(tok: str) -> bool:
+        return tok in {"N", "O", "S", "P", "C"}
+
+    def _starts_with_designator_prefix(tok: str) -> bool:
+        return bool(re.match(r"^[NOSPC](?:['′])?(?:-|\s).+", tok))
+
+    merged: List[str] = []
+    i = 0
+    while i < len(raw):
+        # Collect a run of single-letter designators
+        j = i
+        singles: List[str] = []
+        while j < len(raw) and _is_single_designator(raw[j]):
+            singles.append(raw[j])
+            j += 1
+        # If after the run there's a token starting with a designator prefix, merge
+        if singles and j < len(raw) and _starts_with_designator_prefix(raw[j]):
+            merged_name = ",".join(singles + [raw[j]])
+            merged.append(merged_name)
+            i = j + 1
+            continue
+        # Otherwise, if at least one single was found but no following prefix, push singles individually
+        if singles:
+            merged.extend(singles)
+            i = j
+            continue
+        # No singles run; push current token
+        merged.append(raw[i])
+        i += 1
+
+    return merged
 
 
 def _is_condition_token(tok: str) -> bool:
@@ -165,7 +205,13 @@ def _classify_catalyst_or_ligand(name: str) -> Tuple[str, str]:
 
 def _classify_reagent_role(name: str) -> str:
     n = name.lower()
-    if any(k in n for k in ["carbonate", "methoxide", "tert-butoxide", "trimethylsilanolate", "triethylamine", "pyridine", "koh", "naoh", "hydroxide", "potassium tert-butoxide"]):
+    if any(k in n for k in [
+        "carbonate", "phosphate", "tripotassium phosphate", "dipotassium phosphate",
+        "methoxide", "ethoxide", "tert-butoxide", "t-butoxide",
+        "trimethylsilanolate", "triethylamine", "diisopropylethylamine", "hunig",
+        "pyridine", "imidazole", "dmf base", "koh", "naoh", "hydroxide",
+        "potassium tert-butoxide", "cesium carbonate", "sodium carbonate"
+    ]):
         return "BASE"
     if any(k in n for k in ["water", "h2o", "brine", "nh4cl", "ammonium chloride", "work-up"]):
         return "WORKUP"
@@ -240,26 +286,57 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                     if s == '?':
                         k += 1
                         break
-                    # Collect content
-                    rec['all_condition_lines'].append(s)
-                    if s.lower().startswith('reagents:'):
-                        rest = s.split(':', 1)[1].strip()
-                        # Use content before first ';' to avoid trailing conditions
+                    # Collect content; SciFinder often uses '|' separators and step prefixes like '1.1|'
+                    segments = [seg.strip() for seg in (s.split('|') if '|' in s else [s]) if seg.strip()]
+                    for seg in segments:
+                        rec['all_condition_lines'].append(seg)
+                    low = s.lower()
+                    # Support label variants like "Reagent(s):", "Additives:", "Catalyst(s):", "Solvent(s):", "Base:"
+                    def _after_label(lbls: List[str]) -> Optional[str]:
+                        for lbl in lbls:
+                            if low.startswith(lbl):
+                                return s.split(':', 1)[1].strip() if ':' in s else s[len(lbl):].strip()
+                        return None
+                    # Extract and split while dropping trailing condition fragments after ';'
+                    def _list_from_rest(rest: str) -> List[str]:
                         before = rest.split(';', 1)[0].strip()
                         toks = [t for t in _normalize_token_list(before) if not _is_condition_token(t)]
-                        rec['reagents'].extend(toks)
-                    elif s.lower().startswith('catalysts:'):
-                        rest = s.split(':', 1)[1].strip()
-                        before = rest.split(';', 1)[0].strip()
-                        toks = [t for t in _normalize_token_list(before) if not _is_condition_token(t)]
-                        rec['catalysts'].extend(toks)
-                    elif s.lower().startswith('solvents:'):
-                        rest = s.split(':', 1)[1].strip()
-                        # Before first semicolon are solvents (may be comma-separated)
-                        parts = [p.strip() for p in rest.split(';')]
-                        if parts:
-                            rec['solvents'].extend(_normalize_token_list(parts[0]))
-                        # The rest of parts may contain time/temps
+                        return toks
+
+                    handled = False
+                    for seg in segments:
+                        lowseg = seg.lower()
+                        # Reagents/Additives
+                        if any(lowseg.startswith(lbl) for lbl in ['reagents:', 'reagent:', 'reagent(s):', 'additives:', 'additive:']):
+                            rest = seg.split(':', 1)[1].strip() if ':' in seg else ''
+                            rec['reagents'].extend(_list_from_rest(rest))
+                            handled = True
+                            continue
+                        # Catalysts
+                        if any(lowseg.startswith(lbl) for lbl in ['catalysts:', 'catalyst:', 'catalyst(s):']):
+                            rest = seg.split(':', 1)[1].strip() if ':' in seg else ''
+                            rec['catalysts'].extend(_list_from_rest(rest))
+                            handled = True
+                            continue
+                        # Base
+                        if any(lowseg.startswith(lbl) for lbl in ['base:', 'base(s):', 'bases:']):
+                            rest = seg.split(':', 1)[1].strip() if ':' in seg else ''
+                            toks = _list_from_rest(rest)
+                            rec['reagents'].extend(toks)
+                            rec.setdefault('base_from_txt', []).extend(toks)
+                            handled = True
+                            continue
+                        # Solvents
+                        if any(lowseg.startswith(lbl) for lbl in ['solvents:', 'solvent:', 'solvent(s):']):
+                            rest = seg.split(':', 1)[1].strip() if ':' in seg else ''
+                            parts = [p.strip() for p in rest.split(';')]
+                            if parts:
+                                rec['solvents'].extend(_normalize_token_list(parts[0]))
+                            handled = True
+                            continue
+                    if handled:
+                        k += 1
+                        continue
                     k += 1
                 # advance
                 i = k
@@ -285,6 +362,8 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                 unit = m.group('unit').lower()
                 if unit.startswith('min'):
                     total_h += num / 60.0
+                elif unit.startswith('d'):
+                    total_h += num * 24.0
                 else:
                     total_h += num
             if re.search(r"\bovernight\b", ln, re.I):
@@ -656,37 +735,57 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         if not core_generic and any('copper' in c.lower() for c in core_detail):
             core_generic.append('Cu')
 
-        # Reagents and roles (normalize using CAS mapping tokens if present)
+        # Reagents and roles (prefer RDF CAS; merge TXT names; roles from map or TXT heuristics)
+        txt_reagents: List[str] = list(t.get('reagents', []))
         reagents: List[str]
-        roles: List[str]
-        if cas_map and r.get('rgt_cas'):
-            reagents = _tokens_from_cas_list(r.get('rgt_cas', []), cas_map)
-            roles = _roles_from_cas_list(r.get('rgt_cas', []), cas_map)
+        roles: List[str] = []
+        if r.get('rgt_cas'):
+            reagents = _tokens_from_cas_list(r.get('rgt_cas', []), cas_map or {})
+            if cas_map:
+                roles.extend(_roles_from_cas_list(r.get('rgt_cas', []), cas_map or {}))
+            else:
+                roles.extend(['UNK'] * len(reagents))
         else:
-            reagents = list(t.get('reagents', []))
-            roles = [_classify_reagent_role(x) for x in reagents]
+            reagents = []
+        # Merge in TXT reagents (names) and accumulate roles by heuristic
+        for name in txt_reagents:
+            if name and name not in reagents:
+                reagents.append(name)
+            role = _classify_reagent_role(name)
+            roles.append(role)
+        # If we now have any specific role, drop UNK entries
+        if any(r != 'UNK' for r in roles):
+            roles = [r for r in roles if r != 'UNK']
 
         # Derive Base list from roles and mapping (BASE)
         base_tokens: List[str] = []
-        if cas_map and r.get('rgt_cas'):
+        # From CAS mapping roles when available
+        if r.get('rgt_cas') and cas_map:
             for cas in r.get('rgt_cas', []):
                 role = (cas_map.get(cas, {}).get('Role') or '').strip().upper()
                 if role == 'BASE':
                     tok = (cas_map.get(cas, {}).get('Token') or cas_map.get(cas, {}).get('Name') or cas).strip()
                     base_tokens.append(tok)
-        else:
-            # Heuristic: pick bases from reagent names
-            for name in reagents:
-                if _classify_reagent_role(name) == 'BASE':
-                    base_tokens.append(name)
+        # Always consider TXT explicit Base: and heuristic classification from TXT reagents
+        txt_base = list(t.get('base_from_txt', []) or [])
+        for name in txt_base:
+            if name and name not in base_tokens:
+                base_tokens.append(name)
+        for name in txt_reagents:
+            if _classify_reagent_role(name) == 'BASE' and name not in base_tokens:
+                base_tokens.append(name)
         # Stable de-dupe
         base_seen = set(); base_tokens = [x for x in base_tokens if not (x in base_seen or base_seen.add(x))]
 
         # Solvents (normalize using CAS mapping when available)
-        if cas_map and r.get('sol_cas'):
-            solvents: List[str] = _tokens_from_cas_list(r.get('sol_cas', []), cas_map)
+        if r.get('sol_cas'):
+            solvents: List[str] = _tokens_from_cas_list(r.get('sol_cas', []), cas_map or {})
         else:
-            solvents = list(t.get('solvents', []))
+            solvents = []
+        # Merge in TXT solvent names
+        for sname in t.get('solvents', []) or []:
+            if sname and sname not in solvents:
+                solvents.append(sname)
 
         # Time / Temp / Yield
         temp_c = t.get('temperature_c')
@@ -755,8 +854,8 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         row = {
             'ReactionID': rid,
             'ReactionType': infer_reaction_type(core_generic),
-            'CoreDetail': _json_list(core_detail),
-            'CoreGeneric': _json_list(core_generic),
+            'CatalystCoreDetail': _json_list(core_detail),
+            'CatalystCoreGeneric': _json_list(core_generic),
             'Ligand': _json_list(ligands),
             'ReagentRaw': _json_list(reagents),
             'ReagentRole': _json_list(roles),
@@ -794,7 +893,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
 def write_csv(rows: List[Dict[str, Any]], out_path: str) -> None:
     # Ensure consistent column order per schema
     cols = [
-        'ReactionID', 'ReactionType', 'CoreDetail', 'CoreGeneric', 'Ligand',
+    'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand',
     'ReagentRaw', 'ReagentRole', 'Base', 'Solvent', 'Temperature_C', 'Time_h',
         'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
         'CondKey', 'CondSig', 'FamSig', 'RawCAS',

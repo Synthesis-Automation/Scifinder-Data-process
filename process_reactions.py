@@ -147,8 +147,25 @@ def _normalize_token_list(s: str) -> List[str]:
       (e.g., "N diethyl...").
     This reconstructs names like "N,N-diisopropylethylamine" and "N,O-bis(...)".
     """
-    raw = [t.strip().strip(';').strip() for t in s.split(',')]
-    raw = [t for t in raw if t]
+    # split on commas only when outside parentheses to avoid breaking groups like "N-(2,4,6-...)"
+    raw: List[str] = []
+    buf: List[str] = []
+    depth = 0
+    for ch in s:
+        if ch == '(':
+            depth += 1
+        elif ch == ')':
+            depth = max(0, depth - 1)
+        if ch == ',' and depth == 0:
+            token = ''.join(buf).strip().strip(';').strip()
+            if token:
+                raw.append(token)
+            buf = []
+        else:
+            buf.append(ch)
+    last = ''.join(buf).strip().strip(';').strip()
+    if last:
+        raw.append(last)
 
     def _is_single_designator(tok: str) -> bool:
         return tok in {"N", "O", "S", "P", "C"}
@@ -172,6 +189,17 @@ def _normalize_token_list(s: str) -> List[str]:
     merged: List[str] = []
     i = 0
     while i < len(raw):
+        # 0) Merge prefixes ending with a hyphen + digit (e.g., "trans-1") followed by a token starting with a numeric prefix
+        #    (e.g., "2-...") to reconstruct patterns like "trans-1,2-..."
+        if re.search(r"-\d+$", raw[i]) and (i + 1) < len(raw) and _starts_with_numeric_prefix(raw[i + 1]):
+            merged.append(raw[i] + "," + raw[i + 1])
+            i += 2
+            continue
+        # 0a) Merge triad like "..., N-(...)-, 1-oxide" into one token
+        if (i + 2) < len(raw) and raw[i + 1].endswith('-') and _starts_with_numeric_prefix(raw[i + 2]):
+            merged.append(raw[i] + "," + raw[i + 1] + "," + raw[i + 2])
+            i += 3
+            continue
         # 1) Merge numeric locant runs like "1,2-..." into a single token
         j = i
         nums: List[str] = []
@@ -271,6 +299,15 @@ def _is_metal_like_name(name: str) -> bool:
     if any(k in n for k in salt_cues) and any(w in n for w in metal_words):
         return True
     return False
+
+def _normalize_chem_name(name: str) -> str:
+    s = (name or '').strip()
+    low = s.lower()
+    low = re.sub(r"\s+", " ", low)
+    low = low.replace('‐', '-')
+    low = low.replace('—', '-')
+    low = re.sub(r"\bdba\b", "dibenzylideneacetone", low)
+    return low
 
 
 def _classify_reagent_role(name: str) -> str:
@@ -762,6 +799,13 @@ def _name_variants(nm: str) -> List[str]:
     # Also include a version with multiple spaces normalized and hyphens collapsed
     variants.add(re.sub(r"\s+", " ", norm))
     variants.add(norm.replace('-', ' '))
+    # Normalize commas
+    variants.add(norm.replace(',', ''))
+    # Abbreviation expansions and contractions (selective, low-risk)
+    if 'dba' in norm:
+        variants.add(norm.replace('dba', 'dibenzylideneacetone'))
+    if 'dibenzylideneacetone' in norm:
+        variants.add(norm.replace('dibenzylideneacetone', 'dba'))
     return list(variants)
 
 
@@ -816,6 +860,25 @@ def _build_global_name_to_cas_index(cas_map: Dict[str, Dict[str, str]]) -> Dict[
             else:
                 name_to_cas[key] = cas
     return name_to_cas
+
+def _builtin_core_name_to_cas(name: str, all_rxn_cas: List[str]) -> Optional[str]:
+    """Hardcoded fallbacks for a few very common catalyst salts when mapping is unavailable.
+    Prefers a CAS that is present in this reaction's CAS lists when multiple are possible.
+    """
+    nm = (name or '').strip().lower()
+    if not nm:
+        return None
+    candidates: List[str] = []
+    # Cuprous iodide (copper(I) iodide)
+    if any(k in nm for k in ["cuprous iodide", "copper(i) iodide", "cu iodide", "cu(i) iodide"]):
+        candidates = ["7681-65-4"]
+    # Cupric acetate (copper(II) acetate): anhydrous and monohydrate
+    if any(k in nm for k in ["cupric acetate", "copper(ii) acetate", "cu acetate", "cu(ii) acetate"]):
+        candidates = ["142-71-2", "6046-93-1"]
+    for cas in candidates:
+        if cas in (all_rxn_cas or []):
+            return cas
+    return candidates[0] if candidates else None
 
 
 def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[str, str]], extra_names: List[str], name_hints: Optional[Dict[str, str]] = None) -> List[str]:
@@ -892,7 +955,16 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
         # Try to enrich with CAS if we have an exact, unambiguous hint for this role
         cas_hint = None
         if name_hints is not None:
-            cas_hint = name_hints.get(nm.lower())
+            # try direct lowercase, then a set of normalized/variant keys
+            keys_to_try = [nm.lower()]
+            try:
+                keys_to_try.extend(_name_variants(nm))
+            except Exception:
+                pass
+            for k in dict.fromkeys(keys_to_try):  # de-dup while preserving order
+                cas_hint = name_hints.get(k)
+                if cas_hint:
+                    break
         s = _pair_str(nm, cas_hint or '')
         if s not in seen:
             seen.add(s)
@@ -1083,18 +1155,17 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 pro_smiles_list.append(smi)
 
         # Compose compound lists as "name|cas" strings
-        rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
-        sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
-        lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
+    rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
+    sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
+    lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
         # For core matching, prefer catalyst CAS names; then fall back to any reaction CAS to help attach CAS
         # to obvious core names like "Cuprous iodide" or "Cupric acetate" when RDF listed them under other roles.
         all_cat_for_core_idx = (cat_core_cas or []) + (cat_lig_cas or [])
         core_name_idx = _build_name_to_cas_index(all_cat_for_core_idx, cas_map or {}) if cas_map is not None else {}
         # Reaction-wide indices (filtered to catalyst-like entries, then full union as last resort)
-    if cas_map is not None:
+        if cas_map is not None:
             all_rxn_cas = (r.get('rct_cas', []) or []) + (r.get('pro_cas', []) or []) + (r.get('rgt_cas', []) or []) + (r.get('cat_cas', []) or []) + (r.get('sol_cas', []) or [])
-            # Filter to CAS that look catalyst-like per mapping (Role startswith CAT or has GenericCore)
-            catlike_cas = []
+            catlike_cas: List[str] = []
             for c in all_rxn_cas:
                 e = (cas_map or {}).get(c) or {}
                 role = (e.get('Role') or '').strip().upper()
@@ -1111,16 +1182,57 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             for k, v in global_idx.items():
                 if k not in merged_core_hints:
                     merged_core_hints[k] = v
-    else:
+            # For ligands, also allow enrichment from any reaction CAS and global map (role-agnostic),
+            # without overriding role-specific hints.
+            merged_lig_hints = dict(lig_name_idx)
+            for k, v in rxn_all_idx.items():
+                if k not in merged_lig_hints:
+                    merged_lig_hints[k] = v
+            for k, v in global_idx.items():
+                if k not in merged_lig_hints:
+                    merged_lig_hints[k] = v
+        else:
             merged_core_hints = core_name_idx
+            merged_lig_hints = lig_name_idx
 
-            reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
-            solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
-            ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
-            core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, merged_core_hints)
+        reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
+        solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
+    ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, merged_lig_hints)
+        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, merged_core_hints)
 
-            # Raw data bundle for traceability
-            rawdata_obj = {
+        # Fallback: if exactly one catalyst core CAS is present, attach it to any unmatched core names
+        if len(cat_core_cas) == 1 and core_pairs:
+            sole_cas = cat_core_cas[0]
+            updated: List[str] = []
+            for p in core_pairs:
+                name, sep, casval = p.partition('|')
+                if sep and casval.strip() == '':
+                    np = f"{name}|{sole_cas}"
+                    if np not in updated:
+                        updated.append(np)
+                else:
+                    if p not in updated:
+                        updated.append(p)
+            # Optionally drop redundant "cas|cas" pair if we now have name|cas
+            if any(x.endswith('|' + sole_cas) and not x.split('|',1)[0] == sole_cas for x in updated):
+                updated = [x for x in updated if x != f"{sole_cas}|{sole_cas}"]
+            core_pairs = updated
+        # Built-in name CAS fallback for a few common salts (helps when mapping file lacks entries)
+        if core_pairs:
+            all_rxn_cas = (r.get('rct_cas', []) or []) + (r.get('pro_cas', []) or []) + (r.get('rgt_cas', []) or []) + (r.get('cat_cas', []) or []) + (r.get('sol_cas', []) or [])
+            new_core_pairs: List[str] = []
+            for p in core_pairs:
+                name, sep, casval = p.partition('|')
+                if sep and casval.strip() == '':
+                    fallback = _builtin_core_name_to_cas(name, all_rxn_cas)
+                    if fallback:
+                        p = f"{name}|{fallback}"
+                if p not in new_core_pairs:
+                    new_core_pairs.append(p)
+            core_pairs = new_core_pairs
+
+        # Raw data bundle for traceability
+        rawdata_obj = {
             'txt': {
                 'title': t.get('title'),
                 'authors': t.get('authors'),
@@ -1139,41 +1251,41 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 'sol_cas': r.get('sol_cas'),
                 'notes': r.get('notes'),
             }
-            }
-            row = {
-                'ReactionID': rid,
-                'ReactionType': infer_reaction_type(core_generic),
-                'CatalystCoreDetail': _json_list(core_pairs),
-                'CatalystCoreGeneric': _json_list(core_generic),
-                'Ligand': _json_list(ligand_pairs),
-                'Reagent': _json_list(reagent_pairs),
-                'ReagentRole': _json_list(roles),
-                'Solvent': _json_list(solvent_pairs),
-                'Temperature_C': temp_c if temp_c is not None else '',
-                'Time_h': time_h if time_h is not None else '',
-                'Yield_%': yield_pct if yield_pct is not None else '',
-                'ReactantSMILES': ' . '.join(rct_smiles_list) if rct_smiles_list else '',
-                'ProductSMILES': ' . '.join(pro_smiles_list) if pro_smiles_list else '',
-                'Reference': reference,
-                'CondKey': '',  # fill after
-                'CondSig': '',  # fill after
-                'FamSig': '',   # fill after
-                'RawCAS': raw_cas,
-                'RawData': json.dumps(rawdata_obj, ensure_ascii=False),
-                # Optional enrichment (JSON arrays of names; falls back to CAS when unknown)
-                'RCTName': _json_list(rct_names),
-                'PROName': _json_list(pro_names),
-                'RGTName': _json_list(rgt_names),
-                'CATName': _json_list(cat_names),
-                'SOLName': _json_list(sol_names),
-            }
+        }
+        row = {
+            'ReactionID': rid,
+            'ReactionType': infer_reaction_type(core_generic),
+            'CatalystCoreDetail': _json_list(core_pairs),
+            'CatalystCoreGeneric': _json_list(core_generic),
+            'Ligand': _json_list(ligand_pairs),
+            'Reagent': _json_list(reagent_pairs),
+            'ReagentRole': _json_list(roles),
+            'Solvent': _json_list(solvent_pairs),
+            'Temperature_C': temp_c if temp_c is not None else '',
+            'Time_h': time_h if time_h is not None else '',
+            'Yield_%': yield_pct if yield_pct is not None else '',
+            'ReactantSMILES': ' . '.join(rct_smiles_list) if rct_smiles_list else '',
+            'ProductSMILES': ' . '.join(pro_smiles_list) if pro_smiles_list else '',
+            'Reference': reference,
+            'CondKey': '',  # fill after
+            'CondSig': '',  # fill after
+            'FamSig': '',   # fill after
+            'RawCAS': raw_cas,
+            'RawData': json.dumps(rawdata_obj, ensure_ascii=False),
+            # Optional enrichment (JSON arrays of names; falls back to CAS when unknown)
+            'RCTName': _json_list(rct_names),
+            'PROName': _json_list(pro_names),
+            'RGTName': _json_list(rgt_names),
+            'CATName': _json_list(cat_names),
+            'SOLName': _json_list(sol_names),
+        }
 
-            # Build keys/hashes
-            row['CondKey'] = build_condkey(row)
-            row['CondSig'] = build_condsig(row)
-            row['FamSig'] = build_famsig(row)
+        # Build keys/hashes
+        row['CondKey'] = build_condkey(row)
+        row['CondSig'] = build_condsig(row)
+        row['FamSig'] = build_famsig(row)
 
-            rows.append(row)
+        rows.append(row)
 
     return rows
 

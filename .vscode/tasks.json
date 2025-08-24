@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run RTF to TXT GUI",
+			"type": "shell",
+			"command": "C:/Users/Desktop/AppData/Local/Programs/Python/Python312/python.exe",
+			"args": [
+				"rtf_folder_to_txt.py"
+			],
+			"problemMatcher": [],
+			"group": "run"
+		}
+	]
+}

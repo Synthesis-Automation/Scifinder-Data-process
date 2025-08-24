@@ -92,27 +92,106 @@ def _make_fake_map(tmp_path):
 
 
 def test_smiles_and_normalization(tmp_path):
-    rdf_path = _make_fake_rdf(tmp_path)
-    txt_path = _make_fake_txt(tmp_path)
-    map_path = _make_fake_map(tmp_path)
+  rdf_path = _make_fake_rdf(tmp_path)
+  txt_path = _make_fake_txt(tmp_path)
+  map_path = _make_fake_map(tmp_path)
 
-    rdf = parse_rdf(rdf_path)
-    txt = parse_txt(txt_path)
-    cas_map = load_cas_maps([map_path])
+  rdf = parse_rdf(rdf_path)
+  txt = parse_txt(txt_path)
+  cas_map = load_cas_maps([map_path])
 
-    rows = assemble_rows(txt, rdf, cas_map)
-    assert rows and rows[0]['ReactionID'] == 'RXNTEST001'
+  rows = assemble_rows(txt, rdf, cas_map)
+  assert rows and rows[0]["ReactionID"] == "RXNTEST001"
 
-    # Solvent normalized to Token (EtOH); ReagentRaw normalized to Na2CO3
-    solv = json.loads(rows[0]['Solvent'])
-    reag = json.loads(rows[0]['ReagentRaw'])
-    assert 'EtOH' in solv
-    assert 'Na2CO3' in reag
+  # Solvent/Reagent are lists of "name|cas" strings; ensure CAS-mapped entries are present
+  solv = json.loads(rows[0]["Solvent"])
+  reag = json.loads(rows[0]["Reagent"])
+  assert any(s == "Ethanol|64-17-5" for s in solv)
+  assert any(s == "Sodium carbonate|497-19-8" for s in reag)
 
-    # Roles drawn from mapping
-    roles = json.loads(rows[0]['ReagentRole'])
-    assert 'BASE' in roles
+  # Roles drawn from mapping
+  roles = json.loads(rows[0]["ReagentRole"])
+  assert "BASE" in roles
 
-    # SMILES fields present (may be empty if RDKit is unavailable in environment)
-    assert 'ReactantSMILES' in rows[0]
-    assert 'ProductSMILES' in rows[0]
+  # SMILES fields present (may be empty if RDKit is unavailable in environment)
+  assert "ReactantSMILES" in rows[0]
+  assert "ProductSMILES" in rows[0]
+
+
+def test_tokenizer_locants_and_letter_indices(tmp_path):
+  # Build a minimal TXT snippet focusing on Catalyst tokenization
+  txt = textwrap.dedent(
+    """
+    A title
+    By: Someone
+    Journal (2024), 1, 1-2
+    Steps: details
+    CAS Reaction Number: TOK1
+    Catalysts: 1,2-Benzenediamine, N1,N2-bis(2-phenyl-1-naphthalenyl)-
+    """
+  ).strip()
+  p = tmp_path / "tok.txt"
+  p.write_text(txt, encoding="utf-8")
+
+  tmap = parse_txt(str(p))
+  assert "TOK1" in tmap
+  cats = tmap["TOK1"].get("catalysts") or []
+  # Ensure the two catalysts are preserved as single tokens
+  assert "1,2-Benzenediamine" in cats
+  assert "N1,N2-bis(2-phenyl-1-naphthalenyl)-" in cats
+
+
+def test_pairing_merges_txt_name_with_rdf_cas(tmp_path):
+  # RDF has RGT CAS with no mapping name; TXT provides the name and the same CAS token
+  rdf = textwrap.dedent(
+    """
+    $DTYPE CAS_Reaction_Number
+    $DATUM RXNPAIR001
+    $DTYPE RXN:RGT(1):CAS_RN
+    $DATUM 7778-53-2
+    """
+  ).strip()
+  rdf_p = tmp_path / "rxn.rdf"
+  rdf_p.write_text(rdf, encoding="utf-8")
+
+  txt = textwrap.dedent(
+    """
+    T
+    By: A
+    J (2024)
+    Steps:
+    CAS Reaction Number: RXNPAIR001
+    Reagents: 7778-53-2, Tripotassium phosphate
+    """
+  ).strip()
+  txt_p = tmp_path / "rxn.txt"
+  txt_p.write_text(txt, encoding="utf-8")
+
+  rows = assemble_rows(parse_txt(str(txt_p)), parse_rdf(str(rdf_p)), cas_map={})
+  reag = json.loads(rows[0]["Reagent"])
+  # Should pair name with CAS and not duplicate CAS as a separate name-only token
+  assert "Tripotassium phosphate|7778-53-2" in reag
+  assert not any(x == "7778-53-2|7778-53-2" for x in reag)
+
+
+def test_organocatalyst_goes_to_core_and_no_ligand(tmp_path):
+  txt = textwrap.dedent(
+    """
+    Title
+    By: A
+    J (2024)
+    Steps:
+    CAS Reaction Number: ORG1
+    Catalysts: 4-(Dimethylamino)pyridine
+    Solvents: Dichloromethane; 30 min, 40 C
+    """
+  ).strip()
+  p = tmp_path / "org.txt"
+  p.write_text(txt, encoding="utf-8")
+  rows = assemble_rows(parse_txt(str(p)), {}, cas_map={})
+  row = rows[0]
+  cores = json.loads(row["CatalystCoreDetail"])
+  ligs = json.loads(row["Ligand"])
+  # DMAP should be in core detail (name-only since no CAS mapping) and ligands should be empty
+  assert any("4-(Dimethylamino)pyridine|" in x for x in cores)
+  assert ligs == []

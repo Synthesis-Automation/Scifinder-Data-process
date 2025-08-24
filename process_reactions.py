@@ -54,6 +54,31 @@ def _json_list(items: List[str]) -> str:
     return json.dumps(out, ensure_ascii=False)
 
 
+def _json_pairs(pairs: List[Dict[str, str]]) -> str:
+    """Serialize a list of {name, cas} pairs as JSON for machine-friendly consumption.
+    Values may be empty strings when unknown.
+    """
+    # Normalize keys and remove exact duplicates while preserving order
+    seen = set()
+    norm: List[Dict[str, str]] = []
+    for p in pairs:
+        name = (p.get('name') or '').strip()
+        cas = (p.get('cas') or '').strip()
+        key = (name, cas)
+        if key in seen:
+            continue
+        seen.add(key)
+        norm.append({'name': name, 'cas': cas})
+    return json.dumps(norm, ensure_ascii=False)
+
+
+def _pair_str(name: str | None, cas: str | None) -> str:
+    """Render a single compound as "name|cas" using a single space when missing."""
+    nm = (name or '').strip() or ' '
+    cs = (cas or '').strip() or ' '
+    return f"{nm}|{cs}"
+
+
 def _hash32_hex(s: str) -> str:
     if xxhash is None:
         return ""
@@ -69,14 +94,14 @@ def build_condkey(row: Dict[str, str]) -> str:
 
     cg = _join("CatalystCoreGeneric")
     lig = _join("Ligand")
-    bas = _join("ReagentRaw")
+    bas = _join("Reagent")
     solv = _join("Solvent")
     return f"{cg}/{lig}/{bas}/{solv}"
 
 
 def build_condsig(row: Dict[str, str]) -> str:
     parts = []
-    for c in ["CatalystCoreGeneric", "Ligand", "ReagentRaw", "Solvent"]:
+    for c in ["CatalystCoreGeneric", "Ligand", "Reagent", "Solvent"]:
         try:
             parts.append("+".join(sorted(json.loads(row.get(c, "[]")))))
         except Exception:
@@ -89,7 +114,7 @@ def build_famsig(row: Dict[str, str]) -> str:
     try:
         core = json.loads(row.get("CatalystCoreGeneric", "[]"))
         lig = json.loads(row.get("Ligand", "[]"))
-        reag = json.loads(row.get("ReagentRaw", "[]"))
+        reag = json.loads(row.get("Reagent", "[]"))
         solv = json.loads(row.get("Solvent", "[]"))
     except Exception:
         return ""
@@ -128,30 +153,48 @@ def _normalize_token_list(s: str) -> List[str]:
     def _is_single_designator(tok: str) -> bool:
         return tok in {"N", "O", "S", "P", "C"}
 
+    def _is_numeric_locant(tok: str) -> bool:
+        # pure integer like 1, 2, 4,6 etc. (after initial split by comma we see one at a time)
+        return bool(re.fullmatch(r"\d+", tok))
+
+    def _is_letter_index_locant(tok: str) -> bool:
+        # N1, N2, O1 style locants
+        return bool(re.fullmatch(r"[NOSPC]\d+", tok, flags=re.IGNORECASE))
+
     def _starts_with_designator_prefix(tok: str) -> bool:
-        return bool(re.match(r"^[NOSPC](?:['′])?(?:-|\s).+", tok))
+        # Accept N-, N′-, N1-, O-, S-, or with space after the designator
+        return bool(re.match(r"^[NOSPC](?:\d+)?(?:['′])?(?:-|\s).+", tok, flags=re.IGNORECASE))
+
+    def _starts_with_numeric_prefix(tok: str) -> bool:
+        # Accept leading number like 2-..., 2,4-..., 12 ... (with hyphen or space)
+        return bool(re.match(r"^\d+(?:-|\s).+", tok))
 
     merged: List[str] = []
     i = 0
     while i < len(raw):
-        # Collect a run of single-letter designators
+        # 1) Merge numeric locant runs like "1,2-..." into a single token
         j = i
-        singles: List[str] = []
-        while j < len(raw) and _is_single_designator(raw[j]):
-            singles.append(raw[j])
+        nums: List[str] = []
+        while j < len(raw) and _is_numeric_locant(raw[j]):
+            nums.append(raw[j])
             j += 1
-        # If after the run there's a token starting with a designator prefix, merge
-        if singles and j < len(raw) and _starts_with_designator_prefix(raw[j]):
-            merged_name = ",".join(singles + [raw[j]])
-            merged.append(merged_name)
+        if nums and j < len(raw) and _starts_with_numeric_prefix(raw[j]):
+            merged.append(",".join(nums + [raw[j]]))
             i = j + 1
             continue
-        # Otherwise, if at least one single was found but no following prefix, push singles individually
-        if singles:
-            merged.extend(singles)
-            i = j
+
+        # 2) Merge heteroatom locants like "N1,N2-..." and simple designators like "N,N-..."
+        j = i
+        desigs: List[str] = []
+        while j < len(raw) and (_is_single_designator(raw[j]) or _is_letter_index_locant(raw[j])):
+            desigs.append(raw[j])
+            j += 1
+        if desigs and j < len(raw) and _starts_with_designator_prefix(raw[j]):
+            merged.append(",".join(desigs + [raw[j]]))
+            i = j + 1
             continue
-        # No singles run; push current token
+
+        # 3) Default: keep token as is
         merged.append(raw[i])
         i += 1
 
@@ -197,9 +240,19 @@ def _classify_catalyst_or_ligand(name: str) -> Tuple[str, str]:
     elif "copper" in n or n.startswith("cu ") or n.startswith("cu-") or n == "cu":
         metal = "Cu"
 
-    # Decide if this entry is a metal precursor (core) vs ligand
-    is_metal_precursor = bool(metal) or any(k in n for k in ["oxide", "bromide", "iodide", "chloride", "acetate", "triflate", "acac", "sulfate"]) and ("copper" in n or "palladium" in n or "nickel" in n)
-    kind = "core" if is_metal_precursor else "ligand"
+    # Decide ligand-like patterns (typical Pd/Cu ligands): phosphines, bipyridines, phenanthrolines, common trade names
+    ligand_keywords = [
+        "xphos", "sphos", "ruph", "brettphos", "johnphos", "tbu xphos", "ruphose", "ruphose",
+        "binap", "segphos", "xantphos", "dppf", "dppe", "dppp", "dppb", "pph3", "pcy3", "p(o)ph3",
+        "phosphine", "phosphite", "phosphonite",
+        "bpy", "bipyridine", "2,2'-bipyridine", "phenanthroline", "phen",
+        "imes", "ipr", "simes", "nhc",
+    ]
+    ligand_like = any(k in n for k in ligand_keywords)
+    # Metal precursors (cores) include explicit metal salts/precursors
+    is_metal_precursor = bool(metal) or (any(k in n for k in ["oxide", "bromide", "iodide", "chloride", "acetate", "triflate", "acac", "sulfate"]) and ("copper" in n or "palladium" in n or "nickel" in n))
+    # Heuristic: if it looks like those ligands, call it ligand; otherwise treat as core (covers organocatalysts like DMAP)
+    kind = "ligand" if (ligand_like and not is_metal_precursor) else "core"
     return kind, metal
 
 
@@ -644,6 +697,95 @@ def _tokens_from_cas_list(cases: List[str], cas_map: Dict[str, Dict[str, str]]) 
     return uniq
 
 
+def _pairs_from_cas_list(cases: List[str], cas_map: Dict[str, Dict[str, str]]) -> List[Dict[str, str]]:
+    pairs: List[Dict[str, str]] = []
+    for cas in cases or []:
+        e = cas_map.get(cas) or {}
+        name = (e.get('Name') or cas).strip()
+        pairs.append({'name': name, 'cas': cas})
+    return pairs
+
+
+def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[str, str]], extra_names: List[str]) -> List[str]:
+    """Combine CAS-derived pairs and extra TXT names into a de-duplicated list of "name|cas" strings.
+    Heuristics:
+    - Treat TXT tokens that look like CAS numbers as CAS, not names.
+    - If mapping lacks a Name for a CAS and TXT provides exactly one non-CAS name with exactly one CAS, pair them.
+    - If counts of non-CAS TXT names equals counts of CAS, pair by order.
+    - Remaining non-CAS TXT names are emitted as name-only entries (name| ).
+    """
+    def is_cas_like(s: str) -> bool:
+        s = (s or '').strip()
+        if not re.fullmatch(r"\d{2,7}-\d{2}-\d", s):
+            return False
+        # Optional: verify checksum to reduce false positives
+        try:
+            digits = s.replace('-', '')
+            check = int(digits[-1])
+            body = list(map(int, digits[:-1]))
+            # weights from rightmost body digit: 1,2,3,... per CAS spec
+            total = 0
+            w = 1
+            for d in reversed(body):
+                total += d * w
+                w += 1
+            return total % 10 == check
+        except Exception:
+            return True  # if any issue, still treat as CAS-like
+
+    out: List[str] = []
+    seen: set[str] = set()
+
+    cas_list = cases or []
+    txt_names = extra_names or []
+    txt_noncas = [n for n in txt_names if not is_cas_like(n)]
+    txt_cas = [n for n in txt_names if is_cas_like(n)]
+
+    # Prepare assignments for CAS -> name (from mapping or TXT pairing)
+    assigned_names: Dict[str, str] = {}
+    # If TXT includes explicit CAS tokens, align by the order they appear to pair with following names when possible
+    if txt_cas and txt_noncas:
+        # simple heuristic: zip the CAS tokens with the first N non-CAS names
+        for cas, nm in zip(txt_cas, txt_noncas):
+            assigned_names[cas] = nm
+    # Else, pair by count equality or single-single case
+    elif len(txt_noncas) == len(cas_list) and len(cas_list) > 0:
+        for cas, nm in zip(cas_list, txt_noncas):
+            assigned_names[cas] = nm
+    elif len(cas_list) == 1 and len(txt_noncas) == 1:
+        assigned_names[cas_list[0]] = txt_noncas[0]
+    # Else: we keep mapping names or cas fallback
+
+    used_noncas: set[str] = set()
+    # Emit CAS-derived entries, overlaying assigned TXT names when present
+    for cas in cas_list:
+        e = cas_map.get(cas) or {}
+        mapped_name = (e.get('Name') or e.get('Token') or '').strip()
+        # Prefer mapped name when available; fall back to TXT-assigned name
+        nm = (mapped_name or assigned_names.get(cas) or '').strip()
+        if nm:
+            used_noncas.add(nm)
+        else:
+            # still no name from mapping nor pairing; leave as CAS itself to avoid empty name
+            nm = cas
+        s = _pair_str(nm, cas)
+        if s not in seen:
+            seen.add(s)
+            out.append(s)
+
+    # Emit remaining TXT names that are not CAS-like and not already used in assignments
+    for nm in txt_noncas:
+        if nm in used_noncas:
+            continue
+        s = _pair_str(nm, '')
+        if s not in seen:
+            seen.add(s)
+            out.append(s)
+
+    # Do not emit TXT CAS-like tokens separately; they are already represented via CAS entries
+    return out
+
+
 def _roles_from_cas_list(cases: List[str], cas_map: Dict[str, Dict[str, str]]) -> List[str]:
     roles: List[str] = []
     for cas in cases:
@@ -757,35 +899,10 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         if any(r != 'UNK' for r in roles):
             roles = [r for r in roles if r != 'UNK']
 
-        # Derive Base list from roles and mapping (BASE)
-        base_tokens: List[str] = []
-        # From CAS mapping roles when available
-        if r.get('rgt_cas') and cas_map:
-            for cas in r.get('rgt_cas', []):
-                role = (cas_map.get(cas, {}).get('Role') or '').strip().upper()
-                if role == 'BASE':
-                    tok = (cas_map.get(cas, {}).get('Token') or cas_map.get(cas, {}).get('Name') or cas).strip()
-                    base_tokens.append(tok)
-        # Always consider TXT explicit Base: and heuristic classification from TXT reagents
-        txt_base = list(t.get('base_from_txt', []) or [])
-        for name in txt_base:
-            if name and name not in base_tokens:
-                base_tokens.append(name)
-        for name in txt_reagents:
-            if _classify_reagent_role(name) == 'BASE' and name not in base_tokens:
-                base_tokens.append(name)
-        # Stable de-dupe
-        base_seen = set(); base_tokens = [x for x in base_tokens if not (x in base_seen or base_seen.add(x))]
+        # Note: We no longer output a dedicated Base column (user request)
 
-        # Solvents (normalize using CAS mapping when available)
-        if r.get('sol_cas'):
-            solvents: List[str] = _tokens_from_cas_list(r.get('sol_cas', []), cas_map or {})
-        else:
-            solvents = []
-        # Merge in TXT solvent names
-        for sname in t.get('solvents', []) or []:
-            if sname and sname not in solvents:
-                solvents.append(sname)
+        # Solvents: compute pair strings later
+        solvents: List[str] = []
 
         # Time / Temp / Yield
         temp_c = t.get('temperature_c')
@@ -826,18 +943,43 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         cat_names = _cas_to_names(cat_core_only, cas_map or {})
         sol_names = _cas_to_names(r.get('sol_cas', []), cas_map or {})
         # Base names enrichment
+        bas_names = []
         if cas_map and r.get('rgt_cas'):
-            bas_names = []
             for cas in r.get('rgt_cas', []):
                 role = (cas_map.get(cas, {}).get('Role') or '').strip().upper()
                 if role == 'BASE':
                     bas_names.append((cas_map.get(cas, {}).get('Name') or cas).strip())
-        else:
-            bas_names = list(base_tokens)
 
-        # Defaults for absent arrays
-        if not ligands:
-            ligands = ["none"]
+        # Name+CAS pairs (machine-friendly) and with TXT fallbacks for readability
+        rct_pairs = _pairs_from_cas_list(r.get('rct_cas', []), cas_map or {})
+        pro_pairs = _pairs_from_cas_list(r.get('pro_cas', []), cas_map or {})
+        rgt_pairs = _pairs_from_cas_list(r.get('rgt_cas', []), cas_map or {})
+        cat_pairs = _pairs_from_cas_list(cat_core_only, cas_map or {})
+        sol_pairs = _pairs_from_cas_list(r.get('sol_cas', []), cas_map or {})
+        bas_pairs: List[Dict[str, str]] = []
+        if cas_map and r.get('rgt_cas'):
+            for cas in r.get('rgt_cas', []):
+                role = (cas_map.get(cas, {}).get('Role') or '').strip().upper()
+                if role == 'BASE':
+                    name = (cas_map.get(cas, {}).get('Name') or cas).strip()
+                    bas_pairs.append({'name': name, 'cas': cas})
+        # add TXT-only names lacking CAS as pairs with empty cas
+        for nm in t.get('reagents', []) or []:
+            if nm and all(nm != p.get('name') for p in rgt_pairs):
+                rgt_pairs.append({'name': nm, 'cas': ''})
+        for nm in t.get('catalysts', []) or []:
+            # catalyst TXT may include ligands or core; we only pair cores we detected by CAS already
+            # still add TXT catalyst names for readability without CAS
+            if nm and all(nm != p.get('name') for p in cat_pairs):
+                cat_pairs.append({'name': nm, 'cas': ''})
+        for nm in t.get('solvents', []) or []:
+            if nm and all(nm != p.get('name') for p in sol_pairs):
+                sol_pairs.append({'name': nm, 'cas': ''})
+        for nm in t.get('base_from_txt', []) or []:
+            if nm and all(nm != p.get('name') for p in bas_pairs):
+                bas_pairs.append({'name': nm, 'cas': ''})
+
+    # Keep empty lists empty; do not add placeholders like "none|"
 
         # SMILES from MOL blocks if RDKit is available
         rct_smiles_list: List[str] = []
@@ -851,16 +993,43 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             if smi:
                 pro_smiles_list.append(smi)
 
+        # Compose compound lists as "name|cas" strings
+        reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents)
+        solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [])
+        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands)
+        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail)
+
+        # Raw data bundle for traceability
+        rawdata_obj = {
+            'txt': {
+                'title': t.get('title'),
+                'authors': t.get('authors'),
+                'citation': t.get('citation'),
+                'reagents': t.get('reagents'),
+                'catalysts': t.get('catalysts'),
+                'solvents': t.get('solvents'),
+                'base_from_txt': t.get('base_from_txt'),
+                'all_condition_lines': t.get('all_condition_lines'),
+            },
+            'rdf': {
+                'rct_cas': r.get('rct_cas'),
+                'pro_cas': r.get('pro_cas'),
+                'rgt_cas': r.get('rgt_cas'),
+                'cat_cas': r.get('cat_cas'),
+                'sol_cas': r.get('sol_cas'),
+                'notes': r.get('notes'),
+            }
+        }
+
         row = {
             'ReactionID': rid,
             'ReactionType': infer_reaction_type(core_generic),
-            'CatalystCoreDetail': _json_list(core_detail),
+            'CatalystCoreDetail': _json_list(core_pairs),
             'CatalystCoreGeneric': _json_list(core_generic),
-            'Ligand': _json_list(ligands),
-            'ReagentRaw': _json_list(reagents),
+            'Ligand': _json_list(ligand_pairs),
+            'Reagent': _json_list(reagent_pairs),
             'ReagentRole': _json_list(roles),
-            'Base': _json_list(base_tokens),
-            'Solvent': _json_list(solvents),
+            'Solvent': _json_list(solvent_pairs),
             'Temperature_C': temp_c if temp_c is not None else '',
             'Time_h': time_h if time_h is not None else '',
             'Yield_%': yield_pct if yield_pct is not None else '',
@@ -871,6 +1040,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             'CondSig': '',  # fill after
             'FamSig': '',   # fill after
             'RawCAS': raw_cas,
+            'RawData': json.dumps(rawdata_obj, ensure_ascii=False),
             # Optional enrichment (JSON arrays of names; falls back to CAS when unknown)
             'RCTName': _json_list(rct_names),
             'PROName': _json_list(pro_names),
@@ -893,12 +1063,12 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
 def write_csv(rows: List[Dict[str, Any]], out_path: str) -> None:
     # Ensure consistent column order per schema
     cols = [
-    'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand',
-    'ReagentRaw', 'ReagentRole', 'Base', 'Solvent', 'Temperature_C', 'Time_h',
+        'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand',
+        'Reagent', 'ReagentRole', 'Solvent', 'Temperature_C', 'Time_h',
         'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
-        'CondKey', 'CondSig', 'FamSig', 'RawCAS',
+        'CondKey', 'CondSig', 'FamSig', 'RawCAS', 'RawData',
         # enrichment columns (optional)
-    'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName', 'BASName',
+        'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName', 'BASName',
     ]
     with open(out_path, 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=cols)

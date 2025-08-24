@@ -151,9 +151,9 @@ class Worker(QtCore.QObject):
             # Keep the same column order as process_reactions.write_csv
             cols = [
                 'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand',
-                'ReagentRaw', 'ReagentRole', 'Base', 'Solvent', 'Temperature_C', 'Time_h',
+                'Reagent', 'ReagentRole', 'Solvent', 'Temperature_C', 'Time_h',
                 'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
-                'CondKey', 'CondSig', 'FamSig', 'RawCAS',
+                'CondKey', 'CondSig', 'FamSig', 'RawCAS', 'RawData',
                 'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName', 'BASName',
             ]
             with open(self.out_path, 'w', newline='', encoding='utf-8') as f:

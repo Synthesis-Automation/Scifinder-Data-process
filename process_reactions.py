@@ -358,7 +358,7 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                         k += 1
                         continue
                     # Stop if we hit the next top-level block: a title line (not starting with digit or label) followed by By:/Steps
-                    if s.startswith('Steps:') or s.startswith('CAS Reaction Number:') or s.startswith('Scheme '):
+                    if s.startswith('Steps:') or s.startswith('Scheme '):
                         break
                     # Many blocks end with a line that's just a '?'
                     if s == '?':
@@ -1019,74 +1019,74 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 pro_smiles_list.append(smi)
 
         # Compose compound lists as "name|cas" strings
-    rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
-    sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
-    lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
-    # For core matching, allow any catalyst CAS to provide a name→CAS hint, but we will still output
-    # ligand pairs separately; this only helps attach CAS to obvious core names like "Cuprous iodide".
-    all_cat_for_core_idx = (cat_core_cas or []) + (cat_lig_cas or [])
-    core_name_idx = _build_name_to_cas_index(all_cat_for_core_idx, cas_map or {}) if cas_map is not None else {}
+        rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
+        sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
+        lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
+        # For core matching, allow any catalyst CAS to provide a name→CAS hint, but we will still output
+        # ligand pairs separately; this only helps attach CAS to obvious core names like "Cuprous iodide".
+        all_cat_for_core_idx = (cat_core_cas or []) + (cat_lig_cas or [])
+        core_name_idx = _build_name_to_cas_index(all_cat_for_core_idx, cas_map or {}) if cas_map is not None else {}
 
-    reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
-    solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
-    ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
-    core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, core_name_idx)
+        reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
+        solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
+        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
+        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, core_name_idx)
 
-    # Raw data bundle for traceability
-    rawdata_obj = {
-            'txt': {
-                'title': t.get('title'),
-                'authors': t.get('authors'),
-                'citation': t.get('citation'),
-                'reagents': t.get('reagents'),
-                'catalysts': t.get('catalysts'),
-                'solvents': t.get('solvents'),
-                'base_from_txt': t.get('base_from_txt'),
-                'all_condition_lines': t.get('all_condition_lines'),
-            },
-            'rdf': {
-                'rct_cas': r.get('rct_cas'),
-                'pro_cas': r.get('pro_cas'),
-                'rgt_cas': r.get('rgt_cas'),
-                'cat_cas': r.get('cat_cas'),
-                'sol_cas': r.get('sol_cas'),
-                'notes': r.get('notes'),
+        # Raw data bundle for traceability
+        rawdata_obj = {
+                'txt': {
+                    'title': t.get('title'),
+                    'authors': t.get('authors'),
+                    'citation': t.get('citation'),
+                    'reagents': t.get('reagents'),
+                    'catalysts': t.get('catalysts'),
+                    'solvents': t.get('solvents'),
+                    'base_from_txt': t.get('base_from_txt'),
+                    'all_condition_lines': t.get('all_condition_lines'),
+                },
+                'rdf': {
+                    'rct_cas': r.get('rct_cas'),
+                    'pro_cas': r.get('pro_cas'),
+                    'rgt_cas': r.get('rgt_cas'),
+                    'cat_cas': r.get('cat_cas'),
+                    'sol_cas': r.get('sol_cas'),
+                    'notes': r.get('notes'),
+                }
             }
-        }
-    row = {
-            'ReactionID': rid,
-            'ReactionType': infer_reaction_type(core_generic),
-            'CatalystCoreDetail': _json_list(core_pairs),
-            'CatalystCoreGeneric': _json_list(core_generic),
-            'Ligand': _json_list(ligand_pairs),
-            'Reagent': _json_list(reagent_pairs),
-            'ReagentRole': _json_list(roles),
-            'Solvent': _json_list(solvent_pairs),
-            'Temperature_C': temp_c if temp_c is not None else '',
-            'Time_h': time_h if time_h is not None else '',
-            'Yield_%': yield_pct if yield_pct is not None else '',
-            'ReactantSMILES': ' . '.join(rct_smiles_list) if rct_smiles_list else '',
-            'ProductSMILES': ' . '.join(pro_smiles_list) if pro_smiles_list else '',
-            'Reference': reference,
-            'CondKey': '',  # fill after
-            'CondSig': '',  # fill after
-            'FamSig': '',   # fill after
-            'RawCAS': raw_cas,
-            'RawData': json.dumps(rawdata_obj, ensure_ascii=False),
-            # Optional enrichment (JSON arrays of names; falls back to CAS when unknown)
-            'RCTName': _json_list(rct_names),
-            'PROName': _json_list(pro_names),
-            'RGTName': _json_list(rgt_names),
-            'CATName': _json_list(cat_names),
-            'SOLName': _json_list(sol_names),
-        }
+        row = {
+                'ReactionID': rid,
+                'ReactionType': infer_reaction_type(core_generic),
+                'CatalystCoreDetail': _json_list(core_pairs),
+                'CatalystCoreGeneric': _json_list(core_generic),
+                'Ligand': _json_list(ligand_pairs),
+                'Reagent': _json_list(reagent_pairs),
+                'ReagentRole': _json_list(roles),
+                'Solvent': _json_list(solvent_pairs),
+                'Temperature_C': temp_c if temp_c is not None else '',
+                'Time_h': time_h if time_h is not None else '',
+                'Yield_%': yield_pct if yield_pct is not None else '',
+                'ReactantSMILES': ' . '.join(rct_smiles_list) if rct_smiles_list else '',
+                'ProductSMILES': ' . '.join(pro_smiles_list) if pro_smiles_list else '',
+                'Reference': reference,
+                'CondKey': '',  # fill after
+                'CondSig': '',  # fill after
+                'FamSig': '',   # fill after
+                'RawCAS': raw_cas,
+                'RawData': json.dumps(rawdata_obj, ensure_ascii=False),
+                # Optional enrichment (JSON arrays of names; falls back to CAS when unknown)
+                'RCTName': _json_list(rct_names),
+                'PROName': _json_list(pro_names),
+                'RGTName': _json_list(rgt_names),
+                'CATName': _json_list(cat_names),
+                'SOLName': _json_list(sol_names),
+            }
 
-    # Build keys/hashes
-    row['CondKey'] = build_condkey(row)
-    row['CondSig'] = build_condsig(row)
-    row['FamSig'] = build_famsig(row)
+        # Build keys/hashes
+        row['CondKey'] = build_condkey(row)
+        row['CondSig'] = build_condsig(row)
+        row['FamSig'] = build_famsig(row)
 
-    rows.append(row)
+        rows.append(row)
 
     return rows
 

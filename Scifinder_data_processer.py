@@ -154,7 +154,7 @@ class Worker(QtCore.QObject):
                 'Reagent', 'ReagentRole', 'Solvent', 'Temperature_C', 'Time_h',
                 'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
                 'CondKey', 'CondSig', 'FamSig', 'RawCAS', 'RawData',
-                'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName', 'BASName',
+                'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName',
             ]
             with open(self.out_path, 'w', newline='', encoding='utf-8') as f:
                 w = csv.DictWriter(f, fieldnames=cols, delimiter='\t', quoting=csv.QUOTE_MINIMAL)

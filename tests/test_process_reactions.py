@@ -195,3 +195,25 @@ def test_organocatalyst_goes_to_core_and_no_ligand(tmp_path):
   # DMAP should be in core detail (name-only since no CAS mapping) and ligands should be empty
   assert any("4-(Dimethylamino)pyridine|" in x for x in cores)
   assert ligs == []
+
+
+def test_metal_plus_nonmetal_txt_catalysts_moves_nonmetal_to_ligand(tmp_path):
+  txt = textwrap.dedent(
+    """
+    Title
+    By: A
+    J (2024)
+    Steps:
+    CAS Reaction Number: MIX1
+    Catalysts: Cupric acetate, N,N-Dimethylethylenediamine
+    """
+  ).strip()
+  p = tmp_path / "mix.txt"
+  p.write_text(txt, encoding="utf-8")
+  rows = assemble_rows(parse_txt(str(p)), {}, cas_map={})
+  row = rows[0]
+  cores = json.loads(row["CatalystCoreDetail"])
+  ligs = json.loads(row["Ligand"])
+  # Core should include Cupric acetate, ligand should include the diamine
+  assert any("Cupric acetate|" in x for x in cores)
+  assert any("N,N-Dimethylethylenediamine|" in x for x in ligs)

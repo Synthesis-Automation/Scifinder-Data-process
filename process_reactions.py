@@ -256,6 +256,23 @@ def _classify_catalyst_or_ligand(name: str) -> Tuple[str, str]:
     return kind, metal
 
 
+def _is_metal_like_name(name: str) -> bool:
+    n = name.lower().strip()
+    # quick element/metal salt cues
+    metal_words = ["copper", "palladium", "nickel", "iridium", "rhodium", "silver", "gold", "zinc", "iron", "ruthenium"]
+    metal_symbols = ["cu", "pd", "ni", "ir", "rh", "ag", "au", "zn", "fe", "ru"]
+    if any(w in n for w in metal_words):
+        return True
+    # standalone or prefixed symbols
+    if re.match(r"^(cu|pd|ni|ir|rh|ag|au|zn|fe|ru)\b", n):
+        return True
+    # salts/precursor cues when combined with a metal word in the full token
+    salt_cues = ["oxide", "bromide", "iodide", "chloride", "acetate", "triflate", "acac", "sulfate", "carbonate"]
+    if any(k in n for k in salt_cues) and any(w in n for w in metal_words):
+        return True
+    return False
+
+
 def _classify_reagent_role(name: str) -> str:
     n = name.lower()
     if any(k in n for k in [
@@ -706,7 +723,30 @@ def _pairs_from_cas_list(cases: List[str], cas_map: Dict[str, Dict[str, str]]) -
     return pairs
 
 
-def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[str, str]], extra_names: List[str]) -> List[str]:
+def _build_name_to_cas_index(cases: List[str], cas_map: Dict[str, Dict[str, str]]) -> Dict[str, str]:
+    """Build a lowercase name -> CAS map for the provided CAS list using the mapping names.
+    Skip ambiguous names that point to multiple CAS in this role.
+    """
+    name_to_cas: Dict[str, str] = {}
+    ambiguous: set[str] = set()
+    for cas in cases or []:
+        e = cas_map.get(cas) or {}
+        nm = (e.get('Name') or '').strip()
+        if not nm:
+            continue
+        key = nm.lower()
+        if key in ambiguous:
+            continue
+        if key in name_to_cas and name_to_cas[key] != cas:
+            # mark as ambiguous
+            ambiguous.add(key)
+            name_to_cas.pop(key, None)
+        else:
+            name_to_cas[key] = cas
+    return name_to_cas
+
+
+def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[str, str]], extra_names: List[str], name_hints: Optional[Dict[str, str]] = None) -> List[str]:
     """Combine CAS-derived pairs and extra TXT names into a de-duplicated list of "name|cas" strings.
     Heuristics:
     - Treat TXT tokens that look like CAS numbers as CAS, not names.
@@ -777,7 +817,11 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
     for nm in txt_noncas:
         if nm in used_noncas:
             continue
-        s = _pair_str(nm, '')
+        # Try to enrich with CAS if we have an exact, unambiguous hint for this role
+        cas_hint = None
+        if name_hints is not None:
+            cas_hint = name_hints.get(nm.lower())
+        s = _pair_str(nm, cas_hint or '')
         if s not in seen:
             seen.add(s)
             out.append(s)
@@ -857,15 +901,25 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         cat_core_cas: List[str] = []
         cat_lig_cas: List[str] = []
         if cas_map and r.get('cat_cas'):
-            cat_core_cas, cat_lig_cas, _ = _split_cat_vs_lig_from_cas(r.get('cat_cas', []), cas_map)
+            cat_core_cas, cat_lig_cas, cat_other_cas = _split_cat_vs_lig_from_cas(r.get('cat_cas', []), cas_map)
+            # Any unclassified catalyst CAS default to core
+            if cat_other_cas:
+                cat_core_cas = list(dict.fromkeys(list(cat_core_cas) + list(cat_other_cas)))
             # Names/tokens from CAS for ligands
             ligands.extend(_tokens_from_cas_list(cat_lig_cas, cas_map))
             # Core generic metal tags from catalyst CAS
             core_generic.extend(_generic_from_cas_list(cat_core_cas, cas_map))
 
         # Also include TXT catalysts; classify into core vs ligand and extract generic tags
-        for item in t.get('catalysts', []):
-            kind, gen = _classify_catalyst_or_ligand(item)
+        txt_cats = list(t.get('catalysts', []))
+        # First pass: inspect for any metal generic tag among TXT catalysts
+        txt_classified = [(_classify_catalyst_or_ligand(item), item) for item in txt_cats]
+        any_metal_present = any(gen for ((kind, gen), _it) in txt_classified)
+        for (kind_gen, item) in txt_classified:
+            kind, gen = kind_gen
+            # If any metal present in the set, treat non-metal items as ligands
+            if any_metal_present and not gen:
+                kind = 'ligand'
             if kind == 'core':
                 core_detail.append(item)
             else:
@@ -942,44 +996,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             cat_core_only = r.get('cat_cas', [])
         cat_names = _cas_to_names(cat_core_only, cas_map or {})
         sol_names = _cas_to_names(r.get('sol_cas', []), cas_map or {})
-        # Base names enrichment
-        bas_names = []
-        if cas_map and r.get('rgt_cas'):
-            for cas in r.get('rgt_cas', []):
-                role = (cas_map.get(cas, {}).get('Role') or '').strip().upper()
-                if role == 'BASE':
-                    bas_names.append((cas_map.get(cas, {}).get('Name') or cas).strip())
-
-        # Name+CAS pairs (machine-friendly) and with TXT fallbacks for readability
-        rct_pairs = _pairs_from_cas_list(r.get('rct_cas', []), cas_map or {})
-        pro_pairs = _pairs_from_cas_list(r.get('pro_cas', []), cas_map or {})
-        rgt_pairs = _pairs_from_cas_list(r.get('rgt_cas', []), cas_map or {})
-        cat_pairs = _pairs_from_cas_list(cat_core_only, cas_map or {})
-        sol_pairs = _pairs_from_cas_list(r.get('sol_cas', []), cas_map or {})
-        bas_pairs: List[Dict[str, str]] = []
-        if cas_map and r.get('rgt_cas'):
-            for cas in r.get('rgt_cas', []):
-                role = (cas_map.get(cas, {}).get('Role') or '').strip().upper()
-                if role == 'BASE':
-                    name = (cas_map.get(cas, {}).get('Name') or cas).strip()
-                    bas_pairs.append({'name': name, 'cas': cas})
-        # add TXT-only names lacking CAS as pairs with empty cas
-        for nm in t.get('reagents', []) or []:
-            if nm and all(nm != p.get('name') for p in rgt_pairs):
-                rgt_pairs.append({'name': nm, 'cas': ''})
-        for nm in t.get('catalysts', []) or []:
-            # catalyst TXT may include ligands or core; we only pair cores we detected by CAS already
-            # still add TXT catalyst names for readability without CAS
-            if nm and all(nm != p.get('name') for p in cat_pairs):
-                cat_pairs.append({'name': nm, 'cas': ''})
-        for nm in t.get('solvents', []) or []:
-            if nm and all(nm != p.get('name') for p in sol_pairs):
-                sol_pairs.append({'name': nm, 'cas': ''})
-        for nm in t.get('base_from_txt', []) or []:
-            if nm and all(nm != p.get('name') for p in bas_pairs):
-                bas_pairs.append({'name': nm, 'cas': ''})
-
-    # Keep empty lists empty; do not add placeholders like "none|"
+        # Keep empty lists empty; do not add placeholders like "none|"
 
         # SMILES from MOL blocks if RDKit is available
         rct_smiles_list: List[str] = []
@@ -994,10 +1011,18 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                 pro_smiles_list.append(smi)
 
         # Compose compound lists as "name|cas" strings
-        reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents)
-        solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [])
-        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands)
-        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail)
+        rgt_name_idx = _build_name_to_cas_index(r.get('rgt_cas', []), cas_map or {}) if cas_map is not None else {}
+        sol_name_idx = _build_name_to_cas_index(r.get('sol_cas', []), cas_map or {}) if cas_map is not None else {}
+        lig_name_idx = _build_name_to_cas_index(cat_lig_cas or [], cas_map or {}) if cas_map is not None else {}
+    # For core matching, allow any catalyst CAS to provide a name→CAS hint, but we will still output
+    # ligand pairs separately; this only helps attach CAS to obvious core names like "Cuprous iodide".
+    all_cat_for_core_idx = (cat_core_cas or []) + (cat_lig_cas or [])
+    core_name_idx = _build_name_to_cas_index(all_cat_for_core_idx, cas_map or {}) if cas_map is not None else {}
+
+        reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
+        solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
+        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, lig_name_idx)
+        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, core_name_idx)
 
         # Raw data bundle for traceability
         rawdata_obj = {
@@ -1047,7 +1072,6 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             'RGTName': _json_list(rgt_names),
             'CATName': _json_list(cat_names),
             'SOLName': _json_list(sol_names),
-            'BASName': _json_list(bas_names),
         }
 
         # Build keys/hashes
@@ -1068,7 +1092,7 @@ def write_csv(rows: List[Dict[str, Any]], out_path: str) -> None:
         'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
         'CondKey', 'CondSig', 'FamSig', 'RawCAS', 'RawData',
         # enrichment columns (optional)
-        'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName', 'BASName',
+    'RCTName', 'PROName', 'RGTName', 'CATName', 'SOLName',
     ]
     with open(out_path, 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=cols)

@@ -14,8 +14,8 @@ def main():
     n = int(sys.argv[3]) if len(sys.argv) > 3 else 10
     A = head_rows(a_path, n)
     B = head_rows(b_path, n)
-    print(f"Comparing first {min(n, len(A), len(B))} rows for Ligand, CATName, Base, BASName\n")
-    cols = ("Ligand","CATName","Base","BASName")
+    print(f"Comparing first {min(n, len(A), len(B))} rows for Ligand, CATName, Base\n")
+    cols = ("Ligand","CATName","Base")
     for i, (a, b) in enumerate(zip(A, B), start=1):
         print(f"Row {i}:")
         for c in cols:

@@ -1472,6 +1472,12 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         core_pairs = corrected_core_pairs
         ligand_pairs = corrected_ligand_pairs
 
+        # Non-metal systems fallback: if no metal core detected (Other) and core is empty
+        # but FullCatalyticSystem has entries, promote all to CatalystCoreDetail.
+        if (infer_reaction_type(core_generic) == 'Other') and (not core_pairs) and (combined_pairs):
+            core_pairs = list(combined_pairs)
+            ligand_pairs = []
+
         # Raw data bundle for traceability
         rawdata_obj = {
             'txt': {

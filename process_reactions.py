@@ -296,19 +296,30 @@ def _classify_catalyst_or_ligand(name: str) -> Tuple[str, str]:
 
 
 def _is_metal_like_name(name: str) -> bool:
-    n = name.lower().strip()
-    # quick element/metal salt cues
-    metal_words = ["copper", "palladium", "nickel", "iridium", "rhodium", "silver", "gold", "zinc", "iron", "ruthenium"]
-    metal_symbols = ["cu", "pd", "ni", "ir", "rh", "ag", "au", "zn", "fe", "ru"]
-    if any(w in n for w in metal_words):
-        return True
-    # standalone or prefixed symbols
-    if re.match(r"^(cu|pd|ni|ir|rh|ag|au|zn|fe|ru)\b", n):
-        return True
-    # salts/precursor cues when combined with a metal word in the full token
+    n = (name or '').lower().strip()
+    # Consider oxidation-state synonyms and variants
+    try:
+        candidates = set(_name_variants(name)) if name else set()
+    except Exception:
+        candidates = set()
+    candidates.add(n)
+    metal_words = [
+        "copper", "palladium", "nickel", "iridium", "rhodium", "silver", "gold", "zinc", "iron", "ruthenium",
+        # include common adjectives that imply the metal when combined with salt cues
+        "cupric", "cuprous", "ferrous", "ferric"
+    ]
     salt_cues = ["oxide", "bromide", "iodide", "chloride", "acetate", "triflate", "acac", "sulfate", "carbonate"]
-    if any(k in n for k in salt_cues) and any(w in n for w in metal_words):
-        return True
+    for cand in candidates:
+        if any(w in cand for w in metal_words):
+            return True
+        # standalone or prefixed symbols
+        if re.match(r"^(cu|pd|ni|ir|rh|ag|au|zn|fe|ru)\b", cand):
+            return True
+        # salts/precursor cues when combined with a metal indicator (word or oxidation state)
+        if any(k in cand for k in salt_cues) and (
+            any(w in cand for w in metal_words) or re.search(r"copper\s*\((i|ii|iii|iv)\)", cand)
+        ):
+            return True
     return False
 
 def _normalize_chem_name(name: str) -> str:
@@ -1005,6 +1016,119 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
     return out
 
 
+def _dedupe_pair_strings(pairs: List[str]) -> List[str]:
+    """Collapse duplicate entries in a list of "name|cas" strings.
+    Rules:
+    - If the same CAS appears multiple times, keep a single entry, preferring a human-readable name
+      (non-empty and not equal to the CAS). If none, use the CAS as the name ("cas|cas").
+    - If a name-only entry ("name|") appears alongside the same CAS later, keep only "name|cas".
+    - Preserve stable ordering by first occurrence of each CAS or name-only key.
+    """
+    def split_pair(p: str) -> tuple[str, str]:
+        if '|' in p:
+            nm, cs = p.split('|', 1)
+            return nm.strip(), cs.strip()
+        return p.strip(), ''
+
+    def is_cas_like(s: str) -> bool:
+        return bool(re.fullmatch(r"\d{2,7}-\d{2}-\d", (s or '').strip()))
+
+    out_order: list[tuple[str, str]] = []
+    seen_key: set[str] = set()
+    # First pass: create keys and choose best names
+    by_key: dict[str, dict] = {}
+    for p in pairs or []:
+        nm, cs = split_pair(p)
+        key = cs if cs else nm.lower()
+        if key not in by_key:
+            by_key[key] = {
+                'cas': cs,
+                'name': '',
+                'have_human_name': False,
+            }
+            out_order.append((key, cs))
+        rec = by_key[key]
+        # Decide if this name is better
+        candidate_is_human = bool(nm) and not is_cas_like(nm)
+        if candidate_is_human and not rec['have_human_name']:
+            rec['name'] = nm
+            rec['have_human_name'] = True
+        elif not rec['have_human_name'] and not rec['name']:
+            # fallback, store something (possibly CAS-as-name), replaced later if a human name appears
+            rec['name'] = nm or cs
+    # Second pass: build output preserving order
+    result: list[str] = []
+    for key, cs in out_order:
+        if key in seen_key:
+            continue
+        seen_key.add(key)
+        rec = by_key[key]
+        name = rec['name'] or (rec['cas'] if rec['cas'] else '')
+        cas = rec['cas']
+        if cas:
+            result.append(f"{name}|{cas}")
+        else:
+            result.append(f"{name}|")
+    # Stable unique of exact duplicates just in case
+    seen = set()
+    uniq: list[str] = []
+    for p in result:
+        if p not in seen:
+            seen.add(p)
+            uniq.append(p)
+    return uniq
+
+
+def _reconcile_name_and_cas_only(pairs: List[str]) -> List[str]:
+    """If the list contains CAS-only entries (cas|cas or |cas with name empty) and name-only entries (name|),
+    and their counts match (>0), pair them 1:1 in encounter order to produce name|cas and drop the originals.
+    This helps when core/ligand separation prevented pairing earlier but the reaction clearly has matching counts.
+    """
+    def split_pair(p: str) -> tuple[str, str]:
+        if '|' in p:
+            nm, cs = p.split('|', 1)
+            return nm.strip(), cs.strip()
+        return p.strip(), ''
+
+    def is_cas_like(s: str) -> bool:
+        return bool(re.fullmatch(r"\d{2,7}-\d{2}-\d", (s or '').strip()))
+
+    # Collect positions
+    cas_only_idxs: list[int] = []
+    name_only_idxs: list[int] = []
+    for idx, p in enumerate(pairs or []):
+        nm, cs = split_pair(p)
+        if cs and (not nm or nm == cs or is_cas_like(nm)):
+            cas_only_idxs.append(idx)
+        elif nm and not cs:
+            name_only_idxs.append(idx)
+
+    if not cas_only_idxs or not name_only_idxs:
+        return pairs
+    if len(cas_only_idxs) != len(name_only_idxs):
+        return pairs
+
+    # Build replacement map by zipping in original order
+    replacements: dict[int, str] = {}
+    used_name_positions: set[int] = set()
+    for cas_idx, name_idx in zip(cas_only_idxs, name_only_idxs):
+        nm, _ = split_pair(pairs[name_idx])
+        _, cs = split_pair(pairs[cas_idx])
+        replacements[cas_idx] = f"{nm}|{cs}"
+        used_name_positions.add(name_idx)
+
+    # Build new list: replace cas positions with merged, drop used name-only entries
+    out: list[str] = []
+    for idx, p in enumerate(pairs or []):
+        if idx in replacements:
+            out.append(replacements[idx])
+        elif idx in used_name_positions:
+            continue
+        else:
+            out.append(p)
+    return out
+
+
 def _roles_from_cas_list(cases: List[str], cas_map: Dict[str, Dict[str, str]]) -> List[str]:
     roles: List[str] = []
     for cas in cases:
@@ -1295,6 +1419,59 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
                     new_lig_pairs.append(p)
             ligand_pairs = new_lig_pairs
 
+        # Reconcile name-only with cas-only within each role, then canonicalize/dedupe
+        core_pairs = _reconcile_name_and_cas_only(core_pairs)
+        ligand_pairs = _reconcile_name_and_cas_only(ligand_pairs)
+        core_pairs = _dedupe_pair_strings(core_pairs)
+        ligand_pairs = _dedupe_pair_strings(ligand_pairs)
+
+        # Build a canonical FullCatalyticSystem list first (name|cas), then re-derive role-specific lists from it
+        combined_pairs: List[str] = _dedupe_pair_strings(
+            _reconcile_name_and_cas_only((core_pairs or []) + (ligand_pairs or []))
+        )
+
+        def _is_core_candidate(name: str, cas: str) -> bool:
+            def _is_ligand_like_name(nm: str) -> bool:
+                n = (nm or '').lower()
+                # broadened ligand cues for Ullmann/Buchwald: amines, diamines, bipyridines, phenanthrolines, phosphines, NHCs
+                ligand_keywords = [
+                    'amine', 'diamine', 'bipyridine', "2,2'-bipyridine", 'phenanthroline', 'phen',
+                    'xphos', 'sphos', 'brettphos', 'johnphos', 'binap', 'segphos', 'xantphos', 'dppf', 'dppe', 'dppp', 'dppb', 'pph3', 'pcy3',
+                    'phosphine', 'phosphite', 'phosphonite', 'imes', 'simes', 'nhc'
+                ]
+                return any(k in n for k in ligand_keywords)
+            if cas:
+                e = (cas_map or {}).get(cas) or {}
+                role = (e.get('Role') or '').strip().upper()
+                gen = (e.get('GenericCore') or '').strip()
+                hint = (e.get('CategoryHint') or '').strip().lower()
+                nm_map = (e.get('Name') or '').strip()
+                if 'ligand' in hint or 'LIG' in role:
+                    return False
+                if role.startswith('CAT') or gen:
+                    return True
+                if _is_metal_like_name(nm_map):
+                    return True
+            # fallbacks based on provided name
+            if _is_metal_like_name(name):
+                return True
+            if _is_ligand_like_name(name):
+                return False
+            return False
+
+        corrected_core_pairs: List[str] = []
+        corrected_ligand_pairs: List[str] = []
+        for p in combined_pairs:
+            nm, sep, cs = p.partition('|')
+            if _is_core_candidate(nm.strip(), cs.strip()):
+                corrected_core_pairs.append(p)
+            else:
+                corrected_ligand_pairs.append(p)
+
+        # Use corrected role-specific lists
+        core_pairs = corrected_core_pairs
+        ligand_pairs = corrected_ligand_pairs
+
         # Raw data bundle for traceability
         rawdata_obj = {
             'txt': {
@@ -1322,6 +1499,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             'CatalystCoreDetail': _json_list(core_pairs),
             'CatalystCoreGeneric': _json_list(core_generic),
             'Ligand': _json_list(ligand_pairs),
+            'FullCatalyticSystem': _json_list(combined_pairs),
             'Reagent': _json_list(reagent_pairs),
             'ReagentRole': _json_list(roles),
             'Solvent': _json_list(solvent_pairs),
@@ -1357,7 +1535,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
 def write_csv(rows: List[Dict[str, Any]], out_path: str) -> None:
     # Ensure consistent column order per schema
     cols = [
-        'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand',
+    'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand', 'FullCatalyticSystem',
         'Reagent', 'ReagentRole', 'Solvent', 'Temperature_C', 'Time_h',
         'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
         'CondKey', 'CondSig', 'FamSig', 'RawCAS', 'RawData',

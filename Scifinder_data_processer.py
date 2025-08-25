@@ -11,6 +11,7 @@ import sys
 import traceback
 from typing import List, Optional
 import csv  # for TSV writing
+import json  # for filtering JSON-array fields
 
 
 from PyQt6 import QtWidgets, QtCore
@@ -42,7 +43,7 @@ class Worker(QtCore.QObject):
     finished = Signal(bool, str) if Signal else None  # type: ignore[misc]
     progress = Signal(str) if Signal else None  # type: ignore[misc]
 
-    def __init__(self, rdf_path: Optional[str], txt_path: Optional[str], out_path: str, cas_maps: Optional[List[str]], auto_detect_maps: bool, folder_path: Optional[str] = None):
+    def __init__(self, rdf_path: Optional[str], txt_path: Optional[str], out_path: str, cas_maps: Optional[List[str]], auto_detect_maps: bool, folder_path: Optional[str] = None, drop_empty_core: bool = False, drop_empty_ligand: bool = False):
         super().__init__()
         self.rdf_path = rdf_path or ''
         self.txt_path = txt_path or ''
@@ -50,6 +51,8 @@ class Worker(QtCore.QObject):
         self.cas_maps = cas_maps or []
         self.auto_detect_maps = auto_detect_maps
         self.folder_path = folder_path or ''
+        self.drop_empty_core = drop_empty_core
+        self.drop_empty_ligand = drop_empty_ligand
 
     def _emit(self, msg: str):
         sig = getattr(self, 'progress', None)
@@ -79,6 +82,7 @@ class Worker(QtCore.QObject):
         cas_map = self._build_cas_map()
         self._emit("Assembling rows…")
         rows = assemble_rows(txt, rdf, cas_map)
+        rows = self._apply_filters(rows)
         self._emit(f"Writing output to {self.out_path}…")
         self._write_output(rows)
         return rows
@@ -124,9 +128,49 @@ class Worker(QtCore.QObject):
         cas_map = self._build_cas_map()
         self._emit("Assembling combined rows…")
         rows = assemble_rows(agg_txt, agg_rdf, cas_map)
+        rows = self._apply_filters(rows)
         self._emit(f"Writing output to {self.out_path}…")
         self._write_output(rows)
         return rows, len(pairs)
+
+    def _apply_filters(self, rows: List[dict]) -> List[dict]:
+        """Optionally filter out reactions with empty CatalystCore or Ligand arrays.
+        - CatalystCore is considered empty if both CatalystCoreDetail and CatalystCoreGeneric are empty arrays.
+        - Ligand is considered empty if its array is empty.
+        """
+        if not (self.drop_empty_core or self.drop_empty_ligand):
+            return rows
+        kept: List[dict] = []
+        removed_core = 0
+        removed_lig = 0
+        for r in rows:
+            try:
+                core_detail = json.loads(r.get('CatalystCoreDetail', '[]') or '[]')
+            except Exception:
+                core_detail = []
+            try:
+                core_generic = json.loads(r.get('CatalystCoreGeneric', '[]') or '[]')
+            except Exception:
+                core_generic = []
+            try:
+                ligand = json.loads(r.get('Ligand', '[]') or '[]')
+            except Exception:
+                ligand = []
+
+            empty_core = (len(core_detail) == 0 and len(core_generic) == 0)
+            empty_lig = (len(ligand) == 0)
+
+            drop = False
+            if self.drop_empty_core and empty_core:
+                removed_core += 1
+                drop = True
+            if self.drop_empty_ligand and empty_lig:
+                removed_lig += 1
+                drop = True
+            if not drop:
+                kept.append(r)
+        self._emit(f"Filtered out {removed_core} with empty CatalystCore and {removed_lig} with empty Ligand. Remaining: {len(kept)}")
+        return kept
 
     @Slot() if Slot else (lambda f: f)
     def run(self):  # heavy work off UI thread
@@ -150,7 +194,7 @@ class Worker(QtCore.QObject):
         if out_ext == '.tsv':
             # Keep the same column order as process_reactions.write_csv
             cols = [
-                'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand',
+                'ReactionID', 'ReactionType', 'CatalystCoreDetail', 'CatalystCoreGeneric', 'Ligand', 'FullCatalyticSystem',
                 'Reagent', 'ReagentRole', 'Solvent', 'Temperature_C', 'Time_h',
                 'Yield_%', 'ReactantSMILES', 'ProductSMILES', 'Reference',
                 'CondKey', 'CondSig', 'FamSig', 'RawCAS', 'RawData',
@@ -193,8 +237,13 @@ class MainWindow(QtWidgets.QWidget):
         self.folder_edit = QtWidgets.QLineEdit()
         self.btn_folder = QtWidgets.QPushButton("Browse Folder…")
 
+        # Options
         self.chk_auto = QtWidgets.QCheckBox("Auto-detect built-in CAS maps")
         self.chk_auto.setChecked(True)
+
+        # Filters
+        self.chk_drop_empty_core = QtWidgets.QCheckBox("Remove reactions with empty CatalystCore")
+        self.chk_drop_empty_ligand = QtWidgets.QCheckBox("Remove reactions with empty Ligand")
 
         # Actions
         self.btn_run = QtWidgets.QPushButton("Run")
@@ -211,6 +260,8 @@ class MainWindow(QtWidgets.QWidget):
         form.addRow("Folder:", self._hbox(self.folder_edit, self.btn_folder))
         form.addRow("Output file:", self._hbox(self.out_edit, self.btn_out))
         form.addRow(self.chk_auto)
+        form.addRow(self.chk_drop_empty_core)
+        form.addRow(self.chk_drop_empty_ligand)
         form.addRow("CAS Map(s):", self._hbox(self.cas_edit, self.btn_cas))
 
         btns = self._hbox(self.btn_run, self.btn_quit)
@@ -351,6 +402,8 @@ class MainWindow(QtWidgets.QWidget):
                 out_path=self.out_edit.text().strip(),
                 cas_maps=self.cas_paths,
                 auto_detect_maps=self.chk_auto.isChecked(),
+                drop_empty_core=self.chk_drop_empty_core.isChecked(),
+                drop_empty_ligand=self.chk_drop_empty_ligand.isChecked(),
             )
         else:
             self.worker = Worker(
@@ -360,6 +413,8 @@ class MainWindow(QtWidgets.QWidget):
                 cas_maps=self.cas_paths,
                 auto_detect_maps=self.chk_auto.isChecked(),
                 folder_path=self.folder_edit.text().strip(),
+                drop_empty_core=self.chk_drop_empty_core.isChecked(),
+                drop_empty_ligand=self.chk_drop_empty_ligand.isChecked(),
             )
 
         self.thread = QtCore.QThread(self)

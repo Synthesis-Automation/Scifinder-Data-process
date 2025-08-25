@@ -216,10 +216,11 @@ class MainWindow(QtWidgets.QWidget):
         self.setWindowTitle("SciFinder Reaction Processor")
         self.resize(780, 440)
 
-        # Mode selection
-        self.radio_single = QtWidgets.QRadioButton("Single RDF/TXT pair")
-        self.radio_folder = QtWidgets.QRadioButton("Process a folder of pairs")
-        self.radio_single.setChecked(True)
+    # Mode selection
+    self.radio_single = QtWidgets.QRadioButton("Single RDF/TXT pair")
+    self.radio_folder = QtWidgets.QRadioButton("Process a folder of pairs")
+    # Default to processing a folder of pairs
+    self.radio_folder.setChecked(True)
 
         # Inputs
         self.rdf_edit = QtWidgets.QLineEdit()

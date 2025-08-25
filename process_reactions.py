@@ -1512,8 +1512,8 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             'Temperature_C': temp_c if temp_c is not None else '',
             'Time_h': time_h if time_h is not None else '',
             'Yield_%': yield_pct if yield_pct is not None else '',
-            'ReactantSMILES': ' . '.join(rct_smiles_list) if rct_smiles_list else '',
-            'ProductSMILES': ' . '.join(pro_smiles_list) if pro_smiles_list else '',
+            'ReactantSMILES': '.'.join(rct_smiles_list) if rct_smiles_list else '',
+            'ProductSMILES': '.'.join(pro_smiles_list) if pro_smiles_list else '',
             'Reference': reference,
             'CondKey': '',  # fill after
             'CondSig': '',  # fill after

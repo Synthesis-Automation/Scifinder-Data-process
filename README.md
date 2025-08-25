@@ -39,12 +39,16 @@ python process_reactions.py --rdf .\Reaction_2024-1.rdf --txt .\Reaction_2024-1.
 GUI launcher (optional):
 
 ```powershell
-python app_gui.py
+python .\Scifinder_data_processer.py
 ```
+
+Notes for the GUI:
+- The default mode is “Process a folder of pairs.” Select a folder that contains matching `.rdf` and `.txt` files with the same basename.
+- If you switch to the single-file mode, provide one RDF and one TXT file.
 
 ## Notes
 - Hash fields (`CondSig`, `FamSig`) require the `xxhash` package; otherwise they will be blank.
-- Time and temperature are heuristically parsed from the TXT (e.g., "overnight"=16 h, "rt"=25 °C). Reflux is not converted.
+- Time and temperature are heuristically parsed from the TXT (e.g., "overnight" = 16 h, "rt" = 25 °C). Reflux is not converted.
 - Ligand vs. core catalyst split is heuristic; refine `_classify_catalyst_or_ligand` if needed.
 - Optional: If RDKit is present in your environment, ReactantSMILES/ProductSMILES will be filled from RDF CTAB blocks. If not installed, these fields stay blank (the app runs either way).
 - Optional: Provide one or more `--cas-map` CSVs with headers like `CAS,Name,GenericCore,Role,CategoryHint,Token` to normalize short solvent/base tokens and enrich names.

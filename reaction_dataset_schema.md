@@ -1,6 +1,6 @@
 # Reaction Dataset Schema (Single-Table, JSON‑Token Format)
 
-This Markdown document summarises the **final design** for our flat-file reaction
+This Markdown document summarizes the **final design** for our flat-file reaction
 dataset.  Every reaction lives in **one row**, yet the structure still supports
 instant condition matching, family grouping, and human‑readable filtering.
 
@@ -11,7 +11,7 @@ instant condition matching, family grouping, and human‑readable filtering.
 * **List‑type fields** (`CoreDetail`, `Ligand`, `ReagentRaw`, `Solvent`, …) are
   stored as **JSON arrays** – no character‑escape problems and trivially parsed
   by Pandas, DuckDB, BigQuery, etc.
-* Two pre‑computed 8‑byte hashes give constant‑time look‑ups:
+* Two pre‑computed 32‑bit hashes give constant‑time look‑ups:
   * **CondSig** – exact‑condition fingerprint.
   * **FamSig**  – family fingerprint (collapses metal precursor & reagent class).
 * **CondKey** – a short, human‑readable tag like  
@@ -34,8 +34,8 @@ instant condition matching, family grouping, and human‑readable filtering.
 | `Temperature_C` | `110` | Float °C (blank if n/a). |
 | `Time_h` | `12` | Float hours. |
 | `Yield_%` | `88` | As reported. |
-| `ReactantSMILES` | `"... . ..."` | Dot‑concatenated SMILES. |
-| `ProductSMILES` | `"... . ..."` | Dot‑concatenated SMILES. |
+| `ReactantSMILES` | `"... ..."` | Dot‑concatenated SMILES (no spaces around dots). |
+| `ProductSMILES` | `"... ..."` | Dot‑concatenated SMILES (no spaces around dots). |
 | `Reference` | `"WO2020‑123456"` | Citation or ELN ID. |
 | `CondKey` | `"Pd/XPhos/Cs2CO3/Tol"` | Human‑readable summary token. |
 | `CondSig` | `"93A1F2BC"` | xxHash32 of *CoreGeneric∣Ligand∣ReagentRaw∣Solvent*. |
@@ -96,7 +96,7 @@ fam_hits = df[df.FamSig == query_fam_sig]
 
 1. **Human‑readable**: chemists see real names, not cryptic codes.  
 2. **Collision‑proof**: JSON keeps every “+”, “|”, or exotic character intact.  
-3. **Fast retrieval**: hashes give O(1) equality; list filters stay vectorised.  
+3. **Fast retrieval**: hashes give O(1) equality; list filters stay vectorized.  
 4. **Evolvable**: new tokens just extend the JSON arrays; schemas remain stable.  
 
 ---

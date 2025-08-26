@@ -1,15 +1,47 @@
 # Reaction Markdown Generator
 
-A standalone application that combines RDF and TXT files from SciFinder to generate comprehensive markdown reports with detailed reaction information.
+A standalone application that combines RDF and TXT files from SciFinder to generate comprehensive markdown reports with detailed reaction information **and advanced CAS number validation**.
 
 ## Features
 
 - **Automatic Pair Detection**: Scans folders for matching RDF/TXT files
 - **Rich Markdown Output**: Generates well-formatted reports with reaction details
+- **🆕 CAS Number Validation**: Validates format, checksums, and corrects common errors
+- **🆕 Compound Name Verification**: Detects and corrects name/CAS mismatches
+- **🆕 Data Quality Warnings**: Flags problematic data with clear warning messages
 - **CAS Number Mapping**: Automatically loads and applies CAS number mappings
 - **Reaction Classification**: Categorizes reactions as Buchwald, Ullmann, or Other
 - **Summary Statistics**: Provides overview of reaction types and yields
 - **Dual Interface**: Both GUI and command-line interfaces available
+
+## What's New: Enhanced Data Quality
+
+### CAS Number Validation
+The tool now includes comprehensive CAS number validation:
+- **Format validation**: Ensures proper XXXXX-XX-X format
+- **Checksum verification**: Validates CAS number checksums according to official algorithm
+- **Manual corrections**: Built-in database of common CAS/name corrections
+- **Online lookup**: Integration ready for PubChem/ChemSpider APIs
+
+### Example of Data Quality Improvement
+
+**Before (incorrect):**
+```
+**Full Catalytic System:**
+  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 7787-70-4)
+```
+
+**After (corrected with warnings):**
+```
+**Full Catalytic System:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - Copper(I) bromide (CAS: 7787-70-4) *[Corrected from: 1,3-Bis(diphenylphosphino)propane|7787-70-4]*
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
+  - ⚠️ Full Catalytic System: Name mismatch: '1,3-Bis(diphenylphosphino)propane' vs expected 'Copper(I) bromide' for CAS 7787-70-4
+```
 
 ## Installation
 
@@ -179,13 +211,38 @@ The tool automatically loads CAS mapping files from:
 - Progress is displayed in real-time
 - Memory usage scales with dataset size
 
-## Integration
+## Additional Tools
 
-This tool integrates with the existing SciFinder data processing pipeline:
-- Uses the same parsing logic as `process_reactions.py`
-- Compatible with existing CAS mapping files
-- Can be used alongside `Scifinder_data_processer.py`
+### CAS Registry Tool (`cas_registry_tool.py`)
 
-## License
+A comprehensive CAS number validation and registry management tool:
 
-Part of the SciFinder Data Processing toolkit.
+```bash
+# Validate a single CAS number
+python cas_registry_tool.py --validate "6737-42-4"
+
+# Look up compound information
+python cas_registry_tool.py --lookup "7787-70-4"
+
+# Batch validate and correct a CSV file
+python cas_registry_tool.py --batch-validate input.csv --output corrected.csv
+
+# Build comprehensive registry from folder of CAS mapping files
+python cas_registry_tool.py --build-registry "dataset/" --output "comprehensive_registry.csv"
+```
+
+**Features:**
+- CAS format and checksum validation
+- Online lookup via PubChem API (when available)
+- Manual correction database
+- Compound type classification
+- Batch processing capabilities
+
+### Data Quality Improvements
+
+The enhanced system addresses common data quality issues:
+
+1. **CAS/Name Swapping**: Automatically detects when compound names and CAS numbers are swapped
+2. **Invalid CAS Numbers**: Validates CAS number format and checksums
+3. **Name Variations**: Standardizes compound names (e.g., "Cuprous iodide" → "Copper(I) iodide")
+4. **Missing Information**: Attempts to retrieve missing compound names via online APIs

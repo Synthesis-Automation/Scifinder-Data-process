@@ -141,20 +141,23 @@ def _normalize_token_list(s: str) -> List[str]:
     like N,N′-, N,O-, O,O′- together as a single chemical name.
 
     Heuristic:
-    - Initially split on commas.
+    - Split on commas only when they're followed by a space (true separators)
+    - Commas without spaces are part of chemical names
+    - Also respect parentheses/brackets to avoid breaking groups like
+      "N-(2,4,6-...)" or "[2′,6′-... ]"
     - Then merge runs of single-letter designators (N/O/S/P/C) that precede a token
       starting with a designator prefix such as "N-", "N′-", "O-", or with a space
       (e.g., "N diethyl...").
     This reconstructs names like "N,N-diisopropylethylamine" and "N,O-bis(...)".
     """
-    # split on commas only when outside parentheses/brackets to avoid breaking groups like
-    # "N-(2,4,6-...)" or "[2′,6′-... ]"
+    # split on commas only when outside parentheses/brackets and followed by space
     raw: List[str] = []
     buf: List[str] = []
     paren = 0
     square = 0
     curly = 0
-    for ch in s:
+    
+    for i, ch in enumerate(s):
         if ch == '(':
             paren += 1
         elif ch == ')':
@@ -167,13 +170,22 @@ def _normalize_token_list(s: str) -> List[str]:
             curly += 1
         elif ch == '}':
             curly = max(0, curly - 1)
+            
         if ch == ',' and paren == 0 and square == 0 and curly == 0:
-            token = ''.join(buf).strip().strip(';').strip()
-            if token:
-                raw.append(token)
-            buf = []
+            # Check if the comma is followed by a space (indicating a true separator)
+            next_char = s[i + 1] if i + 1 < len(s) else ''
+            if next_char == ' ':
+                # This is a true separator (comma followed by space)
+                token = ''.join(buf).strip().strip(';').strip()
+                if token:
+                    raw.append(token)
+                buf = []
+            else:
+                # This comma is part of a compound name (no space after)
+                buf.append(ch)
         else:
             buf.append(ch)
+            
     last = ''.join(buf).strip().strip(';').strip()
     if last:
         raw.append(last)

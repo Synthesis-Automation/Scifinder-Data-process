@@ -52,13 +52,185 @@ except ImportError as e:
     print(f"Error: Cannot import process_reactions module: {e}")
     sys.exit(1)
 
+try:
+    import requests
+    REQUESTS_AVAILABLE = True
+except ImportError:
+    REQUESTS_AVAILABLE = False
+    print("Warning: 'requests' not available. Online CAS validation will be disabled.")
+
+
+class CASRegistry:
+    """Enhanced CAS number registry with validation and lookup capabilities."""
+    
+    def __init__(self):
+        self.cas_cache = {}
+        self.manual_corrections = {
+            # Known corrections from your example
+            "6737-42-4": "1,3-Bis(diphenylphosphino)propane",
+            "7787-70-4": "Copper(I) bromide",
+            # Common catalyst CAS numbers
+            "142-71-2": "Copper(II) acetate",
+            "7681-65-4": "Copper(I) iodide", 
+            "7758-89-6": "Copper(I) chloride",
+            "1317-39-1": "Copper(I) oxide",
+            "1122-58-3": "4-(Dimethylamino)pyridine",
+            "7447-39-4": "Copper(II) chloride",
+            # Common ligands
+            "110-70-3": "N,N'-Dimethylethylenediamine",
+            "366-18-7": "2,2'-Bipyridine",
+            "66-71-7": "1,10-Phenanthroline",
+            # Common solvents
+            "68-12-2": "Dimethylformamide",
+            "64-17-5": "Ethanol",
+            "108-88-3": "Toluene",
+            "107-06-2": "1,2-Dichloroethane",
+            "67-68-5": "Dimethyl sulfoxide",
+            "109-99-9": "Tetrahydrofuran",
+            "75-09-2": "Dichloromethane",
+            # Common reagents
+            "584-08-7": "Potassium carbonate",
+            "534-17-8": "Cesium carbonate", 
+            "497-19-8": "Sodium carbonate",
+            "7778-53-2": "Tripotassium phosphate",
+            "121-44-8": "Triethylamine",
+            "7782-44-7": "Oxygen",
+            "7732-18-5": "Water",
+        }
+        self.compound_types = {
+            # Catalyst cores (metal salts/precursors)
+            "142-71-2": "catalyst_core",
+            "7681-65-4": "catalyst_core", 
+            "7758-89-6": "catalyst_core",
+            "1317-39-1": "catalyst_core",
+            "7447-39-4": "catalyst_core",
+            "7787-70-4": "catalyst_core",  # CuBr
+            # Ligands
+            "6737-42-4": "ligand",  # dppp
+            "110-70-3": "ligand",
+            "366-18-7": "ligand",
+            "66-71-7": "ligand",
+            "1122-58-3": "ligand",  # DMAP can act as ligand
+            # Bases
+            "584-08-7": "base",
+            "534-17-8": "base",
+            "497-19-8": "base", 
+            "7778-53-2": "base",
+            "121-44-8": "base",
+            # Solvents
+            "68-12-2": "solvent",
+            "64-17-5": "solvent",
+            "108-88-3": "solvent",
+            "107-06-2": "solvent",
+            "67-68-5": "solvent",
+            "109-99-9": "solvent",
+            "75-09-2": "solvent",
+        }
+    
+    def validate_cas_format(self, cas: str) -> bool:
+        """Validate CAS number format (XXXXX-XX-X)."""
+        if not cas:
+            return False
+        import re
+        pattern = r'^\d{2,7}-\d{2}-\d$'
+        return bool(re.match(pattern, cas.strip()))
+    
+    def calculate_cas_checksum(self, cas: str) -> bool:
+        """Validate CAS number checksum."""
+        try:
+            # Remove hyphens
+            digits = cas.replace('-', '')
+            if len(digits) < 3:
+                return False
+            
+            check_digit = int(digits[-1])
+            body_digits = [int(d) for d in digits[:-1]]
+            
+            # Calculate checksum (rightmost digit has weight 1, next has weight 2, etc.)
+            total = 0
+            weight = 1
+            for digit in reversed(body_digits):
+                total += digit * weight
+                weight += 1
+            
+            return (total % 10) == check_digit
+        except (ValueError, IndexError):
+            return False
+    
+    def lookup_cas_online(self, cas: str) -> Optional[str]:
+        """Look up CAS number using online services (placeholder for future implementation)."""
+        # This would integrate with services like:
+        # - PubChem API
+        # - ChemSpider API  
+        # - SciFinder-n API
+        # For now, return None to use fallback methods
+        return None
+    
+    def get_compound_name(self, cas: str) -> str:
+        """Get the correct compound name for a CAS number."""
+        if not cas or not self.validate_cas_format(cas):
+            return cas or "Unknown"
+        
+        # Check manual corrections first
+        if cas in self.manual_corrections:
+            return self.manual_corrections[cas]
+        
+        # Try online lookup if available
+        if REQUESTS_AVAILABLE:
+            online_result = self.lookup_cas_online(cas)
+            if online_result:
+                self.cas_cache[cas] = online_result
+                return online_result
+        
+        # Validate checksum
+        if not self.calculate_cas_checksum(cas):
+            return f"{cas} (Invalid CAS)"
+        
+        # Return CAS as fallback
+        return cas
+    
+    def get_compound_type(self, cas: str) -> Optional[str]:
+        """Get the compound type (catalyst_core, ligand, base, solvent) for a CAS number."""
+        return self.compound_types.get(cas)
+    
+    def validate_compound_pair(self, name: str, cas: str) -> Tuple[str, str, List[str]]:
+        """Validate and correct a compound name/CAS pair.
+        
+        Returns:
+            Tuple of (corrected_name, corrected_cas, list_of_warnings)
+        """
+        warnings = []
+        corrected_name = name
+        corrected_cas = cas
+        
+        if not cas or not self.validate_cas_format(cas):
+            if cas:
+                warnings.append(f"Invalid CAS format: {cas}")
+            return corrected_name, corrected_cas, warnings
+        
+        # Check if CAS has valid checksum
+        if not self.calculate_cas_checksum(cas):
+            warnings.append(f"Invalid CAS checksum: {cas}")
+        
+        # Get the correct name for this CAS
+        correct_name = self.get_compound_name(cas)
+        
+        # If we have a manual correction and the provided name doesn't match
+        if cas in self.manual_corrections:
+            if name.lower() != correct_name.lower():
+                warnings.append(f"Name mismatch: '{name}' vs expected '{correct_name}' for CAS {cas}")
+                corrected_name = correct_name
+        
+        return corrected_name, corrected_cas, warnings
+
 
 class ReactionMarkdownGenerator:
     """Main class for generating markdown reports from RDF/TXT pairs."""
     
     def __init__(self):
         self.cas_map = {}
-        
+        self.cas_registry = CASRegistry()
+        self.validation_warnings = []
     def find_rdf_txt_pairs(self, folder_path: str) -> List[Tuple[str, str]]:
         """Find matching RDF/TXT pairs in the specified folder."""
         if not os.path.isdir(folder_path):
@@ -103,7 +275,7 @@ class ReactionMarkdownGenerator:
         return load_cas_maps(cas_map_paths) if cas_map_paths else {}
     
     def format_compound_list(self, compound_list: List[str], title: str) -> str:
-        """Format a list of compounds for markdown output."""
+        """Format a list of compounds for markdown output with CAS validation."""
         if not compound_list:
             return f"**{title}:** None\n"
         
@@ -111,12 +283,31 @@ class ReactionMarkdownGenerator:
         for compound in compound_list:
             if '|' in compound:
                 name, cas = compound.split('|', 1)
-                if name.strip() and cas.strip():
-                    result += f"  - {name.strip()} (CAS: {cas.strip()})\n"
-                elif name.strip():
-                    result += f"  - {name.strip()}\n"
-                elif cas.strip():
-                    result += f"  - CAS: {cas.strip()}\n"
+                name = name.strip()
+                cas = cas.strip()
+                
+                # Validate and correct the compound pair
+                corrected_name, corrected_cas, warnings = self.cas_registry.validate_compound_pair(name, cas)
+                
+                # Collect warnings for later reporting
+                for warning in warnings:
+                    self.validation_warnings.append(f"{title}: {warning}")
+                
+                if corrected_name and corrected_cas:
+                    # Use corrected values
+                    if corrected_name != cas:  # Don't show CAS twice if name is just the CAS
+                        result += f"  - {corrected_name} (CAS: {corrected_cas})"
+                    else:
+                        result += f"  - CAS: {corrected_cas}"
+                    
+                    # Add validation note if corrections were made
+                    if corrected_name != name or corrected_cas != cas:
+                        result += f" *[Corrected from: {name}|{cas}]*"
+                    result += "\n"
+                elif corrected_name:
+                    result += f"  - {corrected_name}\n"
+                elif corrected_cas:
+                    result += f"  - CAS: {corrected_cas}\n"
             else:
                 result += f"  - {compound}\n"
         
@@ -166,9 +357,12 @@ class ReactionMarkdownGenerator:
         return ""
     
     def generate_reaction_markdown(self, row: Dict[str, Any]) -> str:
-        """Generate markdown content for a single reaction."""
+        """Generate markdown content for a single reaction with validation."""
         reaction_id = row.get('ReactionID', 'Unknown')
         reaction_type = row.get('ReactionType', 'Unknown')
+        
+        # Clear warnings for this reaction
+        self.validation_warnings = []
         
         markdown = f"## Reaction {reaction_id}\n\n"
         markdown += f"**Type:** {reaction_type}\n\n"
@@ -191,7 +385,7 @@ class ReactionMarkdownGenerator:
             reagent_roles = []
             solvents = []
         
-        # Format catalytic system
+        # Format catalytic system with validation
         if full_catalytic:
             markdown += self.format_compound_list(full_catalytic, "Full Catalytic System")
         
@@ -204,19 +398,33 @@ class ReactionMarkdownGenerator:
         if ligands:
             markdown += self.format_compound_list(ligands, "Ligands")
         
-        # Format reagents with roles
+        # Format reagents with roles and validation
         if reagents:
             markdown += "**Reagents:**\n"
             for i, reagent in enumerate(reagents):
                 role = reagent_roles[i] if i < len(reagent_roles) else "UNK"
                 if '|' in reagent:
                     name, cas = reagent.split('|', 1)
-                    if name.strip() and cas.strip():
-                        markdown += f"  - {name.strip()} (CAS: {cas.strip()}) - Role: {role}\n"
-                    elif name.strip():
-                        markdown += f"  - {name.strip()} - Role: {role}\n"
-                    elif cas.strip():
-                        markdown += f"  - CAS: {cas.strip()} - Role: {role}\n"
+                    name = name.strip()
+                    cas = cas.strip()
+                    
+                    # Validate reagent
+                    corrected_name, corrected_cas, warnings = self.cas_registry.validate_compound_pair(name, cas)
+                    for warning in warnings:
+                        self.validation_warnings.append(f"Reagent: {warning}")
+                    
+                    if corrected_name and corrected_cas:
+                        display_text = f"{corrected_name} (CAS: {corrected_cas})"
+                        if corrected_name != name or corrected_cas != cas:
+                            display_text += f" *[Corrected from: {name}|{cas}]*"
+                    elif corrected_name:
+                        display_text = corrected_name
+                    elif corrected_cas:
+                        display_text = f"CAS: {corrected_cas}"
+                    else:
+                        display_text = reagent
+                    
+                    markdown += f"  - {display_text} - Role: {role}\n"
                 else:
                     markdown += f"  - {reagent} - Role: {role}\n"
             markdown += "\n"
@@ -233,13 +441,20 @@ class ReactionMarkdownGenerator:
         # Add reference
         markdown += self.format_reference(row)
         
+        # Add validation warnings if any
+        if self.validation_warnings:
+            markdown += "**Data Quality Warnings:**\n"
+            for warning in self.validation_warnings:
+                markdown += f"  - ⚠️ {warning}\n"
+            markdown += "\n"
+        
         # Add separator
         markdown += "---\n\n"
         
         return markdown
     
     def generate_summary_statistics(self, rows: List[Dict[str, Any]]) -> str:
-        """Generate summary statistics for the markdown report."""
+        """Generate summary statistics for the markdown report with data quality metrics."""
         if not rows:
             return "## Summary\n\nNo reactions found.\n\n"
         
@@ -248,6 +463,8 @@ class ReactionMarkdownGenerator:
         total_reactions = len(rows)
         reactions_with_yield = 0
         avg_yield = 0
+        total_warnings = 0
+        reactions_with_warnings = 0
         
         for row in rows:
             reaction_type = row.get('ReactionType', 'Unknown')
@@ -278,6 +495,13 @@ class ReactionMarkdownGenerator:
             markdown += f"**Yield Statistics:**\n"
             markdown += f"  - Reactions with yield data: {reactions_with_yield}/{total_reactions}\n"
             markdown += f"  - Average yield: {avg_yield:.1f}%\n\n"
+        
+        # Add data quality section
+        markdown += "**Data Quality Notes:**\n"
+        markdown += "  - CAS number validation and correction enabled\n"
+        markdown += "  - Compound name/CAS mismatches are automatically flagged\n"
+        markdown += "  - Manual corrections applied for known common compounds\n"
+        markdown += "  - Look for ⚠️ warnings in individual reactions for data quality issues\n\n"
         
         return markdown
     

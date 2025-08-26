@@ -396,18 +396,46 @@ class ReactionMarkdownGenerator:
         
         return result + "\n"
     
+    def clean_original_line(self, line: str) -> str:
+        """Clean up SciFinder formatting artifacts from original text lines."""
+        cleaned = line.strip()
+        
+        # Skip empty lines or lines with only pipes and spaces
+        if not cleaned or set(cleaned) <= {' ', '|'}:
+            return ""
+        
+        # Remove leading and trailing pipes
+        cleaned = cleaned.strip('|').strip()
+        
+        # Clean up multiple consecutive spaces
+        import re
+        cleaned = re.sub(r'\s+', ' ', cleaned)
+        
+        # Filter out scheme headers (e.g., "164. Scheme 164 (1 Reaction)")
+        scheme_pattern = r'^\d+\.\s*Scheme\s+\d+\s*\(\d+\s*Reactions?\)$'
+        if re.match(scheme_pattern, cleaned, re.IGNORECASE):
+            return ""
+        
+        # If after cleaning we only have empty content, return empty
+        if not cleaned:
+            return ""
+        
+        return cleaned
+
     def format_original_text(self, row: Dict[str, Any]) -> str:
-        """Format original text information for markdown output."""
+        """Format original text information for markdown output with cleaned formatting."""
         original_text = row.get('original_text', [])
         if not original_text:
             return ""
         
         result = "**Original Text:**\n"
         result += "```\n"
+        
         for line in original_text:
-            # Strip excessive whitespace but preserve some formatting
-            cleaned_line = line.rstrip()
-            result += cleaned_line + "\n"
+            cleaned_line = self.clean_original_line(line)
+            if cleaned_line:  # Only add non-empty lines
+                result += cleaned_line + "\n"
+        
         result += "```\n"
         
         return result + "\n"
@@ -612,8 +640,13 @@ class ReactionMarkdownGenerator:
             # Generate markdown report
             self.generate_markdown_report(rows, output_path, folder_path)
             
+            # Also generate JSONL export for analysis
+            jsonl_path = output_path.replace('.md', '.jsonl')
+            self.generate_jsonl_export(rows, jsonl_path, folder_path)
+            
             if progress_callback:
                 progress_callback(f"Report generated successfully: {output_path}")
+                progress_callback(f"JSONL export generated: {jsonl_path}")
             
             return True
             
@@ -673,7 +706,14 @@ class ReactionMarkdownGenerator:
         reagents = safe_json_parse(row.get('Reagent', '[]'))
         reagent_roles = safe_json_parse(row.get('ReagentRole', '[]'))
         solvents = safe_json_parse(row.get('Solvent', '[]'))
-        original_text = row.get('original_text', [])
+        original_text_raw = row.get('original_text', [])
+        
+        # Clean original text for better readability
+        original_text = []
+        for line in original_text_raw:
+            cleaned_line = self.clean_original_line(line)
+            if cleaned_line:  # Only add non-empty lines
+                original_text.append(cleaned_line)
         
         # Parse reference
         reference_raw = row.get('Reference', '')
@@ -825,7 +865,9 @@ class MarkdownGeneratorGUI(QtWidgets.QWidget):
         
         # Description
         desc = QtWidgets.QLabel(
-            "Select a folder containing RDF/TXT pairs to generate a centralized markdown report.\n"
+            "Select a folder containing RDF/TXT pairs to generate reports in two formats:\n"
+            "• Markdown (.md) - Human-readable reports with reaction details\n"
+            "• JSONL (.jsonl) - Structured data for analysis and machine learning\n"
             "The tool will automatically find matching pairs and extract reaction information."
         )
         desc.setWordWrap(True)
@@ -925,8 +967,13 @@ class MarkdownGeneratorGUI(QtWidgets.QWidget):
             success = self.generator.process_folder(folder, output, self.log_progress)
             
             if success:
+                jsonl_output = output.replace('.md', '.jsonl')
                 QtWidgets.QMessageBox.information(
-                    self, "Success", f"Markdown report generated successfully!\n\nFile: {output}"
+                    self, "Success", 
+                    f"Reports generated successfully!\n\n"
+                    f"Markdown: {output}\n"
+                    f"JSONL: {jsonl_output}\n\n"
+                    f"The JSONL file is optimized for data analysis and machine learning."
                 )
             else:
                 QtWidgets.QMessageBox.critical(

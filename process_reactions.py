@@ -368,6 +368,7 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
     current_title = ""
     current_authors = ""
     current_citation = ""
+    current_doi = ""
 
     with open(path, 'r', encoding='utf-8', errors='ignore') as f:
         lines = [ln.rstrip('\n') for ln in f]
@@ -386,6 +387,9 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
         if re.search(r"\(20\d{2}\)", line):
             # Prefer the line that looks like Journal (year), vol, pages.
             current_citation = line.strip()
+        # Capture DOI lines (lines starting with '10.')
+        if line.startswith('10.'):
+            current_doi = line.strip()
 
         # If we hit a reaction header, start collecting
         if line.startswith('Steps:'):
@@ -413,14 +417,19 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                     'title': current_title,
                     'authors': current_authors,
                     'citation': current_citation,
+                    'doi': current_doi,
                     'txt_yield': pending_yield,
                     'reagents': [],
                     'catalysts': [],
                     'solvents': [],
                     'all_condition_lines': [],
+                    'original_text': [],  # Store original raw text lines
                 })
 
                 # Collect step details until the next blank separator or next scheme/title block
+                # Start collecting from the "Steps:" line itself
+                original_lines = [lines[i]]  # Start with the Steps: line
+                
                 # Collect step details for this block starting after the Steps: line
                 k = i + 1
                 while k < len(lines):
@@ -433,8 +442,12 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                         break
                     # Many blocks end with a line that's just a '?'
                     if s == '?':
+                        original_lines.append(lines[k])  # Collect the '?' line as well
                         k += 1
                         break
+                    
+                    # Collect the original line for preservation
+                    original_lines.append(lines[k])
                     # Collect content; SciFinder often uses '|' separators and step prefixes like '1.1|'
                     segments = [seg.strip() for seg in (s.split('|') if '|' in s else [s]) if seg.strip()]
                     for seg in segments:
@@ -487,6 +500,10 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                         k += 1
                         continue
                     k += 1
+                
+                # Store the collected original text for this reaction
+                rec['original_text'] = original_lines
+                
                 # advance
                 i = k
                 continue
@@ -1294,11 +1311,12 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         time_h = t.get('time_h')
         yield_pct = r.get('yield_pct') if r.get('yield_pct') is not None else t.get('txt_yield')
 
-        # Reference priority: TXT-derived title/authors/citation; fallback to RDF
+        # Reference priority: TXT-derived title/authors/citation/doi; fallback to RDF
         title = t.get('title') or r.get('title') or ''
         authors = t.get('authors') or r.get('authors') or ''
         citation = t.get('citation') or r.get('citation') or ''
-        reference = ' | '.join([x for x in [title, authors, citation] if x])
+        doi = t.get('doi') or ''
+        reference = ' | '.join([x for x in [title, authors, citation, doi] if x])
 
         # RawCAS trail
         def join_plus(lst):
@@ -1538,6 +1556,8 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             'RGTName': _json_list(rgt_names),
             'CATName': _json_list(cat_names),
             'SOLName': _json_list(sol_names),
+            # Original text preservation
+            'original_text': t.get('original_text', []),
         }
 
         # Build keys/hashes

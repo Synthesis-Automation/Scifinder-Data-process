@@ -16,7 +16,18 @@ Features:
 
 Dependencies:
 - PyQt6 (or PySide6 as fallback)
-- process_reactions module (for parsing logic)
+- process_reactions module (for parsing             # Generate markdown report
+            self.generate_markdown_report(rows, output_path, source_folder)
+            
+            # Also generate JSONL export for analysis
+            jsonl_path = output_path.replace('.md', '.jsonl')
+            self.generate_jsonl_export(rows, jsonl_path, source_folder)
+            
+            if progress_callback:
+                progress_callback(f"Report generated successfully: {output_path}")
+                progress_callback(f"JSONL export generated: {jsonl_path}")
+            
+            return True
 """
 from __future__ import annotations
 
@@ -352,9 +363,54 @@ class ReactionMarkdownGenerator:
     def format_reference(self, row: Dict[str, Any]) -> str:
         """Format reference information for markdown output."""
         reference = row.get('Reference', '').strip()
-        if reference:
-            return f"**Reference:** {reference}\n\n"
-        return ""
+        if not reference:
+            return ""
+        
+        # Parse reference format: title | authors | citation | doi
+        parts = [part.strip() for part in reference.split('|')]
+        
+        result = "**Reference:**\n"
+        
+        if len(parts) >= 1 and parts[0]:
+            # Title (first part)
+            result += f"  - **Title:** {parts[0]}\n"
+        
+        if len(parts) >= 2 and parts[1]:
+            # Authors (second part)
+            result += f"  - **Authors:** {parts[1]}\n"
+        
+        if len(parts) >= 3 and parts[2]:
+            # Citation (third part)
+            result += f"  - **Citation:** {parts[2]}\n"
+        
+        if len(parts) >= 4 and parts[3]:
+            # DOI (fourth part)
+            doi = parts[3].strip()
+            if doi:
+                # Format DOI as a clickable link
+                result += f"  - **DOI:** [https://doi.org/{doi}](https://doi.org/{doi})\n"
+        
+        # If only one part or doesn't follow expected format, show as-is
+        if len(parts) == 1 or not any(parts[1:]):
+            result = f"**Reference:** {reference}\n"
+        
+        return result + "\n"
+    
+    def format_original_text(self, row: Dict[str, Any]) -> str:
+        """Format original text information for markdown output."""
+        original_text = row.get('original_text', [])
+        if not original_text:
+            return ""
+        
+        result = "**Original Text:**\n"
+        result += "```\n"
+        for line in original_text:
+            # Strip excessive whitespace but preserve some formatting
+            cleaned_line = line.rstrip()
+            result += cleaned_line + "\n"
+        result += "```\n"
+        
+        return result + "\n"
     
     def generate_reaction_markdown(self, row: Dict[str, Any]) -> str:
         """Generate markdown content for a single reaction with validation."""
@@ -440,6 +496,9 @@ class ReactionMarkdownGenerator:
         
         # Add reference
         markdown += self.format_reference(row)
+        
+        # Add original text if available
+        markdown += self.format_original_text(row)
         
         # Add validation warnings if any
         if self.validation_warnings:
@@ -583,6 +642,166 @@ class ReactionMarkdownGenerator:
             
             for row in sorted_rows:
                 f.write(self.generate_reaction_markdown(row))
+    
+    def generate_jsonl_export(self, rows: List[Dict[str, Any]], output_path: str, source_folder: str):
+        """Generate JSONL export for data analysis and machine learning."""
+        with open(output_path, 'w', encoding='utf-8') as f:
+            for row in rows:
+                # Create analysis-optimized record
+                analysis_record = self.prepare_analysis_record(row)
+                
+                # Write as single line JSON
+                f.write(json.dumps(analysis_record, ensure_ascii=False) + '\n')
+    
+    def prepare_analysis_record(self, row: Dict[str, Any]) -> Dict[str, Any]:
+        """Prepare a reaction record optimized for analysis and ML."""
+        
+        # Parse JSON fields safely
+        def safe_json_parse(value, default=None):
+            if isinstance(value, str):
+                try:
+                    return json.loads(value)
+                except json.JSONDecodeError:
+                    return default if default is not None else []
+            return value if value is not None else (default if default is not None else [])
+        
+        # Extract and clean data
+        catalyst_core = safe_json_parse(row.get('CatalystCoreDetail', '[]'))
+        catalyst_generic = safe_json_parse(row.get('CatalystCoreGeneric', '[]'))
+        ligands = safe_json_parse(row.get('Ligand', '[]'))
+        full_catalytic = safe_json_parse(row.get('FullCatalyticSystem', '[]'))
+        reagents = safe_json_parse(row.get('Reagent', '[]'))
+        reagent_roles = safe_json_parse(row.get('ReagentRole', '[]'))
+        solvents = safe_json_parse(row.get('Solvent', '[]'))
+        original_text = row.get('original_text', [])
+        
+        # Parse reference
+        reference_raw = row.get('Reference', '')
+        reference_parts = [part.strip() for part in reference_raw.split('|')] if reference_raw else []
+        
+        reference = {
+            'title': reference_parts[0] if len(reference_parts) > 0 else '',
+            'authors': reference_parts[1] if len(reference_parts) > 1 else '',
+            'citation': reference_parts[2] if len(reference_parts) > 2 else '',
+            'doi': reference_parts[3] if len(reference_parts) > 3 else '',
+            'raw': reference_raw
+        }
+        
+        # Extract compound information with CAS numbers
+        def extract_compounds(compound_list):
+            compounds = []
+            for item in compound_list:
+                if '|' in item:
+                    name, cas = item.split('|', 1)
+                    compounds.append({
+                        'name': name.strip(),
+                        'cas': cas.strip(),
+                        'name_cas': item
+                    })
+                else:
+                    compounds.append({
+                        'name': item.strip(),
+                        'cas': '',
+                        'name_cas': item
+                    })
+            return compounds
+        
+        # Combine reagents with roles
+        reagent_data = []
+        for i, reagent in enumerate(reagents):
+            role = reagent_roles[i] if i < len(reagent_roles) else 'UNK'
+            if '|' in reagent:
+                name, cas = reagent.split('|', 1)
+                reagent_data.append({
+                    'name': name.strip(),
+                    'cas': cas.strip(),
+                    'role': role,
+                    'name_cas': reagent
+                })
+            else:
+                reagent_data.append({
+                    'name': reagent.strip(),
+                    'cas': '',
+                    'role': role,
+                    'name_cas': reagent
+                })
+        
+        # Parse numerical values safely
+        def safe_float(value):
+            if value is None or value == '':
+                return None
+            try:
+                return float(value)
+            except (ValueError, TypeError):
+                return None
+        
+        # Build analysis-optimized record
+        analysis_record = {
+            # Basic identifiers
+            'reaction_id': row.get('ReactionID', ''),
+            'reaction_type': row.get('ReactionType', ''),
+            
+            # Catalytic system (structured)
+            'catalyst': {
+                'core': extract_compounds(catalyst_core),
+                'generic': catalyst_generic,
+                'ligands': extract_compounds(ligands),
+                'full_system': extract_compounds(full_catalytic)
+            },
+            
+            # Reagents (structured with roles)
+            'reagents': reagent_data,
+            
+            # Solvents (structured)
+            'solvents': extract_compounds(solvents),
+            
+            # Reaction conditions
+            'conditions': {
+                'temperature_c': safe_float(row.get('Temperature_C')),
+                'time_h': safe_float(row.get('Time_h')),
+                'yield_pct': safe_float(row.get('Yield_%'))
+            },
+            
+            # Chemical structures
+            'smiles': {
+                'reactants': row.get('ReactantSMILES', ''),
+                'products': row.get('ProductSMILES', '')
+            },
+            
+            # Reference information (structured)
+            'reference': reference,
+            
+            # Original text for debugging/analysis
+            'original_text': original_text,
+            
+            # Computed signatures for similarity analysis
+            'signatures': {
+                'cond_key': row.get('CondKey', ''),
+                'cond_sig': row.get('CondSig', ''),
+                'fam_sig': row.get('FamSig', '')
+            },
+            
+            # Raw data preservation
+            'raw_data': {
+                'raw_cas': row.get('RawCAS', ''),
+                'raw_data_json': row.get('RawData', ''),
+                'enriched_names': {
+                    'reactants': safe_json_parse(row.get('RCTName', '[]')),
+                    'products': safe_json_parse(row.get('PROName', '[]')),
+                    'reagents': safe_json_parse(row.get('RGTName', '[]')),
+                    'catalysts': safe_json_parse(row.get('CATName', '[]')),
+                    'solvents': safe_json_parse(row.get('SOLName', '[]'))
+                }
+            },
+            
+            # Metadata
+            'metadata': {
+                'export_timestamp': datetime.now().isoformat(),
+                'export_version': '1.0'
+            }
+        }
+        
+        return analysis_record
 
 
 class MarkdownGeneratorGUI(QtWidgets.QWidget):

@@ -1,0 +1,1645 @@
+{
+  "solvents": [
+    {
+      "solvent": "Acetic Acid",
+      "abbreviation": "AcOH",
+      "cas": "64-19-7",
+      "dielectric_constant": 6.2,
+      "polarity_index": 6.2,
+      "boiling_point_c": 118.0,
+      "density_g_ml": 1.0446,
+      "dipole_moment_d": 1.74,
+      "donor_number_dn": 12.6,
+      "hydrogen_bond_donor": 1.12,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.9
+      },
+      "typical_applications": [
+        "Carbonylation",
+        "esterification"
+      ]
+    },
+    {
+      "solvent": "Acetone",
+      "abbreviation": "Me2CO",
+      "cas": "67-64-1",
+      "dielectric_constant": 21.01,
+      "polarity_index": 5.1,
+      "boiling_point_c": 56.05,
+      "density_g_ml": 0.7845,
+      "dipole_moment_d": 2.69,
+      "donor_number_dn": 17.0,
+      "hydrogen_bond_donor": 0.08,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "Acetonitrile",
+      "abbreviation": "MeCN",
+      "cas": "75-05-8",
+      "dielectric_constant": 36.64,
+      "polarity_index": 5.8,
+      "boiling_point_c": 81.65,
+      "density_g_ml": 0.7857,
+      "dipole_moment_d": 3.92,
+      "donor_number_dn": 14.1,
+      "hydrogen_bond_donor": 0.19,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "C-H activation"
+      ]
+    },
+    {
+      "solvent": "Benzene",
+      "abbreviation": "PhH",
+      "cas": "71-43-2",
+      "dielectric_constant": 2.28,
+      "polarity_index": 2.7,
+      "boiling_point_c": 80.1,
+      "density_g_ml": 0.8765,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.1,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "C-H activation",
+        "aromatic chemistry"
+      ]
+    },
+    {
+      "solvent": "1-Butanol",
+      "abbreviation": "BuOH",
+      "cas": "71-36-3",
+      "dielectric_constant": 17.8,
+      "polarity_index": 3.9,
+      "boiling_point_c": 117.7,
+      "density_g_ml": 0.8095,
+      "dipole_moment_d": 1.66,
+      "donor_number_dn": 23.0,
+      "hydrogen_bond_donor": 0.84,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "2-Butanol",
+      "abbreviation": "sBuOH",
+      "cas": "78-92-2",
+      "dielectric_constant": 16.1,
+      "polarity_index": 3.9,
+      "boiling_point_c": 99.5,
+      "density_g_ml": 0.808,
+      "dipole_moment_d": 1.63,
+      "donor_number_dn": 22.0,
+      "hydrogen_bond_donor": 0.83,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "tert-Butanol",
+      "abbreviation": "tBuOH",
+      "cas": "75-65-0",
+      "dielectric_constant": 12.5,
+      "polarity_index": 4.0,
+      "boiling_point_c": 82.2,
+      "density_g_ml": 0.786,
+      "dipole_moment_d": 1.67,
+      "donor_number_dn": 21.5,
+      "hydrogen_bond_donor": 0.68,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "bulky substrates"
+      ]
+    },
+    {
+      "solvent": "Carbon Tetrachloride",
+      "abbreviation": "CCl4",
+      "cas": "56-23-5",
+      "dielectric_constant": 2.24,
+      "polarity_index": 1.6,
+      "boiling_point_c": 76.72,
+      "density_g_ml": 1.594,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.8,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Metathesis",
+        "chlorination"
+      ]
+    },
+    {
+      "solvent": "Chloroform",
+      "abbreviation": "CHCl3",
+      "cas": "67-66-3",
+      "dielectric_constant": 4.81,
+      "polarity_index": 4.1,
+      "boiling_point_c": 61.2,
+      "density_g_ml": 1.4892,
+      "dipole_moment_d": 1.04,
+      "donor_number_dn": 4.0,
+      "hydrogen_bond_donor": 0.2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.5,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Extraction",
+        "cross-coupling"
+      ]
+    },
+    {
+      "solvent": "Cyclohexane",
+      "abbreviation": "cHex",
+      "cas": "110-82-7",
+      "dielectric_constant": 2.02,
+      "polarity_index": 0.2,
+      "boiling_point_c": 80.7,
+      "density_g_ml": 0.7781,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Non-polar reactions",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "Dichloromethane",
+      "abbreviation": "DCM",
+      "cas": "75-09-2",
+      "dielectric_constant": 8.93,
+      "polarity_index": 3.1,
+      "boiling_point_c": 39.7,
+      "density_g_ml": 1.3255,
+      "dipole_moment_d": 1.6,
+      "donor_number_dn": 1.0,
+      "hydrogen_bond_donor": 0.13,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "Diethyl Ether",
+      "abbreviation": "Et2O",
+      "cas": "60-29-7",
+      "dielectric_constant": 4.33,
+      "polarity_index": 2.8,
+      "boiling_point_c": 34.5,
+      "density_g_ml": 0.7134,
+      "dipole_moment_d": 1.15,
+      "donor_number_dn": 19.2,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.5,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Extraction",
+        "hydrogenation"
+      ]
+    },
+    {
+      "solvent": "Dimethylformamide",
+      "abbreviation": "DMF",
+      "cas": "68-12-2",
+      "dielectric_constant": 36.7,
+      "polarity_index": 6.4,
+      "boiling_point_c": 153.0,
+      "density_g_ml": 0.9445,
+      "dipole_moment_d": 3.82,
+      "donor_number_dn": 26.6,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.9
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "amide formation"
+      ]
+    },
+    {
+      "solvent": "Dimethyl Sulfoxide",
+      "abbreviation": "DMSO",
+      "cas": "67-68-5",
+      "dielectric_constant": 47.2,
+      "polarity_index": 7.2,
+      "boiling_point_c": 189.0,
+      "density_g_ml": 1.1004,
+      "dipole_moment_d": 3.96,
+      "donor_number_dn": 29.8,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.9,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Oxidation",
+        "polar reactions"
+      ]
+    },
+    {
+      "solvent": "Ethanol",
+      "abbreviation": "EtOH",
+      "cas": "64-17-5",
+      "dielectric_constant": 24.3,
+      "polarity_index": 4.3,
+      "boiling_point_c": 78.37,
+      "density_g_ml": 0.7893,
+      "dipole_moment_d": 1.69,
+      "donor_number_dn": 19.6,
+      "hydrogen_bond_donor": 0.86,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "Ethyl Acetate",
+      "abbreviation": "EtOAc",
+      "cas": "141-78-6",
+      "dielectric_constant": 6.02,
+      "polarity_index": 4.4,
+      "boiling_point_c": 77.1,
+      "density_g_ml": 0.897,
+      "dipole_moment_d": 1.78,
+      "donor_number_dn": 17.1,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Extraction",
+        "esterification"
+      ]
+    },
+    {
+      "solvent": "Hexane",
+      "abbreviation": "Hex",
+      "cas": "110-54-3",
+      "dielectric_constant": 1.88,
+      "polarity_index": 0.1,
+      "boiling_point_c": 68.7,
+      "density_g_ml": 0.6548,
+      "dipole_moment_d": 0.08,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Non-polar extraction"
+      ]
+    },
+    {
+      "solvent": "Methanol",
+      "abbreviation": "MeOH",
+      "cas": "67-56-1",
+      "dielectric_constant": 32.6,
+      "polarity_index": 5.1,
+      "boiling_point_c": 64.7,
+      "density_g_ml": 0.7918,
+      "dipole_moment_d": 1.7,
+      "donor_number_dn": 19.0,
+      "hydrogen_bond_donor": 0.98,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "1-Propanol",
+      "abbreviation": "nPrOH",
+      "cas": "71-23-8",
+      "dielectric_constant": 20.1,
+      "polarity_index": 4.0,
+      "boiling_point_c": 97.2,
+      "density_g_ml": 0.8039,
+      "dipole_moment_d": 1.68,
+      "donor_number_dn": 20.0,
+      "hydrogen_bond_donor": 0.84,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "2-Propanol",
+      "abbreviation": "iPrOH",
+      "cas": "67-63-0",
+      "dielectric_constant": 18.3,
+      "polarity_index": 3.9,
+      "boiling_point_c": 82.6,
+      "density_g_ml": 0.7855,
+      "dipole_moment_d": 1.66,
+      "donor_number_dn": 21.1,
+      "hydrogen_bond_donor": 0.76,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "Pyridine",
+      "abbreviation": "Py",
+      "cas": "110-86-1",
+      "dielectric_constant": 12.3,
+      "polarity_index": 5.3,
+      "boiling_point_c": 115.2,
+      "density_g_ml": 0.9819,
+      "dipole_moment_d": 2.19,
+      "donor_number_dn": 33.1,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "base reactions"
+      ]
+    },
+    {
+      "solvent": "THF",
+      "abbreviation": "THF",
+      "cas": "109-99-9",
+      "dielectric_constant": 7.6,
+      "polarity_index": 4.0,
+      "boiling_point_c": 66.0,
+      "density_g_ml": 0.8892,
+      "dipole_moment_d": 1.75,
+      "donor_number_dn": 20.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "organometallic"
+      ]
+    },
+    {
+      "solvent": "Toluene",
+      "abbreviation": "PhMe",
+      "cas": "108-88-3",
+      "dielectric_constant": 2.38,
+      "polarity_index": 2.4,
+      "boiling_point_c": 110.6,
+      "density_g_ml": 0.8669,
+      "dipole_moment_d": 0.31,
+      "donor_number_dn": 0.1,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "C-H activation",
+        "aromatic"
+      ]
+    },
+    {
+      "solvent": "Water",
+      "abbreviation": "H2O",
+      "cas": "7732-18-5",
+      "dielectric_constant": 80.1,
+      "polarity_index": 9.0,
+      "boiling_point_c": 100.0,
+      "density_g_ml": 0.9982,
+      "dipole_moment_d": 1.85,
+      "donor_number_dn": 18.0,
+      "hydrogen_bond_donor": 1.17,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.2,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.3,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Hydrophilic reactions"
+      ]
+    },
+    {
+      "solvent": "m-Xylene",
+      "abbreviation": "m-Xyl",
+      "cas": "108-38-3",
+      "dielectric_constant": 2.27,
+      "polarity_index": 2.5,
+      "boiling_point_c": 139.0,
+      "density_g_ml": 0.864,
+      "dipole_moment_d": 0.37,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "C-H activation",
+        "aromatic"
+      ]
+    },
+    {
+      "solvent": "o-Xylene",
+      "abbreviation": "o-Xyl",
+      "cas": "95-47-6",
+      "dielectric_constant": 2.57,
+      "polarity_index": 2.5,
+      "boiling_point_c": 144.4,
+      "density_g_ml": 0.8802,
+      "dipole_moment_d": 0.45,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "C-H activation",
+        "aromatic"
+      ]
+    },
+    {
+      "solvent": "p-Xylene",
+      "abbreviation": "p-Xyl",
+      "cas": "106-42-3",
+      "dielectric_constant": 2.27,
+      "polarity_index": 2.5,
+      "boiling_point_c": 138.4,
+      "density_g_ml": 0.8611,
+      "dipole_moment_d": 0.3,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "C-H activation",
+        "aromatic"
+      ]
+    },
+    {
+      "solvent": "1,2-Dichloroethane",
+      "abbreviation": "DCE",
+      "cas": "107-06-2",
+      "dielectric_constant": 10.36,
+      "polarity_index": 3.5,
+      "boiling_point_c": 83.5,
+      "density_g_ml": 1.253,
+      "dipole_moment_d": 1.86,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "1,4-Dioxane",
+      "abbreviation": "Diox",
+      "cas": "123-91-1",
+      "dielectric_constant": 2.21,
+      "polarity_index": 4.8,
+      "boiling_point_c": 101.1,
+      "density_g_ml": 1.033,
+      "dipole_moment_d": 0.45,
+      "donor_number_dn": 14.8,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "coordination"
+      ]
+    },
+    {
+      "solvent": "Chlorobenzene",
+      "abbreviation": "PhCl",
+      "cas": "108-90-7",
+      "dielectric_constant": 5.62,
+      "polarity_index": 2.7,
+      "boiling_point_c": 131.7,
+      "density_g_ml": 1.106,
+      "dipole_moment_d": 1.69,
+      "donor_number_dn": 3.3,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "C-H activation",
+        "electrophilic"
+      ]
+    },
+    {
+      "solvent": "Cyclohexanone",
+      "abbreviation": "cHexone",
+      "cas": "108-94-1",
+      "dielectric_constant": 18.3,
+      "polarity_index": 4.5,
+      "boiling_point_c": 155.6,
+      "density_g_ml": 0.947,
+      "dipole_moment_d": 2.87,
+      "donor_number_dn": 16.1,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Ketone chemistry",
+        "oxidation"
+      ]
+    },
+    {
+      "solvent": "Dibutyl Ether",
+      "abbreviation": "Bu2O",
+      "cas": "142-96-1",
+      "dielectric_constant": 3.08,
+      "polarity_index": 2.9,
+      "boiling_point_c": 141.0,
+      "density_g_ml": 0.764,
+      "dipole_moment_d": 1.18,
+      "donor_number_dn": 20.2,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.5,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Extraction",
+        "non-polar"
+      ]
+    },
+    {
+      "solvent": "Diisopropyl Ether",
+      "abbreviation": "iPr2O",
+      "cas": "108-20-3",
+      "dielectric_constant": 3.88,
+      "polarity_index": 2.4,
+      "boiling_point_c": 68.5,
+      "density_g_ml": 0.72,
+      "dipole_moment_d": 1.13,
+      "donor_number_dn": 19.5,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.5,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Extraction",
+        "organometallic"
+      ]
+    },
+    {
+      "solvent": "Ethylene Glycol",
+      "abbreviation": "EG",
+      "cas": "107-21-1",
+      "dielectric_constant": 37.7,
+      "polarity_index": 6.9,
+      "boiling_point_c": 197.3,
+      "density_g_ml": 1.113,
+      "dipole_moment_d": 2.28,
+      "donor_number_dn": 19.0,
+      "hydrogen_bond_donor": 0.9,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Polymerization",
+        "high bp"
+      ]
+    },
+    {
+      "solvent": "Heptane",
+      "abbreviation": "Hept",
+      "cas": "142-82-5",
+      "dielectric_constant": 1.92,
+      "polarity_index": 0.2,
+      "boiling_point_c": 98.4,
+      "density_g_ml": 0.684,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Extraction",
+        "non-polar"
+      ]
+    },
+    {
+      "solvent": "Isobutanol",
+      "abbreviation": "iBuOH",
+      "cas": "78-83-1",
+      "dielectric_constant": 17.93,
+      "polarity_index": 3.9,
+      "boiling_point_c": 108.0,
+      "density_g_ml": 0.802,
+      "dipole_moment_d": 1.64,
+      "donor_number_dn": 21.5,
+      "hydrogen_bond_donor": 0.79,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "Isopropyl Acetate",
+      "abbreviation": "iPrOAc",
+      "cas": "108-21-4",
+      "dielectric_constant": 18.3,
+      "polarity_index": 4.3,
+      "boiling_point_c": 85.0,
+      "density_g_ml": 0.872,
+      "dipole_moment_d": 1.8,
+      "donor_number_dn": 16.8,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Esterification",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "Methyl Ethyl Ketone",
+      "abbreviation": "MEK",
+      "cas": "78-93-3",
+      "dielectric_constant": 18.5,
+      "polarity_index": 4.7,
+      "boiling_point_c": 79.6,
+      "density_g_ml": 0.805,
+      "dipole_moment_d": 2.76,
+      "donor_number_dn": 17.4,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Ketone chemistry",
+        "oxidation"
+      ]
+    },
+    {
+      "solvent": "N-Methyl-2-pyrrolidone",
+      "abbreviation": "NMP",
+      "cas": "872-50-4",
+      "dielectric_constant": 32.2,
+      "polarity_index": 6.7,
+      "boiling_point_c": 202.0,
+      "density_g_ml": 1.028,
+      "dipole_moment_d": 4.09,
+      "donor_number_dn": 27.3,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.9
+      },
+      "typical_applications": [
+        "Polar aprotic reactions"
+      ]
+    },
+    {
+      "solvent": "Nitromethane",
+      "abbreviation": "MeNO2",
+      "cas": "75-52-5",
+      "dielectric_constant": 35.87,
+      "polarity_index": 6.7,
+      "boiling_point_c": 101.2,
+      "density_g_ml": 1.138,
+      "dipole_moment_d": 3.46,
+      "donor_number_dn": 2.7,
+      "hydrogen_bond_donor": 0.22,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Nitration",
+        "polar reactions"
+      ]
+    },
+    {
+      "solvent": "Pentane",
+      "abbreviation": "Pent",
+      "cas": "109-66-0",
+      "dielectric_constant": 1.84,
+      "polarity_index": 0.0,
+      "boiling_point_c": 36.1,
+      "density_g_ml": 0.626,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Non-polar extraction"
+      ]
+    },
+    {
+      "solvent": "Propionic Acid",
+      "abbreviation": "PrCOOH",
+      "cas": "79-09-4",
+      "dielectric_constant": 3.44,
+      "polarity_index": 3.0,
+      "boiling_point_c": 141.0,
+      "density_g_ml": 0.993,
+      "dipole_moment_d": 1.75,
+      "donor_number_dn": 12.8,
+      "hydrogen_bond_donor": 1.12,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Esterification",
+        "carbonylation"
+      ]
+    },
+    {
+      "solvent": "Tetrachloroethylene",
+      "abbreviation": "PCE",
+      "cas": "127-18-4",
+      "dielectric_constant": 2.5,
+      "polarity_index": 2.9,
+      "boiling_point_c": 121.2,
+      "density_g_ml": 1.622,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.7,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Metathesis",
+        "dehydration"
+      ]
+    },
+    {
+      "solvent": "Triethylamine",
+      "abbreviation": "NEt3",
+      "cas": "121-44-8",
+      "dielectric_constant": 2.44,
+      "polarity_index": 2.9,
+      "boiling_point_c": 89.5,
+      "density_g_ml": 0.726,
+      "dipole_moment_d": 0.87,
+      "donor_number_dn": 61.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.2,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.9,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Base reactions",
+        "amination"
+      ]
+    },
+    {
+      "solvent": "2-Methoxyethanol",
+      "abbreviation": "MeOEtOH",
+      "cas": "109-86-4",
+      "dielectric_constant": 16.93,
+      "polarity_index": 5.5,
+      "boiling_point_c": 124.5,
+      "density_g_ml": 0.965,
+      "dipole_moment_d": 2.18,
+      "donor_number_dn": 19.0,
+      "hydrogen_bond_donor": 0.9,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Polyol chemistry",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "Butyl Acetate",
+      "abbreviation": "BuOAc",
+      "cas": "123-86-4",
+      "dielectric_constant": 5.01,
+      "polarity_index": 4.0,
+      "boiling_point_c": 126.1,
+      "density_g_ml": 0.882,
+      "dipole_moment_d": 1.84,
+      "donor_number_dn": 16.9,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Esterification",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "Diethylene Glycol",
+      "abbreviation": "DEG",
+      "cas": "111-46-6",
+      "dielectric_constant": 31.69,
+      "polarity_index": 6.0,
+      "boiling_point_c": 245.0,
+      "density_g_ml": 1.118,
+      "dipole_moment_d": 2.31,
+      "donor_number_dn": 20.0,
+      "hydrogen_bond_donor": 0.91,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "High bp polar reactions"
+      ]
+    },
+    {
+      "solvent": "Hexafluoroisopropanol",
+      "abbreviation": "HFIP",
+      "cas": "920-66-1",
+      "dielectric_constant": 16.7,
+      "polarity_index": 6.6,
+      "boiling_point_c": 58.2,
+      "density_g_ml": 1.596,
+      "dipole_moment_d": 2.05,
+      "donor_number_dn": 16.0,
+      "hydrogen_bond_donor": 1.96,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.2,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Fluorinated chemistry"
+      ]
+    },
+    {
+      "solvent": "MeTHF",
+      "abbreviation": "MeTHF",
+      "cas": "96-47-9",
+      "dielectric_constant": 7.0,
+      "polarity_index": 4.0,
+      "boiling_point_c": 80.2,
+      "density_g_ml": 0.854,
+      "dipole_moment_d": 1.6,
+      "donor_number_dn": 18.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Green THF alternative"
+      ]
+    },
+    {
+      "solvent": "Cyclopentyl methyl ether",
+      "abbreviation": "CPME",
+      "cas": "5614-37-9",
+      "dielectric_constant": 4.76,
+      "polarity_index": 3.4,
+      "boiling_point_c": 106.0,
+      "density_g_ml": 0.86,
+      "dipole_moment_d": 1.23,
+      "donor_number_dn": 16.5,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Green ether alternative"
+      ]
+    },
+    {
+      "solvent": "Methyl isobutyl ketone",
+      "abbreviation": "MIBK",
+      "cas": "108-10-1",
+      "dielectric_constant": 13.1,
+      "polarity_index": 4.2,
+      "boiling_point_c": 116.5,
+      "density_g_ml": 0.802,
+      "dipole_moment_d": 2.79,
+      "donor_number_dn": 14.3,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Ketone chemistry",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "t-Amyl-OH",
+      "abbreviation": "tAmOH",
+      "cas": "75-85-4",
+      "dielectric_constant": 12.0,
+      "polarity_index": 4.1,
+      "boiling_point_c": 102.0,
+      "density_g_ml": 0.81,
+      "dipole_moment_d": 1.7,
+      "donor_number_dn": 20.5,
+      "hydrogen_bond_donor": 0.65,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Bulky substrate reduction"
+      ]
+    },
+    {
+      "solvent": "Dimethylacetamide",
+      "abbreviation": "DMAc",
+      "cas": "127-19-5",
+      "dielectric_constant": 37.8,
+      "polarity_index": 6.5,
+      "boiling_point_c": 165.1,
+      "density_g_ml": 0.936,
+      "dipole_moment_d": 3.7,
+      "donor_number_dn": 27.8,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.9
+      },
+      "typical_applications": [
+        "Polar aprotic reactions",
+        "amide formation"
+      ]
+    },
+    {
+      "solvent": "1,2-Dimethoxyethane",
+      "abbreviation": "DME",
+      "cas": "110-71-4",
+      "dielectric_constant": 7.2,
+      "polarity_index": 3.8,
+      "boiling_point_c": 85.0,
+      "density_g_ml": 0.868,
+      "dipole_moment_d": 1.7,
+      "donor_number_dn": 20.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Organometallic",
+        "cross-coupling"
+      ]
+    },
+    {
+      "solvent": "2,2,2-Trifluoroethanol",
+      "abbreviation": "TFE",
+      "cas": "75-89-8",
+      "dielectric_constant": 26.7,
+      "polarity_index": 5.6,
+      "boiling_point_c": 74.1,
+      "density_g_ml": 1.375,
+      "dipole_moment_d": 1.6,
+      "donor_number_dn": 15.0,
+      "hydrogen_bond_donor": 1.6,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Fluorinated alcohol chemistry",
+        "H-bonding media"
+      ]
+    },
+    {
+      "solvent": "1,2-Dichlorobenzene",
+      "abbreviation": "o-DCB",
+      "cas": "95-50-1",
+      "dielectric_constant": 9.9,
+      "polarity_index": 2.7,
+      "boiling_point_c": 180.5,
+      "density_g_ml": 1.304,
+      "dipole_moment_d": 2.3,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "High-temperature aromatic",
+        "cross-coupling"
+      ]
+    },
+    {
+      "solvent": "tert-Butyl methyl ether",
+      "abbreviation": "MTBE",
+      "cas": "1634-04-4",
+      "dielectric_constant": 5.7,
+      "polarity_index": 2.5,
+      "boiling_point_c": 55.2,
+      "density_g_ml": 0.740,
+      "dipole_moment_d": 1.15,
+      "donor_number_dn": 18.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Green ether alternative",
+        "extraction"
+      ]
+    },
+    {
+      "solvent": "Acetic anhydride",
+      "abbreviation": "Ac2O",
+      "cas": "108-24-7",
+      "dielectric_constant": 20.7,
+      "polarity_index": 5.1,
+      "boiling_point_c": 139.8,
+      "density_g_ml": 1.082,
+      "dipole_moment_d": 1.0,
+      "donor_number_dn": 18.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.2,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Acylation",
+        "esterification"
+      ]
+    },
+    {
+      "solvent": "Polyethylene glycol (PEG-400)",
+      "abbreviation": "PEG-400",
+      "cas": "25322-68-3",
+      "dielectric_constant": 12.4,
+      "polarity_index": 6.0,
+      "boiling_point_c": 250.0,
+      "density_g_ml": 1.12,
+      "dipole_moment_d": 2.0,
+      "donor_number_dn": 20.0,
+      "hydrogen_bond_donor": 0.9,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "High bp polar reactions",
+        "green media"
+      ]
+    },
+    {
+      "solvent": "2-Ethoxyethanol",
+      "abbreviation": "EGEE",
+      "cas": "110-80-5",
+      "dielectric_constant": 17.0,
+      "polarity_index": 5.1,
+      "boiling_point_c": 135.0,
+      "density_g_ml": 0.929,
+      "dipole_moment_d": 1.9,
+      "donor_number_dn": 19.0,
+      "hydrogen_bond_donor": 0.8,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Glycol ether chemistry",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "Trifluoroacetic acid",
+      "abbreviation": "TFA",
+      "cas": "76-05-1",
+      "dielectric_constant": 8.6,
+      "polarity_index": 3.6,
+      "boiling_point_c": 72.4,
+      "density_g_ml": 1.489,
+      "dipole_moment_d": 1.2,
+      "donor_number_dn": 8.1,
+      "hydrogen_bond_donor": 1.8,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.2,
+        "Hydrogenation": 0.2,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Acid-catalyzed reactions"
+      ]
+    },
+    {
+      "solvent": "Benzene-d6",
+      "abbreviation": "C6D6",
+      "cas": "1076-43-3",
+      "dielectric_constant": 2.28,
+      "polarity_index": 2.7,
+      "boiling_point_c": 80.1,
+      "density_g_ml": 0.95,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.1,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "NMR solvent",
+        "aromatic chemistry"
+      ]
+    },
+    {
+      "solvent": "(Trifluoromethyl)benzene",
+      "abbreviation": "TFT",
+      "cas": "98-08-8",
+      "dielectric_constant": 9.2,
+      "polarity_index": 2.9,
+      "boiling_point_c": 102.0,
+      "density_g_ml": 1.38,
+      "dipole_moment_d": 2.9,
+      "donor_number_dn": 4.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Aromatic, moderately polar"
+      ]
+    },
+    {
+      "solvent": "Nitrobenzene",
+      "abbreviation": "PhNO2",
+      "cas": "98-95-3",
+      "dielectric_constant": 34.8,
+      "polarity_index": 4.2,
+      "boiling_point_c": 210.8,
+      "density_g_ml": 1.20,
+      "dipole_moment_d": 4.2,
+      "donor_number_dn": 2.7,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.2,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "High bp polar aromatic"
+      ]
+    },
+    {
+      "solvent": "Mesitylene",
+      "abbreviation": "Mes",
+      "cas": "108-67-8",
+      "dielectric_constant": 2.3,
+      "polarity_index": 2.4,
+      "boiling_point_c": 164.7,
+      "density_g_ml": 0.864,
+      "dipole_moment_d": 0.0,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "High-temp aromatic",
+        "Friedel–Crafts"
+      ]
+    },
+    {
+      "solvent": "Xylene (mixed isomers)",
+      "abbreviation": "Xyl",
+      "cas": "1330-20-7",
+      "dielectric_constant": 2.4,
+      "polarity_index": 2.5,
+      "boiling_point_c": 139.0,
+      "density_g_ml": 0.87,
+      "dipole_moment_d": 0.4,
+      "donor_number_dn": 0.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "C-H activation",
+        "aromatic"
+      ]
+    },
+    {
+      "solvent": "Tetrahydrofuran",
+      "abbreviation": "THF",
+      "cas": "109-99-9",
+      "dielectric_constant": 7.6,
+      "polarity_index": 4.0,
+      "boiling_point_c": 66.0,
+      "density_g_ml": 0.8892,
+      "dipole_moment_d": 1.75,
+      "donor_number_dn": 20.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "organometallic"
+      ]
+    },
+    {
+      "solvent": "Isopropanol",
+      "abbreviation": "iPrOH",
+      "cas": "67-63-0",
+      "dielectric_constant": 18.3,
+      "polarity_index": 3.9,
+      "boiling_point_c": 82.6,
+      "density_g_ml": 0.7855,
+      "dipole_moment_d": 1.66,
+      "donor_number_dn": 21.1,
+      "hydrogen_bond_donor": 0.76,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "2-Methyltetrahydrofuran",
+      "abbreviation": "MeTHF",
+      "cas": "96-47-9",
+      "dielectric_constant": 7.0,
+      "polarity_index": 4.0,
+      "boiling_point_c": 80.2,
+      "density_g_ml": 0.854,
+      "dipole_moment_d": 1.6,
+      "donor_number_dn": 18.0,
+      "hydrogen_bond_donor": 0.0,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Green THF alternative"
+      ]
+    },
+    {
+      "solvent": "Glycol monoethyl ether",
+      "abbreviation": "EGEE",
+      "cas": "110-80-5",
+      "dielectric_constant": 17.0,
+      "polarity_index": 5.1,
+      "boiling_point_c": 135.0,
+      "density_g_ml": 0.929,
+      "dipole_moment_d": 1.9,
+      "donor_number_dn": 19.0,
+      "hydrogen_bond_donor": 0.8,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Glycol ether chemistry",
+        "reduction"
+      ]
+    },
+    {
+      "solvent": "1,1,1,3,3,3-Hexafluoro-2-propanol",
+      "abbreviation": "HFIP",
+      "cas": "920-66-1",
+      "dielectric_constant": 16.7,
+      "polarity_index": 6.6,
+      "boiling_point_c": 58.2,
+      "density_g_ml": 1.596,
+      "dipole_moment_d": 2.05,
+      "donor_number_dn": 16.0,
+      "hydrogen_bond_donor": 1.96,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.2,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Fluorinated chemistry"
+      ]
+    },
+    {
+      "solvent": "2-Methyl-2-butanol",
+      "abbreviation": "tAmOH",
+      "cas": "75-85-4",
+      "dielectric_constant": 12.0,
+      "polarity_index": 4.1,
+      "boiling_point_c": 102.0,
+      "density_g_ml": 0.81,
+      "dipole_moment_d": 1.7,
+      "donor_number_dn": 20.5,
+      "hydrogen_bond_donor": 0.65,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Bulky substrate reduction"
+      ]
+    }
+  ]
+}

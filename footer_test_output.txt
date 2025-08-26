@@ -1,0 +1,15 @@
+CLEANED OUTPUT (FOOTER AND SCHEME HEADER REMOVED):
+=======================================================
+**Original Text:**
+```
+Steps: 1, Yield: 59%
+CAS Reaction Number: 31-172-CAS-23085870
+1.1|Reagents: Sodium tert-butoxide
+Catalysts: Tris(dibenzylideneacetone)dipalladium, X-Phos
+Solvents: Toluene; 12 h, 105 C
+B,N-doped PAHs from tridentate Defects
+By: Farinone, Marco; et al
+Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
+10.1039/d2cc01801b
+```
+

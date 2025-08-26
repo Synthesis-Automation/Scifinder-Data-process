@@ -1,0 +1,436 @@
+{
+  "bases": [
+    {
+      "base": "K2CO3",
+      "formula": "K2CO3",
+      "type": "Inorganic",
+      "basicity_pkah": 10.3,
+      "nucleophilicity_index": 0.15,
+      "solubility_class": "Low",
+      "hygroscopicity": "Medium",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.1,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": ["Suzuki/Buchwald/Ullmann couplings", "Etherifications", "Neutralization"]
+    },
+    {
+      "base": "Cs2CO3",
+      "formula": "Cs2CO3",
+      "type": "Inorganic",
+      "basicity_pkah": 10.3,
+      "nucleophilicity_index": 0.15,
+      "solubility_class": "Medium",
+      "hygroscopicity": "High",
+      "price_category": 3,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.92,
+        "Hydrogenation": 0.1,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": ["Challenging couplings", "Heteroaryl substrates"]
+    },
+    {
+      "base": "K3PO4",
+      "formula": "K3PO4",
+      "type": "Inorganic",
+      "basicity_pkah": 12.3,
+      "nucleophilicity_index": 0.10,
+      "solubility_class": "Low",
+      "hygroscopicity": "Medium",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.85,
+        "Hydrogenation": 0.1,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.55,
+        "Carbonylation": 0.45
+      },
+      "typical_applications": ["Aminations", "Arylations", "Etherifications"]
+    },
+    {
+      "base": "KOtBu",
+      "formula": "KOtBu",
+      "type": "Organic",
+      "basicity_pkah": 17.0,
+      "nucleophilicity_index": 0.35,
+      "solubility_class": "High",
+      "hygroscopicity": "High",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": ["Strong, hindered base", "Eliminations", "Arylations (Ullmann)"]
+    },
+    {
+      "base": "NaOtBu",
+      "formula": "NaOtBu",
+      "type": "Organic",
+      "basicity_pkah": 17.0,
+      "nucleophilicity_index": 0.35,
+      "solubility_class": "Medium",
+      "hygroscopicity": "High",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.75,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.65,
+        "Carbonylation": 0.35
+      },
+      "typical_applications": ["Strong, hindered base", "Metalations", "Eliminations"]
+    },
+    {
+      "base": "Et3N",
+      "formula": "Et3N",
+      "type": "Organic",
+      "basicity_pkah": 10.7,
+      "nucleophilicity_index": 0.55,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.55,
+        "Hydrogenation": 0.1,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": ["Acylations/Carbonylations", "Neutral base", "Scavenger"]
+    },
+    {
+      "base": "DIPEA",
+      "formula": "(i-Pr)2NEt",
+      "type": "Organic",
+      "basicity_pkah": 11.0,
+      "nucleophilicity_index": 0.45,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.55,
+        "Hydrogenation": 0.1,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.45,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": ["Couplings (amide formation)", "Alkylations", "Bases in polar aprotic"]
+    },
+    {
+      "base": "DBU",
+      "formula": "C9H16N2",
+      "type": "Superbase",
+      "basicity_pkah": 13.5,
+      "nucleophilicity_index": 0.30,
+      "solubility_class": "High",
+      "hygroscopicity": "Medium",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.75,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": ["Eliminations (E2)", "Deprotonations", "Catalytic base"]
+    },
+    {
+      "base": "DBN",
+      "formula": "C7H10N2",
+      "type": "Superbase",
+      "basicity_pkah": 12.5,
+      "nucleophilicity_index": 0.30,
+      "solubility_class": "High",
+      "hygroscopicity": "Medium",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.55,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": ["Eliminations", "Cyclizations", "Dehydrohalogenations"]
+    },
+    {
+      "base": "KOH",
+      "formula": "KOH",
+      "type": "Inorganic",
+      "basicity_pkah": 15.7,
+      "nucleophilicity_index": 0.05,
+      "solubility_class": "Mixed",
+      "hygroscopicity": "High",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.55,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.05,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": ["Saponification", "Substitution (alcohol formation)", "Arylations in DMSO"]
+    },
+    {
+      "base": "Na2CO3",
+      "formula": "Na2CO3",
+      "type": "Inorganic",
+      "basicity_pkah": 10.3,
+      "nucleophilicity_index": 0.12,
+      "solubility_class": "Low",
+      "hygroscopicity": "Medium",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.75,
+        "Hydrogenation": 0.1,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.45
+      },
+      "typical_applications": ["Couplings (budget)", "Neutralization", "Workups"]
+    },
+    {
+      "base": "Pyridine",
+      "formula": "C5H5N",
+      "type": "Organic",
+      "basicity_pkah": 5.2,
+      "nucleophilicity_index": 0.25,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": ["Acylations", "Scavenger of HX", "Catalyst ligand (Cu)"]
+    },
+    {
+      "base": "NaH",
+      "formula": "NaH",
+      "type": "Inorganic",
+      "basicity_pkah": 35.0,
+      "nucleophilicity_index": 0.00,
+      "solubility_class": "Low",
+      "hygroscopicity": "High",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.35,
+        "Hydrogenation": 0.0,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.2
+      },
+      "typical_applications": ["Strong deprotonations", "Alkoxide formation", "Metalations"]
+    },
+    {
+      "base": "NaOH",
+      "formula": "NaOH",
+      "type": "Inorganic",
+      "basicity_pkah": 15.7,
+      "nucleophilicity_index": 0.05,
+      "solubility_class": "Mixed",
+      "hygroscopicity": "High",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.05,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": ["Saponification", "Hydrolysis", "SN2 in DMSO"]
+    },
+    {
+      "base": "NaHCO3",
+      "formula": "NaHCO3",
+      "type": "Inorganic",
+      "basicity_pkah": 6.4,
+      "nucleophilicity_index": 0.05,
+      "solubility_class": "Low",
+      "hygroscopicity": "Medium",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.05,
+        "C-H_Activation": 0.3,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": ["Mild base", "Acid scavenging", "Workups"]
+    },
+    {
+      "base": "n-BuLi",
+      "formula": "C4H9Li",
+      "type": "Organolithium",
+      "basicity_pkah": 50.0,
+      "nucleophilicity_index": 0.00,
+      "solubility_class": "High",
+      "hygroscopicity": "Pyrophoric",
+      "price_category": 3,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.2,
+        "Hydrogenation": 0.0,
+        "Metathesis": 0.05,
+        "C-H_Activation": 0.9,
+        "Carbonylation": 0.2
+      },
+      "typical_applications": ["Strong metalations", "Directed ortho-metalation", "Initiations"]
+    },
+    {
+      "base": "LiOH",
+      "formula": "LiOH",
+      "type": "Inorganic",
+      "basicity_pkah": 13.8,
+      "nucleophilicity_index": 0.05,
+      "solubility_class": "Mixed",
+      "hygroscopicity": "High",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.45,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.05,
+        "C-H_Activation": 0.55,
+        "Carbonylation": 0.35
+      },
+      "typical_applications": ["Saponification", "Hydrolysis", "Aqueous base"]
+    },
+    {
+      "base": "Piperidine",
+      "formula": "C5H11N",
+      "type": "Organic",
+      "basicity_pkah": 11.2,
+      "nucleophilicity_index": 0.70,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.55,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": ["Amination reactions", "Catalysis (amine base)"]
+    },
+    {
+      "base": "4-Methylmorpholine",
+      "formula": "C5H11NO",
+      "type": "Organic",
+      "basicity_pkah": 7.4,
+      "nucleophilicity_index": 0.30,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": ["Mild organic base", "Acylations"]
+    },
+    {
+      "base": "DMAP",
+      "formula": "C7H9N2",
+      "type": "Organic",
+      "basicity_pkah": 9.7,
+      "nucleophilicity_index": 0.80,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.45,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": ["Acylation catalyst", "Esterifications", "Amide couplings"]
+    },
+    {
+      "base": "NaOMe",
+      "formula": "NaOCH3",
+      "type": "Inorganic",
+      "basicity_pkah": 15.5,
+      "nucleophilicity_index": 0.60,
+      "solubility_class": "Medium",
+      "hygroscopicity": "High",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": ["Transesterifications", "Base-promoted substitutions"]
+    },
+    {
+      "base": "NH4OH",
+      "formula": "NH4OH",
+      "type": "Inorganic",
+      "basicity_pkah": 9.3,
+      "nucleophilicity_index": 0.10,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.35,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.05,
+        "C-H_Activation": 0.35,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": ["Aqueous base", "Neutralizations", "Tollens reactions"]
+    },
+    {
+      "base": "LiHMDS",
+      "formula": "LiN(SiMe3)2",
+      "type": "Superbase",
+      "basicity_pkah": 26.0,
+      "nucleophilicity_index": 0.05,
+      "solubility_class": "High",
+      "hygroscopicity": "Sensitive",
+      "price_category": 3,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.2,
+        "Hydrogenation": 0.0,
+        "Metathesis": 0.05,
+        "C-H_Activation": 0.9,
+        "Carbonylation": 0.2
+      },
+      "typical_applications": ["Non-nucleophilic strong base", "Enolate formation", "Deprotonations"]
+    },
+    {
+      "base": "2,6-Lutidine",
+      "formula": "C7H9N",
+      "type": "Organic",
+      "basicity_pkah": 6.9,
+      "nucleophilicity_index": 0.20,
+      "solubility_class": "High",
+      "hygroscopicity": "Low",
+      "price_category": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.05,
+        "Metathesis": 0.1,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": ["Hindered base", "Acylations", "Catalysis"]
+    }
+  ]
+}

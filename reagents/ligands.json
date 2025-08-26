@@ -1,0 +1,2480 @@
+{
+  "ligands": [
+    {
+      "ligand": "PPh3",
+      "cone_angle": 145,
+      "electronic_parameter": 2068.9,
+      "bite_angle": 0,
+      "steric_bulk": 245,
+      "donor_pka": 2.73,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "General cross-coupling",
+        "hydrogenation"
+      ]
+    },
+    {
+      "ligand": "PCy3",
+      "cone_angle": 170,
+      "electronic_parameter": 2056.4,
+      "bite_angle": 0,
+      "steric_bulk": 310,
+      "donor_pka": 9.7,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Hydrogenation",
+        "cross-coupling"
+      ]
+    },
+    {
+      "ligand": "PtBu3",
+      "cone_angle": 182,
+      "electronic_parameter": 2056.1,
+      "bite_angle": 0,
+      "steric_bulk": 350,
+      "donor_pka": 11.4,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "C-H activation"
+      ]
+    },
+    {
+      "ligand": "P(o-tol)3",
+      "cone_angle": 150,
+      "electronic_parameter": 2066.7,
+      "bite_angle": 0,
+      "steric_bulk": 285,
+      "donor_pka": 3.1,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "P(p-tol)3",
+      "cone_angle": 145,
+      "electronic_parameter": 2066.7,
+      "bite_angle": 0,
+      "steric_bulk": 265,
+      "donor_pka": 3.84,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "P(p-F-Ph)3",
+      "cone_angle": 145,
+      "electronic_parameter": 2071.3,
+      "bite_angle": 0,
+      "steric_bulk": 260,
+      "donor_pka": 1.97,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Electron-poor substrates"
+      ]
+    },
+    {
+      "ligand": "P(p-Cl-Ph)3",
+      "cone_angle": 145,
+      "electronic_parameter": 2072.8,
+      "bite_angle": 0,
+      "steric_bulk": 255,
+      "donor_pka": 2.4,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Electron-poor substrates"
+      ]
+    },
+    {
+      "ligand": "P(p-CF3-Ph)3",
+      "cone_angle": 148,
+      "electronic_parameter": 2074.3,
+      "bite_angle": 0,
+      "steric_bulk": 280,
+      "donor_pka": 1.8,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Specialized cross-coupling"
+      ]
+    },
+    {
+      "ligand": "PMePh2",
+      "cone_angle": 136,
+      "electronic_parameter": 2067.2,
+      "bite_angle": 0,
+      "steric_bulk": 220,
+      "donor_pka": 4.57,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "General catalysis"
+      ]
+    },
+    {
+      "ligand": "PMe2Ph",
+      "cone_angle": 122,
+      "electronic_parameter": 2065.3,
+      "bite_angle": 0,
+      "steric_bulk": 190,
+      "donor_pka": 6.5,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Hydrogenation"
+      ]
+    },
+    {
+      "ligand": "PMe3",
+      "cone_angle": 118,
+      "electronic_parameter": 2064.1,
+      "bite_angle": 0,
+      "steric_bulk": 160,
+      "donor_pka": 8.65,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.3,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Small substrate hydrogenation"
+      ]
+    },
+    {
+      "ligand": "PEt3",
+      "cone_angle": 132,
+      "electronic_parameter": 2061.7,
+      "bite_angle": 0,
+      "steric_bulk": 180,
+      "donor_pka": 8.69,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.3,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Hydrogenation"
+      ]
+    },
+    {
+      "ligand": "P(nBu)3",
+      "cone_angle": 132,
+      "electronic_parameter": 2060.3,
+      "bite_angle": 0,
+      "steric_bulk": 240,
+      "donor_pka": 8.43,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "P(iPr)3",
+      "cone_angle": 160,
+      "electronic_parameter": 2059.2,
+      "bite_angle": 0,
+      "steric_bulk": 270,
+      "donor_pka": 8.64,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "P(2-furyl)3",
+      "cone_angle": 133,
+      "electronic_parameter": 2068.5,
+      "bite_angle": 0,
+      "steric_bulk": 210,
+      "donor_pka": 2.41,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.3,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Specialized applications"
+      ]
+    },
+    {
+      "ligand": "P(C6F5)3",
+      "cone_angle": 184,
+      "electronic_parameter": 2084.3,
+      "bite_angle": 0,
+      "steric_bulk": 290,
+      "donor_pka": 1.3,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.3,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Electron-poor substrates"
+      ]
+    },
+    {
+      "ligand": "P(p-MeO-Ph)3",
+      "cone_angle": 145,
+      "electronic_parameter": 2066.1,
+      "bite_angle": 0,
+      "steric_bulk": 275,
+      "donor_pka": 4.57,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "General catalysis"
+      ]
+    },
+    {
+      "ligand": "P(o-MeO-Ph)3",
+      "cone_angle": 150,
+      "electronic_parameter": 2066.3,
+      "bite_angle": 0,
+      "steric_bulk": 280,
+      "donor_pka": 4.59,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "General catalysis"
+      ]
+    },
+    {
+      "ligand": "P(mes)3",
+      "cone_angle": 212,
+      "electronic_parameter": 2064.8,
+      "bite_angle": 0,
+      "steric_bulk": 320,
+      "donor_pka": 6.43,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.3,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Bulky substrate catalysis"
+      ]
+    },
+    {
+      "ligand": "SPhos",
+      "cone_angle": 155,
+      "electronic_parameter": 2065.7,
+      "bite_angle": 0,
+      "steric_bulk": 390,
+      "donor_pka": 4.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Buchwald-Hartwig amination"
+      ]
+    },
+    {
+      "ligand": "XPhos",
+      "cone_angle": 160,
+      "electronic_parameter": 2064.8,
+      "bite_angle": 0,
+      "steric_bulk": 385,
+      "donor_pka": 4.3,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Suzuki-Miyaura coupling"
+      ]
+    },
+    {
+      "ligand": "RuPhos",
+      "cone_angle": 158,
+      "electronic_parameter": 2065.7,
+      "bite_angle": 0,
+      "steric_bulk": 390,
+      "donor_pka": 4.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Buchwald-Hartwig amination"
+      ]
+    },
+    {
+      "ligand": "BrettPhos",
+      "cone_angle": 160,
+      "electronic_parameter": 2061.8,
+      "bite_angle": 0,
+      "steric_bulk": 445,
+      "donor_pka": 4.8,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Challenging cross-coupling"
+      ]
+    },
+    {
+      "ligand": "tBuXPhos",
+      "cone_angle": 160,
+      "electronic_parameter": 2060.3,
+      "bite_angle": 0,
+      "steric_bulk": 425,
+      "donor_pka": 7.0,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Sterically hindered substrates"
+      ]
+    },
+    {
+      "ligand": "JohnPhos",
+      "cone_angle": 155,
+      "electronic_parameter": 2064.5,
+      "bite_angle": 0,
+      "steric_bulk": 365,
+      "donor_pka": 5.2,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "General cross-coupling"
+      ]
+    },
+    {
+      "ligand": "DavePhos",
+      "cone_angle": 155,
+      "electronic_parameter": 2063.7,
+      "bite_angle": 0,
+      "steric_bulk": 365,
+      "donor_pka": 5.2,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "General cross-coupling"
+      ]
+    },
+    {
+      "ligand": "MePhos",
+      "cone_angle": 145,
+      "electronic_parameter": 2066.2,
+      "bite_angle": 0,
+      "steric_bulk": 355,
+      "donor_pka": 4.4,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "AmplPhos",
+      "cone_angle": 158,
+      "electronic_parameter": 2063.5,
+      "bite_angle": 0,
+      "steric_bulk": 395,
+      "donor_pka": 4.7,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Specialty cross-coupling"
+      ]
+    },
+    {
+      "ligand": "QPhos",
+      "cone_angle": 160,
+      "electronic_parameter": 2062.8,
+      "bite_angle": 0,
+      "steric_bulk": 380,
+      "donor_pka": 4.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "CyJohnPhos",
+      "cone_angle": 157,
+      "electronic_parameter": 2064.7,
+      "bite_angle": 0,
+      "steric_bulk": 375,
+      "donor_pka": 5.1,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "AlPhos",
+      "cone_angle": 158,
+      "electronic_parameter": 2063.9,
+      "bite_angle": 0,
+      "steric_bulk": 385,
+      "donor_pka": 4.6,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "Me4tBuXPhos",
+      "cone_angle": 165,
+      "electronic_parameter": 2061.2,
+      "bite_angle": 0,
+      "steric_bulk": 435,
+      "donor_pka": 7.2,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Challenging substrates"
+      ]
+    },
+    {
+      "ligand": "AdBrettPhos",
+      "cone_angle": 163,
+      "electronic_parameter": 2060.5,
+      "bite_angle": 0,
+      "steric_bulk": 450,
+      "donor_pka": 4.9,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Bulky substrates"
+      ]
+    },
+    {
+      "ligand": "tBuBrettPhos",
+      "cone_angle": 162,
+      "electronic_parameter": 2060.8,
+      "bite_angle": 0,
+      "steric_bulk": 440,
+      "donor_pka": 7.1,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.9,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Bulky substrates"
+      ]
+    },
+    {
+      "ligand": "Ph-XPhos",
+      "cone_angle": 159,
+      "electronic_parameter": 2065.1,
+      "bite_angle": 0,
+      "steric_bulk": 395,
+      "donor_pka": 4.4,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Specialty coupling"
+      ]
+    },
+    {
+      "ligand": "MorDalPhos",
+      "cone_angle": 156,
+      "electronic_parameter": 2064.2,
+      "bite_angle": 0,
+      "steric_bulk": 380,
+      "donor_pka": 5.0,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Specialty coupling"
+      ]
+    },
+    {
+      "ligand": "BINAP",
+      "cone_angle": 165,
+      "electronic_parameter": 2067.8,
+      "bite_angle": 93,
+      "steric_bulk": 520,
+      "donor_pka": 2.75,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.95,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "Tol-BINAP",
+      "cone_angle": 165,
+      "electronic_parameter": 2067.5,
+      "bite_angle": 93,
+      "steric_bulk": 525,
+      "donor_pka": 2.77,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.95,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "H8-BINAP",
+      "cone_angle": 166,
+      "electronic_parameter": 2067.9,
+      "bite_angle": 93,
+      "steric_bulk": 515,
+      "donor_pka": 2.76,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.95,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "BIPHEP",
+      "cone_angle": 160,
+      "electronic_parameter": 2067.4,
+      "bite_angle": 92,
+      "steric_bulk": 510,
+      "donor_pka": 2.74,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric reactions"
+      ]
+    },
+    {
+      "ligand": "MeO-BIPHEP",
+      "cone_angle": 165,
+      "electronic_parameter": 2066.5,
+      "bite_angle": 92,
+      "steric_bulk": 520,
+      "donor_pka": 2.75,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric reactions"
+      ]
+    },
+    {
+      "ligand": "SEGPHOS",
+      "cone_angle": 165,
+      "electronic_parameter": 2064.5,
+      "bite_angle": 95,
+      "steric_bulk": 530,
+      "donor_pka": 2.77,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.95,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "DM-SEGPHOS",
+      "cone_angle": 168,
+      "electronic_parameter": 2064.2,
+      "bite_angle": 95,
+      "steric_bulk": 535,
+      "donor_pka": 2.78,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.95,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "DTBM-SEGPHOS",
+      "cone_angle": 175,
+      "electronic_parameter": 2063.8,
+      "bite_angle": 95,
+      "steric_bulk": 545,
+      "donor_pka": 2.79,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.95,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "C3-TunePhos",
+      "cone_angle": 163,
+      "electronic_parameter": 2065.7,
+      "bite_angle": 94,
+      "steric_bulk": 525,
+      "donor_pka": 2.76,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric reactions"
+      ]
+    },
+    {
+      "ligand": "DifluorPhos",
+      "cone_angle": 164,
+      "electronic_parameter": 2068.2,
+      "bite_angle": 93,
+      "steric_bulk": 515,
+      "donor_pka": 2.73,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric reactions"
+      ]
+    },
+    {
+      "ligand": "SynPhos",
+      "cone_angle": 166,
+      "electronic_parameter": 2066.8,
+      "bite_angle": 94,
+      "steric_bulk": 530,
+      "donor_pka": 2.77,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric reactions"
+      ]
+    },
+    {
+      "ligand": "DPPE",
+      "cone_angle": 125,
+      "electronic_parameter": 2073.6,
+      "bite_angle": 85,
+      "steric_bulk": 360,
+      "donor_pka": 2.76,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "DPPP",
+      "cone_angle": 127,
+      "electronic_parameter": 2073.0,
+      "bite_angle": 91,
+      "steric_bulk": 370,
+      "donor_pka": 2.77,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "DPPB",
+      "cone_angle": 130,
+      "electronic_parameter": 2073.3,
+      "bite_angle": 98,
+      "steric_bulk": 380,
+      "donor_pka": 2.78,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "DPPF",
+      "cone_angle": 125,
+      "electronic_parameter": 2072.1,
+      "bite_angle": 96,
+      "steric_bulk": 425,
+      "donor_pka": 2.8,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "XantPhos",
+      "cone_angle": 155,
+      "electronic_parameter": 2066.5,
+      "bite_angle": 110,
+      "steric_bulk": 485,
+      "donor_pka": 2.85,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "DPEPhos",
+      "cone_angle": 140,
+      "electronic_parameter": 2066.8,
+      "bite_angle": 102,
+      "steric_bulk": 445,
+      "donor_pka": 2.83,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "JOSIPHOS",
+      "cone_angle": 170,
+      "electronic_parameter": 2065.4,
+      "bite_angle": 96,
+      "steric_bulk": 420,
+      "donor_pka": 2.84,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "DIOP",
+      "cone_angle": 125,
+      "electronic_parameter": 2071.8,
+      "bite_angle": 98,
+      "steric_bulk": 410,
+      "donor_pka": 2.79,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "DUPHOS",
+      "cone_angle": 125,
+      "electronic_parameter": 2071.5,
+      "bite_angle": 99,
+      "steric_bulk": 415,
+      "donor_pka": 2.81,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "TangPhos",
+      "cone_angle": 128,
+      "electronic_parameter": 2070.8,
+      "bite_angle": 85,
+      "steric_bulk": 390,
+      "donor_pka": 2.78,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "BenzP*",
+      "cone_angle": 165,
+      "electronic_parameter": 2069.5,
+      "bite_angle": 92,
+      "steric_bulk": 420,
+      "donor_pka": 2.82,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "FerroTANE",
+      "cone_angle": 124,
+      "electronic_parameter": 2072.4,
+      "bite_angle": 95,
+      "steric_bulk": 415,
+      "donor_pka": 2.81,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "JosiPhos-1",
+      "cone_angle": 172,
+      "electronic_parameter": 2065.2,
+      "bite_angle": 96,
+      "steric_bulk": 425,
+      "donor_pka": 2.85,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "CyPF-tBu",
+      "cone_angle": 168,
+      "electronic_parameter": 2064.8,
+      "bite_angle": 97,
+      "steric_bulk": 430,
+      "donor_pka": 2.83,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "QPhos",
+      "cone_angle": 160,
+      "electronic_parameter": 2062.8,
+      "bite_angle": 102,
+      "steric_bulk": 445,
+      "donor_pka": 2.84,
+      "price_category": 3,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "BIBOP",
+      "cone_angle": 158,
+      "electronic_parameter": 2068.5,
+      "bite_angle": 95,
+      "steric_bulk": 440,
+      "donor_pka": 2.8,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "MeO-F12-BIPHEP",
+      "cone_angle": 167,
+      "electronic_parameter": 2067.2,
+      "bite_angle": 92,
+      "steric_bulk": 435,
+      "donor_pka": 2.78,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Cross-coupling",
+        "carbonylation"
+      ]
+    },
+    {
+      "ligand": "CTH-JORPHOS",
+      "cone_angle": 164,
+      "electronic_parameter": 2066.9,
+      "bite_angle": 94,
+      "steric_bulk": 430,
+      "donor_pka": 2.79,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.4,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Specialty coupling"
+      ]
+    },
+    {
+      "ligand": "IPr",
+      "cone_angle": 175,
+      "electronic_parameter": 2051.5,
+      "bite_angle": 0,
+      "steric_bulk": 420,
+      "donor_pka": 8.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis",
+        "cross-coupling"
+      ]
+    },
+    {
+      "ligand": "IMes",
+      "cone_angle": 170,
+      "electronic_parameter": 2051.2,
+      "bite_angle": 0,
+      "steric_bulk": 400,
+      "donor_pka": 8.3,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis",
+        "cross-coupling"
+      ]
+    },
+    {
+      "ligand": "SIPr",
+      "cone_angle": 175,
+      "electronic_parameter": 2051.5,
+      "bite_angle": 0,
+      "steric_bulk": 420,
+      "donor_pka": 8.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis",
+        "cross-coupling"
+      ]
+    },
+    {
+      "ligand": "SIMes",
+      "cone_angle": 170,
+      "electronic_parameter": 2051.2,
+      "bite_angle": 0,
+      "steric_bulk": 400,
+      "donor_pka": 8.3,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis",
+        "cross-coupling"
+      ]
+    },
+    {
+      "ligand": "IPrCl",
+      "cone_angle": 175,
+      "electronic_parameter": 2052.0,
+      "bite_angle": 0,
+      "steric_bulk": 425,
+      "donor_pka": 8.45,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "IPent",
+      "cone_angle": 178,
+      "electronic_parameter": 2050.8,
+      "bite_angle": 0,
+      "steric_bulk": 440,
+      "donor_pka": 8.7,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis"
+      ]
+    },
+    {
+      "ligand": "IHept",
+      "cone_angle": 180,
+      "electronic_parameter": 2050.5,
+      "bite_angle": 0,
+      "steric_bulk": 445,
+      "donor_pka": 8.75,
+      "price_category": 4,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis"
+      ]
+    },
+    {
+      "ligand": "IAd",
+      "cone_angle": 175,
+      "electronic_parameter": 2051.8,
+      "bite_angle": 0,
+      "steric_bulk": 415,
+      "donor_pka": 8.4,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis"
+      ]
+    },
+    {
+      "ligand": "ICy",
+      "cone_angle": 168,
+      "electronic_parameter": 2052.5,
+      "bite_angle": 0,
+      "steric_bulk": 380,
+      "donor_pka": 8.15,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.8,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "ItBu",
+      "cone_angle": 182,
+      "electronic_parameter": 2053.2,
+      "bite_angle": 0,
+      "steric_bulk": 390,
+      "donor_pka": 8.2,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Cross-coupling"
+      ]
+    },
+    {
+      "ligand": "IBox",
+      "cone_angle": 165,
+      "electronic_parameter": 2052.8,
+      "bite_angle": 0,
+      "steric_bulk": 385,
+      "donor_pka": 8.1,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.8,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Specialty applications"
+      ]
+    },
+    {
+      "ligand": "IBiox",
+      "cone_angle": 167,
+      "electronic_parameter": 2052.5,
+      "bite_angle": 0,
+      "steric_bulk": 380,
+      "donor_pka": 8.05,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.8,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Specialty applications"
+      ]
+    },
+    {
+      "ligand": "IDD",
+      "cone_angle": 179,
+      "electronic_parameter": 2051.6,
+      "bite_angle": 0,
+      "steric_bulk": 430,
+      "donor_pka": 8.45,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis"
+      ]
+    },
+    {
+      "ligand": "IAd*",
+      "cone_angle": 177,
+      "electronic_parameter": 2051.9,
+      "bite_angle": 0,
+      "steric_bulk": 410,
+      "donor_pka": 8.35,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis"
+      ]
+    },
+    {
+      "ligand": "TMEDA",
+      "cone_angle": 80,
+      "electronic_parameter": 2083.2,
+      "bite_angle": 85,
+      "steric_bulk": 165,
+      "donor_pka": 5.2,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "Pyridine",
+      "cone_angle": 100,
+      "electronic_parameter": 2083.2,
+      "bite_angle": 0,
+      "steric_bulk": 85,
+      "donor_pka": 5.2,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Coordination",
+        "C-H activation"
+      ]
+    },
+    {
+      "ligand": "Phenanthroline",
+      "cone_angle": 95,
+      "electronic_parameter": 2085.6,
+      "bite_angle": 82,
+      "steric_bulk": 165,
+      "donor_pka": 4.8,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "Bipyridine",
+      "cone_angle": 95,
+      "electronic_parameter": 2085.2,
+      "bite_angle": 81,
+      "steric_bulk": 160,
+      "donor_pka": 4.85,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "4-DMAP",
+      "cone_angle": 105,
+      "electronic_parameter": 2081.5,
+      "bite_angle": 0,
+      "steric_bulk": 95,
+      "donor_pka": 9.7,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Nucleophilic catalysis"
+      ]
+    },
+    {
+      "ligand": "DBU",
+      "cone_angle": 110,
+      "electronic_parameter": 2080.8,
+      "bite_angle": 0,
+      "steric_bulk": 110,
+      "donor_pka": 12.0,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.2,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.3
+      },
+      "typical_applications": [
+        "Base catalysis"
+      ]
+    },
+    {
+      "ligand": "DABCO",
+      "cone_angle": 105,
+      "electronic_parameter": 2082.5,
+      "bite_angle": 0,
+      "steric_bulk": 105,
+      "donor_pka": 8.8,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.2,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.3
+      },
+      "typical_applications": [
+        "Base catalysis"
+      ]
+    },
+    {
+      "ligand": "Terpy",
+      "cone_angle": 98,
+      "electronic_parameter": 2084.8,
+      "bite_angle": 86,
+      "steric_bulk": 175,
+      "donor_pka": 4.7,
+      "price_category": 2,
+      "coordination_mode": 3,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "Neocuproine",
+      "cone_angle": 96,
+      "electronic_parameter": 2085.4,
+      "bite_angle": 82,
+      "steric_bulk": 170,
+      "donor_pka": 4.85,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "Bathophenanthroline",
+      "cone_angle": 97,
+      "electronic_parameter": 2085.8,
+      "bite_angle": 82,
+      "steric_bulk": 180,
+      "donor_pka": 4.75,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "Bathocuproine",
+      "cone_angle": 97,
+      "electronic_parameter": 2085.7,
+      "bite_angle": 82,
+      "steric_bulk": 185,
+      "donor_pka": 4.8,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "PyBOX",
+      "cone_angle": 102,
+      "electronic_parameter": 2084.2,
+      "bite_angle": 88,
+      "steric_bulk": 190,
+      "donor_pka": 4.9,
+      "price_category": 3,
+      "coordination_mode": 3,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "Box",
+      "cone_angle": 94,
+      "electronic_parameter": 2084.5,
+      "bite_angle": 87,
+      "steric_bulk": 170,
+      "donor_pka": 4.85,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "Quinox",
+      "cone_angle": 93,
+      "electronic_parameter": 2085.1,
+      "bite_angle": 83,
+      "steric_bulk": 165,
+      "donor_pka": 4.8,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.8,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "TMCDA",
+      "cone_angle": 82,
+      "electronic_parameter": 2083.5,
+      "bite_angle": 85,
+      "steric_bulk": 170,
+      "donor_pka": 5.3,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "PMETA",
+      "cone_angle": 85,
+      "electronic_parameter": 2083.8,
+      "bite_angle": 85,
+      "steric_bulk": 165,
+      "donor_pka": 4.75,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "DiPIC",
+      "cone_angle": 88,
+      "electronic_parameter": 2084.1,
+      "bite_angle": 84,
+      "steric_bulk": 170,
+      "donor_pka": 4.85,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.7,
+        "Metathesis": 0.2,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Coordination"
+      ]
+    },
+    {
+      "ligand": "MonoPhos",
+      "cone_angle": 125,
+      "electronic_parameter": 2069.5,
+      "bite_angle": 0,
+      "steric_bulk": 280,
+      "donor_pka": 3.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "PipPhos",
+      "cone_angle": 128,
+      "electronic_parameter": 2069.8,
+      "bite_angle": 0,
+      "steric_bulk": 285,
+      "donor_pka": 3.55,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Asymmetric hydrogenation"
+      ]
+    },
+    {
+      "ligand": "SIPHOS",
+      "cone_angle": 127,
+      "electronic_parameter": 2069.2,
+      "bite_angle": 0,
+      "steric_bulk": 290,
+      "donor_pka": 3.45,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "QUINAP",
+      "cone_angle": 158,
+      "electronic_parameter": 2068.5,
+      "bite_angle": 72,
+      "steric_bulk": 310,
+      "donor_pka": 3.4,
+      "price_category": 4,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.8,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.8
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "TADDOL-based",
+      "cone_angle": 135,
+      "electronic_parameter": 2069.0,
+      "bite_angle": 0,
+      "steric_bulk": 295,
+      "donor_pka": 3.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "PhosphorAmidite",
+      "cone_angle": 130,
+      "electronic_parameter": 2069.4,
+      "bite_angle": 0,
+      "steric_bulk": 285,
+      "donor_pka": 3.45,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.9,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.7
+      },
+      "typical_applications": [
+        "Asymmetric catalysis"
+      ]
+    },
+    {
+      "ligand": "IMes·HCl",
+      "cone_angle": 170,
+      "electronic_parameter": 2051.2,
+      "bite_angle": 0,
+      "steric_bulk": 400,
+      "donor_pka": 8.3,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis precursor"
+      ]
+    },
+    {
+      "ligand": "IPr·HCl",
+      "cone_angle": 175,
+      "electronic_parameter": 2051.5,
+      "bite_angle": 0,
+      "steric_bulk": 420,
+      "donor_pka": 8.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis precursor"
+      ]
+    },
+    {
+      "ligand": "SIMes·HCl",
+      "cone_angle": 170,
+      "electronic_parameter": 2051.2,
+      "bite_angle": 0,
+      "steric_bulk": 400,
+      "donor_pka": 8.3,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis precursor"
+      ]
+    },
+    {
+      "ligand": "SIPr·HCl",
+      "cone_angle": 175,
+      "electronic_parameter": 2051.5,
+      "bite_angle": 0,
+      "steric_bulk": 420,
+      "donor_pka": 8.5,
+      "price_category": 3,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Metathesis precursor"
+      ]
+    },
+    {
+      "ligand": "ICy·HCl",
+      "cone_angle": 168,
+      "electronic_parameter": 2052.5,
+      "bite_angle": 0,
+      "steric_bulk": 380,
+      "donor_pka": 8.15,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.8,
+        "C-H_Activation": 0.7,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Cross-coupling precursor"
+      ]
+    },
+    {
+      "ligand": "ItBu·HCl",
+      "cone_angle": 182,
+      "electronic_parameter": 2053.2,
+      "bite_angle": 0,
+      "steric_bulk": 390,
+      "donor_pka": 8.2,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.7,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.9,
+        "C-H_Activation": 0.8,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Cross-coupling precursor"
+      ]
+    },
+    {
+      "ligand": "dba",
+      "cone_angle": 90,
+      "electronic_parameter": 2090.0,
+      "bite_angle": 0,
+      "steric_bulk": 120,
+      "donor_pka": 8.8,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.3,
+        "Hydrogenation": 0.3,
+        "Metathesis": 0.5,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.3
+      },
+      "typical_applications": [
+        "Stabilizing ligand"
+      ]
+    },
+    {
+      "ligand": "Acac",
+      "cone_angle": 90,
+      "electronic_parameter": 2090.0,
+      "bite_angle": 90,
+      "steric_bulk": 120,
+      "donor_pka": 8.8,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Stabilizing ligand"
+      ]
+    },
+    {
+      "ligand": "COD",
+      "cone_angle": 80,
+      "electronic_parameter": 2089.5,
+      "bite_angle": 0,
+      "steric_bulk": 110,
+      "donor_pka": 0.0,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.7,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Diene ligand"
+      ]
+    },
+    {
+      "ligand": "Cp",
+      "cone_angle": 85,
+      "electronic_parameter": 2088.0,
+      "bite_angle": 0,
+      "steric_bulk": 85,
+      "donor_pka": 0.0,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Cyclic ligand"
+      ]
+    },
+    {
+      "ligand": "Cp*",
+      "cone_angle": 85,
+      "electronic_parameter": 2087.5,
+      "bite_angle": 0,
+      "steric_bulk": 95,
+      "donor_pka": 0.0,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Cyclic ligand"
+      ]
+    },
+    {
+      "ligand": "tBuCp",
+      "cone_angle": 90,
+      "electronic_parameter": 2088.2,
+      "bite_angle": 0,
+      "steric_bulk": 105,
+      "donor_pka": 0.0,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Cyclic ligand"
+      ]
+    },
+    {
+      "ligand": "IndCp",
+      "cone_angle": 88,
+      "electronic_parameter": 2088.5,
+      "bite_angle": 0,
+      "steric_bulk": 95,
+      "donor_pka": 0.0,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Cyclic ligand"
+      ]
+    },
+    {
+      "ligand": "TMS-Cp",
+      "cone_angle": 86,
+      "electronic_parameter": 2088.3,
+      "bite_angle": 0,
+      "steric_bulk": 100,
+      "donor_pka": 0.0,
+      "price_category": 2,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.4,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Cyclic ligand"
+      ]
+    },
+    {
+      "ligand": "Allyl",
+      "cone_angle": 82,
+      "electronic_parameter": 2089.2,
+      "bite_angle": 0,
+      "steric_bulk": 80,
+      "donor_pka": 0.0,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.7,
+        "C-H_Activation": 0.6,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "π-Allyl ligand"
+      ]
+    },
+    {
+      "ligand": "cod",
+      "cone_angle": 80,
+      "electronic_parameter": 2089.5,
+      "bite_angle": 0,
+      "steric_bulk": 110,
+      "donor_pka": 0.0,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.7,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Diene ligand"
+      ]
+    },
+    {
+      "ligand": "nbd",
+      "cone_angle": 80,
+      "electronic_parameter": 2089.5,
+      "bite_angle": 0,
+      "steric_bulk": 105,
+      "donor_pka": 0.0,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.6,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.7,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.6
+      },
+      "typical_applications": [
+        "Diene ligand"
+      ]
+    },
+    {
+      "ligand": "PhCN",
+      "cone_angle": 95,
+      "electronic_parameter": 2082.5,
+      "bite_angle": 0,
+      "steric_bulk": 95,
+      "donor_pka": 5.2,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "Nitrile ligand"
+      ]
+    },
+    {
+      "ligand": "4-pic",
+      "cone_angle": 98,
+      "electronic_parameter": 2083.0,
+      "bite_angle": 0,
+      "steric_bulk": 90,
+      "donor_pka": 5.25,
+      "price_category": 1,
+      "coordination_mode": 1,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.4,
+        "Hydrogenation": 0.6,
+        "Metathesis": 0.3,
+        "C-H_Activation": 0.4,
+        "Carbonylation": 0.4
+      },
+      "typical_applications": [
+        "Pyridine derivative"
+      ]
+    },
+    {
+      "ligand": "TMHD",
+      "cone_angle": 92,
+      "electronic_parameter": 2089.8,
+      "bite_angle": 88,
+      "steric_bulk": 125,
+      "donor_pka": 8.7,
+      "price_category": 1,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "β-Diketonate"
+      ]
+    },
+    {
+      "ligand": "hfacac",
+      "cone_angle": 88,
+      "electronic_parameter": 2091.2,
+      "bite_angle": 90,
+      "steric_bulk": 130,
+      "donor_pka": 8.85,
+      "price_category": 2,
+      "coordination_mode": 2,
+      "reaction_compatibility": {
+        "Cross-Coupling": 0.5,
+        "Hydrogenation": 0.5,
+        "Metathesis": 0.6,
+        "C-H_Activation": 0.5,
+        "Carbonylation": 0.5
+      },
+      "typical_applications": [
+        "β-Diketonate"
+      ]
+    }
+  ]
+}

@@ -416,6 +416,10 @@ class ReactionMarkdownGenerator:
         if re.match(scheme_pattern, cleaned, re.IGNORECASE):
             return ""
         
+        # Filter out the standard SciFinder footer
+        if cleaned == "View All Sources in CAS SciFinder":
+            return ""
+        
         # If after cleaning we only have empty content, return empty
         if not cleaned:
             return ""

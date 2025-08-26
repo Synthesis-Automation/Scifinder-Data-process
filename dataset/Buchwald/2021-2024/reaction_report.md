@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-26 15:11:36
+**Generated:** 2025-08-26 18:30:50
 **Source Folder:** C:/Git-ChemRobox/Scifinder-Data-process/dataset/Buchwald/2021-2024
 **Total Reactions:** 1343
 
@@ -84,7 +84,6 @@ Synthesis of medium-sized heterocycles from oxetanes based on an allylic aminati
 By: Li, Jixing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 10.1039/d3cc04355j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -137,7 +136,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -192,7 +190,6 @@ Discovery of MK-1468: A Potent, Kinome-Selective, Brain-Penetrant Amidoisoquinol
 By: Kattar, Solomon D.; et al
 Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 10.1021/acs.jmedchem.3c01486
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -246,7 +243,6 @@ Transition metal-free and temperature dependent one-pot access to phenanthrene-f
 By: Reddy, Mokilla Ramachandra; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 10.1039/d3cc04473d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -299,7 +295,6 @@ B,N-doped PAHs from tridentate ‘Defects’ - a bottom-up convergent approach f
 By: Farinone, Marco; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 10.1039/d2cc01801b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -352,7 +347,6 @@ Carbazole-Decorated Organoboron Emitters with Low-Lying HOMO Levels for Solution
 By: Zhang, Kaiyuan; et al
 Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 10.1002/anie.202313084
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -410,7 +404,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -468,7 +461,6 @@ Functionalization of 2,4-Dichloropyrimidines by 2,2,6,6-Tetramethylpiperidyl Zin
 By: Meirelles, Matheus A.; et al
 Journal of Organic Chemistry (2023), 88(13), 9475-9487.
 10.1021/acs.joc.3c00500
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -529,7 +521,6 @@ Electrochemical Azo-free Mitsunobu-type Reaction
 By: Guo, Quanping; et al
 Angewandte Chemie, International Edition (2024), 63(20), e202402878.
 10.1002/anie.202402878
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -589,7 +580,6 @@ Fragment-Based Discovery of a Series of Allosteric-Binding Site Modulators of β
 By: Palmer, Nick; et al
 Journal of Medicinal Chemistry (2024), 67(13), 11168-11181.
 10.1021/acs.jmedchem.4c00702
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -646,7 +636,6 @@ Synthesis and structure-activity relationships for a new class of tetrahydronaph
 By: Sutherland, Hamish S.; et al
 European Journal of Medicinal Chemistry (2022), 229, 114059.
 10.1016/j.ejmech.2021.114059
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -704,7 +693,6 @@ Molecular Design and Synthesis of Dicarbazolophane-Based Centrosymmetric Through
 By: Zhang, Zhen; et al
 Organic Letters (2021), 23(17), 6697-6702.
 10.1021/acs.orglett.1c02273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -765,7 +753,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -820,7 +807,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -879,7 +865,6 @@ Design and Application of a Screening Set for Monophosphine Ligands in Cross-Cou
 By: Gensch, Tobias; et al
 ACS Catalysis (2022), 12(13), 7773-7780.
 10.1021/acscatal.2c01970
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -939,7 +924,6 @@ Discovery of the potent and selective ATR inhibitor camonsertib (RP-3500)
 By: Black, W. Cameron; et al
 Journal of Medicinal Chemistry (2024), 67(4), 2349-2368.
 10.1021/acs.jmedchem.3c01917
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -997,7 +981,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1052,7 +1035,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1112,7 +1094,6 @@ Discovery of Clinical Candidate AZD0095, a Selective Inhibitor of Monocarboxylat
 By: Goldberg, Frederick W.; et al
 Journal of Medicinal Chemistry (2023), 66(1), 384-397.
 10.1021/acs.jmedchem.2c01342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1173,7 +1154,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1231,7 +1211,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1289,7 +1268,6 @@ Imaging Autotaxin In Vivo with 18F-Labeled Positron Emission Tomography Ligands
 By: Deng, Xiaoyun; et al
 Journal of Medicinal Chemistry (2021), 64(20), 15053-15068.
 10.1021/acs.jmedchem.1c00913
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1350,7 +1328,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1405,7 +1382,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1463,7 +1439,6 @@ Cp*Co(III)-Catalyzed Enantioselective Hydroarylation of Unactivated Terminal Alk
 By: Liu, Yan-Hua; et al
 Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 10.1021/jacs.1c08562
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1519,7 +1494,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1577,7 +1551,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1632,7 +1605,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1690,7 +1662,6 @@ Catalyst-controlled site-selective N-H and C3-arylation of carbazole via carbene
 By: Bera, Sourav Sekhar; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 10.1039/d1cc01863a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1745,7 +1716,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -1807,7 +1777,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1864,7 +1833,6 @@ Carborane based chalcogen-fused phenazines for visible light induced ATRP
 By: Yang, Xiaodong; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 10.1039/d3cc01823g
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1921,7 +1889,6 @@ Solvents: Water; 6 h, 50 °C
 By: Hayakawa, Masahiro; et al
 Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 10.1021/jacs.4c02598
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -1978,7 +1945,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2031,7 +1997,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2092,7 +2057,6 @@ Photoinduced Palladium-Catalyzed 1,2-Difunctionalization of Electron-Rich Olefin
 By: Fang, Hao; et al
 ACS Catalysis (2023), 13(9), 6445-6451.
 10.1021/acscatal.3c00938
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2146,7 +2110,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2204,7 +2167,6 @@ Regio- and diastereoselective decarboxylative allylation of N-aryl α-amino acid
 By: Zheng, Jun; et al
 ACS Catalysis (2022), 12(10), 5949-5960.
 10.1021/acscatal.2c01688
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2263,7 +2225,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2321,7 +2282,6 @@ Discovery and Optimization of DNA Gyrase and Topoisomerase IV Inhibitors with Po
 By: Lapointe, Guillaume; et al
 Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 10.1021/acs.jmedchem.1c00375
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2370,7 +2330,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2423,7 +2382,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2476,7 +2434,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2529,7 +2486,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2583,7 +2539,6 @@ Identification of Transthyretin Tetramer Kinetic Stabilizers That Are Capable of
 By: Cioffi, Christopher L.; et al
 Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 10.1021/acs.jmedchem.1c00099
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2637,7 +2592,6 @@ Double Ligands Enabled Ruthenium Catalyzed ortho-C-H Arylation of Dialkyl Biaryl
 By: Wang, Liang-Neng; et al
 Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 10.1002/adsc.202100283
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2692,7 +2646,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2747,7 +2700,6 @@ Double n→π* Interactions with One Electron Donor: Structural and Mechanistic 
 By: Yin, Chaowei; et al
 Organic Letters (2023), 25(9), 1470-1475.
 10.1021/acs.orglett.3c00205
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2802,7 +2754,6 @@ Design, synthesis, and antibacterial activity of derivatives of Tryptophanyl-tRN
 By: Sun, Lianqi; et al
 European Journal of Medicinal Chemistry (2022), 241, 114647.
 10.1016/j.ejmech.2022.114647
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2857,7 +2808,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2913,7 +2863,6 @@ Tertiary Amides as Directing Groups for Enantioselective C-H Amination using Ion
 By: Paterson, Kieran J.; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 10.1002/anie.202317489
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -2972,7 +2921,6 @@ Discovery and Optimization of DNA Gyrase and Topoisomerase IV Inhibitors with Po
 By: Lapointe, Guillaume; et al
 Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 10.1021/acs.jmedchem.1c00375
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3029,7 +2977,6 @@ Solvents: Toluene; 24 h, rt → 110 °C
 By: Valencia, Isabel; et al
 Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 10.1021/acs.joc.1c01095
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3082,7 +3029,6 @@ Unlocking Lewis acidity via the redox non-innocence of a phenothiazine-substitut
 By: Cosby, Taylor P. L.; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(41), 5391-5394.
 10.1039/d4cc01059k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3139,7 +3085,6 @@ Modified Intramolecular-Lock Strategy Enables Efficient Thermally Activated Dela
 By: Huang, Zhenmei; et al
 Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 10.1002/anie.202213157
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3192,7 +3137,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3249,7 +3193,6 @@ One-Pot Synthesis of Quinazolines via Elemental Sulfur-Mediated Oxidative Conden
 By: Tan, Yuxing; et al
 Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 10.1002/adsc.202200537
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3306,7 +3249,6 @@ Modified Intramolecular-Lock Strategy Enables Efficient Thermally Activated Dela
 By: Huang, Zhenmei; et al
 Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 10.1002/anie.202213157
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3363,7 +3305,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3420,7 +3361,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3477,7 +3417,6 @@ Photoredox-Catalyzed Decarboxylative Cross-Coupling Of α-Amino Acids With Nitro
 By: Li, Heng-Hui; et al
 Organic Letters (2021), 23(3), 876-880.
 10.1021/acs.orglett.0c04101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3532,7 +3471,6 @@ Discovery of GLPG1972/S201086, a Potent, Selective, and Orally Bioavailable ADAM
 By: Brebion, Franck; et al
 Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 10.1021/acs.jmedchem.0c02008
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3592,7 +3530,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3649,7 +3586,6 @@ Solvents: Toluene; 24 h, rt → 110 °C
 By: Fu, Kequan; et al
 European Journal of Medicinal Chemistry (2023), 249, 115178.
 10.1016/j.ejmech.2023.115178
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3706,7 +3642,6 @@ From Synthetic Simplified Marine Metabolite Analogues to New Selective Allosteri
 By: Juillet, Charlotte; et al
 Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 10.1021/acs.jmedchem.0c02064
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3759,7 +3694,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3816,7 +3750,6 @@ Cp*Co(III)-Catalyzed Enantioselective Hydroarylation of Unactivated Terminal Alk
 By: Liu, Yan-Hua; et al
 Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 10.1021/jacs.1c08562
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3869,7 +3802,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3926,7 +3858,6 @@ I2-Promoted gem-Diarylethene Involved Aza-Diels-Alder Reaction and Wagner-Meerwe
 By: Zhou, You; et al
 Organic Letters (2023), 25(19), 3386-3390.
 10.1021/acs.orglett.3c00886
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -3979,7 +3910,6 @@ B,N-doped PAHs from tridentate ‘Defects’ - a bottom-up convergent approach f
 By: Farinone, Marco; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 10.1039/d2cc01801b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4036,7 +3966,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4093,7 +4022,6 @@ Synthesis of Tetrahydroquinolines by Scandium-Catalyzed [3+3] Annulation of Anil
 By: Xu, Xian; et al
 ACS Catalysis (2021), 11(24), 14995-15003.
 10.1021/acscatal.1c04657
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4148,7 +4076,6 @@ Bright Organic Mechanoluminescence and Remarkable Mechanofluorochromism from Cir
 By: Zheng, Yitao; et al
 Chemistry - A European Journal (2023), 29(5), e202202594.
 10.1002/chem.202202594
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4205,7 +4132,6 @@ Synthesis of benzooxepane-fused cyclobutene derivatives via Pd-catalyzed cascade
 By: Zhu, Shugao; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(44), 5707-5710.
 10.1039/d4cc00999a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4262,7 +4188,6 @@ Discovery of AD258 as a Sigma Receptor Ligand with Potent Antiallodynic Activity
 By: Dichiara, Maria; et al
 Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 10.1021/acs.jmedchem.3c00959
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4314,7 +4239,6 @@ Multimodal Imaging-Guided Photothermal Immunotherapy Based on a Versatile NIR-II
 By: Yan, Dingyuan; et al
 Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 10.1002/anie.202202614
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4372,7 +4296,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4425,7 +4348,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4478,7 +4400,6 @@ Discovery and Preclinical Pharmacology of NX-2127, an Orally Bioavailable Degrad
 By: Robbins, Daniel W.; et al
 Journal of Medicinal Chemistry (2024), 67(4), 2321-2336.
 10.1021/acs.jmedchem.3c01007
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4531,7 +4452,6 @@ Streamlined Synthesis of SHP2 Inhibitor GDC-1971 Enhanced by a Telescoped Schott
 By: Sirois, Lauren E.; et al
 Organic Process Research & Development (2024), 28(7), 2862-2874.
 10.1021/acs.oprd.4c00162
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4587,7 +4507,6 @@ Discovery of the Clinical Candidate IDOR-1117-2520: A Potent and Selective Antag
 By: Meyer, Emmanuel A.; et al
 Journal of Medicinal Chemistry (2024), 67(10), 8077-8098.
 10.1021/acs.jmedchem.4c00186
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4652,7 +4571,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -4705,7 +4623,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4760,7 +4677,6 @@ Design and Discovery of MRTX0902, a Potent, Selective, Brain-Penetrant, and Oral
 By: Ketcham, John M.; et al
 Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 10.1021/acs.jmedchem.2c00741
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4813,7 +4729,6 @@ Dual-state efficient chromophore with pH-responsive and solvatofluorochromic pro
 By: Liu, Huijing; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(33), 4011-4014.
 10.1039/d1cc00718a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4866,7 +4781,6 @@ Dopants Induce Persistent Room Temperature Phosphorescence in Triarylamine Boron
 By: Wu, Zhu; et al
 Angewandte Chemie, International Edition (2024), 63(12), e202319089.
 10.1002/anie.202319089
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4919,7 +4833,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -4972,7 +4885,6 @@ Dual Reactivity of 1,2,3,4-Tetrazole: Manganese-Catalyzed Click Reaction and Den
 By: Khatua, Hillol; et al
 Angewandte Chemie, International Edition (2021), 60(1), 304-312.
 10.1002/anie.202009078
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5025,7 +4937,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5078,7 +4989,6 @@ Discovery of Conformationally Constrained ALK2 Inhibitors
 By: Gonzalez-Alvarez, Hector; et al
 Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 10.1021/acs.jmedchem.3c02308
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5131,7 +5041,6 @@ Benzylic C-H addition of aromatic amines to alkenes using a scandium catalyst
 By: Su, Jianhong; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 10.1039/d1cc00306b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5186,7 +5095,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5236,7 +5144,6 @@ Optimized Red-Absorbing Dyes for Imaging and Sensing
 By: Grimm, Jonathan B.; et al
 Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 10.1021/jacs.3c05273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5289,7 +5196,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5342,7 +5248,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5394,7 +5299,6 @@ Reagent and Catalyst Capsules: A Chemical Delivery System for Reaction Screening
 By: Borlinghaus, Niginia; et al
 Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 10.1021/acs.joc.0c02576
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5444,7 +5348,6 @@ Sterically Congested Protecting Group for a Boronyl Group in Iterative Amination
 By: Nojiri, Takaki; et al
 Chemistry - A European Journal (2024), 30(18), e202303953.
 10.1002/chem.202303953
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5494,7 +5397,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5547,7 +5449,6 @@ High-Performance Near-Infrared Chlorinated Rylenecarboximide Fluorophores via Co
 By: Wu, Ze-Hua; et al
 Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 10.1002/anie.202315156
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5600,7 +5501,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5655,7 +5555,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5709,7 +5608,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5762,7 +5660,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5817,7 +5714,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5870,7 +5766,6 @@ Targeting σ2R/TMEM97 with novel aminotetralins
 By: Wood, Michael D.; et al
 European Journal of Medicinal Chemistry (2022), 243, 114696.
 10.1016/j.ejmech.2022.114696
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5923,7 +5818,6 @@ Solvents: Toluene; 12 h, 110 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -5976,7 +5870,6 @@ Discovery of a Potent FLT3 Inhibitor (LT-850-166) with the Capacity of Overcomin
 By: Wang, Zhijie; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 10.1021/acs.jmedchem.1c01196
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6031,7 +5924,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6084,7 +5976,6 @@ Zero-Shot Discovery of High-Performance, Low-Cost Organic Battery Materials Usin
 By: Park, Jaehyun; et al
 Journal of the American Chemical Society (2024), 146(45), 31230-31239.
 10.1021/jacs.4c11663
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6137,7 +6028,6 @@ Modulating the Electron-Donating Ability of Acridine Donor Units for Orange-Red 
 By: Chen, Tianheng; et al
 Chemistry - A European Journal (2021), 27(9), 3151-3158.
 10.1002/chem.202004719
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6192,7 +6082,6 @@ Construction of Chiral Quaternary Carbon Centers via Asymmetric Metal Carbene ge
 By: Dong, Shanliang; et al
 Angewandte Chemie, International Edition (2023), 62(26), e202302371.
 10.1002/anie.202302371
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6248,7 +6137,6 @@ Ligand Engineering toward Deep Blue Emission in Nonplanar Terdentate Platinum(II
 By: Wu, Si-Hai; et al
 Organometallics (2021), 40(2), 156-165.
 10.1021/acs.organomet.0c00665
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6304,7 +6192,6 @@ Powerful Direct C-H Amidation Polymerization Affords Single-Fluorophore-Based Wh
 By: Hwang, Soon-Hyeok; et al
 Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 10.1021/jacs.1c11100
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6355,7 +6242,6 @@ Electrochemical Synthesis of Hetero[7]helicenes Containing Pyrrole and Furan Rin
 By: Salem, Mohamed S. H.; et al
 Advanced Synthesis & Catalysis (2023), 365(3), 373-380.
 10.1002/adsc.202201262
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6410,7 +6296,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6463,7 +6348,6 @@ Photoredox and Vanadate Cocatalyzed Hydrolysis of Aryl Ethers at Ambient Tempera
 By: Hu, Rong-Gui; et al
 ACS Catalysis (2023), 13(13), 9264-9273.
 10.1021/acscatal.3c02301
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6516,7 +6400,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6569,7 +6452,6 @@ Palladium-Catalyzed 1,1-Oxamidation and 1,1-Diamination of Unactivated Alkenyl C
 By: Liu, Chao; et al
 Organic Letters (2023), 25(15), 2701-2706.
 10.1021/acs.orglett.3c00819
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6623,7 +6505,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6672,7 +6553,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6725,7 +6605,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6778,7 +6657,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6833,7 +6711,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6888,7 +6765,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6938,7 +6814,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -6993,7 +6868,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7049,7 +6923,6 @@ Pd-Catalyzed Asymmetric Amination of Enamines: Expedient Synthesis of Structural
 By: Zhang, Peng; et al
 ACS Catalysis (2023), 13(11), 7680-7690.
 10.1021/acscatal.3c00732
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7104,7 +6977,6 @@ Nickel-Catalyzed Intramolecular 1,2-Aryl Migration of Mesoionic Carbenes (iMICs)
 By: Merschel, Arne; et al
 Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 10.1002/anie.202014328
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7157,7 +7029,6 @@ A General Strategy to Design Highly Fluorogenic Far-Red and Near-Infrared Tetraz
 By: Mao, Wuyu; et al
 Angewandte Chemie, International Edition (2021), 60(5), 2393-2397.
 10.1002/anie.202011544
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7207,7 +7078,6 @@ Two-Chamber-Enabled Hydrogenation Reactions Using Al-H2O/NaOH: Access to Pharmac
 By: Iqubal, Ashif; et al
 Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 10.1021/acs.joc.3c01959
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7259,7 +7129,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7313,7 +7182,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7358,7 +7226,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7403,7 +7270,6 @@ Structure-Based Exploration of Selectivity for ATM Inhibitors in Huntington’s 
 By: Van de Poel, Amanda; et al
 Journal of Medicinal Chemistry (2021), 64(8), 5018-5036.
 10.1021/acs.jmedchem.1c00114
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7448,7 +7314,6 @@ Sterically Congested Protecting Group for a Boronyl Group in Iterative Amination
 By: Nojiri, Takaki; et al
 Chemistry - A European Journal (2024), 30(18), e202303953.
 10.1002/chem.202303953
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7505,7 +7370,6 @@ Chemoselective and Diastereoselective Synthesis of C-Aryl Nucleoside Analogues b
 By: Li, Yuxi; et al
 Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 10.1002/anie.202110391
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7560,7 +7424,6 @@ Tsuji-Trost based cascades: From Passerini adducts of cinnamaldehyde to allylate
 By: Elmamouni, Elhachemia; et al
 Journal of Organic Chemistry (2024), 89(3), 2009-2013.
 10.1021/acs.joc.3c02169
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7614,7 +7477,6 @@ Double Ligands Enabled Ruthenium Catalyzed ortho-C-H Arylation of Dialkyl Biaryl
 By: Wang, Liang-Neng; et al
 Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 10.1002/adsc.202100283
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7669,7 +7531,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7723,7 +7584,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7777,7 +7637,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7833,7 +7692,6 @@ Design and Discovery of MRTX0902, a Potent, Selective, Brain-Penetrant, and Oral
 By: Ketcham, John M.; et al
 Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 10.1021/acs.jmedchem.2c00741
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7887,7 +7745,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7941,7 +7798,6 @@ Four Dibenzofuran-Terminated High-Triplet-Energy Hole Transporters for High-Effi
 By: Sasabe, Hisahiro; et al
 Chemistry - A European Journal (2022), 28(13), e202104408.
 10.1002/chem.202104408
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -7995,7 +7851,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8049,7 +7904,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8103,7 +7957,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8157,7 +8010,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8210,7 +8062,6 @@ Metal-Free Directed Site-Selective Csp3-H Borylation of Saturated Cyclic Amines
 By: Kumar Someswara Ashwathappa, Puneeth; et al
 Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 10.1002/anie.202309295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8263,7 +8114,6 @@ Solvents: Toluene; 6 d, 110 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8320,7 +8170,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8381,7 +8230,6 @@ Chiral Multi-Resonance TADF Emitters Exhibiting Narrowband Circularly Polarized 
 By: Yang, Yiyu; et al
 Angewandte Chemie, International Edition (2022), 61(30), e202202227.
 10.1002/anie.202202227
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8442,7 +8290,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8502,7 +8349,6 @@ General and practical synthesis of naphtho[2,1-d]oxazoles from naphthols and ami
 By: Wu, Shaofeng; et al
 Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 10.1039/d2qo00557c
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8562,7 +8408,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8622,7 +8467,6 @@ Solvents: Dichloromethane, Water; rt
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8682,7 +8526,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8742,7 +8585,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8802,7 +8644,6 @@ Synthesis of medium-sized heterocycles from oxetanes based on an allylic aminati
 By: Li, Jixing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 10.1039/d3cc04355j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8862,7 +8703,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8922,7 +8762,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -8982,7 +8821,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9042,7 +8880,6 @@ Design, synthesis, and antibacterial activity of derivatives of Tryptophanyl-tRN
 By: Sun, Lianqi; et al
 European Journal of Medicinal Chemistry (2022), 241, 114647.
 10.1016/j.ejmech.2022.114647
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9102,7 +8939,6 @@ Development, Optimization, and In Vivo Validation of New Imidazopyridine Chemoty
 By: Das, Nirmal; et al
 Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 10.1021/acs.jmedchem.2c00386
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9162,7 +8998,6 @@ Effects of the Chalcogenide Identity in N-Aryl Phenochalcogenazine Photoredox Ca
 By: Corbin, Daniel A.; et al
 ChemCatChem (2022), 14(17), e202200485.
 10.1002/cctc.202200485
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9222,7 +9057,6 @@ Synthesis of Azadioxa-Planar Triphenylboranes Bridged by Aryl- and Alkylimino Gr
 By: Kitamoto, Yuichi; et al
 Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 10.1021/acs.joc.3c00275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9282,7 +9116,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9342,7 +9175,6 @@ Broadening the Horizon of the Bell-Evans-Polanyi Principle towards Optically Tri
 By: Chen, Yi; et al
 Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 10.1002/anie.202015274
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9402,7 +9234,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9462,7 +9293,6 @@ Pd-Catalyzed Amination of Base-Sensitive Five-Membered Heteroaryl Halides with A
 By: Reichert, Elaine C.; et al
 Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 10.1021/jacs.2c13520
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9511,7 +9341,6 @@ Synthesis of Aryl Perfluorocyclopropyl Ethers via [2 + 1] Cyclopropanation Using
 By: Liu, Ran; et al
 Organic Letters (2022), 24(20), 3589-3593.
 10.1021/acs.orglett.2c00958
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9560,7 +9389,6 @@ Discovery of Two Novel Antiplatelet Clinical Candidates (BMS-986120 and BMS-9861
 By: Priestley, E. Scott; et al
 Journal of Medicinal Chemistry (2022), 65(13), 8843-8854.
 10.1021/acs.jmedchem.2c00359
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9609,7 +9437,6 @@ Reductive Cleavage of C(sp2)-CF3 bonds in Trifluoromethylpyridines
 By: St. Onge, Piers; et al
 Organic Letters (2023), 25(6), 1030-1034.
 10.1021/acs.orglett.3c00258
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9658,7 +9485,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9707,7 +9533,6 @@ Design, synthesis, and antibacterial activity of derivatives of Tryptophanyl-tRN
 By: Sun, Lianqi; et al
 European Journal of Medicinal Chemistry (2022), 241, 114647.
 10.1016/j.ejmech.2022.114647
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9756,7 +9581,6 @@ Hypsochromic Shift of Multiple-Resonance-Induced Thermally Activated Delayed Flu
 By: Tanaka, Hiroyuki; et al
 Angewandte Chemie, International Edition (2021), 60(33), 17910-17914.
 10.1002/anie.202105032
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9805,7 +9629,6 @@ Synthesis of Diarylaminoacridinium Photocatalysts by Halogen-Metal Exchange Comb
 By: Jakobi, Markus; et al
 Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 10.1002/adsc.202200819
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9854,7 +9677,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9903,7 +9725,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -9952,7 +9773,6 @@ Discovery of a Potent FLT3 Inhibitor (LT-850-166) with the Capacity of Overcomin
 By: Wang, Zhijie; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 10.1021/acs.jmedchem.1c01196
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10003,7 +9823,6 @@ Discovery, Characterization, and Structure-Based Optimization of Small-Molecule 
 By: Stockley, Martin L.; et al
 Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 10.1021/acs.jmedchem.2c01142
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10052,7 +9871,6 @@ New approaches to the functionalization of the 1-carba-closo-decaborate anion
 By: Shmal’ko, Akim V.; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 10.1039/d1cc06395b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10104,7 +9922,6 @@ Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated 
 By: Du, Zihang; et al
 ACS Catalysis (2024), 14(23), 18107-18115.
 10.1021/acscatal.4c05973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10154,7 +9971,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10203,7 +10019,6 @@ Accessing Dihydropyrrolo[3,4-b]indol-1(2H)-ones via Pd-Catalyzed Intramolecular 
 By: Alam, Ryan M.; et al
 European Journal of Organic Chemistry (2023), 26(34), e202300646.
 10.1002/ejoc.202300646
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10252,7 +10067,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10301,7 +10115,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10350,7 +10163,6 @@ Donor/π-Bridge Manipulation for Constructing a Stable NIR-II Aggregation-Induce
 By: Yan, Dingyuan; et al
 Angewandte Chemie, International Edition (2021), 60(51), 26769-26776.
 10.1002/anie.202111767
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10399,7 +10211,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10448,7 +10259,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10497,7 +10307,6 @@ Red Light-Emitting Thermally-Activated Delayed Fluorescence of Naphthalimide-Phe
 By: Zhang, Xue; et al
 Chemistry - A European Journal (2022), 28(37), e202200510.
 10.1002/chem.202200510
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10549,7 +10358,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10598,7 +10406,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10647,7 +10454,6 @@ Ligand Engineering toward Deep Blue Emission in Nonplanar Terdentate Platinum(II
 By: Wu, Si-Hai; et al
 Organometallics (2021), 40(2), 156-165.
 10.1021/acs.organomet.0c00665
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10696,7 +10502,6 @@ Novel Series of Mononuclear Aluminum Complexes for High-Performance Solution-Pro
 By: Nakao, Kohei; et al
 Angewandte Chemie, International Edition (2021), 60(11), 6036-6041.
 10.1002/anie.202014941
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10745,7 +10550,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10794,7 +10598,6 @@ Influence of Sulfur Atoms on TADF Properties from Through-Space Charge Transfer 
 By: Zhang, Danwen; et al
 Chemistry - A European Journal (2022), 28(68), e202202305.
 10.1002/chem.202202305
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10843,7 +10646,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10896,7 +10698,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -10950,7 +10751,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11005,7 +10805,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11059,7 +10858,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11113,7 +10911,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11167,7 +10964,6 @@ Double Ligands Enabled Ruthenium Catalyzed ortho-C-H Arylation of Dialkyl Biaryl
 By: Wang, Liang-Neng; et al
 Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 10.1002/adsc.202100283
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11221,7 +11017,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11275,7 +11070,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11330,7 +11124,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11384,7 +11177,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11439,7 +11231,6 @@ Photo-Electroswitchable Arylaminoazobenzenes
 By: Saint-Louis, Carl Jacky; et al
 Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 10.1021/acs.joc.1c00763
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11493,7 +11284,6 @@ Sequential Multiple Borylation Toward an Ultrapure Green Thermally Activated Del
 By: Uemura, Shigetada; et al
 Journal of the American Chemical Society (2023), 145(3), 1505-1511.
 10.1021/jacs.2c10946
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11547,7 +11337,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11602,7 +11391,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11656,7 +11444,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11710,7 +11497,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11764,7 +11550,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11818,7 +11603,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11872,7 +11656,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11926,7 +11709,6 @@ PROTACs Targeting BRM (SMARCA2) Afford Selective In Vivo Degradation over BRG1 (
 By: Berlin, Michael; et al
 Journal of Medicinal Chemistry (2024), 67(2), 1262-1313.
 10.1021/acs.jmedchem.3c01781
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -11980,7 +11762,6 @@ Rh(I)-Catalyzed Intramolecular Decarbonylation of Thioesters
 By: Cao, Han; et al
 Journal of Organic Chemistry (2021), 86(15), 10829-10837.
 10.1021/acs.joc.1c01117
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12036,7 +11817,6 @@ Aerobic Allylic Amination Catalyzed by a Pd(OAc)2/P(OPh)3 System with Low Cataly
 By: Yurino, Taiga; et al
 Journal of Organic Chemistry (2022), 87(5), 2864-2872.
 10.1021/acs.joc.1c02768
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12090,7 +11870,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12144,7 +11923,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12198,7 +11976,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12252,7 +12029,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12306,7 +12082,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12359,7 +12134,6 @@ Self-Improving Photosensitizer Discovery System via Bayesian Search with First-P
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2021), 143(47), 19769-19777.
 10.1021/jacs.1c08211
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12412,7 +12186,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12466,7 +12239,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12519,7 +12291,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12573,7 +12344,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12627,7 +12397,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12680,7 +12449,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12733,7 +12501,6 @@ Molecular oxygen-mediated radical alkylation of C(sp3)-H bonds with boronic acid
 By: Yang, Le; et al
 Organic Letters (2021), 23(8), 3207-3210.
 10.1021/acs.orglett.1c00948
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12786,7 +12553,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12839,7 +12605,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12892,7 +12657,6 @@ An Electroactive Pure Organic Room-Temperature Phosphorescence Polymer Based on 
 By: Liu, Xinrui; et al
 Angewandte Chemie, International Edition (2021), 60(5), 2455-2463.
 10.1002/anie.202011957
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -12947,7 +12711,6 @@ A “Pool and Split” Approach to the Optimization of Challenging Pd-Catalyzed 
 By: Fordham, James M.; et al
 Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 10.1021/acs.joc.2c00104
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13000,7 +12763,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13058,7 +12820,6 @@ Iridium-Catalyzed Intramolecular Asymmetric Allylic Etherification of Pyrimidine
 By: Pan, Bendu; et al
 Organic Letters (2023), 25(29), 5498-5503.
 10.1021/acs.orglett.3c01962
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13112,7 +12873,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13166,7 +12926,6 @@ Synthesis of Azadioxa-Planar Triphenylboranes Bridged by Aryl- and Alkylimino Gr
 By: Kitamoto, Yuichi; et al
 Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 10.1021/acs.joc.3c00275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13220,7 +12979,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13274,7 +13032,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13328,7 +13085,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13382,7 +13138,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13436,7 +13191,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13490,7 +13244,6 @@ Discovery of BPR1R024, an Orally Active and Selective CSF1R Inhibitor that Exhib
 By: Lee, Kun-Hung; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14477-14497.
 10.1021/acs.jmedchem.1c01006
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13544,7 +13297,6 @@ Ring walking as a regioselectivity control element in Pd-catalyzed C-N cross-cou
 By: Deem, Madeleine C.; et al
 Nature Communications (2022), 13(1), 2869.
 10.1038/s41467-022-30255-1
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13598,7 +13350,6 @@ Dibenzodipyridophenazines with Dendritic Electron Donors Exhibiting Deep-Red Emi
 By: Primrose, William L.; et al
 Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 10.1021/acs.joc.2c02774
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13652,7 +13403,6 @@ SN2 Reaction at the Amide Nitrogen Center Enables Hydrazide Synthesis
 By: Fang, Wen; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317570.
 10.1002/anie.202317570
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13706,7 +13456,6 @@ Carbazole-Based DABNA Analogues as Highly Efficient Thermally Activated Delayed 
 By: Oda, Susumu; et al
 Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
 10.1002/anie.202012891
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13760,7 +13509,6 @@ Mechanochemical synthesis of aromatic sulfonamides
 By: Mkrtchyan, Satenik; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13815,7 +13563,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13869,7 +13616,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13923,7 +13669,6 @@ Asymmetrical-Dendronized TADF Emitters for Efficient Non-doped Solution-Processe
 By: Li, Chensen; et al
 Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 10.1002/anie.202115140
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -13977,7 +13722,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14031,7 +13775,6 @@ Nonsymmetric [Pt(CN̂*N’Ĉ’)] Complexes: Aggregation-Induced Emission in the
 By: Solomatina, Anastasia I.; et al
 Chemistry - A European Journal (2022), 28(64), e202202207.
 10.1002/chem.202202207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14085,7 +13828,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14139,7 +13881,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14193,7 +13934,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14248,7 +13988,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14302,7 +14041,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14356,7 +14094,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14410,7 +14147,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14464,7 +14200,6 @@ Structurally Nontraditional Bipolar Hosts for RGB Phosphorescent OLEDs: Boosted 
 By: Ma, Weixin; et al
 Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 10.1002/anie.202116681
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14518,7 +14253,6 @@ Structurally Nontraditional Bipolar Hosts for RGB Phosphorescent OLEDs: Boosted 
 By: Ma, Weixin; et al
 Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 10.1002/anie.202116681
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14572,7 +14306,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14626,7 +14359,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14680,7 +14412,6 @@ Carbazole-Based DABNA Analogues as Highly Efficient Thermally Activated Delayed 
 By: Oda, Susumu; et al
 Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
 10.1002/anie.202012891
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14734,7 +14465,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14788,7 +14518,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14842,7 +14571,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14896,7 +14624,6 @@ General and practical synthesis of naphtho[2,1-d]oxazoles from naphthols and ami
 By: Wu, Shaofeng; et al
 Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 10.1039/d2qo00557c
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -14950,7 +14677,6 @@ Fully Bridged Triphenylamines Comprising Five- and Seven-Membered Rings
 By: Michalsky, Ina; et al
 Chemistry - A European Journal (2022), 28(34), e202200326.
 10.1002/chem.202200326
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15004,7 +14730,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15058,7 +14783,6 @@ Synthesis of 2,5-disubstituted selenophenes via a copper-catalyzed regioselectiv
 By: Zhong, Wentao; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(45), 6522-6525.
 10.1039/d2cc00958g
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15112,7 +14836,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15167,7 +14890,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15221,7 +14943,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15275,7 +14996,6 @@ Nickel-Catalyzed Synthesis of an Aryl Nitrile via Aryl Exchange between an Aroma
 By: Long, Yang; et al
 ACS Catalysis (2022), 12(8), 4688-4695.
 10.1021/acscatal.2c01029
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15329,7 +15049,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15385,7 +15104,6 @@ Discovery, Characterization, and Structure-Based Optimization of Small-Molecule 
 By: Stockley, Martin L.; et al
 Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 10.1021/acs.jmedchem.2c01142
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15434,7 +15152,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15483,7 +15200,6 @@ V-shaped donor-acceptor organic emitters. A new approach towards efficient TADF 
 By: Derkowski, Wojciech; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818.
 10.1039/d2cc06978d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15532,7 +15248,6 @@ Tunable Regioselectivity in C-H-Activated Direct Arylation Reactions of Dithieno
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2023), 29(60), e202301867.
 10.1002/chem.202301867
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15581,7 +15296,6 @@ Synthesis of Diarylaminoacridinium Photocatalysts by Halogen-Metal Exchange Comb
 By: Jakobi, Markus; et al
 Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 10.1002/adsc.202200819
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15630,7 +15344,6 @@ Extension of Non-alternant Nanographenes Containing Nitrogen-Doped Stone-Thrower
 By: Wang, Chang; et al
 Angewandte Chemie, International Edition (2023), 62(35), e202306890.
 10.1002/anie.202306890
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15679,7 +15392,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15728,7 +15440,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15777,7 +15488,6 @@ Flexible Construction Approach to the Synthesis of 1,5-Substituted Pyrrole-3-car
 By: Wu, Chien-Chi; et al
 Organic Letters (2022), 24(15), 2889-2893.
 10.1021/acs.orglett.2c00891
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15826,7 +15536,6 @@ B-N bond formation through palladium-catalyzed, microwave-assisted cross-couplin
 By: Al-Joumhawy, Mahmoud K.; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15875,7 +15584,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15924,7 +15632,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -15973,7 +15680,6 @@ Development and Utility of a PAK1-Selective Degrader
 By: Chow, Hoi-Yee; et al
 Journal of Medicinal Chemistry (2022), 65(23), 15627-15641.
 10.1021/acs.jmedchem.2c00756
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16023,7 +15729,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16075,7 +15780,6 @@ Structurally Nontraditional Bipolar Hosts for RGB Phosphorescent OLEDs: Boosted 
 By: Ma, Weixin; et al
 Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 10.1002/anie.202116681
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16127,7 +15831,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16176,7 +15879,6 @@ Aryl carbazole-based macrocycles: synthesis, their remarkably stable radical cat
 By: Mao, Lijun; et al
 Organic Chemistry Frontiers (2021), 8(17), 4678-4684.
 10.1039/d1qo00686j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16225,7 +15927,6 @@ Synthesis of Multideuterated (Hetero)aryl Bromides by Ag(I)-Catalyzed H/D Exchan
 By: Hu, Guang-Qi; et al
 Organic Letters (2021), 23(5), 1554-1560.
 10.1021/acs.orglett.0c04139
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16274,7 +15975,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16323,7 +16023,6 @@ Potential applications of BPFP1 in Bcl-2 protein quantification, carcinoma cell 
 By: Liang, Tao; et al
 European Journal of Medicinal Chemistry (2021), 224, 113725.
 10.1016/j.ejmech.2021.113725
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16372,7 +16071,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16423,7 +16121,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16472,7 +16169,6 @@ N-Iodosuccinimide-Mediated Synthesis of Benzo-Fused Bisimidazoles Enabled by a O
 By: Li, Shan; et al
 Journal of Organic Chemistry (2023), 88(7), 4101-4111.
 10.1021/acs.joc.2c02379
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16525,7 +16221,6 @@ Atroposelective Synthesis of Axially Chiral 4-Aryl α-Carbolines via N-Heterocyc
 By: Ma, Rui; et al
 Organic Letters (2021), 23(11), 4267-4272.
 10.1021/acs.orglett.1c01221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16580,7 +16275,6 @@ Structurally Diversified Calix[3]phenoxazines: Synthesis, Solid-State Conformati
 By: Mao, Lijun; et al
 Organic Letters (2023), 25(30), 5597-5601.
 10.1021/acs.orglett.3c01931
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -16643,7 +16337,6 @@ Design, Structure-Activity Relationships, and In Vivo Evaluation of Potent and B
 By: Hartz, Richard A.; et al
 Journal of Medicinal Chemistry (2023), 66(6), 4231-4252.
 10.1021/acs.jmedchem.3c00133
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -16713,7 +16406,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -16781,7 +16473,6 @@ Convergent Azaspirocyclization of Bromoarenes with N-Tosylhydrazones by a Pallad
 By: Yanagimoto, Aika; et al
 ACS Catalysis (2021), 11(16), 10429-10435.
 10.1021/acscatal.1c02627
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -16848,7 +16539,6 @@ Nonsymmetric [Pt(CN̂*N’Ĉ’)] Complexes: Aggregation-Induced Emission in the
 By: Solomatina, Anastasia I.; et al
 Chemistry - A European Journal (2022), 28(64), e202202207.
 10.1002/chem.202202207
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -16915,7 +16605,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -16982,7 +16671,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -17051,7 +16739,6 @@ General Light-Mediated, Highly Diastereoselective Piperidine Epimerization: From
 By: Shen, Zican; et al
 Journal of the American Chemical Society (2021), 143(1), 126-131.
 10.1021/jacs.0c11911
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -17106,7 +16793,6 @@ Design and Discovery of MRTX0902, a Potent, Selective, Brain-Penetrant, and Oral
 By: Ketcham, John M.; et al
 Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 10.1021/acs.jmedchem.2c00741
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17155,7 +16841,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17204,7 +16889,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17253,7 +16937,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17302,7 +16985,6 @@ Discovery of N-substituted oseltamivir derivatives as novel neuraminidase inhibi
 By: Jia, Ruifang; et al
 European Journal of Medicinal Chemistry (2023), 252, 115275.
 10.1016/j.ejmech.2023.115275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17351,7 +17033,6 @@ Water-dispersible donor-acceptor-donor π-conjugated bolaamphiphiles enabling a 
 By: Enjou, Tomoya; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(27), 3653-3656.
 10.1039/d3cc05749f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17402,7 +17083,6 @@ Construction of Benzosultam-Containing Fused- and Linked-Biheterocycles by a Cas
 By: Das, Jonali; et al
 European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 10.1002/ejoc.202101421
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17453,7 +17133,6 @@ Discovery of LNP1892: A Precision Calcimimetic for the Treatment of Secondary Hy
 By: Shukla, Manojkumar R.; et al
 Journal of Medicinal Chemistry (2023), 66(14), 9418-9444.
 10.1021/acs.jmedchem.3c00698
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17502,7 +17181,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17553,7 +17231,6 @@ Bright Organic Mechanoluminescence and Remarkable Mechanofluorochromism from Cir
 By: Zheng, Yitao; et al
 Chemistry - A European Journal (2023), 29(5), e202202594.
 10.1002/chem.202202594
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17602,7 +17279,6 @@ Enantio- and Diastereoselective, Complete Hydrogenation of Benzofurans by Cascad
 By: Moock, Daniel; et al
 Angewandte Chemie, International Edition (2021), 60(24), 13677-13681.
 10.1002/anie.202103910
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17653,7 +17329,6 @@ Green-Chemistry-Inspired Synthesis of Cyclobutane-Based Hole-Selective Materials
 By: Daskeviciute-Geguziene, Sarune; et al
 Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 10.1002/anie.202113207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17702,7 +17377,6 @@ Pd-Catalyzed Amination of Base-Sensitive Five-Membered Heteroaryl Halides with A
 By: Reichert, Elaine C.; et al
 Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 10.1021/jacs.2c13520
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17751,7 +17425,6 @@ Synthesis of Curved Polycyclic Arenes Embedded with Oxepine and Thiepine Using R
 By: Zhang, Sheng; et al
 Organic Letters (2023), 25(27), 5027-5032.
 10.1021/acs.orglett.3c01730
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17800,7 +17473,6 @@ Palladium-Catalyzed Aerobic γ-C(sp3)-H Lactamization Using a NOx-based Redox Me
 By: Jia, Kai; et al
 Advanced Synthesis & Catalysis (2024), 366(15), 3297-3302.
 10.1002/adsc.202400381
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17852,7 +17524,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17901,7 +17572,6 @@ Cyclo-Ketal Xanthene Dyes: A New Class of Near-Infrared Fluorophores for Super-R
 By: Zhang, Xinfu; et al
 Chemistry - A European Journal (2021), 27(11), 3688-3693.
 10.1002/chem.202005296
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -17953,7 +17623,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18002,7 +17671,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18051,7 +17719,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18100,7 +17767,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18149,7 +17815,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18200,7 +17865,6 @@ Rh2(Ph3COO)3(OAc)/Chiral Phosphoric Acid Cocatalyzed N-Alkyl Imines-Involved Mul
 By: Li, Xinglin; et al
 Organic Letters (2022), 24(47), 8633-8638.
 10.1021/acs.orglett.2c03368
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18251,7 +17915,6 @@ Green-Chemistry-Inspired Synthesis of Cyclobutane-Based Hole-Selective Materials
 By: Daskeviciute-Geguziene, Sarune; et al
 Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 10.1002/anie.202113207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18302,7 +17965,6 @@ Preclinical evaluation of new C-11 labeled benzo-1,4-dioxane PET radiotracers fo
 By: Alluri, Santosh; et al
 European Journal of Medicinal Chemistry (2022), 243, 114764.
 10.1016/j.ejmech.2022.114764
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18357,7 +18019,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18410,7 +18071,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18463,7 +18123,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18516,7 +18175,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18569,7 +18227,6 @@ Simple generation of various α-monofluoroalkyl radicals by organic photoredox c
 By: Taniguchi, Ryo; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(21), 2609-2612.
 10.1039/d0cc08060h
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18622,7 +18279,6 @@ Identification of Transthyretin Tetramer Kinetic Stabilizers That Are Capable of
 By: Cioffi, Christopher L.; et al
 Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 10.1021/acs.jmedchem.1c00099
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18675,7 +18331,6 @@ Modulating the Electron-Donating Ability of Acridine Donor Units for Orange-Red 
 By: Chen, Tianheng; et al
 Chemistry - A European Journal (2021), 27(9), 3151-3158.
 10.1002/chem.202004719
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18731,7 +18386,6 @@ Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated 
 By: Du, Zihang; et al
 ACS Catalysis (2024), 14(23), 18107-18115.
 10.1021/acscatal.4c05973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -18782,7 +18436,6 @@ Self-assembly of conformation-adaptive dihydrophenazine-based coordination cages
 By: Wu, Meng-Xiang; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 10.1039/d3cc04864k
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -18837,7 +18490,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -18892,7 +18544,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -18947,7 +18598,6 @@ Thermodynamic Phase Transition of Three-Dimensional Solid Additives Guiding Mole
 By: Yu, Runnan; et al
 Angewandte Chemie, International Edition (2023), 62(40), e202308367.
 10.1002/anie.202308367
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19002,7 +18652,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19057,7 +18706,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19113,7 +18761,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19168,7 +18815,6 @@ Broadening the Horizon of the Bell-Evans-Polanyi Principle towards Optically Tri
 By: Chen, Yi; et al
 Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 10.1002/anie.202015274
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19223,7 +18869,6 @@ Pd-Catalyzed Amination of Base-Sensitive Five-Membered Heteroaryl Halides with A
 By: Reichert, Elaine C.; et al
 Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 10.1021/jacs.2c13520
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19278,7 +18923,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19333,7 +18977,6 @@ Catalyst-controlled site-selective N-H and C3-arylation of carbazole via carbene
 By: Bera, Sourav Sekhar; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 10.1039/d1cc01863a
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19388,7 +19031,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19443,7 +19085,6 @@ Electron Push-Pull Effects on Intramolecular Charge Transfer in Perylene-Based D
 By: Ahn, Mina; et al
 Journal of Organic Chemistry (2021), 86(1), 403-413.
 10.1021/acs.joc.0c02149
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19502,7 +19143,6 @@ Azole-Directed Cobalt-Catalyzed Asymmetric Hydrogenation of Alkenes
 By: Jin, Yue; et al
 Chemistry - A European Journal (2022), 28(44), e202201517.
 10.1002/chem.202201517
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19557,7 +19197,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19612,7 +19251,6 @@ Development, Optimization, and In Vivo Validation of New Imidazopyridine Chemoty
 By: Das, Nirmal; et al
 Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 10.1021/acs.jmedchem.2c00386
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19667,7 +19305,6 @@ Discovery of the First-in-Class Agonist-Based SOS1 PROTACs Effective in Human Ca
 By: Zhou, Chuan; et al
 Journal of Medicinal Chemistry (2022), 65(5), 3923-3942.
 10.1021/acs.jmedchem.1c01774
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -19724,7 +19361,6 @@ Catalytic Oxidative C-H Annulation of Arylthiol Derivatives with 1,3-Diynes towa
 By: Lei, Tao; et al
 Organic Letters (2022), 24(10), 1929-1934.
 10.1021/acs.orglett.2c00295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -19781,7 +19417,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -19834,7 +19469,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -19888,7 +19522,6 @@ Mechanochemical synthesis of aromatic sulfonamides
 By: Mkrtchyan, Satenik; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -19951,7 +19584,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20006,7 +19638,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -20065,7 +19696,6 @@ Expanding the Chemistry of Dihaloacetamides as Tunable Electrophiles for Reversi
 By: Yamane, Daiki; et al
 Journal of Medicinal Chemistry (2023), 66(13), 9130-9146.
 10.1021/acs.jmedchem.3c00737
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20118,7 +19748,6 @@ Programmable Amine Synthesis via Iterative Boron Homologation
 By: Xie, Qiqiang; et al
 Angewandte Chemie, International Edition (2023), 62(35), e202307118.
 10.1002/anie.202307118
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20167,7 +19796,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20217,7 +19845,6 @@ Solvents: Toluene; 30 min, rt
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20272,7 +19899,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -20331,7 +19957,6 @@ Two boron atoms versus one: high-performance deep-blue multi-resonance thermally
 By: Chan, Chin-Yiu; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(67), 9377-9380.
 10.1039/d2cc03347j
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -20387,7 +20012,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20438,7 +20062,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20491,7 +20114,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20544,7 +20166,6 @@ Selective Modification for Red-Shifted Excitability: A Small Change in Structure
 By: Becker, Yvonne; et al
 Chemistry - A European Journal (2021), 27(6), 2212-2218.
 10.1002/chem.202003672
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20593,7 +20214,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20650,7 +20270,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20702,7 +20321,6 @@ Synthesis of medium-sized heterocycles from oxetanes based on an allylic aminati
 By: Li, Jixing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 10.1039/d3cc04355j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20759,7 +20377,6 @@ Structurally Nontraditional Bipolar Hosts for RGB Phosphorescent OLEDs: Boosted 
 By: Ma, Weixin; et al
 Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 10.1002/anie.202116681
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20816,7 +20433,6 @@ Supramolecular Polymerization of Triarylamine-Based Macrocycles into Electroacti
 By: Picini, Flavio; et al
 Journal of the American Chemical Society (2021), 143(17), 6498-6504.
 10.1021/jacs.1c00623
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20871,7 +20487,6 @@ Tertiary Amides as Directing Groups for Enantioselective C-H Amination using Ion
 By: Paterson, Kieran J.; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 10.1002/anie.202317489
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20928,7 +20543,6 @@ Ring walking as a regioselectivity control element in Pd-catalyzed C-N cross-cou
 By: Deem, Madeleine C.; et al
 Nature Communications (2022), 13(1), 2869.
 10.1038/s41467-022-30255-1
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -20981,7 +20595,6 @@ Anion-Responsive Colorimetric and Fluorometric Red-Shift in Triarylborane Deriva
 By: Aota, Nae; et al
 Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 10.1002/anie.202405158
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21037,7 +20650,6 @@ The construction of chiral 3-acyl bicyclolactams via a RuPHOX/Pd catalyzed asymm
 By: Dong, Siqi; et al
 Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 10.1039/d3qo00055a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21090,7 +20702,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21141,7 +20752,6 @@ Synthesis of 1,7-Fused Indolines Tethered with Spiroindolinone Based on C-H Acti
 By: He, Xing; et al
 Journal of Organic Chemistry (2024), 89(3), 1880-1897.
 10.1021/acs.joc.3c02630
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21194,7 +20804,6 @@ Accessing Dihydropyrrolo[3,4-b]indol-1(2H)-ones via Pd-Catalyzed Intramolecular 
 By: Alam, Ryan M.; et al
 European Journal of Organic Chemistry (2023), 26(34), e202300646.
 10.1002/ejoc.202300646
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21249,7 +20858,6 @@ Reagent and Catalyst Capsules: A Chemical Delivery System for Reaction Screening
 By: Borlinghaus, Niginia; et al
 Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 10.1021/acs.joc.0c02576
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21310,7 +20918,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21369,7 +20976,6 @@ Iron-Catalyzed Coupling of Alkenes and Enones: Sakurai-Michael-type Conjugate Ad
 By: Scrivener, Sarah G.; et al
 Organic Letters (2023), 25(9), 1420-1424.
 10.1021/acs.orglett.3c00139
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21422,7 +21028,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21475,7 +21080,6 @@ Solvents: Toluene; 24 h, 120 °C
 By: Chen, Weijie; et al
 Organic Letters (2021), 23(9), 3729-3734.
 10.1021/acs.orglett.1c01125
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21527,7 +21131,6 @@ Double Ligands Enabled Ruthenium Catalyzed ortho-C-H Arylation of Dialkyl Biaryl
 By: Wang, Liang-Neng; et al
 Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 10.1002/adsc.202100283
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21580,7 +21183,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21635,7 +21237,6 @@ Identification of NVP-CLR457 as an Orally Bioavailable Non-CNS-Penetrant pan-Cla
 By: Fairhurst, Robin A.; et al
 Journal of Medicinal Chemistry (2022), 65(12), 8345-8379.
 10.1021/acs.jmedchem.2c00267
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21686,7 +21287,6 @@ Synthesis and structure-activity relationships for a new class of tetrahydronaph
 By: Sutherland, Hamish S.; et al
 European Journal of Medicinal Chemistry (2022), 229, 114059.
 10.1016/j.ejmech.2021.114059
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21746,7 +21346,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21800,7 +21399,6 @@ Transition metal-free and temperature dependent one-pot access to phenanthrene-f
 By: Reddy, Mokilla Ramachandra; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 10.1039/d3cc04473d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21853,7 +21451,6 @@ Intramolecular Diels-Alder Reactions of α-Bromostyrene-Functionalized Unsaturat
 By: Wang, Zhichao; et al
 Journal of Organic Chemistry (2022), 87(16), 11148-11164.
 10.1021/acs.joc.2c01417
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21906,7 +21503,6 @@ Aggregation Effect on Multiperformance Improvement in Aryl-Armed Phenazine-Based
 By: Wan, Qing; et al
 Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 10.1021/jacs.2c09210
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -21967,7 +21563,6 @@ Tandem Reaction of Azide with Isonitrile and TMSCnFm(H): Access to N-Functionali
 By: Chang, Wenxu; et al
 Organic Letters (2023), 25(9), 1392-1396.
 10.1021/acs.orglett.3c00125
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22027,7 +21622,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22079,7 +21673,6 @@ Chemodivergent Spirocyclization of 2-Sec-Aminobenzylidene Imidazolones: Lewis Ve
 By: Ivanov, Dmitrii S.; et al
 Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 10.1002/adsc.202200109
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22131,7 +21724,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22183,7 +21775,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22235,7 +21826,6 @@ Discovery of a Potent FLT3 Inhibitor (LT-850-166) with the Capacity of Overcomin
 By: Wang, Zhijie; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 10.1021/acs.jmedchem.1c01196
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22287,7 +21877,6 @@ Solvents: Toluene; 5 h, reflux
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22341,7 +21930,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22393,7 +21981,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22445,7 +22032,6 @@ Discovery of a potent and selective allosteric inhibitor targeting the SHP2 tunn
 By: Luo, Ruixiang; et al
 European Journal of Medicinal Chemistry (2023), 253, 115305.
 10.1016/j.ejmech.2023.115305
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22499,7 +22085,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22552,7 +22137,6 @@ Kinetic Modeling Enables Understanding of Off-Cycle Processes in Pd-Catalyzed Am
 By: Raguram, Elaine Reichert; et al
 Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 10.1021/jacs.4c10488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22605,7 +22189,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22658,7 +22241,6 @@ Benzo[b]naphtho[1,2-d]thiophene Sulfoxides: Biomimetic Synthesis, Photophysical 
 By: Shen, Xian-Yan; et al
 Angewandte Chemie, International Edition (2022), 61(35), e202203908.
 10.1002/anie.202203908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22711,7 +22293,6 @@ Optimized Red-Absorbing Dyes for Imaging and Sensing
 By: Grimm, Jonathan B.; et al
 Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 10.1021/jacs.3c05273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22764,7 +22345,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22821,7 +22401,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22881,7 +22460,6 @@ Sulphur-induced structural rearrangement in the self-sensitization photo-oxidati
 By: Chen, Jianai; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
 10.1039/d3cc06031d
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -22938,7 +22516,6 @@ Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated 
 By: Du, Zihang; et al
 ACS Catalysis (2024), 14(23), 18107-18115.
 10.1021/acscatal.4c05973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -22993,7 +22570,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23049,7 +22625,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23102,7 +22677,6 @@ Solvents: Toluene; rt → reflux; 12 h, reflux
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23155,7 +22729,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23209,7 +22782,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23262,7 +22834,6 @@ Solution-Processable Pure-Red Multiple Resonance-induced Thermally Activated Del
 By: Cai, Xinliang; et al
 Angewandte Chemie, International Edition (2023), 62(7), e202216473.
 10.1002/anie.202216473
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23317,7 +22888,6 @@ Convenient synthesis of tricyclic N(1)-C(2)-fused oxazino-indolones via [Au(I)] 
 By: Pedrazzani, Riccardo; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(62), 8698-8701.
 10.1039/d2cc02303b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23374,7 +22944,6 @@ Development of an Orally Bioavailable LCK PROTAC Degrader as a Potential Therape
 By: Jarusiewicz, Jamie A.; et al
 Journal of Medicinal Chemistry (2024), 67(14), 11868-11884.
 10.1021/acs.jmedchem.4c00481
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23436,7 +23005,6 @@ Design and Synthesis of Clinical Candidate PF-06852231 (CVL-231): A Brain Penetr
 By: Butler, Christopher R.; et al
 Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 10.1021/acs.jmedchem.4c00293
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23489,7 +23057,6 @@ Discovery and Optimization of DNA Gyrase and Topoisomerase IV Inhibitors with Po
 By: Lapointe, Guillaume; et al
 Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 10.1021/acs.jmedchem.1c00375
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23542,7 +23109,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23597,7 +23163,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23650,7 +23215,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23705,7 +23269,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23760,7 +23323,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23815,7 +23377,6 @@ Reagent and Catalyst Capsules: A Chemical Delivery System for Reaction Screening
 By: Borlinghaus, Niginia; et al
 Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 10.1021/acs.joc.0c02576
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23868,7 +23429,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23921,7 +23481,6 @@ One-Pot Synthesis of Quinazolines via Elemental Sulfur-Mediated Oxidative Conden
 By: Tan, Yuxing; et al
 Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 10.1002/adsc.202200537
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -23980,7 +23539,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24039,7 +23597,6 @@ Solvents: Toluene; 24 h, 100 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24098,7 +23655,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24154,7 +23710,6 @@ Deciphering complexity in Pd-catalyzed cross-couplings
 By: Clarke, George E.; et al
 Nature Communications (2024), 15(1), 3968.
 10.1038/s41467-024-47939-5
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24208,7 +23763,6 @@ Accessing Dihydropyrrolo[3,4-b]indol-1(2H)-ones via Pd-Catalyzed Intramolecular 
 By: Alam, Ryan M.; et al
 European Journal of Organic Chemistry (2023), 26(34), e202300646.
 10.1002/ejoc.202300646
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24261,7 +23815,6 @@ Discovery of GSK251: A Highly Potent, Highly Selective, Orally Bioavailable Inhi
 By: Down, Kenneth; et al
 Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 10.1021/acs.jmedchem.1c01102
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24314,7 +23867,6 @@ Synthesis of [1]Benzothieno[2,3-b][1]benzothiophenes from 3-Arylbenzo[b]thiophen
 By: Ito, Kazuki; et al
 Journal of Organic Chemistry (2023), 88(20), 14797-14802.
 10.1021/acs.joc.3c01618
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24367,7 +23919,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24420,7 +23971,6 @@ Synthesis of 1,1,4,5-Tetrasubstituted Phthalans via Pd-Catalyzed Three-Component
 By: Huang, Wenliang; et al
 Organic Letters (2022), 24(47), 8651-8656.
 10.1021/acs.orglett.2c03460
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24473,7 +24023,6 @@ Four Dibenzofuran-Terminated High-Triplet-Energy Hole Transporters for High-Effi
 By: Sasabe, Hisahiro; et al
 Chemistry - A European Journal (2022), 28(13), e202104408.
 10.1002/chem.202104408
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24526,7 +24075,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24579,7 +24127,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24632,7 +24179,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24685,7 +24231,6 @@ Rh(III)-Catalyzed Defluorinative [4 + 2] Annulation of N-Sulfonylarylamides with
 By: Li, Haosheng; et al
 Organic Letters (2022), 24(49), 8969-8974.
 10.1021/acs.orglett.2c03501
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24741,7 +24286,6 @@ Interrupted pyridine hydrogenation: Asymmetric synthesis of δ-lactams
 By: Wagener, Tobias; et al
 Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 10.1002/anie.202016771
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24794,7 +24338,6 @@ Synthesis of Diarylaminoacridinium Photocatalysts by Halogen-Metal Exchange Comb
 By: Jakobi, Markus; et al
 Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 10.1002/adsc.202200819
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24847,7 +24390,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24900,7 +24442,6 @@ Palladium-Catalyzed Carbonylative Synthesis of 2-(Trifluoromethyl)quinazolin-4(3
 By: Wang, Le-Cheng; et al
 Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 10.1002/adsc.202001502
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -24955,7 +24496,6 @@ Discovery of Novel 1-Phenylpiperidine Urea-Containing Derivatives Inhibiting β-
 By: Zhu, Wenhua; et al
 Journal of Medicinal Chemistry (2024), 67(15), 12485-12520.
 10.1021/acs.jmedchem.3c02079
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25008,7 +24548,6 @@ Enantioselective Hydroalkenylation of Olefins with Enol Sulfonates Enabled by Du
 By: Schuppe, Alexander W.; et al
 Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 10.1021/jacs.1c02117
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25061,7 +24600,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25114,7 +24652,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25167,7 +24704,6 @@ Targeting σ2R/TMEM97 with novel aminotetralins
 By: Wood, Michael D.; et al
 European Journal of Medicinal Chemistry (2022), 243, 114696.
 10.1016/j.ejmech.2022.114696
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25220,7 +24756,6 @@ Expedient Synthesis of Bis(imidazolium) Dichloride Salts and Bis(NHC) Complexes 
 By: Penn, Kyle R.; et al
 Organometallics (2021), 40(23), 3871-3875.
 10.1021/acs.organomet.1c00592
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25273,7 +24808,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25326,7 +24860,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25375,7 +24908,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25430,7 +24962,6 @@ Nonpeptidic Oxazole Based Prolyl Oligopeptidase Ligands with Disease Modifying E
 By: Kilpelainen, Tommi P.; et al
 Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 10.1021/acs.jmedchem.3c00235
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25484,7 +25015,6 @@ Targeting σ2R/TMEM97 with novel aminotetralins
 By: Wood, Michael D.; et al
 European Journal of Medicinal Chemistry (2022), 243, 114696.
 10.1016/j.ejmech.2022.114696
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25538,7 +25068,6 @@ Thermally Stable D2h Symmetric Donor-π-Donor Porphyrins as Hole-Transporting Ma
 By: Mai, Chi-Lun; et al
 Angewandte Chemie, International Edition (2022), 61(39), e202209365.
 10.1002/anie.202209365
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25591,7 +25120,6 @@ Design and Synthesis of Novel Epigenetic Inhibitors Targeting Histone Deacetylas
 By: Rabal, Obdulia; et al
 Journal of Medicinal Chemistry (2021), 64(6), 3392-3426.
 10.1021/acs.jmedchem.0c02255
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25646,7 +25174,6 @@ Self-Improving Photosensitizer Discovery System via Bayesian Search with First-P
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2021), 143(47), 19769-19777.
 10.1021/jacs.1c08211
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25700,7 +25227,6 @@ Deciphering complexity in Pd-catalyzed cross-couplings
 By: Clarke, George E.; et al
 Nature Communications (2024), 15(1), 3968.
 10.1038/s41467-024-47939-5
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25750,7 +25276,6 @@ V-shaped donor-acceptor organic emitters. A new approach towards efficient TADF 
 By: Derkowski, Wojciech; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818.
 10.1039/d2cc06978d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25808,7 +25333,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25861,7 +25385,6 @@ Carbazole-Decorated Organoboron Emitters with Low-Lying HOMO Levels for Solution
 By: Zhang, Kaiyuan; et al
 Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 10.1002/anie.202313084
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25912,7 +25435,6 @@ Palladium Metallaphotoredox-Catalyzed 2-Arylation of Indole Derivatives
 By: Wang, Xinmou; et al
 Organic Letters (2022), 24(25), 4580-4585.
 10.1021/acs.orglett.2c01674
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -25965,7 +25487,6 @@ Red Light-Emitting Thermally-Activated Delayed Fluorescence of Naphthalimide-Phe
 By: Zhang, Xue; et al
 Chemistry - A European Journal (2022), 28(37), e202200510.
 10.1002/chem.202200510
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26018,7 +25539,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26074,7 +25594,6 @@ Discovery and Optimization of Potent, Selective, and Brain-Penetrant 1-Heteroary
 By: Candito, David A.; et al
 Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 10.1021/acs.jmedchem.2c01605
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26127,7 +25646,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26180,7 +25698,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26236,7 +25753,6 @@ Novel Series of Mononuclear Aluminum Complexes for High-Performance Solution-Pro
 By: Nakao, Kohei; et al
 Angewandte Chemie, International Edition (2021), 60(11), 6036-6041.
 10.1002/anie.202014941
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26291,7 +25807,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26344,7 +25859,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26397,7 +25911,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26450,7 +25963,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26503,7 +26015,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26559,7 +26070,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26612,7 +26122,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26665,7 +26174,6 @@ Robust Spirobifluorene Core Based Hole Transporters with High Mobility for Long-
 By: Nagamura, Natsuo; et al
 Chemistry - A European Journal (2023), 29(1), e202202636.
 10.1002/chem.202202636
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26728,7 +26236,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26788,7 +26295,6 @@ Diversity-oriented synthesis of fluoroalkylated amines via the palladium-catalyz
 By: Fu, Chen; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(37), 5614-5617.
 10.1039/d2cc00983h
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26841,7 +26347,6 @@ Aggregation Effect on Multiperformance Improvement in Aryl-Armed Phenazine-Based
 By: Wan, Qing; et al
 Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 10.1021/jacs.2c09210
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26894,7 +26399,6 @@ Exploring Catalytic Intermediates in Pd-Catalyzed Aerobic Oxidative Amination of
 By: Tabaru, Kazuki; et al
 Journal of the American Chemical Society (2024), 146(33), 22993-23003.
 10.1021/jacs.4c02518
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -26947,7 +26451,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27000,7 +26503,6 @@ Regioselective C-H Thioarylation of Electron-Rich Arenes by Iron(III) Triflimide
 By: Dodds, Amy C.; et al
 Journal of Organic Chemistry (2021), 86(8), 5922-5932.
 10.1021/acs.joc.1c00448
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27053,7 +26555,6 @@ Reversibly Switchable Phase-Dependent Emission of Quinoline and Phenothiazine De
 By: Sych, Galyna; et al
 Chemistry - A European Journal (2021), 27(8), 2826-2836.
 10.1002/chem.202004657
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27111,7 +26612,6 @@ Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated 
 By: Du, Zihang; et al
 ACS Catalysis (2024), 14(23), 18107-18115.
 10.1021/acscatal.4c05973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27164,7 +26664,6 @@ Iron-Catalyzed Synthesis of Conformationally Restricted Bicyclic N-Heterocycles 
 By: Hertwig, Leif E.; et al
 ACS Catalysis (2023), 13(9), 6416-6429.
 10.1021/acscatal.3c01305
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27217,7 +26716,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27266,7 +26764,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27315,7 +26812,6 @@ Solvents: Toluene; 12 h, 120 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27364,7 +26860,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27418,7 +26913,6 @@ Discovery of Novel 5,6-Dihydro-1,2,4-triazine Derivatives as Efficacious Glucago
 By: Chen, Lili; et al
 Journal of Medicinal Chemistry (2023), 66(12), 7988-8010.
 10.1021/acs.jmedchem.3c00320
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27479,7 +26973,6 @@ Discovery of GLPG1972/S201086, a Potent, Selective, and Orally Bioavailable ADAM
 By: Brebion, Franck; et al
 Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 10.1021/acs.jmedchem.0c02008
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27537,7 +27030,6 @@ Identification of Transthyretin Tetramer Kinetic Stabilizers That Are Capable of
 By: Cioffi, Christopher L.; et al
 Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 10.1021/acs.jmedchem.1c00099
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27595,7 +27087,6 @@ Difluorocarbene-Mediated Cascade Cyclization: The Multifunctional Role of Rupper
 By: Cai, Yanyao; et al
 Organic Letters (2021), 23(9), 3546-3551.
 10.1021/acs.orglett.1c00962
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27653,7 +27144,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27707,7 +27197,6 @@ Anion-Responsive Colorimetric and Fluorometric Red-Shift in Triarylborane Deriva
 By: Aota, Nae; et al
 Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 10.1002/anie.202405158
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27761,7 +27250,6 @@ Remarkably Efficient Iridium Catalysts for Directed C(sp2)-H and C(sp3)-H Boryla
 By: Hoque, Emdadul Md; et al
 Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 10.1021/jacs.0c13415
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27864,7 +27352,6 @@ Metal-Free Directed Site-Selective Csp3-H Borylation of Saturated Cyclic Amines
 By: Kumar Someswara Ashwathappa, Puneeth; et al
 Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 10.1002/anie.202309295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27918,7 +27405,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -27971,7 +27457,6 @@ Remarkably Efficient Iridium Catalysts for Directed C(sp2)-H and C(sp3)-H Boryla
 By: Hoque, Emdadul Md; et al
 Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 10.1021/jacs.0c13415
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28022,7 +27507,6 @@ Chemodivergent Spirocyclization of 2-Sec-Aminobenzylidene Imidazolones: Lewis Ve
 By: Ivanov, Dmitrii S.; et al
 Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 10.1002/adsc.202200109
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28075,7 +27559,6 @@ Naphthyl Substituted Impurities Induce Efficient Room Temperature Phosphorescenc
 By: Qiao, Weiguo; et al
 Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 10.1002/anie.202315911
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28127,7 +27610,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28179,7 +27661,6 @@ Inner-Bond-Cleavage Approach to Figure-Eight Macrocycles from Planar Aromatic Hy
 By: Yoshina, Reiji; et al
 Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 10.1021/jacs.4c07985
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28233,7 +27714,6 @@ NHPI/O2-Mediated Electrochemical Intermolecular Cyclization/Dehydrogenation for 
 By: Liu, Lei; et al
 Advanced Synthesis & Catalysis (2023), 365(13), 2248-2254.
 10.1002/adsc.202300324
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28285,7 +27765,6 @@ Discovery of (2S)-N-(6-cyano-5-(trifluoromethyl)pyridin-3-yl)-3-(6-(4-cyanopheny
 By: Zhang, Wenqiang; et al
 Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 10.1021/acs.jmedchem.3c01417
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28338,7 +27817,6 @@ Accessing Dihydropyrrolo[3,4-b]indol-1(2H)-ones via Pd-Catalyzed Intramolecular 
 By: Alam, Ryan M.; et al
 European Journal of Organic Chemistry (2023), 26(34), e202300646.
 10.1002/ejoc.202300646
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28391,7 +27869,6 @@ Zero-Shot Discovery of High-Performance, Low-Cost Organic Battery Materials Usin
 By: Park, Jaehyun; et al
 Journal of the American Chemical Society (2024), 146(45), 31230-31239.
 10.1021/jacs.4c11663
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28443,7 +27920,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28497,7 +27973,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28551,7 +28026,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28607,7 +28081,6 @@ Kinetic Resolution of α-Tertiary Propargylic Amines through Asymmetric Remote A
 By: Pan, Yongkai; et al
 ACS Catalysis (2021), 11(14), 8443-8448.
 10.1021/acscatal.1c02331
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28661,7 +28134,6 @@ B-N bond formation through palladium-catalyzed, microwave-assisted cross-couplin
 By: Al-Joumhawy, Mahmoud K.; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28715,7 +28187,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28769,7 +28240,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28826,7 +28296,6 @@ Interrupted pyridine hydrogenation: Asymmetric synthesis of δ-lactams
 By: Wagener, Tobias; et al
 Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 10.1002/anie.202016771
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28880,7 +28349,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28934,7 +28402,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -28988,7 +28455,6 @@ Stable and Fully-Oxidized Methylene-Bridged Macrocyclic Phenothiazine Polyradica
 By: Mao, Lijun; et al
 Organic Letters (2024), 26(34), 7244-7248.
 10.1021/acs.orglett.4c02665
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29042,7 +28508,6 @@ Identification of Transthyretin Tetramer Kinetic Stabilizers That Are Capable of
 By: Cioffi, Christopher L.; et al
 Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 10.1021/acs.jmedchem.1c00099
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29096,7 +28561,6 @@ Construction of C-X (X = S, O, Se) Bonds via Lewis Acid-Promoted Functionalizati
 By: Xu, Jun; et al
 ACS Catalysis (2023), 13(11), 7339-7346.
 10.1021/acscatal.3c00669
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29150,7 +28614,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29202,7 +28665,6 @@ Design and Discovery of MRTX0902, a Potent, Selective, Brain-Penetrant, and Oral
 By: Ketcham, John M.; et al
 Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 10.1021/acs.jmedchem.2c00741
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29255,7 +28717,6 @@ BN-Isosteres of Nonacene with Antiaromatic B2C4 and N2C4 Heterocycles: Synthesis
 By: Chen, Cheng; et al
 Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 10.1002/anie.202316596
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29308,7 +28769,6 @@ High-Performance Near-Infrared Chlorinated Rylenecarboximide Fluorophores via Co
 By: Wu, Ze-Hua; et al
 Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 10.1002/anie.202315156
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29362,7 +28822,6 @@ The Construction of Highly Substituted Piperidines via Dearomative Functionaliza
 By: Hu, Miao; et al
 Angewandte Chemie, International Edition (2023), 62(49), e202315108.
 10.1002/anie.202315108
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29415,7 +28874,6 @@ Hypsochromic Shift of Multiple-Resonance-Induced Thermally Activated Delayed Flu
 By: Tanaka, Hiroyuki; et al
 Angewandte Chemie, International Edition (2021), 60(33), 17910-17914.
 10.1002/anie.202105032
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29470,7 +28928,6 @@ One-Shot Synthesis of Expanded Heterohelicene Exhibiting Narrowband Thermally Ac
 By: Oda, Susumu; et al
 Journal of the American Chemical Society (2022), 144(1), 106-112.
 10.1021/jacs.1c11659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29523,7 +28980,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29576,7 +29032,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29635,7 +29090,6 @@ Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated 
 By: Du, Zihang; et al
 ACS Catalysis (2024), 14(23), 18107-18115.
 10.1021/acscatal.4c05973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29696,7 +29150,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29750,7 +29203,6 @@ Solvent-Controlled Enantiodivergent Construction of P(V)-Stereogenic Molecules v
 By: Tian, Qingyu; et al
 Angewandte Chemie, International Edition (2024), 63(41), e202409366.
 10.1002/anie.202409366
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29803,7 +29255,6 @@ Inner-Bond-Cleavage Approach to Figure-Eight Macrocycles from Planar Aromatic Hy
 By: Yoshina, Reiji; et al
 Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 10.1021/jacs.4c07985
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29857,7 +29308,6 @@ Identification of Transthyretin Tetramer Kinetic Stabilizers That Are Capable of
 By: Cioffi, Christopher L.; et al
 Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 10.1021/acs.jmedchem.1c00099
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29910,7 +29360,6 @@ Modified Intramolecular-Lock Strategy Enables Efficient Thermally Activated Dela
 By: Huang, Zhenmei; et al
 Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 10.1002/anie.202213157
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -29971,7 +29420,6 @@ Conformational Control of [2]Rotaxane by Hydrogen Bond
 By: Kawasaki, Yusuke; et al
 Journal of Organic Chemistry (2022), 87(9), 5744-5759.
 10.1021/acs.joc.2c00086
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30032,7 +29480,6 @@ Naphthyl Substituted Impurities Induce Efficient Room Temperature Phosphorescenc
 By: Qiao, Weiguo; et al
 Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 10.1002/anie.202315911
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30089,7 +29536,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30138,7 +29584,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30187,7 +29632,6 @@ Electrophilic Activation of [1.1.1]Propellane for the Synthesis of Nitrogen-Subs
 By: Livesley, Sarah; et al
 Angewandte Chemie, International Edition (2022), 61(2), e202111291.
 10.1002/anie.202111291
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30241,7 +29685,6 @@ Palladium(0)-catalysed regioselective cyclisations of 2-amino(tosyl) benzamides/
 By: Mondal, Debasmita; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(44), 5462-5465.
 10.1039/d1cc00793a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30296,7 +29739,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30350,7 +29792,6 @@ Synthesis of Azadioxa-Planar Triphenylboranes Bridged by Aryl- and Alkylimino Gr
 By: Kitamoto, Yuichi; et al
 Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 10.1021/acs.joc.3c00275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30404,7 +29845,6 @@ Synthesis of Azadioxa-Planar Triphenylboranes Bridged by Aryl- and Alkylimino Gr
 By: Kitamoto, Yuichi; et al
 Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 10.1021/acs.joc.3c00275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30458,7 +29898,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30512,7 +29951,6 @@ Insight into Regioselective Control in Aerobic Oxidative C-H/C-H Coupling for C3
 By: Shi, Yang; et al
 Journal of the American Chemical Society (2021), 143(49), 21066-21076.
 10.1021/jacs.1c11277
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30567,7 +30005,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30621,7 +30058,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30675,7 +30111,6 @@ Solvent-tunable exciton-charge transfer mixed state enhances emission of functio
 By: Xu, Xiushang; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(6), 720-723.
 10.1039/d2cc05369a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30729,7 +30164,6 @@ Optimized Red-Absorbing Dyes for Imaging and Sensing
 By: Grimm, Jonathan B.; et al
 Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 10.1021/jacs.3c05273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30783,7 +30217,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30838,7 +30271,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30893,7 +30325,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -30947,7 +30378,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31001,7 +30431,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31056,7 +30485,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31112,7 +30540,6 @@ Metal catalyzed C-N bond forming reaction selection and process development for 
 By: Aydin, Gulsevim; et al
 Organic Process Research & Development (2024), 28(2), 559-576.
 10.1021/acs.oprd.3c00393
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31166,7 +30593,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31220,7 +30646,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31274,7 +30699,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31328,7 +30752,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31383,7 +30806,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31437,7 +30859,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31491,7 +30912,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31545,7 +30965,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31599,7 +31018,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31653,7 +31071,6 @@ Discovery of Pyrimidinediamine Derivatives as Potent Methuosis Inducers for the 
 By: He, Jia; et al
 Journal of Medicinal Chemistry (2023), 66(11), 7421-7437.
 10.1021/acs.jmedchem.3c00090
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31707,7 +31124,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31764,7 +31180,6 @@ The construction of chiral 3-acyl bicyclolactams via a RuPHOX/Pd catalyzed asymm
 By: Dong, Siqi; et al
 Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 10.1039/d3qo00055a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31821,7 +31236,6 @@ Process Development of a Tricyclic Diazepine-Based IDH1 Mutant Inhibitor
 By: Maddess, Matthew L.; et al
 Organic Process Research & Development (2024), 28(6), 2343-2354.
 10.1021/acs.oprd.4c00171
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31875,7 +31289,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31929,7 +31342,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -31983,7 +31395,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32037,7 +31448,6 @@ New approaches to the functionalization of the 1-carba-closo-decaborate anion
 By: Shmal’ko, Akim V.; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 10.1039/d1cc06395b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32091,7 +31501,6 @@ Optimized Red-Absorbing Dyes for Imaging and Sensing
 By: Grimm, Jonathan B.; et al
 Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 10.1021/jacs.3c05273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32145,7 +31554,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32199,7 +31607,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32253,7 +31660,6 @@ Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated 
 By: Du, Zihang; et al
 ACS Catalysis (2024), 14(23), 18107-18115.
 10.1021/acscatal.4c05973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32307,7 +31713,6 @@ I2-Promoted gem-Diarylethene Involved Aza-Diels-Alder Reaction and Wagner-Meerwe
 By: Zhou, You; et al
 Organic Letters (2023), 25(19), 3386-3390.
 10.1021/acs.orglett.3c00886
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32361,7 +31766,6 @@ Nonsymmetric [Pt(CN̂*N’Ĉ’)] Complexes: Aggregation-Induced Emission in the
 By: Solomatina, Anastasia I.; et al
 Chemistry - A European Journal (2022), 28(64), e202202207.
 10.1002/chem.202202207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32413,7 +31817,6 @@ B,N-doped PAHs from tridentate ‘Defects’ - a bottom-up convergent approach f
 By: Farinone, Marco; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 10.1039/d2cc01801b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32468,7 +31871,6 @@ High-Performance Near-Infrared Chlorinated Rylenecarboximide Fluorophores via Co
 By: Wu, Ze-Hua; et al
 Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 10.1002/anie.202315156
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32521,7 +31923,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32574,7 +31975,6 @@ Optimized Red-Absorbing Dyes for Imaging and Sensing
 By: Grimm, Jonathan B.; et al
 Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 10.1021/jacs.3c05273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32627,7 +32027,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32681,7 +32080,6 @@ Palladium-Catalyzed Carbonylative Synthesis of 2-(Trifluoromethyl)quinazolin-4(3
 By: Wang, Le-Cheng; et al
 Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 10.1002/adsc.202001502
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32739,7 +32137,6 @@ Rotation (+)
 By: Trinderup, Helle H.; et al
 Journal of Organic Chemistry (2022), 87(21), 13763-13789.
 10.1021/acs.joc.2c01475
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32793,7 +32190,6 @@ Double n→π* Interactions with One Electron Donor: Structural and Mechanistic 
 By: Yin, Chaowei; et al
 Organic Letters (2023), 25(9), 1470-1475.
 10.1021/acs.orglett.3c00205
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32847,7 +32243,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32900,7 +32295,6 @@ Synthesis of medium-sized heterocycles from oxetanes based on an allylic aminati
 By: Li, Jixing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 10.1039/d3cc04355j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -32953,7 +32347,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33010,7 +32403,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33063,7 +32455,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33120,7 +32511,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33173,7 +32563,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33226,7 +32615,6 @@ Remote Selective C-H Halogenation of Arylphosphine Oxides with Ferric Halides
 By: Yu, Hong; et al
 Advanced Synthesis & Catalysis (2023), 365(18), 3101-3106.
 10.1002/adsc.202300486
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33281,7 +32669,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33336,7 +32723,6 @@ Access to N-Aryl (Iso)quinolones via Aryne-Induced Three-Component Coupling Reac
 By: Yan, Qiang; et al
 Organic Letters (2024), 26(9), 1840-1844.
 10.1021/acs.orglett.3c04385
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33389,7 +32775,6 @@ Palladium-Catalyzed Dual Coupling Reaction of 2-Iodobiphenyls with ortho-Bromoan
 By: Cheng, Cang; et al
 Organic Letters (2021), 23(4), 1239-1242.
 10.1021/acs.orglett.0c04192
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33441,7 +32826,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -33506,7 +32890,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33568,7 +32951,6 @@ Discovery and Optimization of DNA Gyrase and Topoisomerase IV Inhibitors with Po
 By: Lapointe, Guillaume; et al
 Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 10.1021/acs.jmedchem.1c00375
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33621,7 +33003,6 @@ Enantioselective Giese additions of prochiral α-amino radicals
 By: Lahdenpera, Antti S. K.; et al
 Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 10.1021/jacs.2c11367
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33674,7 +33055,6 @@ Spiroborate-Based Host Materials with High Triplet Energies and Ambipolar Charge
 By: Hayakawa, Masahiro; et al
 Angewandte Chemie, International Edition (2023), 62(14), e202217512.
 10.1002/anie.202217512
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33727,7 +33107,6 @@ Discovery of N-substituted oseltamivir derivatives as novel neuraminidase inhibi
 By: Jia, Ruifang; et al
 European Journal of Medicinal Chemistry (2023), 252, 115275.
 10.1016/j.ejmech.2023.115275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33779,7 +33158,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33832,7 +33210,6 @@ Searching for Synthetic Opioid Rescue Agents: Identification of a Potent Opioid 
 By: Vu, Loan Y.; et al
 Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
 10.1021/acs.jmedchem.4c00333
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33885,7 +33262,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33943,7 +33319,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -33998,7 +33373,6 @@ Influence of Sulfur Atoms on TADF Properties from Through-Space Charge Transfer 
 By: Zhang, Danwen; et al
 Chemistry - A European Journal (2022), 28(68), e202202305.
 10.1002/chem.202202305
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34053,7 +33427,6 @@ Synthesis of Ce(IV) Heteroleptic Double-Decker Complex with a New Helical Naphth
 By: Subramaniam, Jeevithra Dewi; et al
 Chemistry - A European Journal (2024), 30(55), e202402470.
 10.1002/chem.202402470
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34106,7 +33479,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34166,7 +33538,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34221,7 +33592,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34274,7 +33644,6 @@ Sterically Congested Protecting Group for a Boronyl Group in Iterative Amination
 By: Nojiri, Takaki; et al
 Chemistry - A European Journal (2024), 30(18), e202303953.
 10.1002/chem.202303953
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34324,7 +33693,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -34384,7 +33752,6 @@ Remarkably Efficient Iridium Catalysts for Directed C(sp2)-H and C(sp3)-H Boryla
 By: Hoque, Emdadul Md; et al
 Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 10.1021/jacs.0c13415
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34436,7 +33803,6 @@ Versatile Direct Cyclization Constructs Spiro-acridan Derivatives for Highly Eff
 By: Liu, He; et al
 Angewandte Chemie, International Edition (2021), 60(22), 12376-12380.
 10.1002/anie.202103187
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34489,7 +33855,6 @@ Discovery and Optimization of DNA Gyrase and Topoisomerase IV Inhibitors with Po
 By: Lapointe, Guillaume; et al
 Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 10.1021/acs.jmedchem.1c00375
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34539,7 +33904,6 @@ Solvents: Toluene; 24 h, 110 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34589,7 +33953,6 @@ Access to Cyclic N-Trifluoromethyl Ureas through Photocatalytic Activation of Ca
 By: Bouayad-Gervais, Samir; et al
 Journal of the American Chemical Society (2022), 144(13), 6100-6106.
 10.1021/jacs.2c02004
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34640,7 +34003,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34690,7 +34052,6 @@ Metal-Free Directed Site-Selective Csp3-H Borylation of Saturated Cyclic Amines
 By: Kumar Someswara Ashwathappa, Puneeth; et al
 Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 10.1002/anie.202309295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34740,7 +34101,6 @@ Ligand Engineering toward Deep Blue Emission in Nonplanar Terdentate Platinum(II
 By: Wu, Si-Hai; et al
 Organometallics (2021), 40(2), 156-165.
 10.1021/acs.organomet.0c00665
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34791,7 +34151,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34841,7 +34200,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34891,7 +34249,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34941,7 +34298,6 @@ Synthesis, Structure, and Chiroptical Properties of Indolo- and Pyridopyrrolo-Ca
 By: Taniguchi, Taisei; et al
 Chemistry - A European Journal (2021), 27(26), 7356-7361.
 10.1002/chem.202100327
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -34991,7 +34347,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35041,7 +34396,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35093,7 +34447,6 @@ Unprecedented Reversal of Regioselectivity during Methanolysis and an Intercepti
 By: Mandal, Mihirbaran; et al
 European Journal of Organic Chemistry (2021), 2021(36), 5073-5079.
 10.1002/ejoc.202101056
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35143,7 +34496,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35193,7 +34545,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35243,7 +34594,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35295,7 +34645,6 @@ Design and Discovery of MRTX0902, a Potent, Selective, Brain-Penetrant, and Oral
 By: Ketcham, John M.; et al
 Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 10.1021/acs.jmedchem.2c00741
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35345,7 +34694,6 @@ Donor-Acceptor-Donor Thienopyrazine-Based Dyes as NIR-Emitting AIEgens
 By: Goti, Giulio; et al
 European Journal of Organic Chemistry (2021), 2021(18), 2655-2664.
 10.1002/ejoc.202100199
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35396,7 +34744,6 @@ Pd-Catalyzed Asymmetric Amination of Enamines: Expedient Synthesis of Structural
 By: Zhang, Peng; et al
 ACS Catalysis (2023), 13(11), 7680-7690.
 10.1021/acscatal.3c00732
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35446,7 +34793,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35495,7 +34841,6 @@ Photo-Electroswitchable Arylaminoazobenzenes
 By: Saint-Louis, Carl Jacky; et al
 Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 10.1021/acs.joc.1c00763
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35546,7 +34891,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -35602,7 +34946,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35655,7 +34998,6 @@ Enantioselective Hydroalkenylation of Olefins with Enol Sulfonates Enabled by Du
 By: Schuppe, Alexander W.; et al
 Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 10.1021/jacs.1c02117
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35708,7 +35050,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35761,7 +35102,6 @@ Accessing Dihydropyrrolo[3,4-b]indol-1(2H)-ones via Pd-Catalyzed Intramolecular 
 By: Alam, Ryan M.; et al
 European Journal of Organic Chemistry (2023), 26(34), e202300646.
 10.1002/ejoc.202300646
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35813,7 +35153,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35863,7 +35202,6 @@ Robust Spirobifluorene Core Based Hole Transporters with High Mobility for Long-
 By: Nagamura, Natsuo; et al
 Chemistry - A European Journal (2023), 29(1), e202202636.
 10.1002/chem.202202636
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35916,7 +35254,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -35969,7 +35306,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36024,7 +35360,6 @@ Induction of Ferroptosis in Glioblastoma and Ovarian Cancers by a New Pyrrole Tu
 By: Puxeddu, Michela; et al
 Journal of Medicinal Chemistry (2022), 65(23), 15805-15818.
 10.1021/acs.jmedchem.2c01457
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36079,7 +35414,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36134,7 +35468,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36189,7 +35522,6 @@ Discovery of MK-8153, a Potent and Selective ROMK Inhibitor and Novel Diuretic/N
 By: Jiang, Jinlong; et al
 Journal of Medicinal Chemistry (2021), 64(11), 7691-7701.
 10.1021/acs.jmedchem.1c00406
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36242,7 +35574,6 @@ A Benzophenothiazine/Boronic Acid Hybrid Photocatalyst Enables the Single Electr
 By: Yumura, Taichi; et al
 ACS Catalysis (2023), 13(19), 12803-12809.
 10.1021/acscatal.3c03662
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36291,7 +35622,6 @@ Self-assembly of conformation-adaptive dihydrophenazine-based coordination cages
 By: Wu, Meng-Xiang; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 10.1039/d3cc04864k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36340,7 +35670,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36393,7 +35722,6 @@ Streamlined Synthesis of Aminoacridinium Photocatalysts with Improved Photostabi
 By: Jakobi, Markus; et al
 Organic Process Research & Development (2022), 26(9), 2756-2760.
 10.1021/acs.oprd.2c00209
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36447,7 +35775,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36500,7 +35827,6 @@ Ligand Engineering toward Deep Blue Emission in Nonplanar Terdentate Platinum(II
 By: Wu, Si-Hai; et al
 Organometallics (2021), 40(2), 156-165.
 10.1021/acs.organomet.0c00665
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36553,7 +35879,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36609,7 +35934,6 @@ Discovery of MK-1468: A Potent, Kinome-Selective, Brain-Penetrant Amidoisoquinol
 By: Kattar, Solomon D.; et al
 Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 10.1021/acs.jmedchem.3c01486
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36661,7 +35985,6 @@ The Reaction of Aryl Thiols or Thioureas with o-Diiodoarenes/NaH to Access o-Iod
 By: Hu, Min; et al
 Advanced Synthesis & Catalysis (2024), 366(7), 1538-1544.
 10.1002/adsc.202301426
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36763,7 +36086,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36816,7 +36138,6 @@ Solvents: Toluene; 24 h, 120 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36872,7 +36193,6 @@ Bis-Ortho-Donor-Modification of Boracyclic π-Electron Systems beyond Steric Pro
 By: Narita, Hiroki; et al
 Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 10.1002/anie.202405412
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36925,7 +36245,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -36978,7 +36297,6 @@ N-CF3 Imidazolidin-2-one Derivatives via Photocatalytic and Silver-Catalyzed Cyc
 By: Turksoy, Abdurrahman; et al
 Chemistry - A European Journal (2022), 28(46), e202201435.
 10.1002/chem.202201435
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37031,7 +36349,6 @@ Powerful Direct C-H Amidation Polymerization Affords Single-Fluorophore-Based Wh
 By: Hwang, Soon-Hyeok; et al
 Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 10.1021/jacs.1c11100
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37084,7 +36401,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37137,7 +36453,6 @@ Synthesis of medium-sized heterocycles from oxetanes based on an allylic aminati
 By: Li, Jixing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 10.1039/d3cc04355j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37190,7 +36505,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37247,7 +36561,6 @@ A Palladium Complex as an Asymmetric π-Lewis Base Catalyst for Activating 1,3-D
 By: Xiao, Ben-Xian; et al
 Journal of the American Chemical Society (2021), 143(12), 4809-4816.
 10.1021/jacs.1c01420
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37305,7 +36618,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37358,7 +36670,6 @@ Pd-Catalyzed 1,4-Carboamination of Bicyclic Bromoarenes with Diazo Compounds and
 By: Wu, Qikun; et al
 Organic Letters (2022), 24(23), 4129-4134.
 10.1021/acs.orglett.2c01233
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37413,7 +36724,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37465,7 +36775,6 @@ Dithienoazepine-Based Near-Infrared Dyes: Janus-Faced Effects of a Thiophene-Fus
 By: Murai, Masahito; et al
 Angewandte Chemie, International Edition (2023), 62(49), e202311445.
 10.1002/anie.202311445
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37526,7 +36835,6 @@ Photoinduced Silylation of N-Heteroarenes and Unsaturated Benzamides with Naphth
 By: Zhang, Wenjuan; et al
 Organic Letters (2022), 24(21), 3797-3801.
 10.1021/acs.orglett.2c01330
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37578,7 +36886,6 @@ Intramolecular charge transfer enables highly-efficient X-ray luminescence in cl
 By: Zhang, Nan; et al
 Nature Communications (2023), 14(1), 2901.
 10.1038/s41467-023-38546-x
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37637,7 +36944,6 @@ Nickel-Catalyzed Ipso-Borylation of Silyloxyarenes via C-O Bond Activation
 By: Pein, Wesley L.; et al
 Organic Letters (2021), 23(12), 4588-4592.
 10.1021/acs.orglett.1c01280
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37690,7 +36996,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37743,7 +37048,6 @@ Design and Synthesis of Clinical Candidate PF-06852231 (CVL-231): A Brain Penetr
 By: Butler, Christopher R.; et al
 Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 10.1021/acs.jmedchem.4c00293
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37796,7 +37100,6 @@ Identification of Transthyretin Tetramer Kinetic Stabilizers That Are Capable of
 By: Cioffi, Christopher L.; et al
 Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 10.1021/acs.jmedchem.1c00099
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37851,7 +37154,6 @@ Discovery, Characterization, and Structure-Based Optimization of Small-Molecule 
 By: Stockley, Martin L.; et al
 Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 10.1021/acs.jmedchem.2c01142
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37903,7 +37205,6 @@ General Synthesis of N-Alkylindoles from N,N-Dialkylanilines via [4 + 1] Annulat
 By: Zhang, Bowen; et al
 Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 10.1021/jacs.3c10751
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -37959,7 +37260,6 @@ Tertiary Amides as Directing Groups for Enantioselective C-H Amination using Ion
 By: Paterson, Kieran J.; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 10.1002/anie.202317489
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38014,7 +37314,6 @@ Dibenzodipyridophenazines with Dendritic Electron Donors Exhibiting Deep-Red Emi
 By: Primrose, William L.; et al
 Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 10.1021/acs.joc.2c02774
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38069,7 +37368,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38124,7 +37422,6 @@ Synthesis of Tetrahydroquinolines by Scandium-Catalyzed [3+3] Annulation of Anil
 By: Xu, Xian; et al
 ACS Catalysis (2021), 11(24), 14995-15003.
 10.1021/acscatal.1c04657
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38179,7 +37476,6 @@ Dibenzodipyridophenazines with Dendritic Electron Donors Exhibiting Deep-Red Emi
 By: Primrose, William L.; et al
 Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 10.1021/acs.joc.2c02774
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38232,7 +37528,6 @@ Electron Push-Pull Effects on Intramolecular Charge Transfer in Perylene-Based D
 By: Ahn, Mina; et al
 Journal of Organic Chemistry (2021), 86(1), 403-413.
 10.1021/acs.joc.0c02149
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38285,7 +37580,6 @@ Machine-Learning Classification for the Prediction of Catalytic Activity of Orga
 By: Noto, Naoki; et al
 Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 10.1002/anie.202219107
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38338,7 +37632,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38391,7 +37684,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38444,7 +37736,6 @@ Palladium-Catalyzed Carbonylative Synthesis of 2-(Trifluoromethyl)quinazolin-4(3
 By: Wang, Le-Cheng; et al
 Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 10.1002/adsc.202001502
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38497,7 +37788,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38557,7 +37847,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -38614,7 +37903,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38667,7 +37955,6 @@ I2-Promoted gem-Diarylethene Involved Aza-Diels-Alder Reaction and Wagner-Meerwe
 By: Zhou, You; et al
 Organic Letters (2023), 25(19), 3386-3390.
 10.1021/acs.orglett.3c00886
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38720,7 +38007,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38773,7 +38059,6 @@ Boron-, Sulfur- and Nitrogen-Doped Polycyclic Aromatic Hydrocarbon Multiple Reso
 By: Li, Qiang; et al
 Chemistry - A European Journal (2022), 28(12), e202104214.
 10.1002/chem.202104214
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38825,7 +38110,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38878,7 +38162,6 @@ Coal-Tar Dye-based Coordination Cages and Helicates
 By: Regeni, Irene; et al
 Angewandte Chemie, International Edition (2021), 60(11), 5673-5678.
 10.1002/anie.202015246
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38934,7 +38217,6 @@ The construction of chiral 3-acyl bicyclolactams via a RuPHOX/Pd catalyzed asymm
 By: Dong, Siqi; et al
 Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 10.1039/d3qo00055a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -38987,7 +38269,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39042,7 +38323,6 @@ Chemoselective and Diastereoselective Synthesis of C-Aryl Nucleoside Analogues b
 By: Li, Yuxi; et al
 Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 10.1002/anie.202110391
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39095,7 +38375,6 @@ Synthesis of medium-sized heterocycles from oxetanes based on an allylic aminati
 By: Li, Jixing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 10.1039/d3cc04355j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39149,7 +38428,6 @@ Enantioselective Synthesis of Cyclobutane Derivatives via Cascade Asymmetric All
 By: Yang, Pusu; et al
 Journal of the American Chemical Society (2023), 145(40), 21752-21759.
 10.1021/jacs.3c08792
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39199,7 +38477,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39253,7 +38530,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39306,7 +38582,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39359,7 +38634,6 @@ Carborane based chalcogen-fused phenazines for visible light induced ATRP
 By: Yang, Xiaodong; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 10.1039/d3cc01823g
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39412,7 +38686,6 @@ Palladium Catalyzed Dicarbonylation of α-Iodo-Substituted Alkylidenecyclopropan
 By: Li, Lin; et al
 Organic Letters (2022), 24(30), 5624-5628.
 10.1021/acs.orglett.2c02399
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39465,7 +38738,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39521,7 +38793,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39574,7 +38845,6 @@ Palladium-catalyzed C-Si bond formation via denitrative cross-coupling of nitroa
 By: Yao, Jiaxin; et al
 Organic Chemistry Frontiers (2023), 10(2), 524-530.
 10.1039/d2qo01764d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39627,7 +38897,6 @@ B-N bond formation through palladium-catalyzed, microwave-assisted cross-couplin
 By: Al-Joumhawy, Mahmoud K.; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39680,7 +38949,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39733,7 +39001,6 @@ Substituent effect of benzyl moiety in nitroquinoxaline small molecules upon DNA
 By: Pal, Ritesh; et al
 European Journal of Medicinal Chemistry (2022), 229, 113995.
 10.1016/j.ejmech.2021.113995
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39786,7 +39053,6 @@ D-O-A based organic phosphors for both aggregation-induced electrophosphorescenc
 By: Xu, Lulin; et al
 Nature Communications (2023), 14(1), 1678.
 10.1038/s41467-023-37414-y
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39838,7 +39104,6 @@ Design and synthesis of a new family of planar and central chiral ferrocenyl pho
 By: Ling, Li; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2739-2742.
 10.1039/d2cc06492h
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39890,7 +39155,6 @@ Catalytic Asymmetric Desymmetrization of Cyclic 1,3-Diketones Using Chiral Boro-
 By: Chen, Minglei; et al
 Organic Letters (2024), 26(18), 3951-3956.
 10.1021/acs.orglett.4c01195
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39940,7 +39204,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -39990,7 +39253,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40040,7 +39302,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40091,7 +39352,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40143,7 +39403,6 @@ Construction of Lactones via Ligand-Enabled Ni-Catalyzed Alkene Hydroxylarylatio
 By: Wang, Dao-Ming; et al
 Organic Letters (2024), 26(38), 8171-8176.
 10.1021/acs.orglett.4c03108
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40193,7 +39452,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40245,7 +39503,6 @@ Design and Discovery of MRTX0902, a Potent, Selective, Brain-Penetrant, and Oral
 By: Ketcham, John M.; et al
 Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 10.1021/acs.jmedchem.2c00741
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40295,7 +39552,6 @@ Iridium-Catalyzed Selective B(4)-H Acylmethylation of o-Carboranes with Sulfoxon
 By: Zhang, Lin-Bao; et al
 Organic Letters (2022), 24(6), 1318-1322.
 10.1021/acs.orglett.1c04335
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40349,7 +39605,6 @@ A Palladium Complex as an Asymmetric π-Lewis Base Catalyst for Activating 1,3-D
 By: Xiao, Ben-Xian; et al
 Journal of the American Chemical Society (2021), 143(12), 4809-4816.
 10.1021/jacs.1c01420
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40399,7 +39654,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40449,7 +39703,6 @@ New approaches to the functionalization of the 1-carba-closo-decaborate anion
 By: Shmal’ko, Akim V.; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 10.1039/d1cc06395b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40500,7 +39753,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40550,7 +39802,6 @@ Enantioselective Giese additions of prochiral α-amino radicals
 By: Lahdenpera, Antti S. K.; et al
 Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 10.1021/jacs.2c11367
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40601,7 +39852,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40653,7 +39903,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40703,7 +39952,6 @@ Structural Feature Analyzation Strategies toward Discovery of Orally Bioavailabl
 By: Zhang, Jingyu; et al
 Journal of Medicinal Chemistry (2022), 65(13), 9096-9125.
 10.1021/acs.jmedchem.2c00324
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40753,7 +40001,6 @@ Metal-Free C-H Functionalization via Diaryliodonium Salts with a Chemically Robu
 By: Chen, Yixuan; et al
 Angewandte Chemie, International Edition (2022), 61(28), e202201240.
 10.1002/anie.202201240
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40803,7 +40050,6 @@ A “Pool and Split” Approach to the Optimization of Challenging Pd-Catalyzed 
 By: Fordham, James M.; et al
 Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 10.1021/acs.joc.2c00104
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40854,7 +40100,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40905,7 +40150,6 @@ Tertiary Amides as Directing Groups for Enantioselective C-H Amination using Ion
 By: Paterson, Kieran J.; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 10.1002/anie.202317489
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -40955,7 +40199,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41008,7 +40251,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41058,7 +40300,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41108,7 +40349,6 @@ Catalytic aerobic photooxidation of triarylphosphines using dibenzo-fused 1,4-az
 By: Kondo, Masaru; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(32), 5001-5004.
 10.1039/d2cc00782g
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41158,7 +40398,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41212,7 +40451,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41268,7 +40506,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41335,7 +40572,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41387,7 +40623,6 @@ Design, synthesis, and antibacterial activity of derivatives of Tryptophanyl-tRN
 By: Sun, Lianqi; et al
 European Journal of Medicinal Chemistry (2022), 241, 114647.
 10.1016/j.ejmech.2022.114647
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41443,7 +40678,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41498,7 +40732,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41553,7 +40786,6 @@ Discovery and Optimization of Potent, Selective, and Brain-Penetrant 1-Heteroary
 By: Candito, David A.; et al
 Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 10.1021/acs.jmedchem.2c01605
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41603,7 +40835,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41655,7 +40886,6 @@ Discovery of (2S)-N-(6-cyano-5-(trifluoromethyl)pyridin-3-yl)-3-(6-(4-cyanopheny
 By: Zhang, Wenqiang; et al
 Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 10.1021/acs.jmedchem.3c01417
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41707,7 +40937,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41759,7 +40988,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41812,7 +41040,6 @@ Transition metal-free and temperature dependent one-pot access to phenanthrene-f
 By: Reddy, Mokilla Ramachandra; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 10.1039/d3cc04473d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41865,7 +41092,6 @@ Non-Friedlander Route to Diversely 3-Substituted Quinolines through Au(III)-Cata
 By: Chikunova, Elena I.; et al
 Organic Letters (2023), 25(48), 8756-8760.
 10.1021/acs.orglett.3c03775
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41914,7 +41140,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -41967,7 +41192,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42020,7 +41244,6 @@ Bis-Ortho-Donor-Modification of Boracyclic π-Electron Systems beyond Steric Pro
 By: Narita, Hiroki; et al
 Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 10.1002/anie.202405412
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42073,7 +41296,6 @@ Benzylic C-H addition of aromatic amines to alkenes using a scandium catalyst
 By: Su, Jianhong; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 10.1039/d1cc00306b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42127,7 +41349,6 @@ Tertiary Amides as Directing Groups for Enantioselective C-H Amination using Ion
 By: Paterson, Kieran J.; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 10.1002/anie.202317489
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42180,7 +41401,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42233,7 +41453,6 @@ Photoinduced Palladium-Catalyzed 1,2-Difunctionalization of Electron-Rich Olefin
 By: Fang, Hao; et al
 ACS Catalysis (2023), 13(9), 6445-6451.
 10.1021/acscatal.3c00938
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42283,7 +41502,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42334,7 +41552,6 @@ Benchmarking of Density Functionals for the Description of Optical Properties of
 By: Ivanova, Georgia; et al
 Chemistry - A European Journal (2022), 28(16), e202104411.
 10.1002/chem.202104411
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42386,7 +41603,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42438,7 +41654,6 @@ Carbazole-Based DABNA Analogues as Highly Efficient Thermally Activated Delayed 
 By: Oda, Susumu; et al
 Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
 10.1002/anie.202012891
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42490,7 +41705,6 @@ Molecular oxygen-mediated radical alkylation of C(sp3)-H bonds with boronic acid
 By: Yang, Le; et al
 Organic Letters (2021), 23(8), 3207-3210.
 10.1021/acs.orglett.1c00948
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42543,7 +41757,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42596,7 +41809,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42649,7 +41861,6 @@ Synthesis of Tetrahydroquinolines by Scandium-Catalyzed [3+3] Annulation of Anil
 By: Xu, Xian; et al
 ACS Catalysis (2021), 11(24), 14995-15003.
 10.1021/acscatal.1c04657
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42701,7 +41912,6 @@ B-N bond formation through palladium-catalyzed, microwave-assisted cross-couplin
 By: Al-Joumhawy, Mahmoud K.; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42753,7 +41963,6 @@ Cp*Co(III)-Catalyzed Enantioselective Hydroarylation of Unactivated Terminal Alk
 By: Liu, Yan-Hua; et al
 Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 10.1021/jacs.1c08562
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42810,7 +42019,6 @@ The catenation of a singlet diradical dication and modulation of diradical chara
 By: Li, Ke; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(44), 6457-6460.
 10.1039/d2cc01539k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42866,7 +42074,6 @@ Discovery and Optimization of DNA Gyrase and Topoisomerase IV Inhibitors with Po
 By: Lapointe, Guillaume; et al
 Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 10.1021/acs.jmedchem.1c00375
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42920,7 +42127,6 @@ Amination of Phenols and Halophenols via Pyridinium-Iridium Dual Photocatalysis
 By: Carson, Matthew C.; et al
 ACS Catalysis (2024), 14(16), 12173-12180.
 10.1021/acscatal.4c02797
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -42974,7 +42180,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43028,7 +42233,6 @@ Discovery of a Hidden Pocket beneath the NES Groove by Novel Noncovalent CRM1 In
 By: Li, Cong; et al
 Journal of Medicinal Chemistry (2023), 66(24), 17044-17058.
 10.1021/acs.jmedchem.3c01867
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43081,7 +42285,6 @@ Tetrabenzo[a,c]phenazine Backbone for Highly Efficient Orange-Red Thermally Acti
 By: Balijapalli, Umamahesh; et al
 Angewandte Chemie, International Edition (2021), 60(35), 19364-19373.
 10.1002/anie.202106570
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43137,7 +42340,6 @@ Four Dibenzofuran-Terminated High-Triplet-Energy Hole Transporters for High-Effi
 By: Sasabe, Hisahiro; et al
 Chemistry - A European Journal (2022), 28(13), e202104408.
 10.1002/chem.202104408
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43193,7 +42395,6 @@ Pd-Catalyzed Amination of Base-Sensitive Five-Membered Heteroaryl Halides with A
 By: Reichert, Elaine C.; et al
 Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 10.1021/jacs.2c13520
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43249,7 +42450,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43305,7 +42505,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43361,7 +42560,6 @@ Rhodium-Catalyzed C(sp2)-O Cross Couplings of Diazo Quinones with Phenols to Con
 By: Fu, Zhen; et al
 Organic Letters (2024), 26(1), 292-297.
 10.1021/acs.orglett.3c03969
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43417,7 +42615,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43476,7 +42673,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43530,7 +42726,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43583,7 +42778,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43640,7 +42834,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43695,7 +42888,6 @@ Solvents: Toluene; 6 d, 110 °C
 By: Hayakawa, Masahiro; et al
 Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 10.1021/jacs.4c02598
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43750,7 +42942,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43805,7 +42996,6 @@ Electrophilic Substitution of Asymmetrically Distorted Benzenes within Triptycen
 By: Ueno, Keisuke; et al
 Organic Letters (2021), 23(9), 3552-3556.
 10.1021/acs.orglett.1c00970
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43858,7 +43048,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43914,7 +43103,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -43970,7 +43158,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44026,7 +43213,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44082,7 +43268,6 @@ Asymmetric Azide-Alkyne Cycloaddition with Ir(I)/Squaramide Cooperative Catalysi
 By: Zhang, Xue; et al
 Journal of the American Chemical Society (2022), 144(14), 6200-6207.
 10.1021/jacs.2c02563
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44138,7 +43323,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44194,7 +43378,6 @@ Dearomatizing [4+1] Spiroannulation of Naphthols: Discovery of Thermally Activat
 By: Liang, Wenbo; et al
 Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 10.1002/anie.202012842
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44250,7 +43433,6 @@ Green-Emitting Extended B3,N2-Doped Polycyclic Aromatic Hydrocarbon with Multipl
 By: Zender, Elena; et al
 Organic Letters (2024), 26(4), 939-944.
 10.1021/acs.orglett.3c04283
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44306,7 +43488,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44362,7 +43543,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44418,7 +43598,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44475,7 +43654,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44531,7 +43709,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44587,7 +43764,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44643,7 +43819,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44699,7 +43874,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44755,7 +43929,6 @@ Harnessing Oxetane and Azetidine Sulfonyl Fluorides for Opportunities in Drug Di
 By: Symes, Oliver L.; et al
 Journal of the American Chemical Society (2024), 146(51), 35377-35389.
 10.1021/jacs.4c14164
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44811,7 +43984,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44867,7 +44039,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44923,7 +44094,6 @@ Iron-Catalyzed Oxidative C-O and C-N Coupling Reactions Using Air as Sole Oxidan
 By: Purtsas, Alexander; et al
 Chemistry - A European Journal (2022), 28(21), e202104292.
 10.1002/chem.202104292
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -44979,7 +44149,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45032,7 +44201,6 @@ Direct Stannylation and Silylation of Arylmethanols by Palladium Catalysis
 By: Yue, Guanglu; et al
 Journal of Organic Chemistry (2023), 88(5), 2735-2741.
 10.1021/acs.joc.2c02265
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45087,7 +44255,6 @@ Green-Chemistry-Inspired Synthesis of Cyclobutane-Based Hole-Selective Materials
 By: Daskeviciute-Geguziene, Sarune; et al
 Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 10.1002/anie.202113207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45140,7 +44307,6 @@ Targeting σ2R/TMEM97 with novel aminotetralins
 By: Wood, Michael D.; et al
 European Journal of Medicinal Chemistry (2022), 243, 114696.
 10.1016/j.ejmech.2022.114696
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45200,7 +44366,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45253,7 +44418,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45307,7 +44471,6 @@ Reversibly Switchable Phase-Dependent Emission of Quinoline and Phenothiazine De
 By: Sych, Galyna; et al
 Chemistry - A European Journal (2021), 27(8), 2826-2836.
 10.1002/chem.202004657
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45360,7 +44523,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45412,7 +44574,6 @@ Solvents: Toluene; 90 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45465,7 +44626,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45518,7 +44678,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45571,7 +44730,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45624,7 +44782,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45677,7 +44834,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45730,7 +44886,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45783,7 +44938,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45837,7 +44991,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45890,7 +45043,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45944,7 +45096,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -45997,7 +45148,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46050,7 +45200,6 @@ Discovery of GSK251: A Highly Potent, Highly Selective, Orally Bioavailable Inhi
 By: Down, Kenneth; et al
 Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 10.1021/acs.jmedchem.1c01102
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46103,7 +45252,6 @@ High-Efficiency Circularly Polarized Electroluminescence from TADF-Sensitized Fl
 By: Li, Meng; et al
 Angewandte Chemie, International Edition (2021), 60(38), 20728-20733.
 10.1002/anie.202108011
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46152,7 +45300,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46208,7 +45355,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46262,7 +45408,6 @@ Discovery of a Series of Orally Bioavailable Androgen Receptor Degraders for the
 By: Bagal, Sharan K.; et al
 Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 10.1021/acs.jmedchem.4c00269
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46326,7 +45471,6 @@ Stereo- and Enantioselective Synthesis of Propionate-Derived Trisubstituted Alke
 By: Miura, Tomoya; et al
 Chemistry - A European Journal (2021), 27(11), 3861-3868.
 10.1002/chem.202004930
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -46384,7 +45528,6 @@ Transition metal-free and temperature dependent one-pot access to phenanthrene-f
 By: Reddy, Mokilla Ramachandra; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 10.1039/d3cc04473d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46437,7 +45580,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46490,7 +45632,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46543,7 +45684,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46596,7 +45736,6 @@ Structurally Diversified Calix[3]phenoxazines: Synthesis, Solid-State Conformati
 By: Mao, Lijun; et al
 Organic Letters (2023), 25(30), 5597-5601.
 10.1021/acs.orglett.3c01931
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46649,7 +45788,6 @@ Palladium-catalyzed four-component cascade carbonylative cyclization to access c
 By: Song, Yufei; et al
 Organic Chemistry Frontiers (2023), 10(5), 1289-1295.
 10.1039/d2qo01761j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46702,7 +45840,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46755,7 +45892,6 @@ Quinazolinone Compounds Have Potent Antiviral Activity against Zika and Dengue V
 By: Ashraf-Uz-Zaman, Md; et al
 Journal of Medicinal Chemistry (2023), 66(15), 10746-10760.
 10.1021/acs.jmedchem.3c00924
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46808,7 +45944,6 @@ Amination of Phenols and Halophenols via Pyridinium-Iridium Dual Photocatalysis
 By: Carson, Matthew C.; et al
 ACS Catalysis (2024), 14(16), 12173-12180.
 10.1021/acscatal.4c02797
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46861,7 +45996,6 @@ Development, Optimization, and In Vivo Validation of New Imidazopyridine Chemoty
 By: Das, Nirmal; et al
 Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 10.1021/acs.jmedchem.2c00386
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46918,7 +46052,6 @@ Discovery and Optimization of DNA Gyrase and Topoisomerase IV Inhibitors with Po
 By: Lapointe, Guillaume; et al
 Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 10.1021/acs.jmedchem.1c00375
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -46975,7 +46108,6 @@ Rotation (+)
 By: Trinderup, Helle H.; et al
 Journal of Organic Chemistry (2022), 87(21), 13763-13789.
 10.1021/acs.joc.2c01475
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47028,7 +46160,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47081,7 +46212,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47134,7 +46264,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47187,7 +46316,6 @@ Copper(I)-Catalyzed α,β-Dehydrogenative [2 + 3] Heteroannulation of Saturated 
 By: Du, Zihang; et al
 ACS Catalysis (2024), 14(23), 18107-18115.
 10.1021/acscatal.4c05973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47240,7 +46368,6 @@ Naphthyl Substituted Impurities Induce Efficient Room Temperature Phosphorescenc
 By: Qiao, Weiguo; et al
 Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 10.1002/anie.202315911
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47294,7 +46421,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47347,7 +46473,6 @@ High-Efficiency Circularly Polarized Electroluminescence from TADF-Sensitized Fl
 By: Li, Meng; et al
 Angewandte Chemie, International Edition (2021), 60(38), 20728-20733.
 10.1002/anie.202108011
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47400,7 +46525,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47453,7 +46577,6 @@ Broadening the Horizon of the Bell-Evans-Polanyi Principle towards Optically Tri
 By: Chen, Yi; et al
 Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 10.1002/anie.202015274
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47507,7 +46630,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47561,7 +46683,6 @@ Pd(II)-catalyzed regioselective ring opening/[3+2] annulation reaction of enamin
 By: Zhang, Zhilai; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971.
 10.1039/d4cc05895j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47615,7 +46736,6 @@ Sequential Multiple Borylation Toward an Ultrapure Green Thermally Activated Del
 By: Uemura, Shigetada; et al
 Journal of the American Chemical Society (2023), 145(3), 1505-1511.
 10.1021/jacs.2c10946
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47669,7 +46789,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47723,7 +46842,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47777,7 +46895,6 @@ Design, synthesis, and biological evaluation of piperazine derivatives as pan-PP
 By: Sun, Gang; et al
 European Journal of Medicinal Chemistry (2024), 269, 116344.
 10.1016/j.ejmech.2024.116344
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47832,7 +46949,6 @@ Transition metal-free and temperature dependent one-pot access to phenanthrene-f
 By: Reddy, Mokilla Ramachandra; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 10.1039/d3cc04473d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47889,7 +47005,6 @@ Discovery of a Novel Series of Potent, Selective, Orally Available, and Brain-Pe
 By: Ikeda, Zenichi; et al
 Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
 10.1021/acs.jmedchem.3c00348
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47942,7 +47057,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -47997,7 +47111,6 @@ Remarkably Efficient Iridium Catalysts for Directed C(sp2)-H and C(sp3)-H Boryla
 By: Hoque, Emdadul Md; et al
 Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 10.1021/jacs.0c13415
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48052,7 +47165,6 @@ BN-Isosteres of Nonacene with Antiaromatic B2C4 and N2C4 Heterocycles: Synthesis
 By: Chen, Cheng; et al
 Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 10.1002/anie.202316596
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48105,7 +47217,6 @@ Tuning the Charge Transfer in λ5-Phosphinines with Amino Substituents
 By: Ledos, Nicolas; et al
 Organic Letters (2022), 24(37), 6869-6873.
 10.1021/acs.orglett.2c02846
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48162,7 +47273,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48224,7 +47334,6 @@ Discovery of a Novel Series of Potent, Selective, Orally Available, and Brain-Pe
 By: Ikeda, Zenichi; et al
 Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
 10.1021/acs.jmedchem.3c00348
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48282,7 +47391,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48332,7 +47440,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48382,7 +47489,6 @@ Discovery of a Potent FLT3 Inhibitor (LT-850-166) with the Capacity of Overcomin
 By: Wang, Zhijie; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 10.1021/acs.jmedchem.1c01196
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48432,7 +47538,6 @@ Molecular Imaging of Labile Heme in Living Cells Using a Small Molecule Fluoresc
 By: Kawai, Kanta; et al
 Journal of the American Chemical Society (2022), 144(9), 3793-3803.
 10.1021/jacs.1c08485
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48488,7 +47593,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48541,7 +47645,6 @@ Solvents: Methanol, Water; 15 min, rt
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48594,7 +47697,6 @@ Convergent Azaspirocyclization of Bromoarenes with N-Tosylhydrazones by a Pallad
 By: Yanagimoto, Aika; et al
 ACS Catalysis (2021), 11(16), 10429-10435.
 10.1021/acscatal.1c02627
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48647,7 +47749,6 @@ Ullmann-Type N-, S-, and O-Arylation Using a Well-Defined 7-Azaindole-N-oxide (7
 By: Talukdar, Vishal; et al
 Journal of Organic Chemistry (2024), 89(11), 7455-7471.
 10.1021/acs.joc.3c02852
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48705,7 +47806,6 @@ Asymmetric α-Hydroxylation of α-Aryl-δ-lactams with Molecular Oxygen under Ph
 By: Inukai, Tomoaki; et al
 Organic Letters (2021), 23(3), 792-796.
 10.1021/acs.orglett.0c04022
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48758,7 +47858,6 @@ Ligand Engineering toward Deep Blue Emission in Nonplanar Terdentate Platinum(II
 By: Wu, Si-Hai; et al
 Organometallics (2021), 40(2), 156-165.
 10.1021/acs.organomet.0c00665
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48811,7 +47910,6 @@ Aggregation Effect on Multiperformance Improvement in Aryl-Armed Phenazine-Based
 By: Wan, Qing; et al
 Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 10.1021/jacs.2c09210
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48864,7 +47962,6 @@ Discovery of novel TrkA allosteric inhibitors: Structure-based virtual screening
 By: Guo, Jing; et al
 European Journal of Medicinal Chemistry (2022), 228, 114022.
 10.1016/j.ejmech.2021.114022
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48918,7 +48015,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -48972,7 +48068,6 @@ Ru(II) Complexes with Protic and Anionic Naked-NHC Ligands for Cooperative Activ
 By: Nath, Shambhu; et al
 Chemistry - A European Journal (2023), 29(52), e202301971.
 10.1002/chem.202301971
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49026,7 +48121,6 @@ Discovery and optimization of 2-(trifluoromethyl)benzimidazole derivatives as no
 By: Fang, Yuying; et al
 European Journal of Medicinal Chemistry (2023), 245(Part_1), 114905.
 10.1016/j.ejmech.2022.114905
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49080,7 +48174,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49134,7 +48227,6 @@ Catalyst-controlled site-selective N-H and C3-arylation of carbazole via carbene
 By: Bera, Sourav Sekhar; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 10.1039/d1cc01863a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49188,7 +48280,6 @@ Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Qu
 By: Gillis, Eric P.; et al
 Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 10.1021/acs.jmedchem.2c01732
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49242,7 +48333,6 @@ Discovery of Conformationally Constrained ALK2 Inhibitors
 By: Gonzalez-Alvarez, Hector; et al
 Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 10.1021/acs.jmedchem.3c02308
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49294,7 +48384,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49346,7 +48435,6 @@ Nickel-Catalyzed Intramolecular 1,2-Aryl Migration of Mesoionic Carbenes (iMICs)
 By: Merschel, Arne; et al
 Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 10.1002/anie.202014328
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49398,7 +48486,6 @@ Cu-Mediated Thianthrenation and Phenoxathiination of Arylborons
 By: Chen, Xiao-Yue; et al
 Journal of the American Chemical Society (2023), 145(18), 10431-10440.
 10.1021/jacs.3c03413
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49455,7 +48542,6 @@ Carborane based chalcogen-fused phenazines for visible light induced ATRP
 By: Yang, Xiaodong; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 10.1039/d3cc01823g
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49512,7 +48598,6 @@ Palladium-Mediated Cγ-H Functionalization of Alicyclic Amines
 By: Aguilera, Ellen Y.; et al
 Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
 10.1002/anie.202101782
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49569,7 +48654,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49627,7 +48711,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49687,7 +48770,6 @@ Development of Adagrasib’s Commercial Manufacturing Route
 By: Snead, David R.; et al
 Organic Process Research & Development (2023), 27(3), 530-538.
 10.1021/acs.oprd.2c00386
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49742,7 +48824,6 @@ Solvents: Toluene; 4 h, 80 °C; 80 °C → rt
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49797,7 +48878,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49852,7 +48932,6 @@ Insight into Regioselective Control in Aerobic Oxidative C-H/C-H Coupling for C3
 By: Shi, Yang; et al
 Journal of the American Chemical Society (2021), 143(49), 21066-21076.
 10.1021/jacs.1c11277
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49905,7 +48984,6 @@ Discovery of Novel 7-Azaindole Derivatives as Selective Covalent Fibroblast Grow
 By: Zhong, Zhenpeng; et al
 Journal of Medicinal Chemistry (2022), 65(10), 7278-7295.
 10.1021/acs.jmedchem.2c00255
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -49957,7 +49035,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -50010,7 +49087,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -50071,7 +49147,6 @@ Access Polyarylbipyrazoles via Palladium-Catalysis and Visible-Light-Driven C(sp
 By: Zhang, Shen-Yuan; et al
 Organic Letters (2024), 26(15), 2949-2954.
 10.1021/acs.orglett.4c00503
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -50116,7 +49191,6 @@ Organocalcium Hydride-Catalyzed Intramolecular C(sp3)-H Annulation of Functional
 By: Li, Shuo; et al
 Journal of Organic Chemistry (2023), 88(3), 1742-1748.
 10.1021/acs.joc.2c02800
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -50171,7 +49245,6 @@ Unravelling the electron injection/transport mechanism in organic light-emitting
 By: Sasaki, Tsubasa; et al
 Nature Communications (2021), 12(1), 2706.
 10.1038/s41467-021-23067-2
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50231,7 +49304,6 @@ Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Qu
 By: Gillis, Eric P.; et al
 Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 10.1021/acs.jmedchem.2c01732
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50290,7 +49362,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50349,7 +49420,6 @@ Electron Push-Pull Effects on Intramolecular Charge Transfer in Perylene-Based D
 By: Ahn, Mina; et al
 Journal of Organic Chemistry (2021), 86(1), 403-413.
 10.1021/acs.joc.0c02149
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50408,7 +49478,6 @@ B-N bond formation through palladium-catalyzed, microwave-assisted cross-couplin
 By: Al-Joumhawy, Mahmoud K.; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50467,7 +49536,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50526,7 +49594,6 @@ Large area inkjet-printed OLED fabrication with solution-processed TADF ink
 By: Kant, Chandra; et al
 Nature Communications (2023), 14(1), 7220.
 10.1038/s41467-023-43014-7
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50585,7 +49652,6 @@ Palladium-Catalyzed Cascade Dearomative Spirocyclization and C-H Annulation of A
 By: Liao, Xingrong; et al
 Organic Letters (2021), 23(13), 5203-5207.
 10.1021/acs.orglett.1c01736
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50648,7 +49714,6 @@ Manganese-Catalyzed Asymmetric Hydrogenation of 3H-Indoles
 By: Liu, Chenguang; et al
 Angewandte Chemie, International Edition (2022), 61(20), e202202814.
 10.1002/anie.202202814
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50708,7 +49773,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50767,7 +49831,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50826,7 +49889,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50888,7 +49950,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -50947,7 +50008,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51006,7 +50066,6 @@ B-N bond formation through palladium-catalyzed, microwave-assisted cross-couplin
 By: Al-Joumhawy, Mahmoud K.; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51065,7 +50124,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51126,7 +50184,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51185,7 +50242,6 @@ One-Pot Synthesis of Quinazolines via Elemental Sulfur-Mediated Oxidative Conden
 By: Tan, Yuxing; et al
 Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 10.1002/adsc.202200537
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51246,7 +50302,6 @@ Construction of Benzosultam-Containing Fused- and Linked-Biheterocycles by a Cas
 By: Das, Jonali; et al
 European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 10.1002/ejoc.202101421
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51305,7 +50360,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51364,7 +50418,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51423,7 +50476,6 @@ Mechanochemical synthesis of aromatic sulfonamides
 By: Mkrtchyan, Satenik; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51482,7 +50534,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51541,7 +50592,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51600,7 +50650,6 @@ N-CF3 Imidazolidin-2-one Derivatives via Photocatalytic and Silver-Catalyzed Cyc
 By: Turksoy, Abdurrahman; et al
 Chemistry - A European Journal (2022), 28(46), e202201435.
 10.1002/chem.202201435
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51659,7 +50708,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51718,7 +50766,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51777,7 +50824,6 @@ Solvents: Toluene; 15 h, 110 °C
 By: Epplin, Rachel C.; et al
 Nature Communications (2022), 13(1), 6056.
 10.1038/s41467-022-33827-3
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51836,7 +50882,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51895,7 +50940,6 @@ Solvents: Toluene; 15 h, 110 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -51954,7 +50998,6 @@ Effects of the Chalcogenide Identity in N-Aryl Phenochalcogenazine Photoredox Ca
 By: Corbin, Daniel A.; et al
 ChemCatChem (2022), 14(17), e202200485.
 10.1002/cctc.202200485
-View All Sources in CAS SciFinder
 ```
 
 **Data Quality Warnings:**
@@ -52015,7 +51058,6 @@ PROTACs Targeting BRM (SMARCA2) Afford Selective In Vivo Degradation over BRG1 (
 By: Berlin, Michael; et al
 Journal of Medicinal Chemistry (2024), 67(2), 1262-1313.
 10.1021/acs.jmedchem.3c01781
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52067,7 +51109,6 @@ Donor/π-Bridge Manipulation for Constructing a Stable NIR-II Aggregation-Induce
 By: Yan, Dingyuan; et al
 Angewandte Chemie, International Edition (2021), 60(51), 26769-26776.
 10.1002/anie.202111767
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52120,7 +51161,6 @@ Discovery of the Clinical Candidate Sonrotoclax (BGB-11417), a Highly Potent and
 By: Guo, Yunhang; et al
 Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 10.1021/acs.jmedchem.4c00027
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52174,7 +51214,6 @@ Harnessing Dual Reactivity of N-Chloroamides for Cascade C-H Amidation/Chlorinat
 By: Nagesh, Vinod V.; et al
 Organic Letters (2024), 26(49), 10523-10528.
 10.1021/acs.orglett.4c03925
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52240,7 +51279,6 @@ Discovery and Optimization of Potent, Selective, and Brain-Penetrant 1-Heteroary
 By: Candito, David A.; et al
 Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 10.1021/acs.jmedchem.2c01605
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52304,7 +51342,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52359,7 +51396,6 @@ Pd-catalyzed access to mono- and di-fluoroallylic amines from primary anilines
 By: Wang, Xingben; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 10.1039/d2cc05844h
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52412,7 +51448,6 @@ Pd(II)-catalyzed regioselective ring opening/[3+2] annulation reaction of enamin
 By: Zhang, Zhilai; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971.
 10.1039/d4cc05895j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52465,7 +51500,6 @@ Organocatalyzed Controlled Copolymerization of Perfluorinated Vinyl Ethers and U
 By: Quan, Qinzhi; et al
 ACS Catalysis (2022), 12(12), 7269-7277.
 10.1021/acscatal.2c01640
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52521,7 +51555,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52574,7 +51607,6 @@ Kinetic Modeling Enables Understanding of Off-Cycle Processes in Pd-Catalyzed Am
 By: Raguram, Elaine Reichert; et al
 Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 10.1021/jacs.4c10488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52627,7 +51659,6 @@ Synthesis of 2,4-Dicyanoalkylated Benzoxazines through Radical-mediated Cascade 
 By: Ni, Mengjia; et al
 Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 10.1021/acs.joc.3c02809
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52681,7 +51712,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52734,7 +51764,6 @@ High-Performance Near-Infrared Chlorinated Rylenecarboximide Fluorophores via Co
 By: Wu, Ze-Hua; et al
 Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 10.1002/anie.202315156
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52787,7 +51816,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52840,7 +51868,6 @@ Synthesis of Indenes and Benzofulvenes via a Palladium-Catalyzed Three-Component
 By: Abel-Snape, Xavier; et al
 ACS Catalysis (2022), 12(6), 3291-3301.
 10.1021/acscatal.1c06046
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52893,7 +51920,6 @@ Sulphur-induced structural rearrangement in the self-sensitization photo-oxidati
 By: Chen, Jianai; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
 10.1039/d3cc06031d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52946,7 +51972,6 @@ Multimodal Imaging-Guided Photothermal Immunotherapy Based on a Versatile NIR-II
 By: Yan, Dingyuan; et al
 Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 10.1002/anie.202202614
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -52999,7 +52024,6 @@ Remarkably Efficient Iridium Catalysts for Directed C(sp2)-H and C(sp3)-H Boryla
 By: Hoque, Emdadul Md; et al
 Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 10.1021/jacs.0c13415
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53052,7 +52076,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53105,7 +52128,6 @@ Versatile Direct Cyclization Constructs Spiro-acridan Derivatives for Highly Eff
 By: Liu, He; et al
 Angewandte Chemie, International Edition (2021), 60(22), 12376-12380.
 10.1002/anie.202103187
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53158,7 +52180,6 @@ Design and Synthesis of Clinical Candidate PF-06852231 (CVL-231): A Brain Penetr
 By: Butler, Christopher R.; et al
 Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 10.1021/acs.jmedchem.4c00293
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53212,7 +52233,6 @@ Transition metal-free and temperature dependent one-pot access to phenanthrene-f
 By: Reddy, Mokilla Ramachandra; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 10.1039/d3cc04473d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53265,7 +52285,6 @@ Discovery of N-substituted oseltamivir derivatives as novel neuraminidase inhibi
 By: Jia, Ruifang; et al
 European Journal of Medicinal Chemistry (2023), 252, 115275.
 10.1016/j.ejmech.2023.115275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53318,7 +52337,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53371,7 +52389,6 @@ Characterizing the Conformational Distribution in an Amorphous Film of an Organi
 By: Shi, Yi-Zhong; et al
 Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 10.1002/anie.202108943
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53424,7 +52441,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53477,7 +52493,6 @@ Modulating the Electron-Donating Ability of Acridine Donor Units for Orange-Red 
 By: Chen, Tianheng; et al
 Chemistry - A European Journal (2021), 27(9), 3151-3158.
 10.1002/chem.202004719
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53530,7 +52545,6 @@ Double n→π* Interactions with One Electron Donor: Structural and Mechanistic 
 By: Yin, Chaowei; et al
 Organic Letters (2023), 25(9), 1470-1475.
 10.1021/acs.orglett.3c00205
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53583,7 +52597,6 @@ High-Performance Near-Infrared Chlorinated Rylenecarboximide Fluorophores via Co
 By: Wu, Ze-Hua; et al
 Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 10.1002/anie.202315156
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53636,7 +52649,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53689,7 +52701,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53742,7 +52753,6 @@ Solvents: Tetrahydrofuran; 6 h, 65 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53799,7 +52809,6 @@ Red-Emissive Cell-Penetrating Polymer Dots Exhibiting Thermally Activated Delaye
 By: Christopherson, Cheyenne J.; et al
 Journal of the American Chemical Society (2021), 143(33), 13342-13349.
 10.1021/jacs.1c06290
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53856,7 +52865,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53913,7 +52921,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -53970,7 +52977,6 @@ Remarkably Efficient Iridium Catalysts for Directed C(sp2)-H and C(sp3)-H Boryla
 By: Hoque, Emdadul Md; et al
 Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 10.1021/jacs.0c13415
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54027,7 +53033,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54084,7 +53089,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54141,7 +53145,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54200,7 +53203,6 @@ Pd-catalyzed access to mono- and di-fluoroallylic amines from primary anilines
 By: Wang, Xingben; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 10.1039/d2cc05844h
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54257,7 +53259,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54314,7 +53315,6 @@ B,N-doped PAHs from tridentate ‘Defects’ - a bottom-up convergent approach f
 By: Farinone, Marco; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 10.1039/d2cc01801b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54367,7 +53367,6 @@ New approaches to the functionalization of the 1-carba-closo-decaborate anion
 By: Shmal’ko, Akim V.; et al
 Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 10.1039/d1cc06395b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54422,7 +53421,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54480,7 +53478,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54533,7 +53530,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54587,7 +53583,6 @@ The construction of chiral 3-acyl bicyclolactams via a RuPHOX/Pd catalyzed asymm
 By: Dong, Siqi; et al
 Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 10.1039/d3qo00055a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54640,7 +53635,6 @@ Machine-Learning Classification for the Prediction of Catalytic Activity of Orga
 By: Noto, Naoki; et al
 Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 10.1002/anie.202219107
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54693,7 +53687,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54746,7 +53739,6 @@ Cp*Co(III)-Catalyzed Enantioselective Hydroarylation of Unactivated Terminal Alk
 By: Liu, Yan-Hua; et al
 Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 10.1021/jacs.1c08562
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54799,7 +53791,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54852,7 +53843,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54905,7 +53895,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -54959,7 +53948,6 @@ Pd-Catalyzed Asymmetric Amination of Enamines: Expedient Synthesis of Structural
 By: Zhang, Peng; et al
 ACS Catalysis (2023), 13(11), 7680-7690.
 10.1021/acscatal.3c00732
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55012,7 +54000,6 @@ Selective Para-C-H Alkynylation of Aniline Derivatives by Pd/S,O-Ligand Catalysi
 By: Deng, Ke-Zuan; et al
 Chemistry - A European Journal (2022), 28(9), e202104107.
 10.1002/chem.202104107
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55065,7 +54052,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55117,7 +54103,6 @@ Tunable Regioselectivity in C-H-Activated Direct Arylation Reactions of Dithieno
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2023), 29(60), e202301867.
 10.1002/chem.202301867
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55174,7 +54159,6 @@ Discovery of GLPG1972/S201086, a Potent, Selective, and Orally Bioavailable ADAM
 By: Brebion, Franck; et al
 Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 10.1021/acs.jmedchem.0c02008
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55229,7 +54213,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55284,7 +54267,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55339,7 +54321,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55399,7 +54380,6 @@ Use of (E,E)-Dienoic Acids as Switchable (E,E)- and (Z,E)-Dienyl Anion Surrogate
 By: Tan, Shun-Zhong; et al
 Journal of the American Chemical Society (2022), 144(49), 22689-22697.
 10.1021/jacs.2c10004
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55454,7 +54434,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55508,7 +54487,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55561,7 +54539,6 @@ Discovery of a Potent FLT3 Inhibitor (LT-850-166) with the Capacity of Overcomin
 By: Wang, Zhijie; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 10.1021/acs.jmedchem.1c01196
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55614,7 +54591,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55667,7 +54643,6 @@ Pyridylpiperazine-based allosteric inhibitors of RND-type multidrug efflux pumps
 By: Ple, Coline; et al
 Nature Communications (2022), 13(1), 115.
 10.1038/s41467-021-27726-2
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55720,7 +54695,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55769,7 +54743,6 @@ A New Platform of B/N-Doped Cyclophanes: Access to a π-Conjugated Block-Type B3
 By: Li, Pengfei; et al
 Angewandte Chemie, International Edition (2022), 61(20), e202200612.
 10.1002/anie.202200612
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55818,7 +54791,6 @@ Discovery of 5-{ 4-[(7-Ethyl-6-oxo-5,6-dihydro-1,5-naphthyridin-3-yl)methyl]pipe
 By: Johannes, Jeffrey W.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14498-14512.
 10.1021/acs.jmedchem.1c01012
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55867,7 +54839,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55920,7 +54891,6 @@ cis-Quinacridone-Based Delayed Fluorescence Emitters: Seemingly Old but Renewed 
 By: Min, Hyukgi; et al
 Angewandte Chemie, International Edition (2021), 60(14), 7643-7648.
 10.1002/anie.202016914
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -55973,7 +54943,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56026,7 +54995,6 @@ Synthesis of Diarylaminoacridinium Photocatalysts by Halogen-Metal Exchange Comb
 By: Jakobi, Markus; et al
 Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 10.1002/adsc.202200819
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56083,7 +55051,6 @@ Practical and General Alcohol Deoxygenation Protocol
 By: Williams, Oliver P.; et al
 Angewandte Chemie, International Edition (2023), 62(18), e202300178.
 10.1002/anie.202300178
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56138,7 +55105,6 @@ Visible Light-Mediated, Diastereoselective Epimerization of Morpholines and Pipe
 By: Shen, Zican; et al
 ACS Catalysis (2022), 12(20), 12860-12868.
 10.1021/acscatal.2c03672
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56198,7 +55164,6 @@ Enantioselective Giese additions of prochiral α-amino radicals
 By: Lahdenpera, Antti S. K.; et al
 Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 10.1021/jacs.2c11367
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56254,7 +55219,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56310,7 +55274,6 @@ Temporary (P=O) directing group enabled carbazole ortho arylation via palladium 
 By: Qi, Zhi-Chao; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(16), 2021-2024.
 10.1039/d0cc07596e
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56366,7 +55329,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56422,7 +55384,6 @@ Manipulating Exciton Dynamics toward Simultaneous High-Efficiency Narrowband Ele
 By: Cao, Xiaosong; et al
 Journal of the American Chemical Society (2022), 144(50), 22976-22984.
 10.1021/jacs.2c09543
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56478,7 +55439,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56538,7 +55498,6 @@ Identification of LY3522348: A Highly Selective and Orally Efficacious Ketohexok
 By: Durham, Timothy B.; et al
 Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
 10.1021/acs.jmedchem.3c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56591,7 +55550,6 @@ Cp*Co(III)-Catalyzed Enantioselective Hydroarylation of Unactivated Terminal Alk
 By: Liu, Yan-Hua; et al
 Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 10.1021/jacs.1c08562
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56643,7 +55601,6 @@ Design and Synthesis of Clinical Candidate PF-06852231 (CVL-231): A Brain Penetr
 By: Butler, Christopher R.; et al
 Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 10.1021/acs.jmedchem.4c00293
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56692,7 +55649,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56745,7 +55701,6 @@ Ring walking as a regioselectivity control element in Pd-catalyzed C-N cross-cou
 By: Deem, Madeleine C.; et al
 Nature Communications (2022), 13(1), 2869.
 10.1038/s41467-022-30255-1
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56794,7 +55749,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56847,7 +55801,6 @@ Discovery of D6808, a Highly Selective and Potent Macrocyclic c-Met Inhibitor fo
 By: Wang, Chaofan; et al
 Journal of Medicinal Chemistry (2022), 65(22), 15140-15164.
 10.1021/acs.jmedchem.2c00981
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56902,7 +55855,6 @@ Identification of Novel Tricyclic Benzo[1,3]oxazinyloxazolidinones as Potent Ant
 By: Wu, Yongqi; et al
 Journal of Medicinal Chemistry (2021), 64(6), 3234-3248.
 10.1021/acs.jmedchem.0c02153
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -56955,7 +55907,6 @@ Dearomatizing [4+1] Spiroannulation of Naphthols: Discovery of Thermally Activat
 By: Liang, Wenbo; et al
 Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 10.1002/anie.202012842
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57008,7 +55959,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57063,7 +56013,6 @@ Syntheses and Physical Properties of Cationic BN-Embedded Polycyclic Aromatic Hy
 By: Gotoh, Hajime; et al
 Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 10.1002/anie.202103488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57118,7 +56067,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57173,7 +56121,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57228,7 +56175,6 @@ Deoxy-Arylation of Amides via a Tandem Hydrosilylation/Radical- Radical Coupling
 By: Venditto, Nicholas J.; et al
 Organic Letters (2024), 26(17), 3617-3621.
 10.1021/acs.orglett.4c01121
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57283,7 +56229,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57336,7 +56281,6 @@ Metal-Free Directed Site-Selective Csp3-H Borylation of Saturated Cyclic Amines
 By: Kumar Someswara Ashwathappa, Puneeth; et al
 Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 10.1002/anie.202309295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57385,7 +56329,6 @@ Efficient Synthesis of Dipyrrolobenzenes and Dipyrrolopyrazines via Bidirectiona
 By: Heckershoff, Robin; et al
 Journal of the American Chemical Society (2022), 144(18), 8306-8316.
 10.1021/jacs.2c02394
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57434,7 +56377,6 @@ Cp*Co(III)-Catalyzed Enantioselective Hydroarylation of Unactivated Terminal Alk
 By: Liu, Yan-Hua; et al
 Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 10.1021/jacs.1c08562
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57483,7 +56425,6 @@ Discovery of N-substituted oseltamivir derivatives as novel neuraminidase inhibi
 By: Jia, Ruifang; et al
 European Journal of Medicinal Chemistry (2023), 252, 115275.
 10.1016/j.ejmech.2023.115275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57532,7 +56473,6 @@ Discovery of ARD-1676 as a Highly Potent and Orally Efficacious AR PROTAC Degrad
 By: Xiang, Weiguo; et al
 Journal of Medicinal Chemistry (2023), 66(18), 13280-13303.
 10.1021/acs.jmedchem.3c01264
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57581,7 +56521,6 @@ PI-2620 Lead Optimization Highlights the Importance of Off-Target Assays to Deve
 By: Kroth, Heiko; et al
 Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 10.1021/acs.jmedchem.1c00861
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57630,7 +56569,6 @@ General and practical synthesis of naphtho[2,1-d]oxazoles from naphthols and ami
 By: Wu, Shaofeng; et al
 Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 10.1039/d2qo00557c
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57679,7 +56617,6 @@ Synthesis of Azadioxa-Planar Triphenylboranes Bridged by Aryl- and Alkylimino Gr
 By: Kitamoto, Yuichi; et al
 Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 10.1021/acs.joc.3c00275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57728,7 +56665,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57777,7 +56713,6 @@ Streamlined Synthesis of Aminoacridinium Photocatalysts with Improved Photostabi
 By: Jakobi, Markus; et al
 Organic Process Research & Development (2022), 26(9), 2756-2760.
 10.1021/acs.oprd.2c00209
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57832,7 +56767,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57889,7 +56823,6 @@ Preclinical evaluation of new C-11 labeled benzo-1,4-dioxane PET radiotracers fo
 By: Alluri, Santosh; et al
 European Journal of Medicinal Chemistry (2022), 243, 114764.
 10.1016/j.ejmech.2022.114764
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -57944,7 +56877,6 @@ Mechanochemical synthesis of aromatic sulfonamides
 By: Mkrtchyan, Satenik; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58000,7 +56932,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58049,7 +56980,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58104,7 +57034,6 @@ Energy Counterbalance to Harness Photoinduced Structural Planarization of Dibenz
 By: Chen, Yi; et al
 Journal of the American Chemical Society (2022), 144(4), 1748-1757.
 10.1021/jacs.1c11231
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58157,7 +57086,6 @@ Double Ligands Enabled Ruthenium Catalyzed ortho-C-H Arylation of Dialkyl Biaryl
 By: Wang, Liang-Neng; et al
 Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 10.1002/adsc.202100283
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58210,7 +57138,6 @@ A Base-Promoted Reductive Coupling Platform for the Divergent Defluorofunctional
 By: Wright, Shawn E.; et al
 Journal of the American Chemical Society (2022), 144(29), 13032-13038.
 10.1021/jacs.2c05044
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58265,7 +57192,6 @@ Visible Light-Mediated, Diastereoselective Epimerization of Morpholines and Pipe
 By: Shen, Zican; et al
 ACS Catalysis (2022), 12(20), 12860-12868.
 10.1021/acscatal.2c03672
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58318,7 +57244,6 @@ Identification of Transthyretin Tetramer Kinetic Stabilizers That Are Capable of
 By: Cioffi, Christopher L.; et al
 Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 10.1021/acs.jmedchem.1c00099
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58371,7 +57296,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58424,7 +57348,6 @@ Optimized Red-Absorbing Dyes for Imaging and Sensing
 By: Grimm, Jonathan B.; et al
 Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 10.1021/jacs.3c05273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58477,7 +57400,6 @@ Two-Chamber-Enabled Hydrogenation Reactions Using Al-H2O/NaOH: Access to Pharmac
 By: Iqubal, Ashif; et al
 Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 10.1021/acs.joc.3c01959
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58530,7 +57452,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58583,7 +57504,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58636,7 +57556,6 @@ Multimodal Imaging-Guided Photothermal Immunotherapy Based on a Versatile NIR-II
 By: Yan, Dingyuan; et al
 Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 10.1002/anie.202202614
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58689,7 +57608,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58744,7 +57662,6 @@ General Synthesis of N-Alkylindoles from N,N-Dialkylanilines via [4 + 1] Annulat
 By: Zhang, Bowen; et al
 Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 10.1021/jacs.3c10751
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58797,7 +57714,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58846,7 +57762,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58899,7 +57814,6 @@ Discovery of a Series of Orally Bioavailable Androgen Receptor Degraders for the
 By: Bagal, Sharan K.; et al
 Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 10.1021/acs.jmedchem.4c00269
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -58952,7 +57866,6 @@ Asymmetrical-Dendronized TADF Emitters for Efficient Non-doped Solution-Processe
 By: Li, Chensen; et al
 Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 10.1002/anie.202115140
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59006,7 +57919,6 @@ Powerful Direct C-H Amidation Polymerization Affords Single-Fluorophore-Based Wh
 By: Hwang, Soon-Hyeok; et al
 Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 10.1021/jacs.1c11100
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59060,7 +57972,6 @@ Palladium-Catalyzed Aminocarbonylation of Isoquinolines Utilizing Chloroform-COw
 By: Halder, Pallabi; et al
 Journal of Organic Chemistry (2022), 87(21), 13965-13979.
 10.1021/acs.joc.2c01629
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59114,7 +58025,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59168,7 +58078,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59222,7 +58131,6 @@ One-Electron Injection-triggered Radical Reaction of Alkyl Benzoates Promoted by
 By: Koike, Takashi; et al
 ChemCatChem (2023), 15(3), e202201311.
 10.1002/cctc.202201311
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59275,7 +58183,6 @@ Media-Driven Pd-Catalyzed Reaction Cascades with 1,3-Diynamides Leading Selectiv
 By: Lenko, Illia; et al
 Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59326,7 +58233,6 @@ Electronically Ambivalent Hydrodefluorination of Aryl-CF3 groups enabled by Elec
 By: Box, John R.; et al
 Angewandte Chemie, International Edition (2023), 62(12), e202218195.
 10.1002/anie.202218195
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59378,7 +58284,6 @@ Transition metal-free and temperature dependent one-pot access to phenanthrene-f
 By: Reddy, Mokilla Ramachandra; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 10.1039/d3cc04473d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59429,7 +58334,6 @@ Organic photoredox catalyzed dealkylation/acylation of tertiary amines to access
 By: Liu, Chen; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(14), 2003-2006.
 10.1039/d2cc05842a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59484,7 +58388,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59537,7 +58440,6 @@ Pd(II)-catalyzed regioselective ring opening/[3+2] annulation reaction of enamin
 By: Zhang, Zhilai; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971.
 10.1039/d4cc05895j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59590,7 +58492,6 @@ Pd(II)-catalyzed regioselective ring opening/[3+2] annulation reaction of enamin
 By: Zhang, Zhilai; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971.
 10.1039/d4cc05895j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59643,7 +58544,6 @@ Pyridylpiperazine-based allosteric inhibitors of RND-type multidrug efflux pumps
 By: Ple, Coline; et al
 Nature Communications (2022), 13(1), 115.
 10.1038/s41467-021-27726-2
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59696,7 +58596,6 @@ Discovery of a 53BP1 Small Molecule Antagonist Using a Focused DNA-Encoded Libra
 By: Shell, Devan J.; et al
 Journal of Medicinal Chemistry (2023), 66(20), 14133-14149.
 10.1021/acs.jmedchem.3c01192
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59749,7 +58648,6 @@ Tunable Regioselectivity in C-H-Activated Direct Arylation Reactions of Dithieno
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2023), 29(60), e202301867.
 10.1002/chem.202301867
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59802,7 +58700,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59855,7 +58752,6 @@ Structure-Guided Discovery of Aminoquinazolines as Brain-Penetrant and Selective
 By: Keylor, Mitchell H.; et al
 Journal of Medicinal Chemistry (2022), 65(1), 838-856.
 10.1021/acs.jmedchem.1c01968
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59910,7 +58806,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -59965,7 +58860,6 @@ Discovery of AD258 as a Sigma Receptor Ligand with Potent Antiallodynic Activity
 By: Dichiara, Maria; et al
 Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 10.1021/acs.jmedchem.3c00959
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60020,7 +58914,6 @@ PI-2620 Lead Optimization Highlights the Importance of Off-Target Assays to Deve
 By: Kroth, Heiko; et al
 Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 10.1021/acs.jmedchem.1c00861
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60073,7 +58966,6 @@ One-Step Synthesis of Photoaffinity Probes for Live-Cell MS-Based Proteomics
 By: Fallon, David J.; et al
 Chemistry - A European Journal (2021), 27(71), 17880-17888.
 10.1002/chem.202102036
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60126,7 +59018,6 @@ Pd-Catalyzed Amination of Base-Sensitive Five-Membered Heteroaryl Halides with A
 By: Reichert, Elaine C.; et al
 Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 10.1021/jacs.2c13520
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60181,7 +59072,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60241,7 +59131,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60300,7 +59189,6 @@ Synthesis of Azadioxa-Planar Triphenylboranes Bridged by Aryl- and Alkylimino Gr
 By: Kitamoto, Yuichi; et al
 Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 10.1021/acs.joc.3c00275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60362,7 +59250,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60421,7 +59308,6 @@ Diverse, Potent, and Efficacious Inhibitors That Target the EED Subunit of the P
 By: Bagal, Sharan K.; et al
 Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
 10.1021/acs.jmedchem.1c01161
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60480,7 +59366,6 @@ Sulfonamides as N-Centered Radical Precursors for C-N Coupling Reactions To Gene
 By: Deng, Guogang; et al
 Organic Letters (2024), 26(18), 3855-3860.
 10.1021/acs.orglett.4c01014
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60539,7 +59424,6 @@ B-N bond formation through palladium-catalyzed, microwave-assisted cross-couplin
 By: Al-Joumhawy, Mahmoud K.; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60593,7 +59477,6 @@ Programmable Amine Synthesis via Iterative Boron Homologation
 By: Xie, Qiqiang; et al
 Angewandte Chemie, International Edition (2023), 62(35), e202307118.
 10.1002/anie.202307118
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60696,7 +59579,6 @@ Synthesis of medium-sized heterocycles from oxetanes based on an allylic aminati
 By: Li, Jixing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 10.1039/d3cc04355j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60749,7 +59631,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60802,7 +59683,6 @@ Solvents: 1,4-Dioxane; 2 h, rt → 90 °C
 By: Xiao, Xin; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(43), 6556-6559.
 10.1039/d3cc01235b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60856,7 +59736,6 @@ Atroposelective Synthesis, Structure and Properties of a Novel Class of Axially 
 By: Sweet, Jamie S.; et al
 European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60909,7 +59788,6 @@ Discovery and Optimization of Selective Brain-Penetrant EBP Inhibitors that Enha
 By: Dorel, Ruth; et al
 Journal of Medicinal Chemistry (2024), 67(6), 4819-4832.
 10.1021/acs.jmedchem.3c02396
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -60974,7 +59852,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61039,7 +59916,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61092,7 +59968,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61145,7 +60020,6 @@ One-pot C(sp3)-H difluoroalkylation of tetrahydroisoquinolines and isochromans v
 By: Kamata, Kazuya; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(50), 6395-6398.
 10.1039/d4cc02033b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61200,7 +60074,6 @@ The Impact of C2 Insertion into a Carbazole Donor on the Physicochemical Propert
 By: Zimmermann Crocomo, Paola; et al
 Chemistry - A European Journal (2021), 27(53), 13390-13398.
 10.1002/chem.202101654
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61254,7 +60127,6 @@ Initiator-Activation Strategy-Enabled Organocatalyzed Reversible-Deactivation Ra
 By: Zhou, Huyan; et al
 Angewandte Chemie, International Edition (2023), 62(27), e202304461.
 10.1002/anie.202304461
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61309,7 +60181,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61363,7 +60234,6 @@ A Metal-Organic Framework (MOF)-Based Multifunctional Cargo Vehicle for Reactive
 By: Kittikhunnatham, Preecha; et al
 Angewandte Chemie, International Edition (2022), 61(12), e202113909.
 10.1002/anie.202113909
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61418,7 +60288,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61473,7 +60342,6 @@ Solvents: Toluene, 1,4-Dioxane; 16 h, 120 °C
 By: Valencia, Isabel; et al
 Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 10.1021/acs.joc.1c01095
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61527,7 +60395,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61582,7 +60449,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61638,7 +60504,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61693,7 +60558,6 @@ Highly Efficient Green and Red Narrowband Emissive Organic Light-Emitting Diodes
 By: Wu, Sen; et al
 Angewandte Chemie, International Edition (2022), 61(52), e202213697.
 10.1002/anie.202213697
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61748,7 +60612,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61803,7 +60666,6 @@ High Exciton Utilization of 1D Molecular Column with High Packing Energy Formed 
 By: Xu, Shidang; et al
 Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61852,7 +60714,6 @@ Structural optimization of Imidazo[1,2-a]pyridine derivatives for the treatment 
 By: Li, Huaxuan; et al
 European Journal of Medicinal Chemistry (2022), 244, 114858.
 10.1016/j.ejmech.2022.114858
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61901,7 +60762,6 @@ Deciphering complexity in Pd-catalyzed cross-couplings
 By: Clarke, George E.; et al
 Nature Communications (2024), 15(1), 3968.
 10.1038/s41467-024-47939-5
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -61950,7 +60810,6 @@ Metal-Free Directed Site-Selective Csp3-H Borylation of Saturated Cyclic Amines
 By: Kumar Someswara Ashwathappa, Puneeth; et al
 Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 10.1002/anie.202309295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62003,7 +60862,6 @@ Discovery of N-substituted oseltamivir derivatives as novel neuraminidase inhibi
 By: Jia, Ruifang; et al
 European Journal of Medicinal Chemistry (2023), 252, 115275.
 10.1016/j.ejmech.2023.115275
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62062,7 +60920,6 @@ A Nucleophilic Deprotection of Carbamate Mediated by 2-Mercaptoethanol
 By: Scattolin, Thomas; et al
 Organic Letters (2022), 24(20), 3736-3740.
 10.1021/acs.orglett.2c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62122,7 +60979,6 @@ Discovery of Novel N-Sulfonamide-tetrahydroquinolines as Potent Retinoic Acid Re
 By: Lv, Lunan; et al
 Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62182,7 +61038,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62232,7 +61087,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62285,7 +61139,6 @@ Rigid and planar π-conjugated molecules leading to long-lived intramolecular ch
 By: Kuila, Suman; et al
 Nature Communications (2024), 15(1), 9611.
 10.1038/s41467-024-53740-1
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62335,7 +61188,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62388,7 +61240,6 @@ Discovery of Conformationally Constrained ALK2 Inhibitors
 By: Gonzalez-Alvarez, Hector; et al
 Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 10.1021/acs.jmedchem.3c02308
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62438,7 +61289,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62491,7 +61341,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62544,7 +61393,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62597,7 +61445,6 @@ Powerful Direct C-H Amidation Polymerization Affords Single-Fluorophore-Based Wh
 By: Hwang, Soon-Hyeok; et al
 Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 10.1021/jacs.1c11100
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62646,7 +61493,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62695,7 +61541,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62747,7 +61592,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62800,7 +61644,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62857,7 +61700,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62916,7 +61758,6 @@ Identification and Optimization of RNA-Splicing Modulators as Huntingtin Protein
 By: Liu, Longbin; et al
 Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
 10.1021/acs.jmedchem.3c01173
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -62973,7 +61814,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63030,7 +61870,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63087,7 +61926,6 @@ Nonsymmetric [Pt(CN̂*N’Ĉ’)] Complexes: Aggregation-Induced Emission in the
 By: Solomatina, Anastasia I.; et al
 Chemistry - A European Journal (2022), 28(64), e202202207.
 10.1002/chem.202202207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63144,7 +61982,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63201,7 +62038,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63258,7 +62094,6 @@ Straightforward and regiospecific synthesis of 1,3,5,7-tetra-arylated acene bear
 By: Sato, Ryota; et al
 Organic Chemistry Frontiers (2023), 10(12), 2955-2962.
 10.1039/d3qo00289f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63315,7 +62150,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63372,7 +62206,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63429,7 +62262,6 @@ Reversibly Switchable Phase-Dependent Emission of Quinoline and Phenothiazine De
 By: Sych, Galyna; et al
 Chemistry - A European Journal (2021), 27(8), 2826-2836.
 10.1002/chem.202004657
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63486,7 +62318,6 @@ Metal-Free Directed Site-Selective Csp3-H Borylation of Saturated Cyclic Amines
 By: Kumar Someswara Ashwathappa, Puneeth; et al
 Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 10.1002/anie.202309295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63543,7 +62374,6 @@ Discovery of a novel class of reversible monoacylglycerol lipase inhibitors for 
 By: Hao, Qingjing; et al
 European Journal of Medicinal Chemistry (2024), 268, 116285.
 10.1016/j.ejmech.2024.116285
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63603,7 +62433,6 @@ Discovery of GLPG1972/S201086, a Potent, Selective, and Orally Bioavailable ADAM
 By: Brebion, Franck; et al
 Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 10.1021/acs.jmedchem.0c02008
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63660,7 +62489,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63717,7 +62545,6 @@ Enantioselective Giese additions of prochiral α-amino radicals
 By: Lahdenpera, Antti S. K.; et al
 Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 10.1021/jacs.2c11367
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63774,7 +62601,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63831,7 +62657,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63888,7 +62713,6 @@ Accessing Dihydropyrrolo[3,4-b]indol-1(2H)-ones via Pd-Catalyzed Intramolecular 
 By: Alam, Ryan M.; et al
 European Journal of Organic Chemistry (2023), 26(34), e202300646.
 10.1002/ejoc.202300646
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -63945,7 +62769,6 @@ Synthesis and biological evaluation of novel FiVe1 derivatives as potent and sel
 By: Martinez-Pena, Francisco; et al
 European Journal of Medicinal Chemistry (2022), 242, 114638.
 10.1016/j.ejmech.2022.114638
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64002,7 +62825,6 @@ Difluorocarbene-Mediated Cascade Cyclization: The Multifunctional Role of Rupper
 By: Cai, Yanyao; et al
 Organic Letters (2021), 23(9), 3546-3551.
 10.1021/acs.orglett.1c00962
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64059,7 +62881,6 @@ Mechanochemical synthesis of aromatic sulfonamides
 By: Mkrtchyan, Satenik; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64118,7 +62939,6 @@ Discovery of the Oxadiazine FRM-024: A Potent CNS-Penetrant Gamma Secretase Modu
 By: Bursavich, Matthew G.; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64175,7 +62995,6 @@ Discovery of a Potent FLT3 Inhibitor (LT-850-166) with the Capacity of Overcomin
 By: Wang, Zhijie; et al
 Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 10.1021/acs.jmedchem.1c01196
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64233,7 +63052,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64290,7 +63108,6 @@ Discovery of AD258 as a Sigma Receptor Ligand with Potent Antiallodynic Activity
 By: Dichiara, Maria; et al
 Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 10.1021/acs.jmedchem.3c00959
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64347,7 +63164,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64404,7 +63220,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64463,7 +63278,6 @@ Discovery of Linvencorvir (RG7907), a Hepatitis B Virus Core Protein Allosteric 
 By: Zhang, Weixing; et al
 Journal of Medicinal Chemistry (2023), 66(6), 4253-4270.
 10.1021/acs.jmedchem.3c00173
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64520,7 +63334,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64577,7 +63390,6 @@ Metal-Free Directed Site-Selective Csp3-H Borylation of Saturated Cyclic Amines
 By: Kumar Someswara Ashwathappa, Puneeth; et al
 Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 10.1002/anie.202309295
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64634,7 +63446,6 @@ Ring walking as a regioselectivity control element in Pd-catalyzed C-N cross-cou
 By: Deem, Madeleine C.; et al
 Nature Communications (2022), 13(1), 2869.
 10.1038/s41467-022-30255-1
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64691,7 +63502,6 @@ Crystalline Unipolymer Monolayer with High Modulus and Conductivity
 By: Wang, Jinxin; et al
 Angewandte Chemie, International Edition (2023), 62(4), e202216838.
 10.1002/anie.202216838
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64748,7 +63558,6 @@ Discovery of AD258 as a Sigma Receptor Ligand with Potent Antiallodynic Activity
 By: Dichiara, Maria; et al
 Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 10.1021/acs.jmedchem.3c00959
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64805,7 +63614,6 @@ Green-Emitting Extended B3,N2-Doped Polycyclic Aromatic Hydrocarbon with Multipl
 By: Zender, Elena; et al
 Organic Letters (2024), 26(4), 939-944.
 10.1021/acs.orglett.3c04283
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64862,7 +63670,6 @@ Mechanochemical synthesis of aromatic sulfonamides
 By: Mkrtchyan, Satenik; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64919,7 +63726,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -64976,7 +63782,6 @@ Electron Push-Pull Effects on Intramolecular Charge Transfer in Perylene-Based D
 By: Ahn, Mina; et al
 Journal of Organic Chemistry (2021), 86(1), 403-413.
 10.1021/acs.joc.0c02149
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65033,7 +63838,6 @@ Ruthenium-catalyzed reaction of diazoquinones with arylamines to synthesize diar
 By: Rao, Junxin; et al
 Organic Chemistry Frontiers (2022), 9(21), 5845-5850.
 10.1039/d2qo01134d
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65093,7 +63897,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65150,7 +63953,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65207,7 +64009,6 @@ Accessing Dihydropyrrolo[3,4-b]indol-1(2H)-ones via Pd-Catalyzed Intramolecular 
 By: Alam, Ryan M.; et al
 European Journal of Organic Chemistry (2023), 26(34), e202300646.
 10.1002/ejoc.202300646
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65264,7 +64065,6 @@ Site-selective α-C(sp3)-H arylation of dialkylamines via hydrogen atom transfer
 By: Xu, Jie; et al
 Nature Communications (2024), 15(1), 6791.
 10.1038/s41467-024-51239-3
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65321,7 +64121,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65378,7 +64177,6 @@ Induction of Ferroptosis in Glioblastoma and Ovarian Cancers by a New Pyrrole Tu
 By: Puxeddu, Michela; et al
 Journal of Medicinal Chemistry (2022), 65(23), 15805-15818.
 10.1021/acs.jmedchem.2c01457
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65435,7 +64233,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65492,7 +64289,6 @@ Convergent Synthesis of Dihydrobenzofurans via Urea Ligand-Enabled Heteroannulat
 By: Houghtling, Kaitlyn E.; et al
 Organic Letters (2022), 24(31), 5787-5790.
 10.1021/acs.orglett.2c02301
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65549,7 +64345,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65606,7 +64401,6 @@ Buchwald-Hartwig Amination of Aryl Halides with Heterocyclic Amines in the Synth
 By: Bosiak, Mariusz J.; et al
 Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 10.1021/acs.joc.1c01583
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65663,7 +64457,6 @@ Solvents: Toluene; 30 min, rt
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65720,7 +64513,6 @@ Hydroaminoalkylation/Buchwald-Hartwig Amination Sequences for the Synthesis of N
 By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65777,7 +64569,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65834,7 +64625,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65891,7 +64681,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -65948,7 +64737,6 @@ Iodine(I) and Silver(I) Complexes of Benzoimidazole and Pyridylcarbazole Derivat
 By: Taipale, Essi; et al
 Chemistry - A European Journal (2021), 27(69), 17412-17419.
 10.1002/chem.202103152
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66005,7 +64793,6 @@ Asymmetrical-Dendronized TADF Emitters for Efficient Non-doped Solution-Processe
 By: Li, Chensen; et al
 Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 10.1002/anie.202115140
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66062,7 +64849,6 @@ Effects of the Chalcogenide Identity in N-Aryl Phenochalcogenazine Photoredox Ca
 By: Corbin, Daniel A.; et al
 ChemCatChem (2022), 14(17), e202200485.
 10.1002/cctc.202200485
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66119,7 +64905,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66176,7 +64961,6 @@ General and practical synthesis of naphtho[2,1-d]oxazoles from naphthols and ami
 By: Wu, Shaofeng; et al
 Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 10.1039/d2qo00557c
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66232,7 +65016,6 @@ The construction of chiral 3-acyl bicyclolactams via a RuPHOX/Pd catalyzed asymm
 By: Dong, Siqi; et al
 Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 10.1039/d3qo00055a
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66285,7 +65068,6 @@ Anion-Responsive Colorimetric and Fluorometric Red-Shift in Triarylborane Deriva
 By: Aota, Nae; et al
 Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 10.1002/anie.202405158
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66338,7 +65120,6 @@ Palladium-Catalyzed Carbonylative Sonogashira/Annulation Reaction: Synthesis of 
 By: Li, Lin; et al
 Organic Letters (2022), 24(5), 1201-1206.
 10.1021/acs.orglett.1c04350
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66391,7 +65172,6 @@ Aggregation Effect on Multiperformance Improvement in Aryl-Armed Phenazine-Based
 By: Wan, Qing; et al
 Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 10.1021/jacs.2c09210
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66444,7 +65224,6 @@ Two-Chamber-Enabled Hydrogenation Reactions Using Al-H2O/NaOH: Access to Pharmac
 By: Iqubal, Ashif; et al
 Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 10.1021/acs.joc.3c01959
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66498,7 +65277,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66552,7 +65330,6 @@ Tertiary Amides as Directing Groups for Enantioselective C-H Amination using Ion
 By: Paterson, Kieran J.; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 10.1002/anie.202317489
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66605,7 +65382,6 @@ One-Shot Construction of BN-Embedded Heptadecacene Framework Exhibiting Ultra-na
 By: Sano, Yusuke; et al
 Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 10.1021/jacs.3c02873
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66658,7 +65434,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66711,7 +65486,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66765,7 +65539,6 @@ Photo-Electroswitchable Arylaminoazobenzenes
 By: Saint-Louis, Carl Jacky; et al
 Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 10.1021/acs.joc.1c00763
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66818,7 +65591,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66871,7 +65643,6 @@ Direct Formation of 2-Substituted 2H-Indazoles by a Pd-Catalyzed Reaction betwee
 By: Aljaar, Nayyef; et al
 Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66924,7 +65695,6 @@ Carbazole-Decorated Organoboron Emitters with Low-Lying HOMO Levels for Solution
 By: Zhang, Kaiyuan; et al
 Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 10.1002/anie.202313084
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -66981,7 +65751,6 @@ Identification of LY3522348: A Highly Selective and Orally Efficacious Ketohexok
 By: Durham, Timothy B.; et al
 Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
 10.1021/acs.jmedchem.3c01410
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67034,7 +65803,6 @@ Salicylaldehyde-Promoted Cobalt-Catalyzed C-H/N-H Annulation of Indolyl Amides w
 By: Huang, Mao-Gui; et al
 Organic Letters (2021), 23(18), 7094-7099.
 10.1021/acs.orglett.1c02502
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67087,7 +65855,6 @@ Borylation-Reduction-Borylation for the Formation of 1,4-Azaborines
 By: Kothavale, Shantaram S.; et al
 Organic Letters (2023), 25(49), 8912-8916.
 10.1021/acs.orglett.3c03731
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67144,7 +65911,6 @@ The Impact of C2 Insertion into a Carbazole Donor on the Physicochemical Propert
 By: Zimmermann Crocomo, Paola; et al
 Chemistry - A European Journal (2021), 27(53), 13390-13398.
 10.1002/chem.202101654
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67197,7 +65963,6 @@ Structurally Diversified Calix[3]phenoxazines: Synthesis, Solid-State Conformati
 By: Mao, Lijun; et al
 Organic Letters (2023), 25(30), 5597-5601.
 10.1021/acs.orglett.3c01931
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67251,7 +66016,6 @@ Relative stereochemistry shown
 By: Cai, Yuan; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202311250.
 10.1002/anie.202311250
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67300,7 +66064,6 @@ A Redox-Active Phenothiazine-based Pd2L4-Type Coordination Cage and Its Isolable
 By: Huang, Bin; et al
 Angewandte Chemie, International Edition (2024), 63(36), e202407279.
 10.1002/anie.202407279
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67360,7 +66123,6 @@ Palladium-Catalyzed 1,1-Oxamidation and 1,1-Diamination of Unactivated Alkenyl C
 By: Liu, Chao; et al
 Organic Letters (2023), 25(15), 2701-2706.
 10.1021/acs.orglett.3c00819
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67423,7 +66185,6 @@ Discovery of GLPG1972/S201086, a Potent, Selective, and Orally Bioavailable ADAM
 By: Brebion, Franck; et al
 Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 10.1021/acs.jmedchem.0c02008
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67476,7 +66237,6 @@ Synthesis of 2,4-Dicyanoalkylated Benzoxazines through Radical-mediated Cascade 
 By: Ni, Mengjia; et al
 Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 10.1021/acs.joc.3c02809
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67529,7 +66289,6 @@ A Tetraarylpyrrole-Based Phosphine Ligand for the Palladium-Catalyzed Amination 
 By: Sai, Masahiro
 Advanced Synthesis & Catalysis (2021), 363(24), 5422-5428.
 10.1002/adsc.202100731
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67582,7 +66341,6 @@ Syntheses and Physical Properties of Cationic BN-Embedded Polycyclic Aromatic Hy
 By: Gotoh, Hajime; et al
 Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 10.1002/anie.202103488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67635,7 +66393,6 @@ Cp*Co(III)-Catalyzed Enantioselective Hydroarylation of Unactivated Terminal Alk
 By: Liu, Yan-Hua; et al
 Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 10.1021/jacs.1c08562
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67691,7 +66448,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67744,7 +66500,6 @@ Static Scanning Tunneling Microscopy Images Reveal the Mechanism of Supramolecul
 By: Goll, Felix D.; et al
 Angewandte Chemie, International Edition (2022), 61(16), e202117580.
 10.1002/anie.202117580
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67797,7 +66552,6 @@ Solvents: Toluene; overnight, 110 °C
 By: Mayer, Laura; et al
 European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67850,7 +66604,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67903,7 +66656,6 @@ Discovery of a Series of Orally Bioavailable Androgen Receptor Degraders for the
 By: Bagal, Sharan K.; et al
 Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 10.1021/acs.jmedchem.4c00269
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -67956,7 +66708,6 @@ Organo-cyanamides: convenient reagents for catalytic amidation of carboxylic aci
 By: Li, Li-Jing; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 438-441.
 10.1039/d2cc05826j
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68009,7 +66760,6 @@ Broadly Applicable Synthesis of Arylated Dithieno[3,2-b:2’,3’-d]pyrroles as 
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2021), 27(48), 12362-12370.
 10.1002/chem.202101478
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68062,7 +66812,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68115,7 +66864,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68171,7 +66919,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68224,7 +66971,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68277,7 +67023,6 @@ Multicomponent Assembly of Complex Oxindoles by Enantioselective Cooperative Cat
 By: Hua, Ru-Yu; et al
 Angewandte Chemie, International Edition (2022), 61(51), e202213407.
 10.1002/anie.202213407
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68330,7 +67075,6 @@ Synthesis and Photophysical Properties of 3-Substituted-1H-Indazoles: A Pd-Catal
 By: Kayastha, Nasib; et al
 Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68383,7 +67127,6 @@ Electron-Rich Silicon Containing Phosphinanes for Rapid Pd-Catalyzed C-X Couplin
 By: Krah, Sabrina; et al
 ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68436,7 +67179,6 @@ Simple Ether-Directed Enantioselective C(sp3)-H Borylation of Cyclopropanes Enab
 By: Xie, Tian; et al
 Angewandte Chemie, International Edition (2023), 62(14), e202300199.
 10.1002/anie.202300199
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68492,7 +67234,6 @@ Discovery of (2S)-N-(6-cyano-5-(trifluoromethyl)pyridin-3-yl)-3-(6-(4-cyanopheny
 By: Zhang, Wenqiang; et al
 Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 10.1021/acs.jmedchem.3c01417
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68545,7 +67286,6 @@ Iridium-Catalyzed Borylation of 6-Fluoroquinolines: Access to 6-Fluoroquinolones
 By: Hickey, Aobha; et al
 Journal of Organic Chemistry (2022), 87(15), 9977-9987.
 10.1021/acs.joc.2c00973
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68598,7 +67338,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68651,7 +67390,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68704,7 +67442,6 @@ Discovery of the Clinical Candidate Sonrotoclax (BGB-11417), a Highly Potent and
 By: Guo, Yunhang; et al
 Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 10.1021/acs.jmedchem.4c00027
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68757,7 +67494,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68810,7 +67546,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68863,7 +67598,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68916,7 +67650,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -68969,7 +67702,6 @@ Tertiary Amides as Directing Groups for Enantioselective C-H Amination using Ion
 By: Paterson, Kieran J.; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 10.1002/anie.202317489
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69022,7 +67754,6 @@ Orthogonal and Modular Arylation of Alkynylgermanes
 By: Dahiya, Amit; et al
 ACS Catalysis (2022), 12(13), 8048-8054.
 10.1021/acscatal.2c02179
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69075,7 +67806,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69131,7 +67861,6 @@ Highly Regio- and Diastereoselective Tethered Aza-Wacker Cyclizations of Alkenyl
 By: Shinde, Anand H.; et al
 Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69184,7 +67913,6 @@ Enantioselective Giese additions of prochiral α-amino radicals
 By: Lahdenpera, Antti S. K.; et al
 Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 10.1021/jacs.2c11367
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69237,7 +67965,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69290,7 +68017,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69343,7 +68069,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69396,7 +68121,6 @@ Nonsymmetric [Pt(CN̂*N’Ĉ’)] Complexes: Aggregation-Induced Emission in the
 By: Solomatina, Anastasia I.; et al
 Chemistry - A European Journal (2022), 28(64), e202202207.
 10.1002/chem.202202207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69449,7 +68173,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69502,7 +68225,6 @@ Molecular Design and Synthesis of Dicarbazolophane-Based Centrosymmetric Through
 By: Zhang, Zhen; et al
 Organic Letters (2021), 23(17), 6697-6702.
 10.1021/acs.orglett.1c02273
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69555,7 +68277,6 @@ Organophotoredox-Catalyzed Decarboxylative N-Alkylation of Sulfonamides
 By: Nakagawa, Masanari; et al
 ChemCatChem (2021), 13(18), 3930-3933.
 10.1002/cctc.202100803
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69608,7 +68329,6 @@ Broadening the Horizon of the Bell-Evans-Polanyi Principle towards Optically Tri
 By: Chen, Yi; et al
 Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 10.1002/anie.202015274
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69661,7 +68381,6 @@ Characterizing the Conformational Distribution in an Amorphous Film of an Organi
 By: Shi, Yi-Zhong; et al
 Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 10.1002/anie.202108943
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69718,7 +68437,6 @@ Aggregation Effect on Multiperformance Improvement in Aryl-Armed Phenazine-Based
 By: Wan, Qing; et al
 Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 10.1021/jacs.2c09210
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69771,7 +68489,6 @@ Ligand Engineering toward Deep Blue Emission in Nonplanar Terdentate Platinum(II
 By: Wu, Si-Hai; et al
 Organometallics (2021), 40(2), 156-165.
 10.1021/acs.organomet.0c00665
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69824,7 +68541,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69877,7 +68593,6 @@ Intense absorption of azulene realized by molecular orbital inversion
 By: Tsuchiya, Takahiro; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 10.1039/d3cc02311g
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69930,7 +68645,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -69985,7 +68699,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70044,7 +68757,6 @@ Photocatalytic Reductive C-O Bond Cleavage of Alkyl Aryl Ethers by Using Carbazo
 By: Yabuta, Tatsushi; et al
 Journal of Organic Chemistry (2021), 86(3), 2545-2555.
 10.1021/acs.joc.0c02663
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70099,7 +68811,6 @@ Ligand-controlled regioselective cascade C-C/C-F cleavage/annulation of gem-DFCP
 By: Wu, Tian-Shu; et al
 Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70149,7 +68860,6 @@ Electron Push-Pull Effects on Intramolecular Charge Transfer in Perylene-Based D
 By: Ahn, Mina; et al
 Journal of Organic Chemistry (2021), 86(1), 403-413.
 10.1021/acs.joc.0c02149
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70206,7 +68916,6 @@ In Situ Dehydrogenative Generation of Vinyl Groups Bound to Heteroatoms by the U
 By: Yagi, Kaito; et al
 ACS Catalysis (2024), 14(3), 2014-2021.
 10.1021/acscatal.3c05965
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70261,7 +68970,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70317,7 +69025,6 @@ Imidazolidine Hydride Donors in Palladium-Catalyzed Alkyne Hydroarylation
 By: Tun, Soe L.; et al
 Journal of Organic Chemistry (2022), 87(12), 8059-8070.
 10.1021/acs.joc.2c00725
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70372,7 +69079,6 @@ Sequential C-F Bond Transformation of the Difluoromethylene Unit in Perfluoroalk
 By: Sugihara, Naoki; et al
 Angewandte Chemie, International Edition (2024), 63(14), e202401117.
 10.1002/anie.202401117
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70425,7 +69131,6 @@ Cavity-promotion by pillar[5]arenes expedites organic photoredox-catalysed reduc
 By: Schmidt, Maximilian; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(75), 9582-9585.
 10.1039/d1cc03221f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70478,7 +69183,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70535,7 +69239,6 @@ Structure-affinity relationships of stereoisomers of norbenzomorphan-derived σ2
 By: Lu, Yan; et al
 European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70588,7 +69291,6 @@ Nickel-Catalyzed Synthesis of an Aryl Nitrile via Aryl Exchange between an Aroma
 By: Long, Yang; et al
 ACS Catalysis (2022), 12(8), 4688-4695.
 10.1021/acscatal.2c01029
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70641,7 +69343,6 @@ Atroposelective carbonylation of aryl iodides with amides: facile synthesis of e
 By: Chen, Li-Ping; et al
 Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 10.1039/d1qo01147b
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70694,7 +69395,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70747,7 +69447,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70800,7 +69499,6 @@ Electrochemically-Driven Organocatalytic Enantioselective Oxidative Coupling of 
 By: Zhang, Qi-Ying; et al
 Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 10.1002/adsc.202300766
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70853,7 +69551,6 @@ Intense absorption of azulene realized by molecular orbital inversion
 By: Tsuchiya, Takahiro; et al
 Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 10.1039/d3cc02311g
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70906,7 +69603,6 @@ Chemo-, Stereo- and Regioselective Fluoroallylation/Annulation of Hydrazones wit
 By: Qian, Huijun; et al
 Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -70960,7 +69656,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71014,7 +69709,6 @@ Water-dispersible donor-acceptor-donor π-conjugated bolaamphiphiles enabling a 
 By: Enjou, Tomoya; et al
 Chemical Communications (Cambridge, United Kingdom) (2024), 60(27), 3653-3656.
 10.1039/d3cc05749f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71063,7 +69757,6 @@ Divergent Synthesis of (CF3)-Indazolo[3,2-a]Isoquinolines with Potent Photophysi
 By: Zhou, Qianting; et al
 Advanced Synthesis & Catalysis (2024), 366(24), 5190-5196.
 10.1002/adsc.202400923
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71114,7 +69807,6 @@ Asymmetric Synthesis of the cis-1,2-Diaryltetralin Vepdegestrant Core via an Ena
 By: Bernhardson, David J.; et al
 Organic Process Research & Development (2024), 28(12), 4420-4430.
 10.1021/acs.oprd.4c00379
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71163,7 +69855,6 @@ Palladium-catalyzed carbonylative synthesis of 5-trifluoromethyl-1,2,4-triazoles
 By: Tang, Jianhua; et al
 Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71214,7 +69905,6 @@ Discovery of Thieno[3,2-d]pyrimidine derivatives as potent and selective inhibit
 By: Duan, Yunxin; et al
 European Journal of Medicinal Chemistry (2023), 255, 115370.
 10.1016/j.ejmech.2023.115370
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71263,7 +69953,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71322,7 +70011,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71381,7 +70069,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71434,7 +70121,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71487,7 +70173,6 @@ Palladium-Catalyzed Annulation of Arylbenzamides with Diaryliodonium Salts
 By: Pan, Cheng; et al
 Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71540,7 +70225,6 @@ Intermolecular Buchwald-Hartwig Reactions for Enantioselective Synthesis of Dive
 By: Wang, Wei; et al
 Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71595,7 +70279,6 @@ Green-Chemistry-Inspired Synthesis of Cyclobutane-Based Hole-Selective Materials
 By: Daskeviciute-Geguziene, Sarune; et al
 Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 10.1002/anie.202113207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71648,7 +70331,6 @@ Cyclophane Molecules Exhibiting Thermally Activated Delayed Fluorescence: Linkin
 By: Hempe, Matthias; et al
 Journal of Organic Chemistry (2021), 86(1), 429-445.
 10.1021/acs.joc.0c02174
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71701,7 +70383,6 @@ Controllable Si-C Bond Formation from Trihydrosilanes En Route to Synthesis of 1
 By: Guo, Jiawei; et al
 Organic Letters (2023), 25(40), 7428-7433.
 10.1021/acs.orglett.3c03014
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71755,7 +70436,6 @@ Photo-Electroswitchable Arylaminoazobenzenes
 By: Saint-Louis, Carl Jacky; et al
 Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 10.1021/acs.joc.1c00763
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71808,7 +70488,6 @@ Facile Synthesis and Global Aromaticity of Aza-Superbenzene and Aza-Supernaphtha
 By: Ma, Yunhan; et al
 Angewandte Chemie, International Edition (2024), 63(44), e202407990.
 10.1002/anie.202407990
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71861,7 +70540,6 @@ Multifunctionalization of Alkenyl Alcohols via a Sequential Relay Process
 By: Liu, Chong; et al
 Journal of the American Chemical Society (2024), 146(45), 30733-30740.
 10.1021/jacs.4c09522
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71914,7 +70592,6 @@ Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric B
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -71967,7 +70644,6 @@ Enantioselective Synthesis of N-N Bisindole Atropisomers
 By: Zhang, Peng; et al
 Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72020,7 +70696,6 @@ Structurally Nontraditional Bipolar Hosts for RGB Phosphorescent OLEDs: Boosted 
 By: Ma, Weixin; et al
 Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 10.1002/anie.202116681
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72077,7 +70752,6 @@ The Effect of Molecular Conformations and Simulated “Self-Doping” in Phenoth
 By: Gao, Mingxue; et al
 Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72134,7 +70808,6 @@ Green-Chemistry-Inspired Synthesis of Cyclobutane-Based Hole-Selective Materials
 By: Daskeviciute-Geguziene, Sarune; et al
 Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 10.1002/anie.202113207
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72189,7 +70862,6 @@ Discovery of Novel 3-Piperidinyl Pyridine Derivatives as Highly Potent and Selec
 By: Kajita, Yuichi; et al
 Journal of Medicinal Chemistry (2022), 65(4), 3343-3358.
 10.1021/acs.jmedchem.1c01898
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72244,7 +70916,6 @@ Explorations of Agonist Selectivity for the α9* nAChR with Novel Substituted Ca
 By: Andleeb, Hina; et al
 Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 10.1021/acs.jmedchem.3c02429
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72299,7 +70970,6 @@ Tunable Regioselectivity in C-H-Activated Direct Arylation Reactions of Dithieno
 By: Vogt, Astrid; et al
 Chemistry - A European Journal (2023), 29(60), e202301867.
 10.1002/chem.202301867
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72354,7 +71024,6 @@ N-CF3 Imidazolidin-2-one Derivatives via Photocatalytic and Silver-Catalyzed Cyc
 By: Turksoy, Abdurrahman; et al
 Chemistry - A European Journal (2022), 28(46), e202201435.
 10.1002/chem.202201435
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72409,7 +71078,6 @@ Pd-Catalyzed 1,4-Carboamination of Bicyclic Bromoarenes with Diazo Compounds and
 By: Wu, Qikun; et al
 Organic Letters (2022), 24(23), 4129-4134.
 10.1021/acs.orglett.2c01233
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72464,7 +71132,6 @@ Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes wi
 By: Li, Zhiyong; et al
 Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 10.1021/acs.joc.4c02128
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72519,7 +71186,6 @@ Discovery of Novel Allosteric EGFR L858R Inhibitors for the Treatment of Non-Sma
 By: Obst-Sander, Ulrike; et al
 Journal of Medicinal Chemistry (2022), 65(19), 13052-13073.
 10.1021/acs.jmedchem.2c00893
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72574,7 +71240,6 @@ Rationally designed N-phenylsulfonylindoles as a tool for the analysis of the no
 By: Staron, Jakub; et al
 European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72629,7 +71294,6 @@ Pyridylpiperazine-based allosteric inhibitors of RND-type multidrug efflux pumps
 By: Ple, Coline; et al
 Nature Communications (2022), 13(1), 115.
 10.1038/s41467-021-27726-2
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72684,7 +71348,6 @@ Mechanochemical synthesis of aromatic sulfonamides
 By: Mkrtchyan, Satenik; et al
 Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72739,7 +71402,6 @@ Highly Emissive 9-Borafluorene Derivatives: Synthesis, Photophysical Properties 
 By: Chen, Xing; et al
 Chemistry - A European Journal (2021), 27(20), 6274-6282.
 10.1002/chem.202005185
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72796,7 +71458,6 @@ Searching for Synthetic Opioid Rescue Agents: Identification of a Potent Opioid 
 By: Vu, Loan Y.; et al
 Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
 10.1021/acs.jmedchem.4c00333
-View All Sources in CAS SciFinder
 ```
 
 ---
@@ -72848,7 +71509,6 @@ Orienting Group Directed Cascade Borylation for Efficient One-Shot Synthesis of 
 By: Wu, Lin; et al
 Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
-View All Sources in CAS SciFinder
 ```
 
 ---

@@ -379,14 +379,15 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
 
         # Capture Title / Authors / Citation blocks
         if line and not line.startswith(('Steps:', 'CAS Reaction Number:', 'View All', 'Reactions (', 'Search', 'Filtered By:', 'Scheme')) and not line.startswith('By:') and not line.startswith('10.'):
-            # Likely a title line (very heuristic)
-            current_title = line
+            # Check if this line looks like a journal citation (contains year and volume/page numbers pattern)
+            if re.search(r"\(20\d{2}\).*\d+.*\d+", line):
+                # This is likely a journal citation line, not a title
+                current_citation = line.strip()
+            elif not re.search(r"\(20\d{2}\)", line):
+                # This looks like a title (doesn't contain publication year pattern)
+                current_title = line
         if line.startswith('By:'):
             current_authors = line.replace('By:', '').strip()
-        # Journal/citation line often contains a year in parentheses
-        if re.search(r"\(20\d{2}\)", line):
-            # Prefer the line that looks like Journal (year), vol, pages.
-            current_citation = line.strip()
         # Capture DOI lines (lines starting with '10.')
         if line.startswith('10.'):
             current_doi = line.strip()
@@ -412,12 +413,50 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                     break
                 j += 1
             if rid:
-                # Init record
+                # Look backwards from current position to find the title/authors/citation for THIS specific reaction
+                reaction_title = ""
+                reaction_authors = ""
+                reaction_citation = ""
+                reaction_doi = ""
+                
+                # Look backwards up to 50 lines to find the title block for this specific reaction
+                for back_i in range(i, max(0, i-50), -1):
+                    back_line = lines[back_i].strip()
+                    
+                    if not back_line:
+                        continue
+                        
+                    # Check for title-like lines (not starting with metadata keywords)
+                    if (back_line and 
+                        not back_line.startswith(('Steps:', 'CAS Reaction Number:', 'View All', 'Reactions (', 'Search', 'Filtered By:', 'Scheme')) and 
+                        not back_line.startswith('By:') and 
+                        not back_line.startswith('10.') and
+                        not back_line.startswith('|') and  # Skip table dividers
+                        back_line != '?' and
+                        'Absolute stereochemistry shown' not in back_line):
+                        
+                        # Check if this looks like a journal citation
+                        if re.search(r"\(20\d{2}\).*\d+.*\d+", back_line):
+                            if not reaction_citation:  # Take the first (closest) citation we find
+                                reaction_citation = back_line
+                        elif not re.search(r"\(20\d{2}\)", back_line):
+                            if not reaction_title:  # Take the first (closest) title we find
+                                reaction_title = back_line
+                    
+                    if back_line.startswith('By:'):
+                        if not reaction_authors:
+                            reaction_authors = back_line.replace('By:', '').strip()
+                    
+                    if back_line.startswith('10.'):
+                        if not reaction_doi:
+                            reaction_doi = back_line
+                
+                # Init record with reaction-specific metadata
                 rec = reactions.setdefault(rid, {
-                    'title': current_title,
-                    'authors': current_authors,
-                    'citation': current_citation,
-                    'doi': current_doi,
+                    'title': reaction_title,
+                    'authors': reaction_authors,
+                    'citation': reaction_citation,
+                    'doi': reaction_doi,
                     'txt_yield': pending_yield,
                     'reagents': [],
                     'catalysts': [],

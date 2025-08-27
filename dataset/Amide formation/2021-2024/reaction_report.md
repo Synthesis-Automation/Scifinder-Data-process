@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-26 19:22:09
+**Generated:** 2025-08-27 13:02:05
 **Source Folder:** C:/Git-ChemRobox/Scifinder-Data-process/dataset/Amide formation/2021-2024
 **Total Reactions:** 1000
 
@@ -50,10 +50,10 @@
   - Products: `CCCNC(=O)CC(=Cc1ccccc1)c1ccc(OC)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Induced osteoblast differentiation by amide derivatives of stilbene: The possible osteogenic agents
+  - **Authors:** Imran Ahamad, Mohd.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(11), 127138.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127138](https://doi.org/10.1016/j.bmcl.2020.127138)
 
 **Original Text:**
 ```
@@ -91,10 +91,10 @@ Journal of Medicinal Chemistry (2023), 66(15), 10528-10557.
   - Products: `CN(C)CCCOc1ccc2c(=O)nc[nH]c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of a Robust Scale-Up Synthetic Route for BPR1K871: A Clinical Candidate for the Treatment of Acute Myeloid Leukemia and Solid Tumors
+  - **Authors:** Reddy, Julakanti Satyanarayana; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(4), 817-830.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.0c00515](https://doi.org/10.1021/acs.oprd.0c00515)
 
 **Original Text:**
 ```
@@ -142,10 +142,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `COC(=O)[C@H](CO)NC(=O)/C=C/c1ccc(F)cc1.COC(=O)[C@H](COC(=O)/C=C/c1ccc(F)cc1)NC(=O)/C=C/c1ccc(F)cc1.O=C(/C=C/c1ccc(F)cc1)OC(=NC1CCCCC1)NC1CCCCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and in vitro evaluation of antimycobacterial and cytotoxic activity of new α,β-unsaturated amide, oxazoline and oxazole derivatives from L-serine
+  - **Authors:** Aguirre-Renteria, Saul A.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127074](https://doi.org/10.1016/j.bmcl.2020.127074)
 
 **Original Text:**
 ```
@@ -190,10 +190,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
   - Products: `COC(=O)[C@H](CO)NC(=O)/C=C/c1ccc(OC)cc1.COC(=O)[C@H](COC(=O)/C=C/c1ccc(OC)cc1)NC(=O)/C=C/c1ccc(OC)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and in vitro evaluation of antimycobacterial and cytotoxic activity of new α,β-unsaturated amide, oxazoline and oxazole derivatives from L-serine
+  - **Authors:** Aguirre-Renteria, Saul A.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127074](https://doi.org/10.1016/j.bmcl.2020.127074)
 
 **Original Text:**
 ```
@@ -241,10 +241,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `Cc1ccc(/C=C/C(=O)OC(=NC2CCCCC2)NC2CCCCC2)cc1.COC(=O)[C@H](CO)NC(=O)/C=C/c1ccc(C)cc1.COC(=O)[C@H](COC(=O)/C=C/c1ccc(C)cc1)NC(=O)/C=C/c1ccc(C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and in vitro evaluation of antimycobacterial and cytotoxic activity of new α,β-unsaturated amide, oxazoline and oxazole derivatives from L-serine
+  - **Authors:** Aguirre-Renteria, Saul A.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127074](https://doi.org/10.1016/j.bmcl.2020.127074)
 
 **Original Text:**
 ```
@@ -289,10 +289,10 @@ Journal of Medicinal Chemistry (2023), 66(7), 5041-5060.
   - Products: `Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)CCCCCNC(=O)OC(C)(C)C)C(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of SK-575 as a Highly Potent and Efficacious Proteolysis-Targeting Chimera Degrader of PARP1 for Treating Cancers
+  - **Authors:** Cao, Chaoguo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00821](https://doi.org/10.1021/acs.jmedchem.0c00821)
 
 **Original Text:**
 ```
@@ -335,10 +335,10 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
   - Products: `COC(=O)CCC(=O)Nc1ccc2c(c1)CN(C(=O)c1cc(C(C)C)c(OCc3ccccc3)cc1OCc1ccccc1)C2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Isoindoline scaffold-based dual inhibitors of HDAC6 and HSP90 suppressing the growth of lung cancer in vitro and in vivo
+  - **Authors:** Ojha, Ritu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 190, 112086pp..
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112086](https://doi.org/10.1016/j.ejmech.2020.112086)
 
 **Original Text:**
 ```
@@ -379,10 +379,10 @@ European Journal of Medicinal Chemistry (2022), 244, 114830.
   - Products: `Cn1cc(Nc2cc(-c3cccc(NC(=O)CNC(=O)OC(C)(C)C)c3)ncn2)cn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and pharmacological evaluation of 4- or 6-phenyl-pyrimidine derivatives as novel and selective Janus kinase 3 inhibitors
+  - **Authors:** Shu, Lei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 191, 112148pp..
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112148](https://doi.org/10.1016/j.ejmech.2020.112148)
 
 **Original Text:**
 ```
@@ -421,10 +421,10 @@ Organic Process Research & Development (2022), 26(4), 1327-1335.
   - Products: `Cn1cc(Nc2cc(-c3cccc(NC(=O)CC#N)c3)ncn2)cn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and pharmacological evaluation of 4- or 6-phenyl-pyrimidine derivatives as novel and selective Janus kinase 3 inhibitors
+  - **Authors:** Shu, Lei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 191, 112148pp..
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112148](https://doi.org/10.1016/j.ejmech.2020.112148)
 
 **Original Text:**
 ```
@@ -469,10 +469,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)c2ccc3oc(=O)ccc3c2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Rational design and Structure-Activity relationship of coumarin derivatives effective on HIV-1 protease and partially on HIV-1 reverse transcriptase
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 186, 111900.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2019.111900](https://doi.org/10.1016/j.ejmech.2019.111900)
 
 **Original Text:**
 ```
@@ -514,10 +514,10 @@ Journal of Medicinal Chemistry (2024), 67(7), 5866-5882.
   - Products: `C=CC[C@H](NC(=O)OC(C)(C)C)c1cc(-c2ccc(NC(=O)OC)cc2NC(=O)[C@H](C)C=C)ccn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent, Orally Bioavailable, and Efficacious Macrocyclic Inhibitors of Factor XIa. Discovery of Pyridine-Based Macrocycles Possessing Phenylazole Carboxamide P1 Groups
+  - **Authors:** Corte, James R.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(2), 784-803.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01768](https://doi.org/10.1021/acs.jmedchem.9b01768)
 
 **Original Text:**
 ```
@@ -564,10 +564,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4641-4654.
   - Products: `Cc1ccccc1NC(=O)C=CC(=O)NC1Cc2ccccc2NC1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -613,10 +613,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(24), 115818.
   - Products: `Cc1cccc(NC(=O)C=CC(=O)NC2Cc3ccccc3NC2=O)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -662,10 +662,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `Cc1ccc(NC(=O)C=CC(=O)NC2Cc3ccccc3NC2=O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -711,10 +711,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1206-1224.
   - Products: `COc1ccccc1NC(=O)C=CC(=O)NC1Cc2ccccc2NC1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -760,10 +760,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `COc1ccc(NC(=O)C=CC(=O)NC2Cc3ccccc3NC2=O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -809,10 +809,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccccc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -858,10 +858,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1cccc([N+](=O)[O-])c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -907,10 +907,10 @@ Journal of Medicinal Chemistry (2023), 66(14), 10060-10079.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -959,10 +959,10 @@ ChemMedChem (2023), 18(6), e202200632.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccccc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1008,10 +1008,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccc(Cl)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1057,10 +1057,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccccc1Br`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1106,10 +1106,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1cccc(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1155,10 +1155,10 @@ Journal of Medicinal Chemistry (2022), 65(10), 7246-7261.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccc(Br)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1204,10 +1204,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1255,10 +1255,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1308,10 +1308,10 @@ Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1357,10 +1357,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
   - Products: `O=C(C=CC(=O)NC1Cc2ccccc2NC1=O)Nc1cccc2ccccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2(1H)-quinolinone derivatives as potential chitin synthase inhibitors and antifungal agents
+  - **Authors:** Li, Baihui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 195, 112278.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112278](https://doi.org/10.1016/j.ejmech.2020.112278)
 
 **Original Text:**
 ```
@@ -1399,10 +1399,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
   - Products: `COc1nc(OC)nc(Oc2nc(OC)nc(OC)n2)n1.CC(C)(C)OC(=O)Nc1nc(/C(=N/OC2(C(=O)OC(c3ccccc3)c3ccccc3)CC2)C(=O)N[C@@H]2C(=O)N[C@@H]2CN2CCOC2=O)cs1.CC(C)(C)OC(=O)Nc1nc(/C(=N/OC2(C(=O)OC(c3ccccc3)c3ccccc3)CC2)C(=O)N[C@@H]2C(=O)N[C@@H]2CN2C(=O)OCC2O)cs1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Process Development for the Synthesis of a Monobactam Antibiotic-LYS228
+  - **Authors:** Fei, Zhongbo; et al
+  - **Citation:** Organic Process Research & Development (2020), 24(3), 363-370.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.9b00330](https://doi.org/10.1021/acs.oprd.9b00330)
 
 **Original Text:**
 ```
@@ -1442,10 +1442,10 @@ Journal of Medicinal Chemistry (2020), 63(9), 4790-4810.
   - Products: `COc1ccc(N(C)C(=O)[C@H](Cc2ccccc2)NC(=O)CNC(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Mechanism Study of Benzenesulfonamide-Containing Phenylalanine Derivatives as Novel HIV-1 Capsid Inhibitors with Improved Antiviral Activities
+  - **Authors:** Sun, Lin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(9), 4790-4810.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00015](https://doi.org/10.1021/acs.jmedchem.0c00015)
 
 **Original Text:**
 ```
@@ -1485,10 +1485,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
   - Products: `CC(C)(C)OC(=O)N1CCC(CNC(=O)c2cc(Br)c(Br)s2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery, Structure-Activity Relationship, and Biological Activity of Histone-Competitive Inhibitors of Histone Acetyltransferases P300/CBP
+  - **Authors:** Wu, Fangrui; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(9), 4716-4731.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b02164](https://doi.org/10.1021/acs.jmedchem.9b02164)
 
 **Original Text:**
 ```
@@ -1526,10 +1526,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14358-14376.
   - Products: `O=C(Cc1ccc([N+](=O)[O-])cc1Br)NCCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Identification of C10 nitrogen-containing aporphines with dopamine D1 versus D5 receptor selectivity
+  - **Authors:** Karki, Anupam; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127053.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127053](https://doi.org/10.1016/j.bmcl.2020.127053)
 
 **Original Text:**
 ```
@@ -1568,10 +1568,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `COc1cc(CCNC(=O)Cc2ccc([N+](=O)[O-])cc2Br)ccc1OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Identification of C10 nitrogen-containing aporphines with dopamine D1 versus D5 receptor selectivity
+  - **Authors:** Karki, Anupam; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127053.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127053](https://doi.org/10.1016/j.bmcl.2020.127053)
 
 **Original Text:**
 ```
@@ -1610,10 +1610,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
   - Products: `CC(C)(C)OC(=O)N[C@H](Cc1ccccc1)C(=O)NCC1(CC(=O)OCc2ccccc2)CCCCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel cilengitide-based cyclic RGD peptides as αvβ3 integrin inhibitors
+  - **Authors:** Meena, Chhuttan L.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127039](https://doi.org/10.1016/j.bmcl.2020.127039)
 
 **Original Text:**
 ```
@@ -1653,10 +1653,10 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
   - Products: `CC(C)(C)OC(=O)N[C@H](Cc1ccccc1)C(=O)NC(C)(C)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel cilengitide-based cyclic RGD peptides as αvβ3 integrin inhibitors
+  - **Authors:** Meena, Chhuttan L.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127039](https://doi.org/10.1016/j.bmcl.2020.127039)
 
 **Original Text:**
 ```
@@ -1696,10 +1696,10 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
   - Products: `CC(C)(C)OC(=O)N[C@H](Cc1ccccc1)C(=O)NC1(C(=O)OCc2ccccc2)CCCCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel cilengitide-based cyclic RGD peptides as αvβ3 integrin inhibitors
+  - **Authors:** Meena, Chhuttan L.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127039](https://doi.org/10.1016/j.bmcl.2020.127039)
 
 **Original Text:**
 ```
@@ -1740,10 +1740,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `COc1c(NC(=O)[C@@H](Cc2ccccc2)NC(=O)OC(C)(C)C)cccc1C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel cilengitide-based cyclic RGD peptides as αvβ3 integrin inhibitors
+  - **Authors:** Meena, Chhuttan L.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127039](https://doi.org/10.1016/j.bmcl.2020.127039)
 
 **Original Text:**
 ```
@@ -1791,10 +1791,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `O=C(Nc1ccc(C(F)(C(F)(F)F)C(F)(F)F)cc1C(F)(F)F)c1cccc([N+](=O)[O-])c1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of an efficient synthetic process for broflanilide
+  - **Authors:** Luo, Chunyan; et al
+  - **Citation:** Organic Process Research & Development (2020), 24(6), 1024-1031.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.0c00028](https://doi.org/10.1021/acs.oprd.0c00028)
 
 **Original Text:**
 ```
@@ -1836,10 +1836,10 @@ Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
   - Products: `CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C)B1O[C@@H]2[C@@H]3C[C@H](C[C@]2(C)O1)C3(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Peptide Boronate Derivatives as Histone Deacetylase and Proteasome Dual Inhibitors for Overcoming Bortezomib Resistance of Multiple Myeloma
+  - **Authors:** Zhou, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b02161](https://doi.org/10.1021/acs.jmedchem.9b02161)
 
 **Original Text:**
 ```
@@ -1875,10 +1875,10 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1286-1294.
   - Products: `CC(C)C[C@H](NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)OC(C)(C)C)B1O[C@@H]2[C@@H]3C[C@H](C[C@]2(C)O1)C3(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Peptide Boronate Derivatives as Histone Deacetylase and Proteasome Dual Inhibitors for Overcoming Bortezomib Resistance of Multiple Myeloma
+  - **Authors:** Zhou, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b02161](https://doi.org/10.1021/acs.jmedchem.9b02161)
 
 **Original Text:**
 ```
@@ -1914,10 +1914,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `CC(C)C[C@H](NC(=O)CNC(=O)OC(C)(C)C)B1O[C@@H]2[C@@H]3C[C@H](C[C@]2(C)O1)C3(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Peptide Boronate Derivatives as Histone Deacetylase and Proteasome Dual Inhibitors for Overcoming Bortezomib Resistance of Multiple Myeloma
+  - **Authors:** Zhou, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b02161](https://doi.org/10.1021/acs.jmedchem.9b02161)
 
 **Original Text:**
 ```
@@ -1955,10 +1955,10 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
   - Products: `O=C(CCCc1cccs1)Nc1ccc(C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of aryl piperazines with potential as antidiabetic agents via the stimulation of glucose uptake and inhibition of NADH:ubiquinone oxidoreductase
+  - **Authors:** Devine, R.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 202, 112416.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112416](https://doi.org/10.1016/j.ejmech.2020.112416)
 
 **Original Text:**
 ```
@@ -2012,10 +2012,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
   - Products: `O=C(Nc1ccc([N+](=O)[O-])cc1O)c1ccccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Pyrido[2,3-b][1,5]benzoxazepin-5(6H)-one derivatives as CDK8 inhibitors
+  - **Authors:** Martinez-Gonzalez, Sonia; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 201, 112443.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112443](https://doi.org/10.1016/j.ejmech.2020.112443)
 
 **Original Text:**
 ```
@@ -2059,10 +2059,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - Products: `COC(=O)[C@H](Cc1ccccc1)NC(=O)c1cc(=O)c2c(OCc3ccc(Br)cc3)cccc2o1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Chromones bearing amino acid residues: Easily accessible and potent inhibitors of the breast cancer resistance protein ABCG2
+  - **Authors:** Roussel, Emile; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 202, 112503.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112503](https://doi.org/10.1016/j.ejmech.2020.112503)
 
 **Original Text:**
 ```
@@ -2104,10 +2104,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
   - Products: `COC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)c1cc(=O)c2c(OCc3ccc(Br)cc3)cccc2o1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Chromones bearing amino acid residues: Easily accessible and potent inhibitors of the breast cancer resistance protein ABCG2
+  - **Authors:** Roussel, Emile; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 202, 112503.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112503](https://doi.org/10.1016/j.ejmech.2020.112503)
 
 **Original Text:**
 ```
@@ -2152,10 +2152,10 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
   - Products: `COC(=O)[C@@H](Cc1c[nH]c2ccccc12)NC(=O)c1cc(=O)c2c(OCc3ccc(Br)cc3)cccc2o1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Chromones bearing amino acid residues: Easily accessible and potent inhibitors of the breast cancer resistance protein ABCG2
+  - **Authors:** Roussel, Emile; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 202, 112503.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112503](https://doi.org/10.1016/j.ejmech.2020.112503)
 
 **Original Text:**
 ```
@@ -2205,10 +2205,10 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
   - Products: `CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCN(CC(=O)NCCOCCOCCOCCC(=O)N[C@H]5C[C@@H](C(=O)Nc6c(F)cccc6F)N(C(=O)[C@@H](NC(=O)[C@H](C)N(C)C(=O)OC(C)(C)C)C(C)(C)C)C5)CC4)cn3)nc2n(C2CCCC2)c1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Selective CDK6 degradation mediated by cereblon, VHL, and novel IAP-recruiting PROTACs
+  - **Authors:** Anderson, Niall A.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127106.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127106](https://doi.org/10.1016/j.bmcl.2020.127106)
 
 **Original Text:**
 ```
@@ -2254,10 +2254,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `NS(=O)(=O)c1ccc(-n2nc(C(=O)NC3CCCCC3)cc2-c2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel urea-diarylpyrazole hybrids as dual COX-2/sEH inhibitors with improved anti-inflammatory activity and highly reduced cardiovascular risks
+  - **Authors:** Abdelazeem, Ahmed H.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 205, 112662.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112662](https://doi.org/10.1016/j.ejmech.2020.112662)
 
 **Original Text:**
 ```
@@ -2297,10 +2297,10 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
   - Products: `CC(C)Cc1nc(Br)sc1C(=O)NCc1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, diversity-oriented synthesis and biological evaluation of novel heterocycle derivatives as non-nucleoside HBV capsid protein inhibitors
+  - **Authors:** Jia, Haiyong; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 202, 112495.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112495](https://doi.org/10.1016/j.ejmech.2020.112495)
 
 **Original Text:**
 ```
@@ -2342,10 +2342,10 @@ Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
   - Products: `CNC(=O)Cc1c(OC)ccc(Br)c1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Multigram Synthesis of BMS-929075, an Allosteric, Palm Site Inhibitor of HCV NS5B Replicase, Involving the Synthesis of a Highly Functionalized Benzofuran through a Telescoped Process
+  - **Authors:** Smith, Daniel; et al
+  - **Citation:** Organic Process Research & Development (2020), 24(6), 1157-1163.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.0c00198](https://doi.org/10.1021/acs.oprd.0c00198)
 
 **Original Text:**
 ```
@@ -2384,10 +2384,10 @@ Journal of Medicinal Chemistry (2022), 65(24), 16372-16391.
   - Products: `CNC(=O)c1c(-c2ccc(F)cc2)oc2ccc(-c3cc(C(=O)NC4(c5ncccn5)CC4)ccc3C)c(F)c12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Multigram Synthesis of BMS-929075, an Allosteric, Palm Site Inhibitor of HCV NS5B Replicase, Involving the Synthesis of a Highly Functionalized Benzofuran through a Telescoped Process
+  - **Authors:** Smith, Daniel; et al
+  - **Citation:** Organic Process Research & Development (2020), 24(6), 1157-1163.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.0c00198](https://doi.org/10.1021/acs.oprd.0c00198)
 
 **Original Text:**
 ```
@@ -2426,10 +2426,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `CC(C)(C)OC(=O)NC1CC1c1ccc(NC(=O)c2ccccc2NC(=O)OCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Tranylcypromine-Based LSD1 Inhibitors: Structure-Activity Relationships, Antiproliferative Effects in Leukemia, and Gene Target Modulation
+  - **Authors:** Fioravanti, Rossella; et al
+  - **Citation:** ChemMedChem (2020), 15(7), 643-658.
+  - **DOI:** [https://doi.org/10.1002/cmdc.201900730](https://doi.org/10.1002/cmdc.201900730)
 
 **Original Text:**
 ```
@@ -2468,10 +2468,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115054.
   - Products: `CC(C)(C)OC(=O)NC1CC1c1ccc(NC(=O)c2ccc(-c3ccccc3)cc2NC(=O)OCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Tranylcypromine-Based LSD1 Inhibitors: Structure-Activity Relationships, Antiproliferative Effects in Leukemia, and Gene Target Modulation
+  - **Authors:** Fioravanti, Rossella; et al
+  - **Citation:** ChemMedChem (2020), 15(7), 643-658.
+  - **DOI:** [https://doi.org/10.1002/cmdc.201900730](https://doi.org/10.1002/cmdc.201900730)
 
 **Original Text:**
 ```
@@ -2508,10 +2508,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
   - Products: `CC(C)(C)OC(=O)CCSc1nnc(NC(=O)Cc2ccccc2)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Allosteric kidney-type glutaminase (GLS) inhibitors with a mercaptoethyl linker
+  - **Authors:** Duvall, Bridget; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2020), 28(20), 115698.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115698](https://doi.org/10.1016/j.bmc.2020.115698)
 
 **Original Text:**
 ```
@@ -2548,10 +2548,10 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
   - Products: `O=C(Nc1nc(-c2ccncc2)cs1)c1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of 4-aryl-5-aminoalkyl-thiazole-2-amines derivatives as ROCK II inhibitors
+  - **Authors:** Ma, Shuchao; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2020), 28(19), 115683.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115683](https://doi.org/10.1016/j.bmc.2020.115683)
 
 **Original Text:**
 ```
@@ -2592,10 +2592,10 @@ European Journal of Medicinal Chemistry (2023), 259, 115716.
   - Products: `CC(C)CNC(=O)[C@@H](Cc1ccccc1)N(NC(=O)OC(C)(C)C)C(=O)[C@H](CC(C)C)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and biological evaluation of backbone-aminated analogs of gramicidin S
+  - **Authors:** Rathman, Benjamin M.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127283](https://doi.org/10.1016/j.bmcl.2020.127283)
 
 **Original Text:**
 ```
@@ -2636,10 +2636,10 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
   - Products: `CC(C)CNC(=O)[C@H](Cc1ccccc1)N(NC(=O)OC(C)(C)C)C(=O)[C@H](CC(C)C)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and biological evaluation of backbone-aminated analogs of gramicidin S
+  - **Authors:** Rathman, Benjamin M.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127283](https://doi.org/10.1016/j.bmcl.2020.127283)
 
 **Original Text:**
 ```
@@ -2683,7 +2683,7 @@ ACS Medicinal Chemistry Letters (2020), 11(10), 1829-1836.
   - Products: `C#CCNC(=O)c1cnccn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
+  - **Title:** The bioisosteric modification of pyrazinamide derivatives led to potent antitubercular agents: Synthesis via click approach and molecular docking of pyrazine-1,2,3-triazoles
   - **Authors:** Reddyrajula, Rajkumar; et al
   - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
   - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
@@ -2734,7 +2734,7 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
   - Products: `C#CCNC(=O)c1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
+  - **Title:** The bioisosteric modification of pyrazinamide derivatives led to potent antitubercular agents: Synthesis via click approach and molecular docking of pyrazine-1,2,3-triazoles
   - **Authors:** Reddyrajula, Rajkumar; et al
   - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
   - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
@@ -2785,7 +2785,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
   - Products: `C#CCNC(=O)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
+  - **Title:** The bioisosteric modification of pyrazinamide derivatives led to potent antitubercular agents: Synthesis via click approach and molecular docking of pyrazine-1,2,3-triazoles
   - **Authors:** Reddyrajula, Rajkumar; et al
   - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
   - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
@@ -2830,10 +2830,10 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
   - Products: `CC(=O)N[C@@H](CCC(=O)NC(c1ccccc1)(c1ccccc1)c1ccccc1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCCNC(=O)OC(C)(C)C)C(=O)N[C@@H](CCCCNC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)Nc1ccc2c(C)cc(=O)oc2c1.O=C(O)C(F)(F)F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dethioacylation by Sirtuins 1-3: Considerations for Drug Design Using Mechanism-Based Sirtuin Inhibition
+  - **Authors:** Rajabi, Nima; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(10), 1886-1892.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.9b00580](https://doi.org/10.1021/acsmedchemlett.9b00580)
 
 **Original Text:**
 ```
@@ -2871,10 +2871,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
   - Products: `COc1cccc2nc(Nc3cccc(NC(=O)c4ccc5ncccc5c4)c3)ccc12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** 2-Anilinoquinoline based arylamides as broad spectrum anticancer agents with B-RAFV600E/C-RAF kinase inhibitory effects: Design, synthesis, in-vitro cell-based and oncogenic kinase assessments
+  - **Authors:** El-Damasy, Ashraf K.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112756.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112756](https://doi.org/10.1016/j.ejmech.2020.112756)
 
 **Original Text:**
 ```
@@ -2914,10 +2914,10 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
   - Products: `CCCCCCOC(C)c1c(C)c2cc3nc(c(CC(=O)N[C@@H](CC(=O)OC(C)(C)C)C(=O)OC(C)(C)C)c4[nH]c(cc5nc(cc1[nH]2)C(C)=C5CC)c(C)c4C(=O)O)[C@@H](CCC(=O)O)[C@@H]3C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 131-hexyloxy chlorin e6-based 152- or 131-amino acid derivatives as potent photosensitizers for photodynamic therapy
+  - **Authors:** Zhang, Xing-Jie; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 207, 112715.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112715](https://doi.org/10.1016/j.ejmech.2020.112715)
 
 **Original Text:**
 ```
@@ -2957,10 +2957,10 @@ ACS Medicinal Chemistry Letters (2023), 14(11), 1544-1550.
   - Products: `O=C(NCc1ccc(NS(=O)(=O)c2ccc(Cl)cc2)cc1)C(CO)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Small-Molecule Inhibitors Targeting Sterol 14α-Demethylase (CYP51): Synthesis, Molecular Modelling and Evaluation Against Candida albicans
+  - **Authors:** Binjubair, Faizah A.; et al
+  - **Citation:** ChemMedChem (2020), 15(14), 1294-1309.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202000250](https://doi.org/10.1002/cmdc.202000250)
 
 **Original Text:**
 ```
@@ -3002,10 +3002,10 @@ Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
   - Products: `COc1ccc(S(=O)(=O)Nc2ccc(CNC(=O)C(CO)c3ccccc3)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Small-Molecule Inhibitors Targeting Sterol 14α-Demethylase (CYP51): Synthesis, Molecular Modelling and Evaluation Against Candida albicans
+  - **Authors:** Binjubair, Faizah A.; et al
+  - **Citation:** ChemMedChem (2020), 15(14), 1294-1309.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202000250](https://doi.org/10.1002/cmdc.202000250)
 
 **Original Text:**
 ```
@@ -3049,10 +3049,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `CC(=O)O[C@H]1C[C@]2(C)[C@H]3CC[C@@H]4[C@H]5[C@H](C(C)=O)CC[C@]5(C(=O)NCc5ccccc5)CC[C@@]4(C)[C@]3(C)CC[C@H]2C(C)(C)[C@H]1OC(C)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Betulinic acid derived amides are highly cytotoxic, apoptotic and selective
+  - **Authors:** Hoenke, Sophie; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 207, 112815.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112815](https://doi.org/10.1016/j.ejmech.2020.112815)
 
 **Original Text:**
 ```
@@ -3095,10 +3095,10 @@ Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
   - Products: `CCC1(CC)O[C@H]2[C@H](OC[C@@H](NC(=O)OCC3c4ccccc4-c4ccccc43)C(=O)NC[C@H]3O[C@@H](n4ccc(=O)[nH]c4=O)[C@@H]4OC(C)(C)O[C@@H]43)O[C@H](CN=[N+]=[N-])[C@H]2O1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Simplified Novel Muraymycin Analogues; using a Serine Template Strategy for Linking Key Pharmacophores
+  - **Authors:** Patel, Bhautikkumar; et al
+  - **Citation:** ChemMedChem (2020), 15(15), 1429-1438.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202000033](https://doi.org/10.1002/cmdc.202000033)
 
 **Original Text:**
 ```
@@ -3137,10 +3137,10 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
   - Products: `CCC1(CC)O[C@H]2[C@H](OC[C@H](NC(=O)OCC3c4ccccc4-c4ccccc43)C(=O)NC[C@H]3O[C@@H](n4ccc(=O)[nH]c4=O)[C@@H]4OC(C)(C)O[C@@H]43)O[C@H](CN=[N+]=[N-])[C@H]2O1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Simplified Novel Muraymycin Analogues; using a Serine Template Strategy for Linking Key Pharmacophores
+  - **Authors:** Patel, Bhautikkumar; et al
+  - **Citation:** ChemMedChem (2020), 15(15), 1429-1438.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202000033](https://doi.org/10.1002/cmdc.202000033)
 
 **Original Text:**
 ```
@@ -3181,10 +3181,10 @@ ChemMedChem (2020), 15(15), 1429-1438.
   - Products: `CN(C)c1ccc([N+](=O)[O-])cc1NC(=O)c1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel TNNI3K inhibitor suppresses pyroptosis and apoptosis in murine myocardial infarction injury
+  - **Authors:** Pang, Haiying; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 197, 112314.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112314](https://doi.org/10.1016/j.ejmech.2020.112314)
 
 **Original Text:**
 ```
@@ -3222,10 +3222,10 @@ Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
   - Products: `CC(C)(C)OC(=O)N1CC[C@H](N(Cc2ccccc2)Cc2ccccc2)[C@@H](C(=O)NC2CCCCC2)C1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** GSK789: A Selective Inhibitor of the First Bromodomains (BD1) of the Bromo and Extra Terminal Domain (BET) Proteins
+  - **Authors:** Watson, Robert J.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(17), 9045-9069.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00614](https://doi.org/10.1021/acs.jmedchem.0c00614)
 
 **Original Text:**
 ```
@@ -3266,10 +3266,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 96, 129530.
   - Products: `COc1ccc(CCNC(=O)Cc2c[nH]c3ccccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3307,10 +3307,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
   - Products: `COc1ccc(CCNC(=O)Cc2cn(C)c3ccccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3347,10 +3347,10 @@ Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
   - Products: `COc1ccc(CCNC(=O)Cc2c[nH]c3ccc(Br)cc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3386,10 +3386,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `COc1ccc2[nH]cc(CC(=O)NCCc3ccc(OC)c(OC)c3)c2c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3424,10 +3424,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `COc1ccc(CCNC(=O)Cc2c[nH]c3ccc(C)cc23)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3462,10 +3462,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
   - Products: `COc1ccc(CCNC(=O)Cc2c[nH]c3cc(Cl)ccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3503,10 +3503,10 @@ ACS Medicinal Chemistry Letters (2022), 13(6), 949-954.
   - Products: `CCOc1ccc(CCNC(=O)Cc2c[nH]c3cccc(Cl)c23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3541,10 +3541,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `COc1ccc(CCNC(=O)Cc2c[nH]c3c(Cl)cccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3581,10 +3581,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
   - Products: `CCOc1ccc(CCNC(=O)Cc2c[nH]c3cc(Cl)ccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3622,10 +3622,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `COc1ccc(CCNC(=O)Cc2ccccc2)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3661,10 +3661,10 @@ Organic Process Research & Development (2020), 24(6), 1157-1163.
   - Products: `COc1ccc(CCNC(=O)Cc2ccsc2)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3699,10 +3699,10 @@ European Journal of Medicinal Chemistry (2020), 201, 112443.
   - Products: `CCOc1ccc(CCNC(=O)Cc2cn(C)c3ccccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3737,10 +3737,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
   - Products: `CCOc1ccc(CCNC(=O)Cc2c[nH]c3c(Cl)cccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3775,10 +3775,10 @@ Bioorganic & Medicinal Chemistry (2023), 84, 117259.
   - Products: `COc1ccc(CCNC(=O)Cc2cc3ccccc3[nH]2)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3813,10 +3813,10 @@ European Journal of Medicinal Chemistry (2020), 188, 111920.
   - Products: `CCOc1ccc(CCNC(=O)Cc2c[nH]c3ccc(C)cc23)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3851,10 +3851,10 @@ European Journal of Medicinal Chemistry (2020), 205, 112662.
   - Products: `CCOc1ccc(CCNC(=O)Cc2c[nH]c3ccc(OC)cc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3895,10 +3895,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `COc1ccc2[nH]c(C)c(CC(=O)NCCc3ccc(OC)c(OC)c3)c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3933,10 +3933,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `CCOc1ccc(CCNC(=O)Cc2c[nH]c3ccc(Br)cc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -3975,10 +3975,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `COc1ccc(CCNC(=O)Cc2c[nH]c3cccc(Cl)c23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -4013,10 +4013,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `CCOc1ccc(CCNC(=O)Cc2c(C)[nH]c3ccc(OC)cc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of tetrahydroisoquinolines derivatives as novel, selective PDE4 inhibitors for antipsoriasis treatment
+  - **Authors:** Zhang, Rui; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 211, 113004.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.113004](https://doi.org/10.1016/j.ejmech.2020.113004)
 
 **Original Text:**
 ```
@@ -4063,10 +4063,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `CC(C)(C)OC(=O)N1CCC[C@H](C(=O)Nc2ccc(Cl)c(F)c2)C1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of Small Molecules That Sensitize HIV-1 Infected Cells to Antibody-Dependent Cellular Cytotoxicity
+  - **Authors:** Grenier, Melissa C.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(3), 371-378.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.9b00445](https://doi.org/10.1021/acsmedchemlett.9b00445)
 
 **Original Text:**
 ```
@@ -4105,10 +4105,10 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
   - Products: `C=C1CC[C@H]2[C@@](C)(CC[C@@H](O)[C@@]2(C)C(=O)NCc2ccccc2)[C@@H]1/C=C/C1=CCOC1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and evaluation of andrographolide derivatives as potent anti-osteoporosis agents in vitro and in vivo
+  - **Authors:** Zhang, Songxuan; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 213, 113185.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113185](https://doi.org/10.1016/j.ejmech.2021.113185)
 
 **Original Text:**
 ```
@@ -4157,10 +4157,10 @@ ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
   - Products: `COC(=O)/C(O)=C/C(=O)c1ccc(NC(=O)CCCC[C@H]2CCSS2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Inhibition of Human Immunodeficiency Virus-1 Integrase by β-Diketo Acid Coated Gold Nanoparticles
+  - **Authors:** Sanna, Vanna; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(5), 857-861.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.9b00648](https://doi.org/10.1021/acsmedchemlett.9b00648)
 
 **Original Text:**
 ```
@@ -4200,10 +4200,10 @@ Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
   - Products: `COC(=O)[C@H](CC1CCCCC1)NC(=O)[C@@H](NC(=O)OCc1ccccc1)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A quick route to multiple highly potent SARS-CoV-2 main protease inhibitors
+  - **Authors:** Yang, Kai S.; et al
+  - **Citation:** ChemMedChem (2021), 16(6), 942-948.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202000924](https://doi.org/10.1002/cmdc.202000924)
 
 **Original Text:**
 ```
@@ -4241,10 +4241,10 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
   - Products: `COC(=O)[C@H](CC1CCCCC1)NC(=O)[C@@H](NC(=O)OCc1ccccc1)[C@@H](C)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A quick route to multiple highly potent SARS-CoV-2 main protease inhibitors
+  - **Authors:** Yang, Kai S.; et al
+  - **Citation:** ChemMedChem (2021), 16(6), 942-948.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202000924](https://doi.org/10.1002/cmdc.202000924)
 
 **Original Text:**
 ```
@@ -4283,10 +4283,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `O=C(NCc1ccc(C(=O)Nc2cccnc2)cc1)c1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A new chemotype with promise against Trypanosoma cruzi
+  - **Authors:** Wang, Xiaofang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126778](https://doi.org/10.1016/j.bmcl.2019.126778)
 
 **Original Text:**
 ```
@@ -4326,10 +4326,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `Cc1ccc(NC(=O)c2ccc(CNS(=O)(=O)c3ccc(F)cc3)cc2)c(C)n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A new chemotype with promise against Trypanosoma cruzi
+  - **Authors:** Wang, Xiaofang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126778](https://doi.org/10.1016/j.bmcl.2019.126778)
 
 **Original Text:**
 ```
@@ -4372,10 +4372,10 @@ ACS Medicinal Chemistry Letters (2024), 15(5), 631-639.
   - Products: `O=C(Nc1cccnc1)[C@H]1CC[C@H](CNS(=O)(=O)c2ccc(F)cc2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A new chemotype with promise against Trypanosoma cruzi
+  - **Authors:** Wang, Xiaofang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126778](https://doi.org/10.1016/j.bmcl.2019.126778)
 
 **Original Text:**
 ```
@@ -4415,10 +4415,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
   - Products: `Cc1ccc(NC(=O)c2ccc(CNS(=O)(=O)c3ccc(F)cc3)cc2)cn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A new chemotype with promise against Trypanosoma cruzi
+  - **Authors:** Wang, Xiaofang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126778](https://doi.org/10.1016/j.bmcl.2019.126778)
 
 **Original Text:**
 ```
@@ -4458,10 +4458,10 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
   - Products: `CC(C(=O)Nc1ccc(F)cc1)C12CC(NC(=O)OC(C)(C)C)(C1)C2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Potent and Orally Available Bicyclo[1.1.1]pentane-Derived Indoleamine-2,3-dioxygenase 1 (IDO1) Inhibitors
+  - **Authors:** Pu, Qinglin; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(8), 1548-1554.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.0c00195](https://doi.org/10.1021/acsmedchemlett.0c00195)
 
 **Original Text:**
 ```
@@ -4498,10 +4498,10 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
   - Products: `COC(=O)c1ccc(Cn2ccc3ccc(NC(=O)c4ccc(C(C)(C)C)cc4)cc32)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dual Farnesoid X Receptor/Soluble Epoxide Hydrolase Modulators Derived from Zafirlukast
+  - **Authors:** Schierle, Simone; et al
+  - **Citation:** ChemMedChem (2020), 15(1), 50-67.
+  - **DOI:** [https://doi.org/10.1002/cmdc.201900576](https://doi.org/10.1002/cmdc.201900576)
 
 **Original Text:**
 ```
@@ -4541,10 +4541,10 @@ ACS Medicinal Chemistry Letters (2020), 11(3), 371-378.
   - Products: `Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of SK-575 as a Highly Potent and Efficacious Proteolysis-Targeting Chimera Degrader of PARP1 for Treating Cancers
+  - **Authors:** Cao, Chaoguo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00821](https://doi.org/10.1021/acs.jmedchem.0c00821)
 
 **Original Text:**
 ```
@@ -4581,10 +4581,10 @@ Journal of Medicinal Chemistry (2021), 64(14), 10167-10184.
   - Products: `COc1cc2c(cc1OCCCOc1cc3c(cc1OC)C(=O)N1C=C(c4ccc(N5CCN(C)CC5)cc4)C[C@H]1C=N3)N=C[C@@H]1CC(c3ccc(NC(=O)[C@@H](C)NC(=O)[C@@H](NC(=O)CCCCCN4C(=O)C=CC4=O)C(C)C)cc3)=CN1C2=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Early Development, Scale-Up, and Reverse-Phase Purification of a Highly Potent Pyrrolobenzodiazepine Dimer, SG3259, for Use in Antibody-Drug Conjugates
+  - **Authors:** Holte, Dane; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(4), 799-809.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.0c00497](https://doi.org/10.1021/acs.oprd.0c00497)
 
 **Original Text:**
 ```
@@ -4621,10 +4621,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
   - Products: `COC(=O)c1cc(Br)cc(NC(=O)c2ccc(C)cc2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and evaluation of 3-amide-5-aryl benzoic acid derivatives as novel P2Y14R antagonists with potential high efficiency against acute gouty arthritis
+  - **Authors:** Lu, Ran; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 216, 113313.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113313](https://doi.org/10.1016/j.ejmech.2021.113313)
 
 **Original Text:**
 ```
@@ -4665,10 +4665,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `CC(C)(C)OC(=O)NC1=N[C@](C)(c2cccc(NC(=O)c3ccc(Br)cn3)c2)CO[C@@]1(C)C(F)(F)F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis of the Potent, Selective and Efficacious β-Secretase (BACE1) Inhibitor NB-360
+  - **Authors:** Rueeger, Heinrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02143](https://doi.org/10.1021/acs.jmedchem.0c02143)
 
 **Original Text:**
 ```
@@ -4709,10 +4709,10 @@ European Journal of Medicinal Chemistry (2020), 207, 112715.
   - Products: `CC(C)(C)OC(=O)NC1=N[C@](C)(c2cc(NC(=O)c3ccc(Br)cn3)ccc2F)CO[C@@]1(C)C(F)(F)F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis of the Potent, Selective and Efficacious β-Secretase (BACE1) Inhibitor NB-360
+  - **Authors:** Rueeger, Heinrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02143](https://doi.org/10.1021/acs.jmedchem.0c02143)
 
 **Original Text:**
 ```
@@ -4751,10 +4751,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
   - Products: `CCOC(CNC(=O)c1cccc(OC)c1OC)OCC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** The total synthesis of berberine and selected analogues, and their evaluation as amyloid beta aggregation inhibitors
+  - **Authors:** Tajiri, Misato; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 215, 113289.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113289](https://doi.org/10.1016/j.ejmech.2021.113289)
 
 **Original Text:**
 ```
@@ -4793,10 +4793,10 @@ Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
   - Products: `Cc1cc(C#N)cnc1C(=O)Nc1ccc(F)c([C@]2(C)CO[C@@](C)(C(F)(F)F)C(NC(=O)OC(C)(C)C)=N2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis of the Potent, Selective and Efficacious β-Secretase (BACE1) Inhibitor NB-360
+  - **Authors:** Rueeger, Heinrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02143](https://doi.org/10.1021/acs.jmedchem.0c02143)
 
 **Original Text:**
 ```
@@ -4835,10 +4835,10 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - Products: `Cc1nc(-c2ccc(I)cc2)sc1-c1cc(C(=O)NC2CCCCC2)n[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and bioactivity evaluation of novel pyrazole linked phenylthiazole derivatives in context of antibacterial activity
+  - **Authors:** Patel, Bhautikkumar; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 39, 127853.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.127853](https://doi.org/10.1016/j.bmcl.2021.127853)
 
 **Original Text:**
 ```
@@ -4876,10 +4876,10 @@ Organic Process Research & Development (2020), 24(6), 1024-1031.
   - Products: `Cc1nc(-c2ccc(I)cc2)sc1-c1cc(C(=O)Nc2ccccc2)n[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and bioactivity evaluation of novel pyrazole linked phenylthiazole derivatives in context of antibacterial activity
+  - **Authors:** Patel, Bhautikkumar; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 39, 127853.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.127853](https://doi.org/10.1016/j.bmcl.2021.127853)
 
 **Original Text:**
 ```
@@ -4920,10 +4920,10 @@ ChemMedChem (2020), 15(1), 50-67.
   - Products: `C[C@H]1C[C@H]2CSC(NC(=O)c3ccccc3)=N[C@@]2(c2nc(NC(=O)c3ccc(OC(F)F)cn3)cs2)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Process Development of a Second Generation β-Amyloid-Cleaving Enzyme Inhibitor-Improving the Robustness of a Halogen-Metal Exchange Using Continuous Stirred-Tank Reactors
+  - **Authors:** Li, Bryan; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(6), 1440-1453.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00126](https://doi.org/10.1021/acs.oprd.1c00126)
 
 **Original Text:**
 ```
@@ -4967,10 +4967,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `O=C(Nc1cccc(Br)c1)c1ccc(C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of 1H-indazole derivatives as novel ASK1 inhibitors
+  - **Authors:** Hou, Shaohua; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 220, 113482.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113482](https://doi.org/10.1016/j.ejmech.2021.113482)
 
 **Original Text:**
 ```
@@ -5014,10 +5014,10 @@ ChemMedChem (2023), 18(15), e202300160.
   - Products: `CCOC(=O)c1csc([C@@H](NC(=O)[C@@H](CCCCNC(=O)OCC2c3ccccc3-c3ccccc32)NC(=O)OC(C)(C)C)C(C)C)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Automated design of macrocycles for therapeutic applications: From small molecules to peptides and proteins
+  - **Authors:** Sindhikara, Dan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01500](https://doi.org/10.1021/acs.jmedchem.0c01500)
 
 **Original Text:**
 ```
@@ -5056,10 +5056,10 @@ Journal of Medicinal Chemistry (2023), 66(15), 10639-10657.
   - Products: `CC(C)[C@@H]1NC(=O)[C@H](NC(=O)OC(C)(C)C)CCCCNC(=O)c2csc1n2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Automated design of macrocycles for therapeutic applications: From small molecules to peptides and proteins
+  - **Authors:** Sindhikara, Dan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01500](https://doi.org/10.1021/acs.jmedchem.0c01500)
 
 **Original Text:**
 ```
@@ -5096,10 +5096,10 @@ European Journal of Medicinal Chemistry (2024), 265, 116038.
   - Products: `CC1(C)[C@H]2CC[C@]1(C)[C@H](OC(=O)CCC(=O)NCc1csc(-c3ccc(Cl)cc3)n1)C2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, fungicidal activities and structure-activity relationship studies of (-)-borneol derivatives containing 2-aryl-thiazole scaffold
+  - **Authors:** Huang, Danling; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128006](https://doi.org/10.1016/j.bmcl.2021.128006)
 
 **Original Text:**
 ```
@@ -5136,10 +5136,10 @@ Journal of Medicinal Chemistry (2020), 63(13), 6941-6958.
   - Products: `Cc1ccc(-c2nc(CNC(=O)CCC(=O)O[C@@H]3C[C@@H]4CC[C@@]3(C)C4(C)C)cs2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, fungicidal activities and structure-activity relationship studies of (-)-borneol derivatives containing 2-aryl-thiazole scaffold
+  - **Authors:** Huang, Danling; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128006](https://doi.org/10.1016/j.bmcl.2021.128006)
 
 **Original Text:**
 ```
@@ -5178,10 +5178,10 @@ European Journal of Medicinal Chemistry (2024), 271, 116400.
   - Products: `CC1(C)[C@H]2CC[C@]1(C)[C@H](OC(=O)CCC(=O)NCc1csc(-c3ccc(F)cc3)n1)C2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, fungicidal activities and structure-activity relationship studies of (-)-borneol derivatives containing 2-aryl-thiazole scaffold
+  - **Authors:** Huang, Danling; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128006](https://doi.org/10.1016/j.bmcl.2021.128006)
 
 **Original Text:**
 ```
@@ -5220,10 +5220,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
   - Products: `CC1(C)[C@H]2CC[C@]1(C)[C@H](OC(=O)CCC(=O)NCc1csc(-c3ccccc3)n1)C2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, fungicidal activities and structure-activity relationship studies of (-)-borneol derivatives containing 2-aryl-thiazole scaffold
+  - **Authors:** Huang, Danling; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128006](https://doi.org/10.1016/j.bmcl.2021.128006)
 
 **Original Text:**
 ```
@@ -5264,10 +5264,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
   - Products: `CC(=O)NCCC(C(=O)NCc1ccc(C)cc1)N(C)CCC=C1c2ccccc2CCc2ccccc21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of tricyclic N-benzyl-4-hydroxybutanamide derivatives as inhibitors of GABA transporters mGAT1-4 with anticonvulsant, antinociceptive, and antidepressant activity
+  - **Authors:** Zareba, Paula; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 221, 113512.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113512](https://doi.org/10.1016/j.ejmech.2021.113512)
 
 **Original Text:**
 ```
@@ -5314,10 +5314,10 @@ ChemMedChem (2021), 16(6), 942-948.
   - Products: `CC(=O)NCCC(C(=O)NCc1ccc(Cl)cc1)N(C)CCC=C1c2ccccc2CCc2ccccc21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of tricyclic N-benzyl-4-hydroxybutanamide derivatives as inhibitors of GABA transporters mGAT1-4 with anticonvulsant, antinociceptive, and antidepressant activity
+  - **Authors:** Zareba, Paula; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 221, 113512.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113512](https://doi.org/10.1016/j.ejmech.2021.113512)
 
 **Original Text:**
 ```
@@ -5359,10 +5359,10 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
   - Products: `CC(=O)NCCC(C(=O)NCc1ccccc1)N(C)CCC=C1c2ccccc2CCc2ccccc21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of tricyclic N-benzyl-4-hydroxybutanamide derivatives as inhibitors of GABA transporters mGAT1-4 with anticonvulsant, antinociceptive, and antidepressant activity
+  - **Authors:** Zareba, Paula; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 221, 113512.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113512](https://doi.org/10.1016/j.ejmech.2021.113512)
 
 **Original Text:**
 ```
@@ -5404,10 +5404,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
   - Products: `CC(=O)NCCC(C(=O)NCc1ccc(F)cc1)N(C)CCC=C1c2ccccc2CCc2ccccc21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of tricyclic N-benzyl-4-hydroxybutanamide derivatives as inhibitors of GABA transporters mGAT1-4 with anticonvulsant, antinociceptive, and antidepressant activity
+  - **Authors:** Zareba, Paula; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 221, 113512.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113512](https://doi.org/10.1016/j.ejmech.2021.113512)
 
 **Original Text:**
 ```
@@ -5449,10 +5449,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 39, 127853.
   - Products: `CC(=O)NCCC(C(=O)NCc1ccccc1Cl)N(C)CCC=C1c2ccccc2CCc2ccccc21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of tricyclic N-benzyl-4-hydroxybutanamide derivatives as inhibitors of GABA transporters mGAT1-4 with anticonvulsant, antinociceptive, and antidepressant activity
+  - **Authors:** Zareba, Paula; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 221, 113512.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113512](https://doi.org/10.1016/j.ejmech.2021.113512)
 
 **Original Text:**
 ```
@@ -5490,10 +5490,10 @@ European Journal of Medicinal Chemistry (2021), 216, 113291.
   - Products: `C[C@@H](NC(=O)c1[nH]ccc(=O)c1OCc1ccccc1)C(F)(F)F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dihydrodibenzothiepine: Promising hydrophobic pharmacophore in the influenza cap-dependent endonuclease inhibitor
+  - **Authors:** Taoda, Yoshiyuki; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(22), 127547.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127547](https://doi.org/10.1016/j.bmcl.2020.127547)
 
 **Original Text:**
 ```
@@ -5530,10 +5530,10 @@ ACS Medicinal Chemistry Letters (2021), 12(4), 572-578.
   - Products: `CCOC(CNC(=O)[C@H](Cc1ccc(Cl)cc1)NC(=O)OC(C)(C)C)OCC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of OATD-01, a First-in-Class Chitinase Inhibitor as Potential New Therapeutics for Idiopathic Pulmonary Fibrosis
+  - **Authors:** Koralewski, Robert; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01179](https://doi.org/10.1021/acs.jmedchem.0c01179)
 
 **Original Text:**
 ```
@@ -5570,10 +5570,10 @@ ACS Medicinal Chemistry Letters (2021), 12(7), 1166-1172.
   - Products: `CC(C)(C)OC[C@@H](Br)C(=O)N[C@H](CO)Cc1ccc(Cl)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of OATD-01, a First-in-Class Chitinase Inhibitor as Potential New Therapeutics for Idiopathic Pulmonary Fibrosis
+  - **Authors:** Koralewski, Robert; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01179](https://doi.org/10.1021/acs.jmedchem.0c01179)
 
 **Original Text:**
 ```
@@ -5609,10 +5609,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 11460-11471.
   - Products: `Nc1cc(Br)cnc1C(=O)NCC(O)C(F)(F)F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of GLPG2451, a Novel Once Daily Potentiator for the Treatment of Cystic Fibrosis
+  - **Authors:** Van der Plas, Steven E.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(1), 343-353.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01796](https://doi.org/10.1021/acs.jmedchem.0c01796)
 
 **Original Text:**
 ```
@@ -5649,10 +5649,10 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
   - Products: `COC(=O)CNC(=O)CNC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Exploring Structural Determinants of Inhibitor Affinity and Selectivity in Complexes with Histone Deacetylase 6
+  - **Authors:** Osko, Jeremy D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(1), 295-308.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01540](https://doi.org/10.1021/acs.jmedchem.9b01540)
 
 **Original Text:**
 ```
@@ -5693,10 +5693,10 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
   - Products: `CC1(C)C(=O)N(Cc2ccccc2F)c2cc(C(=O)NCc3ccco3)ccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** The discovery of potent small molecule activators of human STING
+  - **Authors:** Pryde, David C.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 209, 112869.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112869](https://doi.org/10.1016/j.ejmech.2020.112869)
 
 **Original Text:**
 ```
@@ -5735,10 +5735,10 @@ European Journal of Medicinal Chemistry (2020), 186, 111900.
   - Products: `Cc1nccc2c1[nH]c1ccc(OCCNC(=O)/C=C/c3ccc(Cl)cc3)cc12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Further investigation of harmicines as novel antiplasmodial agents: Synthesis, structure-activity relationship and insight into the mechanism of action
+  - **Authors:** Marinovic, Marina; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 224, 113687.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113687](https://doi.org/10.1016/j.ejmech.2021.113687)
 
 **Original Text:**
 ```
@@ -5778,10 +5778,10 @@ European Journal of Medicinal Chemistry (2021), 224, 113687.
   - Products: `O=C(NCc1ccc(F)cc1)C(Br)CCN1C(=O)c2ccccc2C1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel mouse GABA uptake inhibitors with enhanced inhibitory activity toward mGAT3/4 and their effect on pain threshold in mice
+  - **Authors:** Zareba, Paula; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 188, 111920.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2019.111920](https://doi.org/10.1016/j.ejmech.2019.111920)
 
 **Original Text:**
 ```
@@ -5819,10 +5819,10 @@ European Journal of Medicinal Chemistry (2020), 188, 111920.
   - Products: `Cc1nccc2c1[nH]c1ccc(OCCNC(=O)/C=C/c3ccc(F)cc3)cc12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Further investigation of harmicines as novel antiplasmodial agents: Synthesis, structure-activity relationship and insight into the mechanism of action
+  - **Authors:** Marinovic, Marina; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 224, 113687.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113687](https://doi.org/10.1016/j.ejmech.2021.113687)
 
 **Original Text:**
 ```
@@ -5860,10 +5860,10 @@ ACS Medicinal Chemistry Letters (2021), 12(4), 647-652.
   - Products: `O=C(NCc1ccc(Cl)cc1)C(Br)CCN1C(=O)c2ccccc2C1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel mouse GABA uptake inhibitors with enhanced inhibitory activity toward mGAT3/4 and their effect on pain threshold in mice
+  - **Authors:** Zareba, Paula; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 188, 111920.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2019.111920](https://doi.org/10.1016/j.ejmech.2019.111920)
 
 **Original Text:**
 ```
@@ -5904,10 +5904,10 @@ Journal of Medicinal Chemistry (2024), 67(10), 7973-7994.
   - Products: `COC[C@]12C[C@H]1[C@@](C)(c1cc(NC(=O)c3cnc(Cl)cn3)cc(F)c1F)N=C(N)S2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of AM-6494: A Potent and Orally Efficacious β-Site Amyloid Precursor Protein Cleaving Enzyme 1 (BACE1) Inhibitor with in Vivo Selectivity over BACE2
+  - **Authors:** Pettus, Liping H.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01034](https://doi.org/10.1021/acs.jmedchem.9b01034)
 
 **Original Text:**
 ```
@@ -5951,10 +5951,10 @@ Organic Process Research & Development (2024), 28(2), 492-499.
   - Products: `CNC(=O)[C@]12C[C@H]1[C@@](C)(c1cccc(F)c1F)N=C(N(COCC[Si](C)(C)C)C(=O)OC(C)(C)C)S2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of AM-6494: A Potent and Orally Efficacious β-Site Amyloid Precursor Protein Cleaving Enzyme 1 (BACE1) Inhibitor with in Vivo Selectivity over BACE2
+  - **Authors:** Pettus, Liping H.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01034](https://doi.org/10.1021/acs.jmedchem.9b01034)
 
 **Original Text:**
 ```
@@ -5992,10 +5992,10 @@ European Journal of Medicinal Chemistry (2022), 230, 114120.
   - Products: `COC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)CCC(CCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)OC)(CCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)OC)[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Scaffold Simplification Strategy Leads to a Novel Generation of Dual Human Immunodeficiency Virus and Enterovirus-A71 Entry Inhibitors
+  - **Authors:** Martinez-Gualda, Belen; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(1), 349-368.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01737](https://doi.org/10.1021/acs.jmedchem.9b01737)
 
 **Original Text:**
 ```
@@ -6036,10 +6036,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `COC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)CCOCC(COCCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)OC)(COCCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)OC)COCCC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Scaffold Simplification Strategy Leads to a Novel Generation of Dual Human Immunodeficiency Virus and Enterovirus-A71 Entry Inhibitors
+  - **Authors:** Martinez-Gualda, Belen; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(1), 349-368.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01737](https://doi.org/10.1021/acs.jmedchem.9b01737)
 
 **Original Text:**
 ```
@@ -6078,10 +6078,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 952-970.
   - Products: `CC(C)(O)[C@H]1CC[C@H](NC(=O)c2ccc3nc(-c4cccc(F)c4)cn3c2)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A knowledge-based, structural-aided discovery of a novel class of 2-phenylimidazo[1,2-a]pyridine-6-carboxamide H-PGDS inhibitors
+  - **Authors:** Schulte, Christie A.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 47, 128113.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128113](https://doi.org/10.1016/j.bmcl.2021.128113)
 
 **Original Text:**
 ```
@@ -6122,10 +6122,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c(O)c3C(=O)N12.[Na]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Six-Step Gram-Scale Synthesis of the Human Immunodeficiency Virus Integrase Inhibitor Dolutegravir Sodium
+  - **Authors:** Dietz, Jule-Philipp; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(8), 1898-1910.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00139](https://doi.org/10.1021/acs.oprd.1c00139)
 
 **Original Text:**
 ```
@@ -6174,10 +6174,10 @@ Journal of Medicinal Chemistry (2024), 67(16), 14466-14477.
   - Products: `CC(C)(C)OC(=O)CCCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCOCCOCC(=O)NCCOCCOCC(=O)NCCCC[C@H](N)C(=O)O)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Copper(II) lysinate and pseudoproline assistance in the convergent synthesis of the GLP-1 receptor agonists Liraglutide and Semaglutide
+  - **Authors:** Guryanov, Ivan; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(7), 1598-1611.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00021](https://doi.org/10.1021/acs.oprd.1c00021)
 
 **Original Text:**
 ```
@@ -6223,10 +6223,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CC(C)(C)OC(=O)CCCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)O)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Copper(II) lysinate and pseudoproline assistance in the convergent synthesis of the GLP-1 receptor agonists Liraglutide and Semaglutide
+  - **Authors:** Guryanov, Ivan; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(7), 1598-1611.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00021](https://doi.org/10.1021/acs.oprd.1c00021)
 
 **Original Text:**
 ```
@@ -6264,10 +6264,10 @@ Journal of Medicinal Chemistry (2024), 67(21), 19342-19364.
   - Products: `Cc1c(Br)cccc1NC(=O)Cc1cc(Cl)ccn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Driving Potency with Rotationally Stable Atropisomers: Discovery of Pyridopyrimidinedione-Carbazole Inhibitors of BTK
+  - **Authors:** Srivastava, Anurag S.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(11), 2195-2203.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.0c00335](https://doi.org/10.1021/acsmedchemlett.0c00335)
 
 **Original Text:**
 ```
@@ -6310,10 +6310,10 @@ Journal of Medicinal Chemistry (2023), 66(19), 13516-13529.
   - Products: `CC(C)[C@H]1CC[C@@H](N2CCC(n3cc(CNC(=O)CCCCCNC(=O)OCc4ccccc4)c4ccccc43)CC2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Structure-Activity Relationships of Nociceptin Receptor Partial Agonists That Afford Symptom Ablation in Parkinson’s Disease Models
+  - **Authors:** Kamakolanu, Uma Gayathri; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(5), 2688-2704.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b02134](https://doi.org/10.1021/acs.jmedchem.9b02134)
 
 **Original Text:**
 ```
@@ -6355,10 +6355,10 @@ Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
   - Products: `CCCCCCOc1ccc(C(=O)N[C@H](C(=O)OC)C(C)C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A Novel N-Substituted Valine Derivative with Unique Peroxisome Proliferator-Activated Receptor γ Binding Properties and Biological Activities
+  - **Authors:** Peiretti, Franck; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(21), 13124-13139.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01555](https://doi.org/10.1021/acs.jmedchem.0c01555)
 
 **Original Text:**
 ```
@@ -6396,10 +6396,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
   - Products: `COC(=O)[C@H](CCNC(=O)OC(C)(C)C)NC(=O)c1ccc(-c2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Fragment-Based Discovery of Novel Non-Hydroxamate LpxC Inhibitors with Antibacterial Activity
+  - **Authors:** Yamada, Yousuke; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01215](https://doi.org/10.1021/acs.jmedchem.0c01215)
 
 **Original Text:**
 ```
@@ -6439,10 +6439,10 @@ Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
   - Products: `CSCC[C@@H](NC(=O)OC(C)(C)C)C(=O)Nc1cccc(OC(F)(F)F)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Fragment-Based Discovery of Novel Non-Hydroxamate LpxC Inhibitors with Antibacterial Activity
+  - **Authors:** Yamada, Yousuke; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01215](https://doi.org/10.1021/acs.jmedchem.0c01215)
 
 **Original Text:**
 ```
@@ -6482,10 +6482,10 @@ Journal of Medicinal Chemistry (2022), 65(22), 15312-15326.
   - Products: `CC(C)(C)OC(=O)NC[C@@H](NC(=O)OCc1ccccc1)C(=O)Nc1cccc(OC(F)(F)F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fragment-Based Discovery of Novel Non-Hydroxamate LpxC Inhibitors with Antibacterial Activity
+  - **Authors:** Yamada, Yousuke; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01215](https://doi.org/10.1021/acs.jmedchem.0c01215)
 
 **Original Text:**
 ```
@@ -6522,10 +6522,10 @@ Journal of Medicinal Chemistry (2021), 64(7), 3794-3812.
   - Products: `CC(C)(C)OC(=O)N[C@H](CC(=O)OCc1ccccc1)C(=O)Nc1cccc(OC(F)(F)F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fragment-Based Discovery of Novel Non-Hydroxamate LpxC Inhibitors with Antibacterial Activity
+  - **Authors:** Yamada, Yousuke; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01215](https://doi.org/10.1021/acs.jmedchem.0c01215)
 
 **Original Text:**
 ```
@@ -6566,10 +6566,10 @@ Organic Process Research & Development (2023), 27(12), 2355-2364.
   - Products: `COC(=O)c1cc(F)ccc1OCCNC(=O)CN(C)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a potent dual inhibitor of wild-type and mutant respiratory syncytial virus fusion proteins through the modulation of atropisomer interconversion properties
+  - **Authors:** Yamaguchi-Sasaki, Toru; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2020), 28(24), 115818.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115818](https://doi.org/10.1016/j.bmc.2020.115818)
 
 **Original Text:**
 ```
@@ -6609,10 +6609,10 @@ ACS Medicinal Chemistry Letters (2023), 14(7), 943-948.
   - Products: `O=C(CCC(=O)c1ccc(F)cc1)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Benzenesulfonamide Derivatives as Calcium/Calmodulin-Dependent Protein Kinase Inhibitors and Antiviral Agents against Dengue and Zika Virus Infections
+  - **Authors:** Chen, Wei-Chia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(3), 1313-1327.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01779](https://doi.org/10.1021/acs.jmedchem.9b01779)
 
 **Original Text:**
 ```
@@ -6649,10 +6649,10 @@ Organic Process Research & Development (2024), 28(8), 3143-3151.
   - Products: `COC(=O)[C@H]1CN(C(=O)OC(C)(C)C)CC[C@@H]1NC(=O)c1cc(-c2ccc(F)cc2F)on1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of the Potent, Selective, Orally Available CXCR7 Antagonist ACT-1004-1239
+  - **Authors:** Richard-Bildstein, Sylvia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01588](https://doi.org/10.1021/acs.jmedchem.0c01588)
 
 **Original Text:**
 ```
@@ -6689,10 +6689,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `CC(C)(C)OC(=O)N1CC[C@H](NC(=O)c2cc(-c3ccc(F)cc3F)on2)[C@@H](C(=O)NC2(c3ncccn3)CC2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of the Potent, Selective, Orally Available CXCR7 Antagonist ACT-1004-1239
+  - **Authors:** Richard-Bildstein, Sylvia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01588](https://doi.org/10.1021/acs.jmedchem.0c01588)
 
 **Original Text:**
 ```
@@ -6734,10 +6734,10 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - Products: `CCOC(=O)C[C@@H](Cc1ccc(Br)cc1)NC(=O)CCC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-Guided Design of Substituted Biphenyl Butanoic Acid Derivatives as Neprilysin Inhibitors
+  - **Authors:** Kawanami, Toshio; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(2), 188-194.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.9b00578](https://doi.org/10.1021/acsmedchemlett.9b00578)
 
 **Original Text:**
 ```
@@ -6783,10 +6783,10 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
   - Products: `CC(C)C[C@H](NC(=O)[C@H](Cc1ccc(OC(C)(C)C)cc1)NC(=O)[C@H](COC(C)(C)C)NC(=O)[C@H](COC(C)(C)C)NC(=O)[C@@H](NC(=O)[C@H](CC(=O)OC(C)(C)C)NC(=O)OCC1c2ccccc2-c2ccccc21)C(C)C)C(=O)N[C@@H](CCC(=O)OC(C)(C)C)C(=O)NCC(=O)O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Copper(II) lysinate and pseudoproline assistance in the convergent synthesis of the GLP-1 receptor agonists Liraglutide and Semaglutide
+  - **Authors:** Guryanov, Ivan; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(7), 1598-1611.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00021](https://doi.org/10.1021/acs.oprd.1c00021)
 
 **Original Text:**
 ```
@@ -6853,10 +6853,10 @@ Journal of Medicinal Chemistry (2022), 65(5), 4291-4317.
   - Products: `CC(C)(C)OC(=O)CCCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCOCCOCC(=O)NCCOCCOCC(=O)O)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Copper(II) lysinate and pseudoproline assistance in the convergent synthesis of the GLP-1 receptor agonists Liraglutide and Semaglutide
+  - **Authors:** Guryanov, Ivan; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(7), 1598-1611.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00021](https://doi.org/10.1021/acs.oprd.1c00021)
 
 **Original Text:**
 ```
@@ -6906,10 +6906,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
   - Products: `C=C(C)[C@@H]1CC[C@]2(C(=O)NCCN)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](OC(C)=O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Cytotoxic triterpenoid-safirinium conjugates target the endoplasmic reticulum
+  - **Authors:** Kraft, Oliver; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 209, 112920.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112920](https://doi.org/10.1016/j.ejmech.2020.112920)
 
 **Original Text:**
 ```
@@ -6952,10 +6952,10 @@ Organic Process Research & Development (2023), 27(12), 2223-2239.
   - Products: `CCCCCCCCCCCCCCCC(=O)N[C@@H](CCC(=O)O)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Copper(II) lysinate and pseudoproline assistance in the convergent synthesis of the GLP-1 receptor agonists Liraglutide and Semaglutide
+  - **Authors:** Guryanov, Ivan; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(7), 1598-1611.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00021](https://doi.org/10.1021/acs.oprd.1c00021)
 
 **Original Text:**
 ```
@@ -6997,10 +6997,10 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
   - Products: `COC(=O)c1ccccc1CSC[C@@H](NC(=O)CNC(=O)OC(C)(C)C)C(=O)N(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Mining Natural Products for Macrocycles to Drug Difficult Targets
+  - **Authors:** Begnini, Fabio; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(2), 1054-1072.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01569](https://doi.org/10.1021/acs.jmedchem.0c01569)
 
 **Original Text:**
 ```
@@ -7038,10 +7038,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `CNC(=O)c1cc(C(=O)N[C@H]2[C@@H]3COC[C@@H]32)cc2c1O[C@H](CF)[C@H]2c1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** GSK973 Is an Inhibitor of the Second Bromodomains (BD2s) of the Bromodomain and Extra-Terminal (BET) Family
+  - **Authors:** Preston, Alex; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(8), 1581-1587.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.0c00247](https://doi.org/10.1021/acsmedchemlett.0c00247)
 
 **Original Text:**
 ```
@@ -7084,10 +7084,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
   - Products: `COC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and Biological Evaluation of CF3Se-Substituted α-Amino Acid Derivatives
+  - **Authors:** Han, Zhou-Zhou; et al
+  - **Citation:** ChemMedChem (2021), 16(20), 3177-3180.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202100451](https://doi.org/10.1002/cmdc.202100451)
 
 **Original Text:**
 ```
@@ -7126,10 +7126,10 @@ ChemMedChem (2021), 16(15), 2366-2374.
   - Products: `CC(C)(C)OC(=O)N1CCc2cccc(C(=O)Nc3nc4ccccc4s3)c2C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of A-1331852, a First-in-Class, Potent, and Orally-Bioavailable BCL-XL Inhibitor
+  - **Authors:** Wang, Le; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(10), 1829-1836.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.9b00568](https://doi.org/10.1021/acsmedchemlett.9b00568)
 
 **Original Text:**
 ```
@@ -7173,10 +7173,10 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
   - Products: `Cc1cc[nH]c1C(=O)NCCCl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of 8-Methyl-pyrrolo[1,2-a]pyrazin-1(2H)-one Derivatives as Highly Potent and Selective Bromodomain and Extra-Terminal (BET) Bromodomain Inhibitors
+  - **Authors:** Li, Zizhou; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(8), 3956-3975.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01784](https://doi.org/10.1021/acs.jmedchem.9b01784)
 
 **Original Text:**
 ```
@@ -7219,10 +7219,10 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
   - Products: `Cn1cc(Br)c2cc(C(=O)NC(C)(C)C)[nH]c2c1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of N-Ethyl-4-[2-(4-fluoro-2,6-dimethyl-phenoxy)-5-(1-hydroxy-1-methyl-ethyl)phenyl]-6-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridine-2-carboxamide (ABBV-744), a BET Bromodomain Inhibitor with Selectivity for the Second Bromodomain
+  - **Authors:** Sheppard, George S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00628](https://doi.org/10.1021/acs.jmedchem.0c00628)
 
 **Original Text:**
 ```
@@ -7268,10 +7268,10 @@ European Journal of Medicinal Chemistry (2023), 247, 115030.
   - Products: `CNC(=O)c1cc2c(Br)cn(C)c(=O)c2[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of N-Ethyl-4-[2-(4-fluoro-2,6-dimethyl-phenoxy)-5-(1-hydroxy-1-methyl-ethyl)phenyl]-6-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridine-2-carboxamide (ABBV-744), a BET Bromodomain Inhibitor with Selectivity for the Second Bromodomain
+  - **Authors:** Sheppard, George S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00628](https://doi.org/10.1021/acs.jmedchem.0c00628)
 
 **Original Text:**
 ```
@@ -7310,10 +7310,10 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
   - Products: `Cn1cc(Br)c2cc(C(=O)NC3CC3)[nH]c2c1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of N-Ethyl-4-[2-(4-fluoro-2,6-dimethyl-phenoxy)-5-(1-hydroxy-1-methyl-ethyl)phenyl]-6-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridine-2-carboxamide (ABBV-744), a BET Bromodomain Inhibitor with Selectivity for the Second Bromodomain
+  - **Authors:** Sheppard, George S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00628](https://doi.org/10.1021/acs.jmedchem.0c00628)
 
 **Original Text:**
 ```
@@ -7361,10 +7361,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CCNC(=O)c1cc2c(-c3cc(S(=O)(=O)CC)ccc3F)cn(C)c(=O)c2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of N-Ethyl-4-[2-(4-fluoro-2,6-dimethyl-phenoxy)-5-(1-hydroxy-1-methyl-ethyl)phenyl]-6-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridine-2-carboxamide (ABBV-744), a BET Bromodomain Inhibitor with Selectivity for the Second Bromodomain
+  - **Authors:** Sheppard, George S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00628](https://doi.org/10.1021/acs.jmedchem.0c00628)
 
 **Original Text:**
 ```
@@ -7404,10 +7404,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
   - Products: `CCNC(=O)c1ccc(Oc2c(C)cccc2C)c(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of N-Ethyl-4-[2-(4-fluoro-2,6-dimethyl-phenoxy)-5-(1-hydroxy-1-methyl-ethyl)phenyl]-6-methyl-7-oxo-1H-pyrrolo[2,3-c]pyridine-2-carboxamide (ABBV-744), a BET Bromodomain Inhibitor with Selectivity for the Second Bromodomain
+  - **Authors:** Sheppard, George S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00628](https://doi.org/10.1021/acs.jmedchem.0c00628)
 
 **Original Text:**
 ```
@@ -7449,10 +7449,10 @@ ChemMedChem (2023), 18(15), e202300160.
   - Products: `C#CCNC(=O)c1cc(Br)c(Br)o1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** From Synthetic Simplified Marine Metabolite Analogues to New Selective Allosteric Inhibitor of Aurora B Kinase
+  - **Authors:** Juillet, Charlotte; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02064](https://doi.org/10.1021/acs.jmedchem.0c02064)
 
 **Original Text:**
 ```
@@ -7491,10 +7491,10 @@ Journal of Medicinal Chemistry (2022), 65(19), 13094-13111.
   - Products: `C#CCNC(=O)c1cc(Br)c(Br)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** From Synthetic Simplified Marine Metabolite Analogues to New Selective Allosteric Inhibitor of Aurora B Kinase
+  - **Authors:** Juillet, Charlotte; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02064](https://doi.org/10.1021/acs.jmedchem.0c02064)
 
 **Original Text:**
 ```
@@ -7532,10 +7532,10 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
   - Products: `CCNC(=O)c1cc(Br)ccc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Piperazinyl Bicyclic Derivatives as Selective Ligands of the α2δ-1 Subunit of Voltage-Gated Calcium Channels
+  - **Authors:** Fernandez, Ariadna; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00416](https://doi.org/10.1021/acsmedchemlett.1c00416)
 
 **Original Text:**
 ```
@@ -7573,10 +7573,10 @@ Bioorganic & Medicinal Chemistry (2023), 80, 117172.
   - Products: `CCC[C@H](O)C(=O)Nc1ccc(Br)cc1C(=O)NCC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Piperazinyl Bicyclic Derivatives as Selective Ligands of the α2δ-1 Subunit of Voltage-Gated Calcium Channels
+  - **Authors:** Fernandez, Ariadna; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00416](https://doi.org/10.1021/acsmedchemlett.1c00416)
 
 **Original Text:**
 ```
@@ -7613,10 +7613,10 @@ ACS Medicinal Chemistry Letters (2020), 11(8), 1548-1554.
   - Products: `O=C(NCCC(c1ccccc1)c1ccc(OC(F)(F)F)cc1)c1cccc(I)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Structure-Activity Relationship Studies of Dual Inhibitors of Soluble Epoxide Hydrolase and 5-Lipoxygenase
+  - **Authors:** Hiesinger, Kerstin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00561](https://doi.org/10.1021/acs.jmedchem.0c00561)
 
 **Original Text:**
 ```
@@ -7653,10 +7653,10 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
   - Products: `O=C(NCCC(c1ccccc1)c1ccc(Cl)c(Cl)c1)c1cccc(I)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Structure-Activity Relationship Studies of Dual Inhibitors of Soluble Epoxide Hydrolase and 5-Lipoxygenase
+  - **Authors:** Hiesinger, Kerstin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00561](https://doi.org/10.1021/acs.jmedchem.0c00561)
 
 **Original Text:**
 ```
@@ -7697,10 +7697,10 @@ Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
   - Products: `NS(=O)(=O)c1ccc(C(CCNC(=O)c2cccc(I)c2)c2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Structure-Activity Relationship Studies of Dual Inhibitors of Soluble Epoxide Hydrolase and 5-Lipoxygenase
+  - **Authors:** Hiesinger, Kerstin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00561](https://doi.org/10.1021/acs.jmedchem.0c00561)
 
 **Original Text:**
 ```
@@ -7740,10 +7740,10 @@ Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
   - Products: `O=C(NCCC(c1ccc(F)cc1)c1ccc(OC(F)(F)F)cc1)c1cccc(I)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Structure-Activity Relationship Studies of Dual Inhibitors of Soluble Epoxide Hydrolase and 5-Lipoxygenase
+  - **Authors:** Hiesinger, Kerstin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00561](https://doi.org/10.1021/acs.jmedchem.0c00561)
 
 **Original Text:**
 ```
@@ -7781,10 +7781,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - Products: `O=C(NCCC(c1ccc(F)cc1)c1ccc(F)cc1)c1cccc(I)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Structure-Activity Relationship Studies of Dual Inhibitors of Soluble Epoxide Hydrolase and 5-Lipoxygenase
+  - **Authors:** Hiesinger, Kerstin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00561](https://doi.org/10.1021/acs.jmedchem.0c00561)
 
 **Original Text:**
 ```
@@ -7824,10 +7824,10 @@ European Journal of Medicinal Chemistry (2021), 216, 113333.
   - Products: `COC(=O)[C@H]1CN(S(=O)(=O)c2ccccc2)CC[C@@H]1NC(=O)c1cc2cc(C)ccc2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification and Optimization of Pyrrolidine Derivatives as Highly Potent Ghrelin Receptor Full Agonists
+  - **Authors:** Cooper, Martin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00828](https://doi.org/10.1021/acs.jmedchem.0c00828)
 
 **Original Text:**
 ```
@@ -7865,10 +7865,10 @@ Journal of Medicinal Chemistry (2022), 65(17), 11574-11606.
   - Products: `O=C(NCCN(c1ccccc1)c1ccccc1)c1cccc(I)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Structure-Activity Relationship Studies of Dual Inhibitors of Soluble Epoxide Hydrolase and 5-Lipoxygenase
+  - **Authors:** Hiesinger, Kerstin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00561](https://doi.org/10.1021/acs.jmedchem.0c00561)
 
 **Original Text:**
 ```
@@ -7906,10 +7906,10 @@ European Journal of Medicinal Chemistry (2024), 268, 116236.
   - Products: `CCOC(=O)[C@H]1CN(C(=O)OC(C)(C)C)CC[C@@H]1NC(=O)c1cc2cc(C)ccc2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification and Optimization of Pyrrolidine Derivatives as Highly Potent Ghrelin Receptor Full Agonists
+  - **Authors:** Cooper, Martin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00828](https://doi.org/10.1021/acs.jmedchem.0c00828)
 
 **Original Text:**
 ```
@@ -7949,10 +7949,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `COC(=O)[C@H]1CN(C(=O)OC(C)(C)C)C[C@@H]1NC(=O)c1cc2cc(C)ccc2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification and Optimization of Pyrrolidine Derivatives as Highly Potent Ghrelin Receptor Full Agonists
+  - **Authors:** Cooper, Martin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00828](https://doi.org/10.1021/acs.jmedchem.0c00828)
 
 **Original Text:**
 ```
@@ -7997,10 +7997,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
   - Products: `COC(=O)c1ccccc1NC(=O)c1cccc(-c2ccc(Cl)cc2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Optimization of Novel SUCNR1 Inhibitors: Design of Zwitterionic Derivatives with a Salt Bridge for the Improvement of Oral Exposure
+  - **Authors:** Velcicky, Juraj; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(17), 9856-9875.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01020](https://doi.org/10.1021/acs.jmedchem.0c01020)
 
 **Original Text:**
 ```
@@ -8042,10 +8042,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - Products: `O=C1CCC(N2Cc3cc(CNC(=O)C(F)(F)c4ccc(Cl)cc4)ccc3C2=O)C(=O)N1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** CC-90009: A Cereblon E3 Ligase Modulating Drug That Promotes Selective Degradation of GSPT1 for the Treatment of Acute Myeloid Leukemia
+  - **Authors:** Hansen, Joshua D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(4), 1835-1843.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01489](https://doi.org/10.1021/acs.jmedchem.0c01489)
 
 **Original Text:**
 ```
@@ -8082,10 +8082,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)c1ccoc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of New Potent Positive Allosteric Modulators of Dopamine D2 Receptors: Insights into the Bioisosteric Replacement of Proline to 3-Furoic Acid in the Melanostatin Neuropeptide
+  - **Authors:** Sampaio-Dias, Ivo E.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00252](https://doi.org/10.1021/acs.jmedchem.1c00252)
 
 **Original Text:**
 ```
@@ -8126,10 +8126,10 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
   - Products: `CC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC=C4[C@@H]5[C@@H](C)[C@H](C)CC[C@]5(C(=O)NCCBr)CC[C@@]4(C)[C@]3(C)CC[C@H]2C1(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and radiosensitization research of ursolic acid derivatives as SENP1 inhibitors
+  - **Authors:** Wei, Huiqiang; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 227, 113918.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113918](https://doi.org/10.1016/j.ejmech.2021.113918)
 
 **Original Text:**
 ```
@@ -8167,10 +8167,10 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
   - Products: `COC(=O)CCCCNC(=O)c1ccc(C(C)=O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** HDAC-Bax Multiple Ligands Enhance Bax-Dependent Apoptosis in HeLa Cells
+  - **Authors:** Liang, Tao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01454](https://doi.org/10.1021/acs.jmedchem.0c01454)
 
 **Original Text:**
 ```
@@ -8207,10 +8207,10 @@ Journal of Medicinal Chemistry (2020), 63(6), 2814-2832.
   - Products: `COC(=O)CCCCCCNC(=O)c1ccc(C(C)=O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** HDAC-Bax Multiple Ligands Enhance Bax-Dependent Apoptosis in HeLa Cells
+  - **Authors:** Liang, Tao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01454](https://doi.org/10.1021/acs.jmedchem.0c01454)
 
 **Original Text:**
 ```
@@ -8252,10 +8252,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
   - Products: `COC(=O)c1ccc(CNC(=O)c2ccc(C(C)=O)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** HDAC-Bax Multiple Ligands Enhance Bax-Dependent Apoptosis in HeLa Cells
+  - **Authors:** Liang, Tao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01454](https://doi.org/10.1021/acs.jmedchem.0c01454)
 
 **Original Text:**
 ```
@@ -8292,10 +8292,10 @@ ACS Medicinal Chemistry Letters (2023), 14(4), 417-424.
   - Products: `Cc1cc(F)c(C(=O)NCCCC(C)(C)C)cc1Br`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Targeting KRAS Mutant Cancers via Combination Treatment: Discovery of a Pyridopyridazinone pan-RAF Kinase Inhibitor
+  - **Authors:** Huestis, Malcolm P.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00063](https://doi.org/10.1021/acsmedchemlett.1c00063)
 
 **Original Text:**
 ```
@@ -8333,10 +8333,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `Cc1cc(F)c(NC(=O)c2cccc(C(C)(C)C#N)c2)cc1Br`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Targeting KRAS Mutant Cancers via Combination Treatment: Discovery of a Pyridopyridazinone pan-RAF Kinase Inhibitor
+  - **Authors:** Huestis, Malcolm P.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00063](https://doi.org/10.1021/acsmedchemlett.1c00063)
 
 **Original Text:**
 ```
@@ -8376,10 +8376,10 @@ ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
   - Products: `COC(=O)[C@@H](NC(=O)c1ccoc1)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of New Potent Positive Allosteric Modulators of Dopamine D2 Receptors: Insights into the Bioisosteric Replacement of Proline to 3-Furoic Acid in the Melanostatin Neuropeptide
+  - **Authors:** Sampaio-Dias, Ivo E.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00252](https://doi.org/10.1021/acs.jmedchem.1c00252)
 
 **Original Text:**
 ```
@@ -8420,10 +8420,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
   - Products: `COC(=O)[C@H](C)NC(=O)[C@@H](NC(=O)c1ccoc1)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of New Potent Positive Allosteric Modulators of Dopamine D2 Receptors: Insights into the Bioisosteric Replacement of Proline to 3-Furoic Acid in the Melanostatin Neuropeptide
+  - **Authors:** Sampaio-Dias, Ivo E.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00252](https://doi.org/10.1021/acs.jmedchem.1c00252)
 
 **Original Text:**
 ```
@@ -8463,10 +8463,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `COC(=O)CNC(=O)[C@@H](NC(=O)c1ccoc1)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of New Potent Positive Allosteric Modulators of Dopamine D2 Receptors: Insights into the Bioisosteric Replacement of Proline to 3-Furoic Acid in the Melanostatin Neuropeptide
+  - **Authors:** Sampaio-Dias, Ivo E.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00252](https://doi.org/10.1021/acs.jmedchem.1c00252)
 
 **Original Text:**
 ```
@@ -8509,10 +8509,10 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
   - Products: `Cn1cccc1C(=O)Nc1ccc(F)c(F)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and structure activity relationship of glyoxamide derivatives as anti-hepatitis B virus agents
+  - **Authors:** Amblard, Franck; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 31, 115952.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115952](https://doi.org/10.1016/j.bmc.2020.115952)
 
 **Original Text:**
 ```
@@ -8553,10 +8553,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(20), 115698.
   - Products: `C#CCNC(=O)C(=O)c1cc(C(=O)Nc2ccc(F)c(F)c2)n(C)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and structure activity relationship of glyoxamide derivatives as anti-hepatitis B virus agents
+  - **Authors:** Amblard, Franck; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 31, 115952.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115952](https://doi.org/10.1016/j.bmc.2020.115952)
 
 **Original Text:**
 ```
@@ -8597,10 +8597,10 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
   - Products: `C=CCNC(=O)C(=O)c1cc(C(=O)Nc2ccc(F)c(F)c2)n(C)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and structure activity relationship of glyoxamide derivatives as anti-hepatitis B virus agents
+  - **Authors:** Amblard, Franck; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 31, 115952.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115952](https://doi.org/10.1016/j.bmc.2020.115952)
 
 **Original Text:**
 ```
@@ -8641,10 +8641,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
   - Products: `Cn1cc(C(=O)C(=O)NCc2ccccc2)cc1C(=O)Nc1ccc(F)c(F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and structure activity relationship of glyoxamide derivatives as anti-hepatitis B virus agents
+  - **Authors:** Amblard, Franck; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 31, 115952.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115952](https://doi.org/10.1016/j.bmc.2020.115952)
 
 **Original Text:**
 ```
@@ -8693,10 +8693,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `C#CCNC(=O)C(=O)c1c(C)c(C(=O)O)n(C)c1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and structure activity relationship of glyoxamide derivatives as anti-hepatitis B virus agents
+  - **Authors:** Amblard, Franck; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 31, 115952.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115952](https://doi.org/10.1016/j.bmc.2020.115952)
 
 **Original Text:**
 ```
@@ -8744,10 +8744,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
   - Products: `CC(C)(C)OC(=O)N1Cc2ccccc2CC1C(=O)NCCSC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@@H]2OC(C)(C)O[C@@H]21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-Based Drug Design of Bisubstrate Inhibitors of Phenylethanolamine N-Methyltransferase Possessing Low Nanomolar Affinity at Both Substrate Binding Domains1
+  - **Authors:** Lu, Jian; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(22), 13878-13898.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01475](https://doi.org/10.1021/acs.jmedchem.0c01475)
 
 **Original Text:**
 ```
@@ -8787,10 +8787,10 @@ Journal of Medicinal Chemistry (2021), 64(20), 15262-15279.
   - Products: `CC(C)(C)OC(=O)N1CCN2c3c(cnc4cc(Br)c(Cl)cc34)NC(=O)C2C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-Based Design and Pharmacokinetic Optimization of Covalent Allosteric Inhibitors of the Mutant GTPase KRASG12C
+  - **Authors:** Kettle, Jason G.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(9), 4468-4483.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01720](https://doi.org/10.1021/acs.jmedchem.9b01720)
 
 **Original Text:**
 ```
@@ -8837,10 +8837,10 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
   - Products: `Cc1cc(C)cc(NC(=O)Cc2ccc(O)cc2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Insights into Fast Amide Couplings in Aqueous Nanomicelles
+  - **Authors:** Sharma, Sudripet; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(8), 1960-1965.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00203](https://doi.org/10.1021/acs.oprd.1c00203)
 
 **Original Text:**
 ```
@@ -8891,10 +8891,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `CN(C)C(=O)c1cc(-c2ccc(NC(=O)c3cc(NC(=O)OC(C)(C)C)cn3C)cc2)cn1C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** New Broad-Spectrum Antibiotics Containing a Pyrrolobenzodiazepine Ring with Activity against Multidrug-Resistant Gram-Negative Bacteria
+  - **Authors:** Picconi, Pietro; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(13), 6941-6958.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00328](https://doi.org/10.1021/acs.jmedchem.0c00328)
 
 **Original Text:**
 ```
@@ -8935,10 +8935,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112869.
   - Products: `CNc1ccccc1NC(=O)CNC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Virtual Screening Approach to Identifying a Novel and Tractable Series of Pseudomonas aeruginosa Elastase Inhibitors
+  - **Authors:** Leiris, Simon; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(2), 217-227.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.0c00554](https://doi.org/10.1021/acsmedchemlett.0c00554)
 
 **Original Text:**
 ```
@@ -8975,10 +8975,10 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
   - Products: `COc1cc(OC)c(Cl)c(COc2cnc(Nc3c(C)cccc3NC(=O)CC#N)nc2)c1Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Investigation of Covalent Warheads in the Design of 2-Aminopyrimidine-based FGFR4 Inhibitors
+  - **Authors:** Deng, Wuqing; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(4), 647-652.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00052](https://doi.org/10.1021/acsmedchemlett.1c00052)
 
 **Original Text:**
 ```
@@ -9015,10 +9015,10 @@ Journal of Medicinal Chemistry (2021), 64(7), 3720-3746.
   - Products: `COc1ccc([C@H](C)NC(=O)CNC(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Rational drug design of benzothiazole-based derivatives as potent signal transducer and activator of transcription 3 (STAT3) signaling pathway inhibitors
+  - **Authors:** Gao, Dingding; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 216, 113333.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113333](https://doi.org/10.1016/j.ejmech.2021.113333)
 
 **Original Text:**
 ```
@@ -9058,10 +9058,10 @@ Journal of Medicinal Chemistry (2023), 66(14), 9592-9606.
   - Products: `O=C1Nc2cc(Cl)ccc2Nc2ccc(F)cc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification of 2-fluoro-8-methyl-11-(1-methyl-1,2,3,6-tetrahydropyridin-4-yl)-5H-dibenzo[b,e][1,4]diazepine with clozapine-like mixed activities at muscarinic acetylcholine, dopamine, and serotonin receptors
+  - **Authors:** Watanabe, Hitoshi; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 40, 127911.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.127911](https://doi.org/10.1016/j.bmcl.2021.127911)
 
 **Original Text:**
 ```
@@ -9105,10 +9105,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8988-9027.
   - Products: `CC(C)CCc1cccc(C(=O)Nc2c(O)c3ccc([N+](=O)[O-])cc3oc2=O)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Demonstrating Ligandability of the LC3A and LC3B Adapter Interface
+  - **Authors:** Hartmann, Markus; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(7), 3720-3746.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01564](https://doi.org/10.1021/acs.jmedchem.0c01564)
 
 **Original Text:**
 ```
@@ -9146,10 +9146,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `O=c1nc[nH]c2cc(F)ccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of new bivalent quinazoline analogues as IAP antagonists
+  - **Authors:** Bae, Inhwan; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 34, 127676.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127676](https://doi.org/10.1016/j.bmcl.2020.127676)
 
 **Original Text:**
 ```
@@ -9186,10 +9186,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112778.
   - Products: `CC(C)(C)C(=O)N(CC(=O)Nc1ccc2c(c1)CC1(C2)C(=O)Nc2ncccc21)Cc1ccccc1Br`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a First-In-Class Small Molecule Antagonist against the Adrenomedullin-2 Receptor: Structure-Activity Relationships and Optimization
+  - **Authors:** Zirimwabagabo, Jean-Olivier; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02191](https://doi.org/10.1021/acs.jmedchem.0c02191)
 
 **Original Text:**
 ```
@@ -9233,10 +9233,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
   - Products: `CC(C)(C)OC(=O)NCC(=O)Nc1ccc2c(c1)CC1(C2)C(=O)Nc2ncccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a First-In-Class Small Molecule Antagonist against the Adrenomedullin-2 Receptor: Structure-Activity Relationships and Optimization
+  - **Authors:** Zirimwabagabo, Jean-Olivier; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02191](https://doi.org/10.1021/acs.jmedchem.0c02191)
 
 **Original Text:**
 ```
@@ -9278,10 +9278,10 @@ Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
   - Products: `CCNC(=O)c1ccc(OCc2ccccc2)c(-c2cn(C)nn2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Template-Hopping Approach Leads to Potent, Selective, and Highly Soluble Bromo and Extraterminal Domain (BET) Second Bromodomain (BD2) Inhibitors
+  - **Authors:** Aylott, Helen E.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(6), 3249-3281.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02156](https://doi.org/10.1021/acs.jmedchem.0c02156)
 
 **Original Text:**
 ```
@@ -9315,10 +9315,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `O=c1nc[nH]c2ccc(Br)cc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, biological evaluation of 6-(2-amino-1H-benzo[d]imidazole-6-yl)quinazolin-4(3H)-one derivatives as novel anticancer agents with Aurora kinase inhibition
+  - **Authors:** Fan, Chengcheng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 190, 112108pp..
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112108](https://doi.org/10.1016/j.ejmech.2020.112108)
 
 **Original Text:**
 ```
@@ -9350,10 +9350,10 @@ Bioorganic & Medicinal Chemistry (2021), 46, 116346.
   - Products: `O=c1nc[nH]c2ccc(Br)cc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel quinazoline derivatives as potent PI3Kδ inhibitors with high selectivity
+  - **Authors:** Teng, Yu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112865.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112865](https://doi.org/10.1016/j.ejmech.2020.112865)
 
 **Original Text:**
 ```
@@ -9390,10 +9390,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 105, 129752.
   - Products: `Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Evaluation of VHL-Based EZH2 Degraders to Enhance Therapeutic Activity against Lymphoma
+  - **Authors:** Tu, Yalin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(14), 10167-10184.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00460](https://doi.org/10.1021/acs.jmedchem.1c00460)
 
 **Original Text:**
 ```
@@ -9428,10 +9428,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `O=c1nc[nH]c2cc(Br)ccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, biological evaluation and structure-activity relationship study of quinazolin-4(3H)-one derivatives as novel USP7 inhibitors
+  - **Authors:** Li, Peng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 216, 113291.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113291](https://doi.org/10.1016/j.ejmech.2021.113291)
 
 **Original Text:**
 ```
@@ -9473,10 +9473,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 11815-11830.
   - Products: `COC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Insights into Fast Amide Couplings in Aqueous Nanomicelles
+  - **Authors:** Sharma, Sudripet; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(8), 1960-1965.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00203](https://doi.org/10.1021/acs.oprd.1c00203)
 
 **Original Text:**
 ```
@@ -9520,10 +9520,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - Products: `CC(C)[C@@H](NC(=O)OCc1ccccc1)C(=O)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Insights into Fast Amide Couplings in Aqueous Nanomicelles
+  - **Authors:** Sharma, Sudripet; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(8), 1960-1965.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00203](https://doi.org/10.1021/acs.oprd.1c00203)
 
 **Original Text:**
 ```
@@ -9567,10 +9567,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
   - Products: `Cc1cc(C)cc(NC(=O)[C@@H]2CCCN2C(=O)OC(C)(C)C)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Insights into Fast Amide Couplings in Aqueous Nanomicelles
+  - **Authors:** Sharma, Sudripet; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(8), 1960-1965.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00203](https://doi.org/10.1021/acs.oprd.1c00203)
 
 **Original Text:**
 ```
@@ -9609,10 +9609,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
   - Products: `COCCS(=O)(=O)c1ccc2c(c1)CN(C(=O)OC(C)(C)C)C2C(=O)Nc1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** AZD0284, a Potent, Selective, and Orally Bioavailable Inverse Agonist of Retinoic Acid Receptor-Related Orphan Receptor C2
+  - **Authors:** Narjes, Frank; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01197](https://doi.org/10.1021/acs.jmedchem.1c01197)
 
 **Original Text:**
 ```
@@ -9649,10 +9649,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `N#CC1(CS(=O)(=O)c2ccc3c(c2)CN(C(=O)OCC2c4ccccc4-c4ccccc42)C3C(=O)Nc2ccc(C(O)(C(F)(F)F)C(F)(F)F)cc2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** AZD0284, a Potent, Selective, and Orally Bioavailable Inverse Agonist of Retinoic Acid Receptor-Related Orphan Receptor C2
+  - **Authors:** Narjes, Frank; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01197](https://doi.org/10.1021/acs.jmedchem.1c01197)
 
 **Original Text:**
 ```
@@ -9697,10 +9697,10 @@ Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
   - Products: `CNC(=O)c1cc(Br)cc2cc(C)oc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Multigram Synthesis of Tetrasubstituted Dihydrobenzofuran GSK973 Enabled by High-Throughput Experimentation and a Claisen Rearrangement in Flow
+  - **Authors:** Alder, Catherine M.; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(2), 365-379.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00422](https://doi.org/10.1021/acs.oprd.1c00422)
 
 **Original Text:**
 ```
@@ -9740,10 +9740,10 @@ Journal of Medicinal Chemistry (2023), 66(4), 2506-2523.
   - Products: `CNC(=O)c1cc(C(=O)N[C@H]2[C@@H]3COC[C@@H]32)cc2c1O[C@H](CF)[C@H]2c1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Multigram Synthesis of Tetrasubstituted Dihydrobenzofuran GSK973 Enabled by High-Throughput Experimentation and a Claisen Rearrangement in Flow
+  - **Authors:** Alder, Catherine M.; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(2), 365-379.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00422](https://doi.org/10.1021/acs.oprd.1c00422)
 
 **Original Text:**
 ```
@@ -9783,10 +9783,10 @@ ACS Medicinal Chemistry Letters (2020), 11(8), 1581-1587.
   - Products: `COc1cc(F)cc([C@@H](CO)NC(=O)[C@@H](C)N2Cc3ccc(-c4nc(Nc5ccnc(OC)c5)ncc4Cl)cc3C2=O)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of ASTX029, A Clinical Candidate Which Modulates the Phosphorylation and Catalytic Activity of ERK1/2
+  - **Authors:** Heightman, Tom D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12286-12303.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00905](https://doi.org/10.1021/acs.jmedchem.1c00905)
 
 **Original Text:**
 ```
@@ -9826,10 +9826,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
   - Products: `Cc1cc(C(=O)NCC(c2ccccc2)c2ccccc2)cn(C)c1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a Highly Selective BET BD2 Inhibitor from a DNA-Encoded Library Technology Screening Hit
+  - **Authors:** Rianjongdee, Francesco; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(15), 10806-10833.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00412](https://doi.org/10.1021/acs.jmedchem.1c00412)
 
 **Original Text:**
 ```
@@ -9867,10 +9867,10 @@ ChemMedChem (2021), 16(15), 2366-2374.
   - Products: `O=C(NCCc1c[nH]c2ccccc12)c1ccc2c(c1)C(=O)c1ccc(Nc3ccc(F)cc3F)cc1CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -9911,10 +9911,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14773-14792.
   - Products: `NC(=O)CCNC(=O)c1ccc2c(c1)C(=O)c1ccc(Nc3ccc(F)cc3F)cc1CC2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -9953,10 +9953,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `O=C(Nc1ccccc1)c1ccc2c(c1)C(=O)c1ccc(Nc3ccc(F)cc3F)cc1CC2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -9995,10 +9995,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 9662-9685.
   - Products: `COC(=O)CCNC(=O)c1ccc2c(c1)C(=O)c1ccc(Nc3ccc(F)cc3F)cc1CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -10040,10 +10040,10 @@ ChemMedChem (2023), 18(6), e202200632.
   - Products: `COC(=O)CCCNC(=O)c1ccc2c(c1)C(=O)c1ccc(Nc3ccc(F)cc3F)cc1CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -10082,10 +10082,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `COC(=O)CC[C@H](NC(=O)c1ccc2c(c1)C(=O)c1ccc(Nc3ccc(F)cc3F)cc1CC2)C(=O)OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -10128,10 +10128,10 @@ Journal of Medicinal Chemistry (2020), 63(2), 784-803.
   - Products: `COC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccc2c(c1)C(=O)c1ccc(Nc3ccc(F)cc3F)cc1CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -10170,10 +10170,10 @@ ChemMedChem (2020), 15(7), 643-658.
   - Products: `COC(=O)CCNC(=O)c1ccc2c(c1)C(=O)c1ccc(Nc3ccccc3N)cc1CC2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -10213,10 +10213,10 @@ Journal of Medicinal Chemistry (2023), 66(23), 16388-16409.
   - Products: `CNC(=O)c1ccc2c(c1)C(=O)c1ccc(Nc3ccccc3[N+](=O)[O-])cc1CC2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Highly Selective Brain Penetrant p38α Mitogen-Activated Protein Kinase Inhibitors
+  - **Authors:** Tormaehlen, Niklas M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01773](https://doi.org/10.1021/acs.jmedchem.0c01773)
 
 **Original Text:**
 ```
@@ -10254,10 +10254,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1742-1760.
   - Products: `CC(C)(C)OC(=O)N[C@@H]1CCC[C@H](C(=O)Nc2cc(Br)ccn2)C1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of AZD4573, a Potent and Selective Inhibitor of CDK9 That Enables Short Duration of Target Engagement for the Treatment of Hematological Malignancies
+  - **Authors:** Barlaam, Bernard; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(24), 15564-15590.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01754](https://doi.org/10.1021/acs.jmedchem.0c01754)
 
 **Original Text:**
 ```
@@ -10295,10 +10295,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `CC(C)(C)OC(=O)N[C@@H]1CCC[C@H](C(=O)Nc2cc(Br)c(Cl)cn2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of AZD4573, a Potent and Selective Inhibitor of CDK9 That Enables Short Duration of Target Engagement for the Treatment of Hematological Malignancies
+  - **Authors:** Barlaam, Bernard; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(24), 15564-15590.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01754](https://doi.org/10.1021/acs.jmedchem.0c01754)
 
 **Original Text:**
 ```
@@ -10341,10 +10341,10 @@ Bioorganic & Medicinal Chemistry (2024), 108, 117773.
   - Products: `CCC(CC)N(CCN(C)C(=O)CCC(=O)OCc1ccccc1)Cc1cccc(C(=O)Nc2sc3c(c2C(=O)c2cnn(-c4ccc(Cl)cc4)c2)CCCC3)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 1H-pyrazole-4-carbonyl-4,5,6,7-tetrahydrobenzo[b]thiophene derivatives as gut-selective NaPi2b inhibitors
+  - **Authors:** Ushiki, Yasunobu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.128572](https://doi.org/10.1016/j.bmcl.2022.128572)
 
 **Original Text:**
 ```
@@ -10389,10 +10389,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
   - Products: `CCC(CC)N(CCN(C)C(=O)CCC(=O)OCc1ccccc1)Cc1cccc(C(=O)Nc2sc3c(c2C(=O)c2cnn(-c4ccc(Cl)cc4)c2)CCN(C(C)=O)C3)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 1H-pyrazole-4-carbonyl-4,5,6,7-tetrahydrobenzo[b]thiophene derivatives as gut-selective NaPi2b inhibitors
+  - **Authors:** Ushiki, Yasunobu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.128572](https://doi.org/10.1016/j.bmcl.2022.128572)
 
 **Original Text:**
 ```
@@ -10435,10 +10435,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
   - Products: `CCC(CC)N(CCN(C)C(=O)CCC(=O)OCc1ccccc1)Cc1cccc(C(=O)Nc2sc3c(c2C(=O)c2cnn(-c4ccc(Cl)cc4)c2)CCN(S(C)(=O)=O)C3)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 1H-pyrazole-4-carbonyl-4,5,6,7-tetrahydrobenzo[b]thiophene derivatives as gut-selective NaPi2b inhibitors
+  - **Authors:** Ushiki, Yasunobu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.128572](https://doi.org/10.1016/j.bmcl.2022.128572)
 
 **Original Text:**
 ```
@@ -10484,10 +10484,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12286-12303.
   - Products: `CCC(CC)N(CCN(C)C(=O)CCC(=O)OCc1ccccc1)Cc1cccc(C(=O)Nc2sc3c(c2C(=O)c2cnn(-c4ccc(Cl)cc4)c2)CCN(C2CC2)C3)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel 1H-pyrazole-4-carbonyl-4,5,6,7-tetrahydrobenzo[b]thiophene derivatives as gut-selective NaPi2b inhibitors
+  - **Authors:** Ushiki, Yasunobu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.128572](https://doi.org/10.1016/j.bmcl.2022.128572)
 
 **Original Text:**
 ```
@@ -10531,10 +10531,10 @@ Organic Process Research & Development (2024), 28(7), 2646-2658.
   - Products: `COC[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@@H](CSC)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -10578,10 +10578,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - Products: `COC(=O)c1ccc(CNC(=O)C2CCC(NC(=O)OC(C)(C)C)CC2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of soluble epoxide hydrolase inhibitors through DNA-encoded library technology (ELT)
+  - **Authors:** Ding, Yun; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 41, 116216.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116216](https://doi.org/10.1016/j.bmc.2021.116216)
 
 **Original Text:**
 ```
@@ -10618,10 +10618,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - Products: `O=C(Nc1ccccc1)c1ccncc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Diverse, Potent, and Efficacious Inhibitors That Target the EED Subunit of the Polycomb Repressive Complex 2 Methyltransferase
+  - **Authors:** Bagal, Sharan K.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01161](https://doi.org/10.1021/acs.jmedchem.1c01161)
 
 **Original Text:**
 ```
@@ -10659,10 +10659,10 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
   - Products: `CC(C)(C)OC(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Macrocyclic Immunoproteasome Inhibitors as a Potential Therapy for Alzheimer’s Disease
+  - **Authors:** Lee, Min Jae; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(15), 10934-10950.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00291](https://doi.org/10.1021/acs.jmedchem.1c00291)
 
 **Original Text:**
 ```
@@ -10702,10 +10702,10 @@ European Journal of Medicinal Chemistry (2023), 257, 115497.
   - Products: `O=C(Nc1cccc([N+](=O)[O-])c1)c1ccc(OCCCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development and in-vitro Profiling of Dual FXR/LTA4H Modulators
+  - **Authors:** Schierle, Simone; et al
+  - **Citation:** ChemMedChem (2021), 16(15), 2366-2374.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202100118](https://doi.org/10.1002/cmdc.202100118)
 
 **Original Text:**
 ```
@@ -10745,10 +10745,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CCOC(=O)c1ccc(NC(=O)c2ccc(OCCCc3ccccc3)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development and in-vitro Profiling of Dual FXR/LTA4H Modulators
+  - **Authors:** Schierle, Simone; et al
+  - **Citation:** ChemMedChem (2021), 16(15), 2366-2374.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202100118](https://doi.org/10.1002/cmdc.202100118)
 
 **Original Text:**
 ```
@@ -10786,10 +10786,10 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
   - Products: `C[C@H]1OC[C@]2(c3cc(NC(=O)c4cnc(C(F)F)cn4)ccc3F)N=C(N)SC[C@H]12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis of BACE1 Inhibitors E2609/E2071 via Oxime-Olefin Cycloaddition Following Process Risk Mitigation Strategy
+  - **Authors:** Kim, Dae-Shik; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(3), 804-816.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00223](https://doi.org/10.1021/acs.oprd.1c00223)
 
 **Original Text:**
 ```
@@ -10830,10 +10830,10 @@ Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
   - Products: `COC(=O)[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](Cc1ccccc1)NC(=O)/C=C/c1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of peptidomimetic aldehydes as broad-spectrum inhibitors against enterovirus and SARS-COV-2
+  - **Authors:** Dai, Wenhao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02258](https://doi.org/10.1021/acs.jmedchem.0c02258)
 
 **Original Text:**
 ```
@@ -10873,10 +10873,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `COC(=O)[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of peptidomimetic aldehydes as broad-spectrum inhibitors against enterovirus and SARS-COV-2
+  - **Authors:** Dai, Wenhao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02258](https://doi.org/10.1021/acs.jmedchem.0c02258)
 
 **Original Text:**
 ```
@@ -10917,10 +10917,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
   - Products: `COC(=O)[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of peptidomimetic aldehydes as broad-spectrum inhibitors against enterovirus and SARS-COV-2
+  - **Authors:** Dai, Wenhao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02258](https://doi.org/10.1021/acs.jmedchem.0c02258)
 
 **Original Text:**
 ```
@@ -10959,10 +10959,10 @@ Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
   - Products: `COc1ccc(-c2ccc(C(=O)N(CC(=O)NCC#N)Cc3ccccc3)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Nitrile-based peptoids as cysteine protease inhibitors
+  - **Authors:** Alves, Luana; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 41, 116211.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116211](https://doi.org/10.1016/j.bmc.2021.116211)
 
 **Original Text:**
 ```
@@ -10998,10 +10998,10 @@ Journal of Medicinal Chemistry (2022), 65(8), 6001-6016.
   - Products: `COc1ccc(-c2ccc(C(=O)N(CC(=O)NC3(C#N)CC3)Cc3ccccc3)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Nitrile-based peptoids as cysteine protease inhibitors
+  - **Authors:** Alves, Luana; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 41, 116211.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116211](https://doi.org/10.1016/j.bmc.2021.116211)
 
 **Original Text:**
 ```
@@ -11040,10 +11040,10 @@ European Journal of Medicinal Chemistry (2022), 238, 114469.
   - Products: `C[C@H](NC(=O)c1ccc(Cl)cc1C(F)(F)F)C1CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Structure-Activity Relationship Optimization of Pyrazolopyrimidine Amide Inhibitors of Phosphoinositide 3-Kinase γ (PI3Kγ)
+  - **Authors:** Mata, Guillaume; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1418-1444.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01153](https://doi.org/10.1021/acs.jmedchem.1c01153)
 
 **Original Text:**
 ```
@@ -11087,10 +11087,10 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
   - Products: `CCOC(=O)c1nc([C@@H]2CCCN2C(=O)OC(C)(C)C)[nH]c1-c1ccc(C(=O)Nc2ccccn2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of 1-Amino-1H-imidazole-5-carboxamide Derivatives as Highly Selective, Covalent Bruton’s Tyrosine Kinase (BTK) Inhibitors
+  - **Authors:** Ma, Chunhua; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01559](https://doi.org/10.1021/acs.jmedchem.1c01559)
 
 **Original Text:**
 ```
@@ -11131,10 +11131,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
   - Products: `CCOC(=O)c1nc([C@@H]2CCCCN2C(=O)OC(C)(C)C)[nH]c1-c1ccc(C(=O)Nc2cc(CC)ccn2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of 1-Amino-1H-imidazole-5-carboxamide Derivatives as Highly Selective, Covalent Bruton’s Tyrosine Kinase (BTK) Inhibitors
+  - **Authors:** Ma, Chunhua; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01559](https://doi.org/10.1021/acs.jmedchem.1c01559)
 
 **Original Text:**
 ```
@@ -11174,10 +11174,10 @@ Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
   - Products: `CC(C)(NC(=O)c1ccc(Cl)cc1)C1C2CC(O[Si](c3ccccc3)(c3ccccc3)C(C)(C)C)CC21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of IACS-9779 and IACS-70465 as Potent Inhibitors Targeting Indoleamine 2,3-Dioxygenase 1 (IDO1) Apoenzyme
+  - **Authors:** Hamilton, Matthew M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(15), 11302-11329.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00679](https://doi.org/10.1021/acs.jmedchem.1c00679)
 
 **Original Text:**
 ```
@@ -11215,10 +11215,10 @@ Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
   - Products: `COC[C@H](NC(=O)c1cc(Cl)ccc1Cl)C(=O)N[C@@H](CSC)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11260,10 +11260,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116113.
   - Products: `COC[C@H](NC(=O)[C@H](CSC)NC(=O)c1cc(Cl)ccc1Cl)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11307,10 +11307,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
   - Products: `COC[C@H](NC(=O)c1cnccn1)C(=O)N[C@@H](CSC)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11350,10 +11350,10 @@ ChemMedChem (2021), 16(18), 2895-2906.
   - Products: `COC(=O)[C@H](CSC)NC(=O)[C@H](CSC)NC(=O)c1cc(Cl)ccc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11393,10 +11393,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `COC[C@H](NC(=O)[C@H](CSC)NC(=O)c1cnccn1)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11438,10 +11438,10 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
   - Products: `COC(=O)[C@H](CSC)NC(=O)[C@H](CSC)NC(=O)c1cnccn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11483,10 +11483,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COC[C@H](NC(=O)[C@H](CSC)NC(=O)c1cc(C)on1)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11528,10 +11528,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COC[C@H](NC(=O)c1cc(C)on1)C(=O)N[C@@H](CSC)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11573,10 +11573,10 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
   - Products: `COC[C@H](NC(=O)CNC(=O)c1cc(C)on1)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11618,10 +11618,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COC(=O)[C@H](CSC)NC(=O)[C@H](CSC)NC(=O)c1cc(C)on1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11661,10 +11661,10 @@ Journal of Medicinal Chemistry (2022), 65(14), 9955-9973.
   - Products: `COC[C@H](NC(=O)c1cc(C)on1)C(=O)NCC(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11704,10 +11704,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
   - Products: `COC(=O)[C@H](CSC)NC(=O)[C@H](CSC)NC(=O)c1cnc(C)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11749,10 +11749,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
   - Products: `COC(=O)CNC(=O)[C@H](CSC)NC(=O)c1cc(C)on1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11794,10 +11794,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `COC(=O)CNC(=O)[C@H](CSC)NC(=O)c1cnc(C)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11837,10 +11837,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
   - Products: `COC[C@H](NC(=O)[C@H](CSC)NC(=O)c1cc(Cl)ccc1Cl)C(=O)N[C@@H](Cc1ccccc1)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11880,10 +11880,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `CSC[C@H](NC(=O)c1cc(C)on1)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11923,10 +11923,10 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
   - Products: `COC[C@H](NC(=O)c1cc(C)on1)C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -11966,10 +11966,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112778.
   - Products: `CSC[C@H](NC(=O)c1cc(C)on1)C(=O)N[C@@H](CSC)C(=O)N[C@@H](Cc1ccccc1)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12012,10 +12012,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
   - Products: `COC[C@H](NC(=O)c1cc(C)on1)C(=O)NCC(=O)N[C@@H](Cc1ccccc1)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12055,10 +12055,10 @@ European Journal of Medicinal Chemistry (2024), 265, 116052.
   - Products: `CSC[C@H](NC(=O)c1cnc(C)s1)C(=O)N[C@@H](CSC)C(=O)N[C@@H](Cc1ccccc1)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12100,10 +12100,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
   - Products: `COC[C@H](NC(=O)[C@H](CSC)NC(=O)c1cc(C)on1)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12143,10 +12143,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `COC[C@H](NC(=O)c1cnccn1)C(=O)N[C@@H](CSC)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12186,10 +12186,10 @@ European Journal of Medicinal Chemistry (2022), 229, 113998.
   - Products: `COC[C@H](NC(=O)[C@H](CSC)NC(=O)c1cc(C)on1)C(=O)N[C@@H](Cc1ccccc1)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12231,10 +12231,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
   - Products: `COC[C@H](NC(=O)CNC(=O)c1cc(C)on1)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12274,10 +12274,10 @@ European Journal of Medicinal Chemistry (2021), 224, 113666.
   - Products: `COC[C@H](NC(=O)CNC(=O)c1cc(C)on1)C(=O)N[C@@H](Cc1ccccc1)C(=O)[C@@]1(C)CO1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of novel tripeptide propylene oxide proteasome inhibitors for the treatment of multiple myeloma
+  - **Authors:** Zhang, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 40, 116182.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116182](https://doi.org/10.1016/j.bmc.2021.116182)
 
 **Original Text:**
 ```
@@ -12312,10 +12312,10 @@ European Journal of Medicinal Chemistry (2020), 191, 112148pp..
   - Products: `O=C(CC12CC3CC(CC(C3)C1)C2)NCCCCO`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and evaluation of bifunctional PTP4A3 phosphatase inhibitors activating the ER stress pathway
+  - **Authors:** Rastelli, Ettore J.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128167](https://doi.org/10.1016/j.bmcl.2021.128167)
 
 **Original Text:**
 ```
@@ -12349,10 +12349,10 @@ ACS Medicinal Chemistry Letters (2024), 15(3), 388-395.
   - Products: `CC(C)(C)OC(=O)NCCCNC(=O)CC12CC3CC(CC(C3)C1)C2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and evaluation of bifunctional PTP4A3 phosphatase inhibitors activating the ER stress pathway
+  - **Authors:** Rastelli, Ettore J.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128167](https://doi.org/10.1016/j.bmcl.2021.128167)
 
 **Original Text:**
 ```
@@ -12386,10 +12386,10 @@ Organic Process Research & Development (2024), 28(8), 3143-3151.
   - Products: `CC(C)(C)OC(=O)NCCOCCOCCNC(=O)CC12CC3CC(CC(C3)C1)C2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and evaluation of bifunctional PTP4A3 phosphatase inhibitors activating the ER stress pathway
+  - **Authors:** Rastelli, Ettore J.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2021.128167](https://doi.org/10.1016/j.bmcl.2021.128167)
 
 **Original Text:**
 ```
@@ -12428,10 +12428,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12003-12021.
   - Products: `COC(=O)[C@H](CCSC)NC(=O)[C@@H]1CCCN1C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel macrocyclic peptidomimetics targeting the Polo-box domain of Polo-like kinase 1
+  - **Authors:** Ryu, SeongShick; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01359](https://doi.org/10.1021/acs.jmedchem.1c01359)
 
 **Original Text:**
 ```
@@ -12470,10 +12470,10 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](COCc1ccccc1)NC(=O)OC(C)(C)C)[C@@H](C)O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel macrocyclic peptidomimetics targeting the Polo-box domain of Polo-like kinase 1
+  - **Authors:** Ryu, SeongShick; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01359](https://doi.org/10.1021/acs.jmedchem.1c01359)
 
 **Original Text:**
 ```
@@ -12519,10 +12519,10 @@ Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
   - Products: `C=CCOC(=O)[C@@H](NC(=O)[C@H](COCc1ccccc1)NC(=O)OC(C)(C)C)[C@@H](C)O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel macrocyclic peptidomimetics targeting the Polo-box domain of Polo-like kinase 1
+  - **Authors:** Ryu, SeongShick; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01359](https://doi.org/10.1021/acs.jmedchem.1c01359)
 
 **Original Text:**
 ```
@@ -12566,10 +12566,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `C=CCOC(=O)[C@@H](NC(=O)[C@H](COCc1ccccc1)NC(=O)[C@H](CCC(=O)OC(C)(C)C)NC(=O)OCC1c2ccccc2-c2ccccc21)[C@@H](C)O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel macrocyclic peptidomimetics targeting the Polo-box domain of Polo-like kinase 1
+  - **Authors:** Ryu, SeongShick; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01359](https://doi.org/10.1021/acs.jmedchem.1c01359)
 
 **Original Text:**
 ```
@@ -12613,10 +12613,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)[C@H](COCc1ccccc1)NC(=O)[C@H](CCC(N)=O)NC(=O)OC(C)(C)C)[C@@H](C)O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel macrocyclic peptidomimetics targeting the Polo-box domain of Polo-like kinase 1
+  - **Authors:** Ryu, SeongShick; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01359](https://doi.org/10.1021/acs.jmedchem.1c01359)
 
 **Original Text:**
 ```
@@ -12661,10 +12661,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `CSc1ncc(C(=O)NCCCN2CCCC2=O)c(NC2CCCC2)n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Development of a Chemical Probe for Pseudokinase Ca2+/calmodulin-Dependent Ser/Thr Kinase
+  - **Authors:** Russ, Nadine; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14358-14376.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00845](https://doi.org/10.1021/acs.jmedchem.1c00845)
 
 **Original Text:**
 ```
@@ -12702,10 +12702,10 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
   - Products: `CSc1ncc(C(=O)NCCCN2CCOC2=O)c(NC2CCCC2)n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Development of a Chemical Probe for Pseudokinase Ca2+/calmodulin-Dependent Ser/Thr Kinase
+  - **Authors:** Russ, Nadine; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14358-14376.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00845](https://doi.org/10.1021/acs.jmedchem.1c00845)
 
 **Original Text:**
 ```
@@ -12743,10 +12743,10 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
   - Products: `CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H](/C=C(/F)S(=O)(=O)Oc1ccccc1)CCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -12787,10 +12787,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H](/C=C(\F)S(=O)(=O)Cc1ccccc1)CCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -12828,10 +12828,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
   - Products: `Cc1ccc(C[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@H](/C=C(\F)S(=O)(=O)Oc2ccccc2)CCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -12870,10 +12870,10 @@ Organic Process Research & Development (2023), 27(8), 1517-1532.
   - Products: `Cc1ccc(C[C@H](NC(=O)c2cc(F)cc(F)c2)C(=O)N[C@H](/C=C(\F)S(=O)(=O)Oc2ccccc2)CCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -12913,10 +12913,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `O=C(N[C@@H](Cc1ccccc1)C(=O)N[C@H](/C=C(\F)S(=O)(=O)Cc1ccccc1)CCc1ccccc1)c1ccncc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -12953,10 +12953,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `Cc1ccc(C[C@H](NC(=O)c2cc(F)cc(F)c2)C(=O)N[C@H](/C=C(\F)S(=O)(=O)Cc2ccccc2)CCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -12997,10 +12997,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
   - Products: `O=C(N[C@@H](Cc1ccccc1)C(=O)N[C@H](/C=C(\F)S(=O)(=O)c1ccccc1)CCc1ccccc1)c1cc(F)cc(F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -13037,10 +13037,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113663.
   - Products: `Cc1ccc(C[C@H](NC(=O)c2ccncc2)C(=O)N[C@H](/C=C(\F)S(=O)(=O)c2ccccc2)CCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -13081,10 +13081,10 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
   - Products: `Cc1cccc(C[C@H](NC(=O)c2ccc3c(c2)OCCO3)C(=O)N[C@H](/C=C(\F)S(=O)(=O)c2ccccc2)CCc2ccccc2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fluorovinylsulfones and -Sulfonates as Potent Covalent Reversible Inhibitors of the Trypanosomal Cysteine Protease Rhodesain: Structure-Activity Relationship, Inhibition Mechanism, Metabolism, and In Vivo Studies
+  - **Authors:** Jung, Sascha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01002](https://doi.org/10.1021/acs.jmedchem.1c01002)
 
 **Original Text:**
 ```
@@ -13122,10 +13122,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `COC(=O)CNC(=O)c1ncc(-c2cccc(Cl)c2)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of a Robust and Scalable Process for the Large-Scale Preparation of Vadadustat
+  - **Authors:** Lin, Biyue; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(4), 960-968.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00004](https://doi.org/10.1021/acs.oprd.1c00004)
 
 **Original Text:**
 ```
@@ -13165,10 +13165,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 76, 129020.
   - Products: `COc1cccc(NC(=O)c2cc([N+](=O)[O-])ccc2N)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Piperazinobenzodiazepinones: New Encephalitic Alphavirus Inhibitors via Ring Expansion of 2-Dichloromethylquinazolinones
+  - **Authors:** Ryan, Michael C.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00539](https://doi.org/10.1021/acsmedchemlett.1c00539)
 
 **Original Text:**
 ```
@@ -13206,10 +13206,10 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
   - Products: `Nc1ccc([N+](=O)[O-])cc1C(=O)Nc1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Piperazinobenzodiazepinones: New Encephalitic Alphavirus Inhibitors via Ring Expansion of 2-Dichloromethylquinazolinones
+  - **Authors:** Ryan, Michael C.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00539](https://doi.org/10.1021/acsmedchemlett.1c00539)
 
 **Original Text:**
 ```
@@ -13247,10 +13247,10 @@ European Journal of Medicinal Chemistry (2021), 225, 113777.
   - Products: `COc1ccc(NC(=O)c2cc(C#N)ccc2N)cc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Piperazinobenzodiazepinones: New Encephalitic Alphavirus Inhibitors via Ring Expansion of 2-Dichloromethylquinazolinones
+  - **Authors:** Ryan, Michael C.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00539](https://doi.org/10.1021/acsmedchemlett.1c00539)
 
 **Original Text:**
 ```
@@ -13288,10 +13288,10 @@ European Journal of Medicinal Chemistry (2021), 215, 113289.
   - Products: `Nc1ccc([N+](=O)[O-])cc1C(=O)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Piperazinobenzodiazepinones: New Encephalitic Alphavirus Inhibitors via Ring Expansion of 2-Dichloromethylquinazolinones
+  - **Authors:** Ryan, Michael C.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00539](https://doi.org/10.1021/acsmedchemlett.1c00539)
 
 **Original Text:**
 ```
@@ -13329,10 +13329,10 @@ European Journal of Medicinal Chemistry (2020), 202, 112416.
   - Products: `Nc1cc([N+](=O)[O-])ccc1C(=O)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Piperazinobenzodiazepinones: New Encephalitic Alphavirus Inhibitors via Ring Expansion of 2-Dichloromethylquinazolinones
+  - **Authors:** Ryan, Michael C.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00539](https://doi.org/10.1021/acsmedchemlett.1c00539)
 
 **Original Text:**
 ```
@@ -13375,10 +13375,10 @@ European Journal of Medicinal Chemistry (2023), 250, 115170.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2COCCN2C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13424,10 +13424,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1COCCN1C)S(=O)(=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13473,10 +13473,10 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1COCCN1C(=O)OC(C)(C)C)S(=O)(=O)c1ccc(N)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13520,10 +13520,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 92, 129389.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1COCCN1C)S(=O)(=O)c1ccc(O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13567,10 +13567,10 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2COCCN2C(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13616,10 +13616,10 @@ ChemMedChem (2023), 18(8), e202200615.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1COCCN1C(=O)OC(C)(C)C)S(=O)(=O)c1ccc(S(C)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13665,10 +13665,10 @@ Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
   - Products: `CNc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2COCCN2C(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13716,10 +13716,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H]1CN(C(=O)OC(C)(C)C)CCO1)S(=O)(=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13765,10 +13765,10 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H]1CN(C(=O)OC(C)(C)C)CCO1)S(=O)(=O)c1ccc(O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13817,10 +13817,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H]1CN(C(=O)OC(C)(C)C)CCO1)S(=O)(=O)c1ccc(N)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13866,10 +13866,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
   - Products: `CNc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@H]2CN(C(=O)OC(C)(C)C)CCO2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13915,10 +13915,10 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117468.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)CN2CCS(=O)(=O)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -13966,10 +13966,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)CN1CCS(=O)(=O)CC1)S(=O)(=O)c1ccc(O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -14015,10 +14015,10 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)CN1CCS(=O)(=O)CC1)S(=O)(=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of protease inhibitors containing morpholine cores with remarkable potency against both HIV-1 subtypes B and C
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 233, 114251.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114251](https://doi.org/10.1016/j.ejmech.2022.114251)
 
 **Original Text:**
 ```
@@ -14062,10 +14062,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `CN1CCC(NC(=O)c2ccc(N)cc2F)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Differential BET Bromodomain Inhibition by Dihydropteridinone and Pyrimidodiazepinone Kinase Inhibitors
+  - **Authors:** Karim, Rezaul Md; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(21), 15772-15786.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01096](https://doi.org/10.1021/acs.jmedchem.1c01096)
 
 **Original Text:**
 ```
@@ -14108,10 +14108,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1418-1444.
   - Products: `Cc1cc(Cl)ccc1-c1ccc(C(=O)N[C@H]2CCc3c(C)ccc(N4CCN(C)CC4)c3C2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and structure-activity relationships for a new class of tetrahydronaphthalene amide inhibitors of Mycobacterium tuberculosis
+  - **Authors:** Sutherland, Hamish S.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 229, 114059.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.114059](https://doi.org/10.1016/j.ejmech.2021.114059)
 
 **Original Text:**
 ```
@@ -14152,10 +14152,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `CC(C)(C)OC(=O)N[C@@H](CC1CCN(C(=O)OCc2ccccc2)CC1)C(=O)Nc1ccccc1NC1CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Orally Active and Nonsteroidal Farnesoid X Receptor (FXR) Antagonist with Propensity for Accumulation and Responsiveness in Ileum
+  - **Authors:** Teno, Naoki; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(3), 420-425.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.0c00640](https://doi.org/10.1021/acsmedchemlett.0c00640)
 
 **Original Text:**
 ```
@@ -14187,10 +14187,10 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
   - Products: `O=c1nc[nH]c2c(Br)cccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of quinazoline derivatives as novel small-molecule inhibitors targeting the programmed cell death-1/programmed cell death-ligand 1 (PD-1/PD-L1) interaction
+  - **Authors:** Wang, Yu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 229, 113998.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113998](https://doi.org/10.1016/j.ejmech.2021.113998)
 
 **Original Text:**
 ```
@@ -14225,10 +14225,10 @@ Journal of Medicinal Chemistry (2024), 67(7), 5662-5682.
   - Products: `Cc1ccc(C(=O)C[C@](NC(=O)Cc2nnn[nH]2)(c2ccc(OCCCC(F)(F)F)cc2)C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis Optimization, Scale-Up, and Catalyst Screening Efforts toward the MGAT2 Clinical Candidate, BMS-963272
+  - **Authors:** Kempson, James; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(4), 1327-1335.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00036](https://doi.org/10.1021/acs.oprd.2c00036)
 
 **Original Text:**
 ```
@@ -14274,10 +14274,10 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117478.
   - Products: `CCOC(=O)CCCCNC(=O)[C@H](CCCCNC(=O)OC(C)(C)C)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](C)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Si113-prodrugs selectively activated by plasmin against hepatocellular and ovarian carcinoma
+  - **Authors:** Rango, Enrico; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113653.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113653](https://doi.org/10.1016/j.ejmech.2021.113653)
 
 **Original Text:**
 ```
@@ -14318,10 +14318,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `O=C(Nc1ccc(O)cc1)C1(C(=O)Nc2ccc(F)cc2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-guided design and development of novel N-phenylpyrimidin-2-amine derivatives as potential c-Met inhibitors
+  - **Authors:** Huang, Daowei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113648.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113648](https://doi.org/10.1016/j.ejmech.2021.113648)
 
 **Original Text:**
 ```
@@ -14362,10 +14362,10 @@ Journal of Medicinal Chemistry (2020), 63(21), 13124-13139.
   - Products: `O=C(Nc1ccc(O)cc1)c1ccccc1Nc1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-guided design and development of novel N-phenylpyrimidin-2-amine derivatives as potential c-Met inhibitors
+  - **Authors:** Huang, Daowei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113648.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113648](https://doi.org/10.1016/j.ejmech.2021.113648)
 
 **Original Text:**
 ```
@@ -14401,10 +14401,10 @@ Journal of Medicinal Chemistry (2023), 66(21), 14724-14734.
   - Products: `O=C(Nc1ccc(F)cc1)C1(C(=O)Nc2ccc(Oc3ccnc(Cl)c3)cc2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-guided design and development of novel N-phenylpyrimidin-2-amine derivatives as potential c-Met inhibitors
+  - **Authors:** Huang, Daowei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113648.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113648](https://doi.org/10.1016/j.ejmech.2021.113648)
 
 **Original Text:**
 ```
@@ -14440,10 +14440,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `Cc1c(C(=O)Nc2ccc(O)cc2)c(=O)n(-c2ccccc2)n1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-guided design and development of novel N-phenylpyrimidin-2-amine derivatives as potential c-Met inhibitors
+  - **Authors:** Huang, Daowei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113648.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113648](https://doi.org/10.1016/j.ejmech.2021.113648)
 
 **Original Text:**
 ```
@@ -14483,10 +14483,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
   - Products: `O=C(Nc1ccc(F)cc1)c1ccccc1Nc1ccc(O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-guided design and development of novel N-phenylpyrimidin-2-amine derivatives as potential c-Met inhibitors
+  - **Authors:** Huang, Daowei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113648.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113648](https://doi.org/10.1016/j.ejmech.2021.113648)
 
 **Original Text:**
 ```
@@ -14531,10 +14531,10 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
   - Products: `CCNC(=O)c1cnn(-c2ccc(NC(=O)C(Cl)=C(Cl)Cl)cc2)c1C(F)(F)F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a Highly Selective and Potent TRPC3 Inhibitor with High Metabolic Stability and Low Toxicity
+  - **Authors:** Zhang, Sicheng; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(4), 572-578.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.0c00571](https://doi.org/10.1021/acsmedchemlett.0c00571)
 
 **Original Text:**
 ```
@@ -14573,10 +14573,10 @@ European Journal of Medicinal Chemistry (2023), 259, 115635.
   - Products: `CC(C)(C)OC(=O)N1CCC(CNC(=O)c2n[nH]c3ccc(Br)cc23)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of 2-(cyclopropanecarboxamido)-N-(5-((1-(4-fluorobenzyl)piperidin-4-yl)methoxy)pyridin-3-yl)isonicotinamide as a potent dual AChE/GSK3β inhibitor for the treatment of Alzheimer’s disease: Significantly increasing the level of acetylcholine in the brain without affecting that in intestine
+  - **Authors:** Jiang, Xueyang; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113663.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113663](https://doi.org/10.1016/j.ejmech.2021.113663)
 
 **Original Text:**
 ```
@@ -14618,10 +14618,10 @@ ChemMedChem (2021), 16(6), 942-948.
   - Products: `CC(C)(C)OC(=O)N1CCC(CC(=O)Nc2n[nH]c3cc(Br)ccc23)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of 2-(cyclopropanecarboxamido)-N-(5-((1-(4-fluorobenzyl)piperidin-4-yl)methoxy)pyridin-3-yl)isonicotinamide as a potent dual AChE/GSK3β inhibitor for the treatment of Alzheimer’s disease: Significantly increasing the level of acetylcholine in the brain without affecting that in intestine
+  - **Authors:** Jiang, Xueyang; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 223, 113663.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113663](https://doi.org/10.1016/j.ejmech.2021.113663)
 
 **Original Text:**
 ```
@@ -14661,10 +14661,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `CC(C)(C)OC(=O)NC1=N[C@](C)(c2cc(NC(=O)c3ccc(C#N)cn3)ccc2F)Cn2c(C#N)cnc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A Brain-Penetrant and Bioavailable Pyrazolopiperazine BACE1 Inhibitor Elicits Sustained Reduction of Amyloid β In Vivo
+  - **Authors:** Peschiulli, Aldo; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(1), 76-83.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00445](https://doi.org/10.1021/acsmedchemlett.1c00445)
 
 **Original Text:**
 ```
@@ -14707,10 +14707,10 @@ Journal of Medicinal Chemistry (2023), 66(13), 9161-9173.
   - Products: `[2H]C([2H])(NC(=O)c1cc(C(=O)NCc2ccc(C(=O)OC)cc2)ncn1)c1ccc(F)c(C)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of a selective matrix metalloproteinase 13 (MMP-13) inhibitor for the treatment of Osteoarthritis
+  - **Authors:** Bendele, Alison M.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 224, 113666.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113666](https://doi.org/10.1016/j.ejmech.2021.113666)
 
 **Original Text:**
 ```
@@ -14748,10 +14748,10 @@ Journal of Medicinal Chemistry (2023), 66(19), 13428-13451.
   - Products: `CC(C)(C)c1nnc(C(=O)NC2CCCCc3cc(Br)ccc32)o1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Preclinical Characterization of BIIB091, a Reversible, Selective BTK Inhibitor for the Treatment of Multiple Sclerosis
+  - **Authors:** Hopkins, Brian T.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(2), 1206-1224.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00926](https://doi.org/10.1021/acs.jmedchem.1c00926)
 
 **Original Text:**
 ```
@@ -14795,10 +14795,10 @@ Journal of Medicinal Chemistry (2020), 63(24), 15564-15590.
   - Products: `COc1cccc(OC)c1-c1cc(C(=O)N[C@@H](CCN2CCCCC2)CC(=O)NC2CCC2)nn1C1CCCC1.Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Pyrazole Agonist of the Apelin Receptor Improves Symptoms of Metabolic Syndrome in Mice
+  - **Authors:** Narayanan, Sanju; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(6), 3006-3025.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01448](https://doi.org/10.1021/acs.jmedchem.0c01448)
 
 **Original Text:**
 ```
@@ -14842,10 +14842,10 @@ Journal of Medicinal Chemistry (2023), 66(16), 11216-11236.
   - Products: `C=C[C@@H]1C[C@]1(NC(=O)[C@@H]1C[C@@H](Oc2nc(-c3ccc(OC(C)C)cc3)nc3c2oc2ccccc23)CN1)C(=O)NS(=O)(=O)C1(C)CC1.Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of the Enabling Route for a Novel HCV NS3/4A Inhibitor, Furaprevir
+  - **Authors:** Zhang, Weihong; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(4), 1078-1093.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00315](https://doi.org/10.1021/acs.oprd.1c00315)
 
 **Original Text:**
 ```
@@ -14888,10 +14888,10 @@ ChemMedChem (2020), 15(15), 1429-1438.
   - Products: `COC(=O)[C@@H](Cc1ccc(O)cc1)NC(=O)CNC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Histamine H3 receptor antagonists with peptidomimetic (keto)piperazine structures to inhibit Aβ oligomerisation
+  - **Authors:** Falkenstein, Markus; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 50, 116462.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116462](https://doi.org/10.1016/j.bmc.2021.116462)
 
 **Original Text:**
 ```
@@ -14929,10 +14929,10 @@ European Journal of Medicinal Chemistry (2020), 202, 112495.
   - Products: `COC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)CNC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Histamine H3 receptor antagonists with peptidomimetic (keto)piperazine structures to inhibit Aβ oligomerisation
+  - **Authors:** Falkenstein, Markus; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 50, 116462.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116462](https://doi.org/10.1016/j.bmc.2021.116462)
 
 **Original Text:**
 ```
@@ -14973,10 +14973,10 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
   - Products: `COC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Histamine H3 receptor antagonists with peptidomimetic (keto)piperazine structures to inhibit Aβ oligomerisation
+  - **Authors:** Falkenstein, Markus; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 50, 116462.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116462](https://doi.org/10.1016/j.bmc.2021.116462)
 
 **Original Text:**
 ```
@@ -15016,10 +15016,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
   - Products: `COC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Histamine H3 receptor antagonists with peptidomimetic (keto)piperazine structures to inhibit Aβ oligomerisation
+  - **Authors:** Falkenstein, Markus; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 50, 116462.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116462](https://doi.org/10.1016/j.bmc.2021.116462)
 
 **Original Text:**
 ```
@@ -15059,10 +15059,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `O=C(NCCc1ccccc1)c1c[nH]nc1-c1ccc(Cl)c(Cl)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a cryptic site at the interface 2 of TEAD - Towards a new family of YAP/TAZ-TEAD inhibitors
+  - **Authors:** Sturbaut, Manon; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 226, 113835.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113835](https://doi.org/10.1016/j.ejmech.2021.113835)
 
 **Original Text:**
 ```
@@ -15094,10 +15094,10 @@ European Journal of Medicinal Chemistry (2022), 244, 114810.
   - Products: `O=c1cnc2ccccc2[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A Computer-Driven Scaffold-Hopping Approach Generating New PTP1B Inhibitors from the Pyrrolo[1,2-a]quinoxaline Core
+  - **Authors:** Garcia-Marin, Javier; et al
+  - **Citation:** ChemMedChem (2021), 16(18), 2895-2906.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202100338](https://doi.org/10.1002/cmdc.202100338)
 
 **Original Text:**
 ```
@@ -15134,10 +15134,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
   - Products: `COC(=O)CCCCCCCCCCCNC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Biomimetic Macrocyclic Inhibitors of Human Cathepsin D: Structure-Activity Relationship and Binding Mode Analysis
+  - **Authors:** Houstecka, Radka; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01351](https://doi.org/10.1021/acs.jmedchem.9b01351)
 
 **Original Text:**
 ```
@@ -15176,10 +15176,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
   - Products: `COC(=O)CCCCCCCCCCCNC(=O)[C@H](Cc1cccnc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Biomimetic Macrocyclic Inhibitors of Human Cathepsin D: Structure-Activity Relationship and Binding Mode Analysis
+  - **Authors:** Houstecka, Radka; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01351](https://doi.org/10.1021/acs.jmedchem.9b01351)
 
 **Original Text:**
 ```
@@ -15223,10 +15223,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129046.
   - Products: `CCCCCCCC/C=C\CCCCCCCC(=O)Nc1cc2cccnc2c2ncccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of photoactivable phenanthroline-based manganese(I) CO-Releasing molecules (PhotoCORMs) active against ESKAPE bacteria and bacterial biofilms
+  - **Authors:** Toscani, Anita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 213, 113172.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113172](https://doi.org/10.1016/j.ejmech.2021.113172)
 
 **Original Text:**
 ```
@@ -15271,10 +15271,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129066.
   - Products: `COc1ccc2[nH]cc(CCNC(=O)CNC(=O)OC(C)(C)C)c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Melatonin- and Ferulic Acid-Based HDAC6 Selective Inhibitors Exhibit Pronounced Immunomodulatory Effects In Vitro and Neuroprotective Effects in a Pharmacological Alzheimer’s Disease Mouse Model
+  - **Authors:** He, Feng; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(7), 3794-3812.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01940](https://doi.org/10.1021/acs.jmedchem.0c01940)
 
 **Original Text:**
 ```
@@ -15314,10 +15314,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112920.
   - Products: `COC(=O)COc1ccc(-c2nc3ccc(C(=O)Nc4ccccc4N)cc3[nH]2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of DNA-Targeting HDAC Inhibitors with Potent Antitumor Efficacy In Vivo That Trigger Antitumor Immunity
+  - **Authors:** Chen, Chen; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3667-3683.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c02225](https://doi.org/10.1021/acs.jmedchem.1c02225)
 
 **Original Text:**
 ```
@@ -15357,10 +15357,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
   - Products: `CC(C)CNC(=O)c1c(N)cccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (S)-2-(1-(4-Amino-3-(3-fluoro-4-methoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl)propyl)-3-cyclopropyl-5-fluoroquinazolin-4(3H)-one (IHMT-PI3Kδ-372) as a Potent and Selective PI3Kδ Inhibitor for the Treatment of Chronic Obstructive Pulmonary Disease
+  - **Authors:** Li, Feng; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01544](https://doi.org/10.1021/acs.jmedchem.0c01544)
 
 **Original Text:**
 ```
@@ -15397,10 +15397,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
   - Products: `CC(C)NC(=O)c1c(N)cccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (S)-2-(1-(4-Amino-3-(3-fluoro-4-methoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl)propyl)-3-cyclopropyl-5-fluoroquinazolin-4(3H)-one (IHMT-PI3Kδ-372) as a Potent and Selective PI3Kδ Inhibitor for the Treatment of Chronic Obstructive Pulmonary Disease
+  - **Authors:** Li, Feng; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01544](https://doi.org/10.1021/acs.jmedchem.0c01544)
 
 **Original Text:**
 ```
@@ -15442,10 +15442,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
   - Products: `O=C(NCc1ccccc1)c1c(F)cccc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (S)-2-(1-(4-Amino-3-(3-fluoro-4-methoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl)propyl)-3-cyclopropyl-5-fluoroquinazolin-4(3H)-one (IHMT-PI3Kδ-372) as a Potent and Selective PI3Kδ Inhibitor for the Treatment of Chronic Obstructive Pulmonary Disease
+  - **Authors:** Li, Feng; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01544](https://doi.org/10.1021/acs.jmedchem.0c01544)
 
 **Original Text:**
 ```
@@ -15480,10 +15480,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
   - Products: `O=c1nc[nH]c2ccc(Br)cc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and biological evaluation of novel 6-(pyridin-3-yl) quinazolin-4(3H)-one derivatives as potential anticancer agents via PI3K inhibition
+  - **Authors:** Yang, Huarong; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 46, 116346.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116346](https://doi.org/10.1016/j.bmc.2021.116346)
 
 **Original Text:**
 ```
@@ -15519,10 +15519,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112865.
   - Products: `O=C(Nc1ccc(F)cc1)C1(c2ccc(Br)cc2)COC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Oxetane Promise Delivered: Discovery of Long-Acting IDO1 Inhibitors Suitable for Q3W Oral or Parenteral Dosing
+  - **Authors:** Li, Derun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(8), 6001-6016.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01670](https://doi.org/10.1021/acs.jmedchem.1c01670)
 
 **Original Text:**
 ```
@@ -15560,10 +15560,10 @@ ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
   - Products: `O=C(Nc1ccc(Cl)cc1Cl)c1ccc(S(=O)(=O)Nc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-activity relationships of agonists for the orphan G protein-coupled receptor GPR27
+  - **Authors:** Pillaiyar, Thanigaimalai; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 225, 113777.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113777](https://doi.org/10.1016/j.ejmech.2021.113777)
 
 **Original Text:**
 ```
@@ -15600,10 +15600,10 @@ Organic Process Research & Development (2022), 26(2), 365-379.
   - Products: `O=C(Nc1ccccc1)c1ccc(NC(=O)c2ccc(Cl)cc2Cl)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-activity relationships of agonists for the orphan G protein-coupled receptor GPR27
+  - **Authors:** Pillaiyar, Thanigaimalai; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 225, 113777.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113777](https://doi.org/10.1016/j.ejmech.2021.113777)
 
 **Original Text:**
 ```
@@ -15645,10 +15645,10 @@ Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
   - Products: `CNC(=O)c1cc2c(nc1C)[nH]c1ccccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and in vitro protective effect evaluation of α-carboline derivatives against H2O2-induced cardiomyocyte injury
+  - **Authors:** Zhang, Rong-Hong; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 238, 114469.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114469](https://doi.org/10.1016/j.ejmech.2022.114469)
 
 **Original Text:**
 ```
@@ -15687,10 +15687,10 @@ ACS Medicinal Chemistry Letters (2024), 15(11), 2019-2031.
   - Products: `CC(C)(C)OC(=O)NCCC[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)NCCC1CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Targeting NOX2 via p47/phox-p22/phox Inhibition with Novel Triproline Mimetics
+  - **Authors:** Garsi, Jean-Baptiste; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(6), 949-954.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00094](https://doi.org/10.1021/acsmedchemlett.2c00094)
 
 **Original Text:**
 ```
@@ -15729,10 +15729,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
   - Products: `O=C(CNC(=O)c1cc2cccnc2n(Cc2ccc(F)c(F)c2)c1=O)Nc1ccc2c(c1)CC(=O)N2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of potent dual PDK1/AurA kinase inhibitors for cancer therapy: Lead-optimization, structural insights, and ADME-Tox profile
+  - **Authors:** Sestito, Simona; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 226, 113895.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113895](https://doi.org/10.1016/j.ejmech.2021.113895)
 
 **Original Text:**
 ```
@@ -15769,10 +15769,10 @@ Journal of Medicinal Chemistry (2024), 67(4), 2963-2985.
   - Products: `O=c1[nH]c2ccc(F)cc2[nH]c1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Biophysical Survey of Small-Molecule β-Catenin Inhibitors: A Cautionary Tale
+  - **Authors:** McCoy, Michael A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(10), 7246-7261.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00228](https://doi.org/10.1021/acs.jmedchem.2c00228)
 
 **Original Text:**
 ```
@@ -15817,10 +15817,10 @@ European Journal of Medicinal Chemistry (2024), 268, 116263.
   - Products: `COC(=O)[C@H](Cc1ccc(OC)c(OC)c1)NC(=O)Cc1ccc(OC)c(OC)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and optimization of new 6, 7-dihydroxy-1, 2, 3, 4-tetrahydroisoquinoline derivatives as potent influenza virus PAN inhibitors
+  - **Authors:** Liu, Zhihao; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 227, 113929.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113929](https://doi.org/10.1016/j.ejmech.2021.113929)
 
 **Original Text:**
 ```
@@ -15865,10 +15865,10 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
   - Products: `COc1ccnc(C(=O)N[C@@H](C)C(=O)O[C@@H](C)[C@H](Oc2ccccc2)C(C)C)c1O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of florylpicoxamid, a mimic of a macrocyclic natural product
+  - **Authors:** Meyer, Kevin G.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 50, 116455.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116455](https://doi.org/10.1016/j.bmc.2021.116455)
 
 **Original Text:**
 ```
@@ -15911,10 +15911,10 @@ European Journal of Medicinal Chemistry (2021), 213, 113185.
   - Products: `O=c1[nH]c(=O)c2ccccc2[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis of acyclic nucleoside phosphonates targeting flavin-dependent thymidylate synthase in Mycobacterium tuberculosis
+  - **Authors:** Biteau, Nicolas G.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 46, 116351.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116351](https://doi.org/10.1016/j.bmc.2021.116351)
 
 **Original Text:**
 ```
@@ -15958,10 +15958,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 109, 129814.
   - Products: `Cc1ccc2[nH]c(=O)[nH]c(=O)c2c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis of acyclic nucleoside phosphonates targeting flavin-dependent thymidylate synthase in Mycobacterium tuberculosis
+  - **Authors:** Biteau, Nicolas G.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 46, 116351.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116351](https://doi.org/10.1016/j.bmc.2021.116351)
 
 **Original Text:**
 ```
@@ -16000,10 +16000,10 @@ Organic Process Research & Development (2021), 25(4), 960-968.
   - Products: `Cc1cc(C)cc(S(=O)(=O)c2c(C(=O)NCCNC(=O)OC(C)(C)C)[nH]c3ccc(Cl)cc23)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Indolylarylsulfones bearing phenylboronic acid and phenylboronate ester functionalities as potent HIV-1 non-nucleoside reverse transcriptase inhibitors
+  - **Authors:** Xu, Shujing; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 53, 116531.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116531](https://doi.org/10.1016/j.bmc.2021.116531)
 
 **Original Text:**
 ```
@@ -16043,10 +16043,10 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
   - Products: `Cc1cc(C)cc(S(=O)(=O)c2c(C(=O)NCCCNC(=O)OC(C)(C)C)[nH]c3ccc(Cl)cc23)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Indolylarylsulfones bearing phenylboronic acid and phenylboronate ester functionalities as potent HIV-1 non-nucleoside reverse transcriptase inhibitors
+  - **Authors:** Xu, Shujing; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 53, 116531.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116531](https://doi.org/10.1016/j.bmc.2021.116531)
 
 **Original Text:**
 ```
@@ -16087,10 +16087,10 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
   - Products: `Cc1cc(C)cc(S(=O)(=O)c2c(C(=O)NC3CCN(C(=O)OC(C)(C)C)CC3)[nH]c3ccc(Cl)cc23)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Indolylarylsulfones bearing phenylboronic acid and phenylboronate ester functionalities as potent HIV-1 non-nucleoside reverse transcriptase inhibitors
+  - **Authors:** Xu, Shujing; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 53, 116531.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116531](https://doi.org/10.1016/j.bmc.2021.116531)
 
 **Original Text:**
 ```
@@ -16137,10 +16137,10 @@ ACS Medicinal Chemistry Letters (2020), 11(4), 485-490.
   - Products: `Cc1ccc(NC(=O)c2cccc(C(F)(F)F)c2)cc1NC(=O)c1cncc(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Evaluation of carbon-11 labeled 5-(1-methyl-1H-pyrazol-4-yl)-N-(2-methyl-5-(3-(trifluoromethyl)benzamido)phenyl)nicotinamide as PET tracer for imaging of CSF-1R expression in the brain
+  - **Authors:** van der Wildt, Berend; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2021), 42, 116245.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2021.116245](https://doi.org/10.1016/j.bmc.2021.116245)
 
 **Original Text:**
 ```
@@ -16182,10 +16182,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `Cc1nn(COCC[Si](C)(C)C)c(C)c1-c1ccc(NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C2CC2)C2CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of an Oral, Rule of 5 Compliant, Interleukin 17A Protein-Protein Interaction Modulator for the Potential Treatment of Psoriasis and Other Inflammatory Diseases
+  - **Authors:** Andrews, Mark D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00422](https://doi.org/10.1021/acs.jmedchem.2c00422)
 
 **Original Text:**
 ```
@@ -16226,10 +16226,10 @@ ACS Medicinal Chemistry Letters (2021), 12(9), 1380-1388.
   - Products: `Cc1nn(COCC[Si](C)(C)C)c(C)c1-c1ccc(NC(=O)[C@@H](NC(=O)c2ccnn2C(C)C)C(C2CC2)C2CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of an Oral, Rule of 5 Compliant, Interleukin 17A Protein-Protein Interaction Modulator for the Potential Treatment of Psoriasis and Other Inflammatory Diseases
+  - **Authors:** Andrews, Mark D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00422](https://doi.org/10.1021/acs.jmedchem.2c00422)
 
 **Original Text:**
 ```
@@ -16267,10 +16267,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `CNC(=O)c1cnc(Cl)cc1NC(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of BLU-945, a Reversible, Potent, and Wild-Type-Sparing Next-Generation EGFR Mutant Inhibitor for Treatment-Resistant Non-Small-Cell Lung Cancer
+  - **Authors:** Eno, Meredith S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(14), 9662-9677.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00704](https://doi.org/10.1021/acs.jmedchem.2c00704)
 
 **Original Text:**
 ```
@@ -16307,10 +16307,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
   - Products: `CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1)C(=O)NCCCO`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Process Development and GMP Production of a Conjugate Warhead: Auristatin F-HPA-Ala/TFA (XMT-1864/TFA)
+  - **Authors:** Conlon, Patrick R.; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(8), 2124-2137.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00449](https://doi.org/10.1021/acs.oprd.1c00449)
 
 **Original Text:**
 ```
@@ -16354,10 +16354,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - Products: `O=C(Nc1ccc(OC(F)(F)F)cc1)c1cncc(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A kinase inhibitor which specifically targets the ABL myristate pocket (STAMP), but unlike asciminib crosses the blood-brain barrier
+  - **Authors:** Manley, Paul W.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 59, 128577.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.128577](https://doi.org/10.1016/j.bmcl.2022.128577)
 
 **Original Text:**
 ```
@@ -16396,10 +16396,10 @@ Journal of Medicinal Chemistry (2020), 63(22), 13669-13679.
   - Products: `C[C@@H](NC(=O)OC(C)(C)C)C(=O)NCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (R)-N-Benzyl-2-(2,5-dioxopyrrolidin-1-yl)propanamide [(R)-AS-1], a Novel Orally Bioavailable EAAT2 Modulator with Drug-like Properties and Potent Antiseizure Activity In Vivo
+  - **Authors:** Abram, Michal; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00534](https://doi.org/10.1021/acs.jmedchem.2c00534)
 
 **Original Text:**
 ```
@@ -16441,10 +16441,10 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
   - Products: `COc1ccc(NC(=O)c2cccc([N+](=O)[O-])c2)cn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** [11C]CHDI-626, a PET Tracer Candidate for Imaging Mutant Huntingtin Aggregates with Reduced Binding to AD Pathological Proteins
+  - **Authors:** Liu, Longbin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12003-12021.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00667](https://doi.org/10.1021/acs.jmedchem.1c00667)
 
 **Original Text:**
 ```
@@ -16482,10 +16482,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128577.
   - Products: `COc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1I`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Designing Novel BCR-ABL Inhibitors for Chronic Myeloid Leukemia with Improved Cardiac Safety
+  - **Authors:** Pandrala, Mallesh; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01853](https://doi.org/10.1021/acs.jmedchem.1c01853)
 
 **Original Text:**
 ```
@@ -16530,10 +16530,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `Cc1cn(-c2cc(NC(=O)c3cccc(I)c3)cc(C(F)(F)F)c2)cn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Designing Novel BCR-ABL Inhibitors for Chronic Myeloid Leukemia with Improved Cardiac Safety
+  - **Authors:** Pandrala, Mallesh; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01853](https://doi.org/10.1021/acs.jmedchem.1c01853)
 
 **Original Text:**
 ```
@@ -16582,10 +16582,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `Cc1cn(-c2cc(NC(=O)c3ccc(C)c(I)c3)cc(C(F)(F)F)c2)cn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Designing Novel BCR-ABL Inhibitors for Chronic Myeloid Leukemia with Improved Cardiac Safety
+  - **Authors:** Pandrala, Mallesh; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01853](https://doi.org/10.1021/acs.jmedchem.1c01853)
 
 **Original Text:**
 ```
@@ -16626,10 +16626,10 @@ Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
   - Products: `O=C1CCC(N2Cc3cc(CNC(=O)C(F)(F)c4ccc(Cl)cc4)ccc3C2=O)C(=O)N1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Advancing Scalable Chemistry toward Novel CELMoDs: Process Development for the Synthesis of CC-90009
+  - **Authors:** Zacuto, Michael J.; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(9), 2739-2748.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00199](https://doi.org/10.1021/acs.oprd.2c00199)
 
 **Original Text:**
 ```
@@ -16674,10 +16674,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `CN1CCC[C@@H](NC(=O)c2cc3c(Cl)cccc3s2)C1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Preparation of Enantiopure 3-Aminopiperidine and 3-Aminoazepane Derivatives from Ornithine and Lysine. Consecutive Syntheses of Pharmacologically Active Analogs, Such as Besifloxacin
+  - **Authors:** Schiffers, Ingo; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(10), 2811-2822.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00152](https://doi.org/10.1021/acs.oprd.2c00152)
 
 **Original Text:**
 ```
@@ -16723,10 +16723,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129034.
   - Products: `O=C(N[C@@H]1CCCN(Cc2ccccc2)C1)c1cc2cccc(Br)c2s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Preparation of Enantiopure 3-Aminopiperidine and 3-Aminoazepane Derivatives from Ornithine and Lysine. Consecutive Syntheses of Pharmacologically Active Analogs, Such as Besifloxacin
+  - **Authors:** Schiffers, Ingo; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(10), 2811-2822.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00152](https://doi.org/10.1021/acs.oprd.2c00152)
 
 **Original Text:**
 ```
@@ -16766,10 +16766,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `COc1cc(NC(=O)[C@@H](CC(C)C)NC(=O)OC(C)(C)C)ccc1Br`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery, Structure-Activity Relationships, and In Vivo Evaluation of Novel Aryl Amides as Brain Penetrant Adaptor Protein 2-Associated Kinase 1 (AAK1) Inhibitors for the Treatment of Neuropathic Pain
+  - **Authors:** Hartz, Richard A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00472](https://doi.org/10.1021/acs.jmedchem.1c00472)
 
 **Original Text:**
 ```
@@ -16812,10 +16812,10 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
   - Products: `CC(C)C[C@@H](NC(=O)OC(C)(C)C)C(=O)Nc1ccc(-c2cnco2)c(Br)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery, Structure-Activity Relationships, and In Vivo Evaluation of Novel Aryl Amides as Brain Penetrant Adaptor Protein 2-Associated Kinase 1 (AAK1) Inhibitors for the Treatment of Neuropathic Pain
+  - **Authors:** Hartz, Richard A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00472](https://doi.org/10.1021/acs.jmedchem.1c00472)
 
 **Original Text:**
 ```
@@ -16851,10 +16851,10 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
   - Products: `C[C@H](NC(=O)OC(C)(C)C)C(=O)NCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (R)-N-Benzyl-2-(2,5-dioxopyrrolidin-1-yl)propanamide [(R)-AS-1], a Novel Orally Bioavailable EAAT2 Modulator with Drug-like Properties and Potent Antiseizure Activity In Vivo
+  - **Authors:** Abram, Michal; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00534](https://doi.org/10.1021/acs.jmedchem.2c00534)
 
 **Original Text:**
 ```
@@ -16891,10 +16891,10 @@ Journal of Medicinal Chemistry (2020), 63(1), 295-308.
   - Products: `C[C@@H](NC(=O)OC(C)(C)C)C(=O)NCc1ccccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (R)-N-Benzyl-2-(2,5-dioxopyrrolidin-1-yl)propanamide [(R)-AS-1], a Novel Orally Bioavailable EAAT2 Modulator with Drug-like Properties and Potent Antiseizure Activity In Vivo
+  - **Authors:** Abram, Michal; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00534](https://doi.org/10.1021/acs.jmedchem.2c00534)
 
 **Original Text:**
 ```
@@ -16934,10 +16934,10 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
   - Products: `C[C@H](NC(=O)OC(C)(C)C)C(=O)NCc1ccccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (R)-N-Benzyl-2-(2,5-dioxopyrrolidin-1-yl)propanamide [(R)-AS-1], a Novel Orally Bioavailable EAAT2 Modulator with Drug-like Properties and Potent Antiseizure Activity In Vivo
+  - **Authors:** Abram, Michal; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00534](https://doi.org/10.1021/acs.jmedchem.2c00534)
 
 **Original Text:**
 ```
@@ -16975,10 +16975,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
   - Products: `C[C@@H]1CN(c2sc(C(F)(F)F)nc2C(=O)Nc2ccccc2N)CCN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Pharmacological Evaluation of Benzimidazolo-thiazoles as Potent CXCR3 Antagonists with Therapeutic Potential in Autoimmune Diseases: Discovery of ACT-672125
+  - **Authors:** Caroff, Eva; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00676](https://doi.org/10.1021/acs.jmedchem.2c00676)
 
 **Original Text:**
 ```
@@ -17017,10 +17017,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 100, 129629.
   - Products: `C[C@@H]1CN(c2sc(C(F)(F)F)nc2C(=O)Nc2ccccc2O)CCN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Pharmacological Evaluation of Benzimidazolo-thiazoles as Potent CXCR3 Antagonists with Therapeutic Potential in Autoimmune Diseases: Discovery of ACT-672125
+  - **Authors:** Caroff, Eva; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00676](https://doi.org/10.1021/acs.jmedchem.2c00676)
 
 **Original Text:**
 ```
@@ -17061,10 +17061,10 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
   - Products: `CC(C)(C)NS(=O)(=O)c1cccc(NC(=O)c2ccc(F)nc2F)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Targeting the Mitotic Kinesin KIF18A in Chromosomally Unstable Cancers: Hit Optimization Toward an In Vivo Chemical Probe
+  - **Authors:** Tamayo, Nuria A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(6), 4972-4990.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c02030](https://doi.org/10.1021/acs.jmedchem.1c02030)
 
 **Original Text:**
 ```
@@ -17109,10 +17109,10 @@ European Journal of Medicinal Chemistry (2022), 227, 113929.
   - Products: `N#Cc1cccc(-n2nc(C(F)(F)F)cc2C(=O)Nc2cc(F)cc(CO)c2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Berotralstat (BCX7353): Structure-Guided Design of a Potent, Selective, and Oral Plasma Kallikrein Inhibitor to Prevent Attacks of Hereditary Angioedema (HAE)
+  - **Authors:** Kotian, Pravin L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(17), 12453-12468.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00511](https://doi.org/10.1021/acs.jmedchem.1c00511)
 
 **Original Text:**
 ```
@@ -17155,10 +17155,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `CC(C)(C)OC(=O)NC(CNC(=O)CCCc1ccccc1)(CNC(=O)CCCc1ccccc1)CNC(=O)CCCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A Mitochondria-Targeted Phenylbutyric Acid Prodrug Confers Drastically Improved Anticancer Activities
+  - **Authors:** Huang, Ding; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(14), 9955-9973.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00640](https://doi.org/10.1021/acs.jmedchem.2c00640)
 
 **Original Text:**
 ```
@@ -17197,10 +17197,10 @@ European Journal of Medicinal Chemistry (2023), 259, 115716.
   - Products: `CCc1cccc(CC)c1NC(=O)c1cc(-c2nc(Cl)nc3c2ccn3COCC[Si](C)(C)C)n(C)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-Guided Optimization Provides a Series of TTK Protein Inhibitors with Potent Antitumor Activity
+  - **Authors:** Elsner, Jan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(17), 12670-12679.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00635](https://doi.org/10.1021/acs.jmedchem.1c00635)
 
 **Original Text:**
 ```
@@ -17238,10 +17238,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `C=CCCCCC[C@H](NC(=O)OC(C)(C)C)C(=O)N1C[C@H](Oc2nc3cc(OC)ccc3nc2C)C[C@H]1C(=O)N[C@]1(C(=O)NS(=O)(=O)C2(C)CC2)C[C@H]1C=C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Quinoxaline-Based P1-P3 Macrocyclic NS3/4A Protease Inhibitors with Potent Activity against Drug-Resistant Hepatitis C Virus Variants
+  - **Authors:** Nageswara Rao, Desaboini; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 11972-11989.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00554](https://doi.org/10.1021/acs.jmedchem.1c00554)
 
 **Original Text:**
 ```
@@ -17287,10 +17287,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127106.
   - Products: `CCOC(=O)CC[C@@H](NC(=O)[C@H](COCc1ccccc1)NC(=O)OC(C)(C)C)C(=O)OCC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structural Fine-Tuning of Desmuramylpeptide NOD2 Agonists Defines Their In Vivo Adjuvant Activity
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00644](https://doi.org/10.1021/acs.jmedchem.1c00644)
 
 **Original Text:**
 ```
@@ -17337,10 +17337,10 @@ ChemMedChem (2023), 18(15), e202300160.
   - Products: `CCOC(=O)CC[C@@H](NC(=O)[C@H](COCc1ccccc1)NC(=O)CNC(=O)OC(C)(C)C)C(=O)OCC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structural Fine-Tuning of Desmuramylpeptide NOD2 Agonists Defines Their In Vivo Adjuvant Activity
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00644](https://doi.org/10.1021/acs.jmedchem.1c00644)
 
 **Original Text:**
 ```
@@ -17378,10 +17378,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `C=CC[C@H](NC(=O)OC(C)(C)C)c1cc(-c2c(NC(=O)[C@H](C)C=C)cnn2C(F)F)ccn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Milvexian, a High-Affinity, Orally Bioavailable Inhibitor of Factor XIa in Clinical Studies for Antithrombotic Therapy
+  - **Authors:** Dilger, Andrew K.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(3), 1770-1785.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00613](https://doi.org/10.1021/acs.jmedchem.1c00613)
 
 **Original Text:**
 ```
@@ -17426,10 +17426,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccc(O)c(O)c1)S(=O)(=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17473,10 +17473,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccc(O)cc1O)S(=O)(=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17520,10 +17520,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 1914-1931.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccccc1O)S(=O)(=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17572,10 +17572,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `COc1ccc(C(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c2ccc([N+](=O)[O-])cc2)c(O)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17619,10 +17619,10 @@ Journal of Medicinal Chemistry (2023), 66(23), 15750-15760.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccc(O)cc1O)S(=O)(=O)c1ccc(C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17669,10 +17669,10 @@ Journal of Medicinal Chemistry (2023), 66(7), 4768-4783.
   - Products: `COc1ccc(C(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c2ccc(C(F)(F)F)cc2)c(O)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17716,10 +17716,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
   - Products: `COc1cc(C(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c2ccc(C(F)(F)F)cc2)cc(OC)c1O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17767,10 +17767,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cc(O)cc(O)c1)S(=O)(=O)c1ccc(C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17817,10 +17817,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccccc1O)S(=O)(=O)c1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17867,10 +17867,10 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccc(O)cc1O)S(=O)(=O)c1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17914,10 +17914,10 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cc(O)cc(O)c1)S(=O)(=O)c1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -17961,10 +17961,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129083.
   - Products: `COc1cc(C(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c2ccc(F)cc2)cc(OC)c1O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -18010,10 +18010,10 @@ Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
   - Products: `COc1ccc(C(=O)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c2ccc(F)cc2)c(O)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -18059,10 +18059,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1ccc(Cl)cc1O)S(=O)(=O)c1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A kind of HIV-1 protease inhibitors containing phenols with antiviral activity against DRV-resistant variants
+  - **Authors:** Hu, Shangjiu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 64, 116760.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116760](https://doi.org/10.1016/j.bmc.2022.116760)
 
 **Original Text:**
 ```
@@ -18100,10 +18100,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
   - Products: `[2H]C([2H])([2H])NC(=O)c1nnc(Cl)cc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel TYK2 Inhibitors with an N-(Methyl-d3)pyridazine-3-carboxamide Skeleton for the Treatment of Autoimmune Diseases
+  - **Authors:** Liu, Fei; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(11), 1730-1738.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00334](https://doi.org/10.1021/acsmedchemlett.2c00334)
 
 **Original Text:**
 ```
@@ -18140,10 +18140,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
   - Products: `Cc1ccc(F)c2cc(C(=O)N[C@@H]3CCC[C@@H](O)C3)[nH]c12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a First-in-Class Inhibitor of the Histone Methyltransferase SETD2 Suitable for Preclinical Studies
+  - **Authors:** Lampe, John W.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(10), 1539-1545.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00272](https://doi.org/10.1021/acsmedchemlett.1c00272)
 
 **Original Text:**
 ```
@@ -18186,10 +18186,10 @@ Journal of Medicinal Chemistry (2022), 65(22), 15473-15486.
   - Products: `COC(=O)c1ccc(C(C)NC(=O)c2cc(-c3ccccc3)n[nH]2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of a Selective Dual Discoidin Domain Receptor (DDR)/p38 Kinase Chemical Probe
+  - **Authors:** Roehm, Sandra; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(18), 13451-13474.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00868](https://doi.org/10.1021/acs.jmedchem.1c00868)
 
 **Original Text:**
 ```
@@ -18232,10 +18232,10 @@ Organic Process Research & Development (2022), 26(10), 2811-2822.
   - Products: `C=CC[C@H](OC(=O)[C@H](CC(C)(C)C)NC(=O)C(C)(C)[C@H](C)NC(=O)[C@@H](Cc1ccc(OC)c(Cl)c1)NC(=O)C=C)[C@H](C)COCc1ccc(OC)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fit-for-Purpose Synthesis of an Aza-Cryptophycin Analogue as the Payload for an Antibody-Drug Conjugate
+  - **Authors:** Bendelac, Audrey; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(8), 2145-2154.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00080](https://doi.org/10.1021/acs.oprd.2c00080)
 
 **Original Text:**
 ```
@@ -18272,10 +18272,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
   - Products: `O=c1[nH]c(=O)c2ccccc2[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** High ligand efficiency quinazoline compounds as novel A2A adenosine receptor antagonists
+  - **Authors:** Bolteau, Raphael; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 241, 114620.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114620](https://doi.org/10.1016/j.ejmech.2022.114620)
 
 **Original Text:**
 ```
@@ -18311,10 +18311,10 @@ Bioorganic & Medicinal Chemistry (2021), 46, 116351.
   - Products: `O=c1[nH]c(=O)c2cc(Br)ccc2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** High ligand efficiency quinazoline compounds as novel A2A adenosine receptor antagonists
+  - **Authors:** Bolteau, Raphael; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 241, 114620.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114620](https://doi.org/10.1016/j.ejmech.2022.114620)
 
 **Original Text:**
 ```
@@ -18358,10 +18358,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
   - Products: `CCN(CC)C1=CC2OC3=CC(=[N+](CC)CC)C=CC3=C(c3ccccc3C(=O)NCCCCNC(=O)CSSCC(=O)O)C2C=C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Tumor-microenvironmental-response Bi-functional molecules for efficient imaging and anti-tumor activity therapy
+  - **Authors:** Wang, Jin; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 230, 114120.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114120](https://doi.org/10.1016/j.ejmech.2022.114120)
 
 **Original Text:**
 ```
@@ -18402,10 +18402,10 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
   - Products: `CC(C)(C)OC(=O)N1CCN(c2ccc(C(=O)N[C@H]3CC[C@H](Oc4ccc(C#N)c(Cl)c4)CC3)cc2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of ARD-2585 as an Exceptionally Potent and Orally Active PROTAC Degrader of Androgen Receptor for the Treatment of Advanced Prostate Cancer
+  - **Authors:** Xiang, Weiguo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00900](https://doi.org/10.1021/acs.jmedchem.1c00900)
 
 **Original Text:**
 ```
@@ -18446,10 +18446,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
   - Products: `CN(c1ccc(C#N)c(Cl)c1)[C@H]1CC[C@H](NC(=O)c2ccc(N3CCC(N4CCN(C(=O)OC(C)(C)C)CC4)CC3)cc2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of ARD-2585 as an Exceptionally Potent and Orally Active PROTAC Degrader of Androgen Receptor for the Treatment of Advanced Prostate Cancer
+  - **Authors:** Xiang, Weiguo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00900](https://doi.org/10.1021/acs.jmedchem.1c00900)
 
 **Original Text:**
 ```
@@ -18490,10 +18490,10 @@ Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
   - Products: `C[C@H](NC(=O)c1cc(F)cc(C#N)c1)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** The Invention of WM382, a Highly Potent PMIX/X Dual Inhibitor toward the Treatment of Malaria
+  - **Authors:** de Lera Ruiz, Manuel; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00355](https://doi.org/10.1021/acsmedchemlett.2c00355)
 
 **Original Text:**
 ```
@@ -18537,10 +18537,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
   - Products: `C[C@H](NC(=O)c1cccc(C=O)c1)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** The Invention of WM382, a Highly Potent PMIX/X Dual Inhibitor toward the Treatment of Malaria
+  - **Authors:** de Lera Ruiz, Manuel; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00355](https://doi.org/10.1021/acsmedchemlett.2c00355)
 
 **Original Text:**
 ```
@@ -18584,10 +18584,10 @@ Journal of Medicinal Chemistry (2020), 63(8), 3956-3975.
   - Products: `CCC1(CC)CC(=O)N([C@@H]2CCOc3ccc(C(=O)N[C@H]4CC(C)(C)Oc5ccccc54)cc32)C(NC(=O)OC(C)(C)C)=N1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** The Invention of WM382, a Highly Potent PMIX/X Dual Inhibitor toward the Treatment of Malaria
+  - **Authors:** de Lera Ruiz, Manuel; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00355](https://doi.org/10.1021/acsmedchemlett.2c00355)
 
 **Original Text:**
 ```
@@ -18635,10 +18635,10 @@ ChemMedChem (2023), 18(8), e202200615.
   - Products: `O=C(Nc1cccc([N+](=O)[O-])c1)c1cc(F)cc(F)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and anti-tumor efficacy of novel phenyl thiazole/triazole derivatives as selective TrkA inhibitors
+  - **Authors:** Wang, Xinyu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 72, 116995.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116995](https://doi.org/10.1016/j.bmc.2022.116995)
 
 **Original Text:**
 ```
@@ -18689,10 +18689,10 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
   - Products: `CC(=O)c1cccc(NC(=O)c2cc(F)cc(F)c2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and anti-tumor efficacy of novel phenyl thiazole/triazole derivatives as selective TrkA inhibitors
+  - **Authors:** Wang, Xinyu; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 72, 116995.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.116995](https://doi.org/10.1016/j.bmc.2022.116995)
 
 **Original Text:**
 ```
@@ -18737,10 +18737,10 @@ ACS Medicinal Chemistry Letters (2021), 12(2), 217-227.
   - Products: `O=C(Nc1cccc([N+](=O)[O-])c1)c1cc(F)cc(F)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Fragment-based discovery of novel phenyltriazolyl derivatives as allosteric type ALK inhibitors with promising antitumor effects
+  - **Authors:** Cui, Youbao; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 75, 128990.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.128990](https://doi.org/10.1016/j.bmcl.2022.128990)
 
 **Original Text:**
 ```
@@ -18786,10 +18786,10 @@ Bioorganic & Medicinal Chemistry (2022), 72, 116995.
   - Products: `N#Cc1cccc(-n2nc(C(F)(F)F)cc2C(=O)Nc2cccc(C(O)(CCC3CC3)c3cccnc3)c2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and optimization of orally bioavailable and potent plasma Kallikrein inhibitors bearing a quaternary carbon
+  - **Authors:** Zhang, Weihe; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2022), 73, 117035.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.117035](https://doi.org/10.1016/j.bmc.2022.117035)
 
 **Original Text:**
 ```
@@ -18831,10 +18831,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
   - Products: `COC(=O)c1ccccc1NC(=O)[C@H](CCCCNC(=O)OC(C)(C)C)NC(=O)[C@@H]1CCCN1C(=O)Cc1cccc2ccccc12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and characterization of PROTAC degraders specific to protein N-terminal methyltransferase 1
+  - **Authors:** Zhou, Qilong; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 244, 114830.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114830](https://doi.org/10.1016/j.ejmech.2022.114830)
 
 **Original Text:**
 ```
@@ -18873,10 +18873,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 47, 128113.
   - Products: `COC(=O)c1ccccc1NC(=O)[C@H](CCCCNC(=O)OC(C)(C)C)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and characterization of PROTAC degraders specific to protein N-terminal methyltransferase 1
+  - **Authors:** Zhou, Qilong; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 244, 114830.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114830](https://doi.org/10.1016/j.ejmech.2022.114830)
 
 **Original Text:**
 ```
@@ -18913,10 +18913,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
   - Products: `O=c1[nH]c(=S)[nH]c2cnccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and anti-tumor activity studies of novel pyrido[3, 4-d]pyrimidine derivatives
+  - **Authors:** Guo, Wen-Ge; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 76, 129020.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.129020](https://doi.org/10.1016/j.bmcl.2022.129020)
 
 **Original Text:**
 ```
@@ -18960,10 +18960,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14358-14376.
   - Products: `O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(Cl)c(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and characterization of novel potent BCR-ABL degraders by conjugating allosteric inhibitor
+  - **Authors:** Liu, Haixia; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 244, 114810.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114810](https://doi.org/10.1016/j.ejmech.2022.114810)
 
 **Original Text:**
 ```
@@ -19007,10 +19007,10 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
   - Products: `CC1(C)OB(c2ccc(NC(=O)c3ccccc3)cc2)OC1(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Boronic Acid: A Novel Pharmacophore Targeting Src Homology 2 (SH2) Domain of STAT3
+  - **Authors:** Deng, Lin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(19), 13094-13111.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00940](https://doi.org/10.1021/acs.jmedchem.2c00940)
 
 **Original Text:**
 ```
@@ -19051,10 +19051,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
   - Products: `Cn1cc(C(=O)N[C@@H]2CCc3cc(C#N)ccc32)cn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Aficamten (CK-274), a Next-Generation Cardiac Myosin Inhibitor for the Treatment of Hypertrophic Cardiomyopathy
+  - **Authors:** Chuang, Chihyuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01290](https://doi.org/10.1021/acs.jmedchem.1c01290)
 
 **Original Text:**
 ```
@@ -19093,10 +19093,10 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
   - Products: `CCc1nc(-c2ccc3c(c2)CC[C@H]3NC(=O)c2cnn(C)c2)no1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Aficamten (CK-274), a Next-Generation Cardiac Myosin Inhibitor for the Treatment of Hypertrophic Cardiomyopathy
+  - **Authors:** Chuang, Chihyuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01290](https://doi.org/10.1021/acs.jmedchem.1c01290)
 
 **Original Text:**
 ```
@@ -19140,10 +19140,10 @@ Bioorganic & Medicinal Chemistry (2021), 46, 116351.
   - Products: `Cn1cc(C(=O)N[C@@H]2CCc3cc(C#N)ccc32)cn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Aficamten (CK-274), a Next-Generation Cardiac Myosin Inhibitor for the Treatment of Hypertrophic Cardiomyopathy
+  - **Authors:** Chuang, Chihyuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01290](https://doi.org/10.1021/acs.jmedchem.1c01290)
 
 **Original Text:**
 ```
@@ -19186,10 +19186,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
   - Products: `CCc1nc(-c2ccc3c(c2)CC[C@H]3NC(=O)c2ccnc(C)c2)no1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Aficamten (CK-274), a Next-Generation Cardiac Myosin Inhibitor for the Treatment of Hypertrophic Cardiomyopathy
+  - **Authors:** Chuang, Chihyuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01290](https://doi.org/10.1021/acs.jmedchem.1c01290)
 
 **Original Text:**
 ```
@@ -19229,10 +19229,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
   - Products: `C=CCOC(=O)NCCCC[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)Nc1ccc(CO)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Long-Acting Tumor-Activated Prodrug of a TGFβR Inhibitor
+  - **Authors:** Zhang, Yong; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(21), 15787-15798.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02043](https://doi.org/10.1021/acs.jmedchem.0c02043)
 
 **Original Text:**
 ```
@@ -19274,10 +19274,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
   - Products: `CCOc1cccnc1O[C@@H]1CCCN(c2ncc(C(=O)NC(C)(C)CO)cn2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Ervogastat (PF-06865571): A Potent and Selective Inhibitor of Diacylglycerol Acyltransferase 2 for the Treatment of Non-alcoholic Steatohepatitis
+  - **Authors:** Futatsugi, Kentaro; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(22), 15000-15013.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01200](https://doi.org/10.1021/acs.jmedchem.2c01200)
 
 **Original Text:**
 ```
@@ -19317,10 +19317,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `C#CCCCCNC(=O)[C@H](CCCCN=C(NC(=O)OC(C)(C)C)NC(=O)OC(C)(C)C)NC(=O)[C@H](CCCCN=C(NC(=O)OC(C)(C)C)NC(=O)OC(C)(C)C)NC(=O)[C@H](CCCCN=C(NC(=O)OC(C)(C)C)NC(=O)OC(C)(C)C)NC(=O)[C@H](CCCCN=C(NC(=O)OC(C)(C)C)NC(=O)OC(C)(C)C)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Pillar[5]arene-Based Polycationic Glyco[2]rotaxanes Designed as Pseudomonas aeruginosa Antibiofilm Agents
+  - **Authors:** Mohy El Dine, Tharwat; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14728-14744.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01241](https://doi.org/10.1021/acs.jmedchem.1c01241)
 
 **Original Text:**
 ```
@@ -19364,10 +19364,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `CC(C)(C)OC(=O)NC1=N[C@](C)(c2nc(NC(=O)c3ncc(C(F)(F)F)cc3Cl)ccc2F)CO[C@@]1(C)C(F)(F)F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Umibecestat (CNP520): A Potent, Selective, and Efficacious β-Secretase (BACE1) Inhibitor for the Prevention of Alzheimer’s Disease
+  - **Authors:** Machauer, Rainer; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(20), 15262-15279.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01300](https://doi.org/10.1021/acs.jmedchem.1c01300)
 
 **Original Text:**
 ```
@@ -19411,10 +19411,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
   - Products: `C/C=C(\NC(=O)c1csc(CNC(=O)OC(C)(C)C)n1)C(=O)N[C@@H](CCCCNC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O[C@H](/C=C/CCSC(c1ccccc1)(c1ccccc1)c1ccccc1)CC(=O)OCC[Si](C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-Based Design of a Selective Class I Histone Deacetylase (HDAC) Near-Infrared (NIR) Probe for Epigenetic Regulation Detection in Triple-Negative Breast Cancer (TNBC)
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(7), 4020-4033.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02161](https://doi.org/10.1021/acs.jmedchem.0c02161)
 
 **Original Text:**
 ```
@@ -19456,10 +19456,10 @@ Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
   - Products: `NC(=O)c1ccccc1NC(=O)c1ccccn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Collaborative Virtual Screening Identifies a 2-Aryl-4-aminoquinazoline Series with Efficacy in an In Vivo Model of Trypanosoma cruzi Infection
+  - **Authors:** Tawaraishi, Taisuke; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(2), 1221-1238.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00775](https://doi.org/10.1021/acs.jmedchem.2c00775)
 
 **Original Text:**
 ```
@@ -19497,10 +19497,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COc1ccc2c(c1)C(c1ccc(Cl)cc1)=N[C@@H]([C@@H](C)C(=O)NCCOCCOCCNC(=O)OC(C)(C)C)c1nnc(C)n1-2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-Guided Design of a “Bump-and-Hole” Bromodomain-Based Degradation Tag
+  - **Authors:** Nowak, Radoslaw P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(15), 11637-11650.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00958](https://doi.org/10.1021/acs.jmedchem.1c00958)
 
 **Original Text:**
 ```
@@ -19538,10 +19538,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
   - Products: `CC(C)(C(=O)NCCc1ccccc1)c1ccccc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-activity relationship study of 4,5-didehydroguadiscine, an aporphine alkaloid showing potent melanogenesis-inhibitory activity in B16 melanoma cells
+  - **Authors:** Takashima, Katsuki; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 78, 129034.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.129034](https://doi.org/10.1016/j.bmcl.2022.129034)
 
 **Original Text:**
 ```
@@ -19581,10 +19581,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `COc1cccc(CCNC(=O)C(C)(C)c2cc(OC)ccc2[N+](=O)[O-])c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-activity relationship study of 4,5-didehydroguadiscine, an aporphine alkaloid showing potent melanogenesis-inhibitory activity in B16 melanoma cells
+  - **Authors:** Takashima, Katsuki; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 78, 129034.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.129034](https://doi.org/10.1016/j.bmcl.2022.129034)
 
 **Original Text:**
 ```
@@ -19620,10 +19620,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `CNC(=O)c1ccc2c(n1)CCN(C(=O)OC(C)(C)C)C2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and in vitro biological evaluation of 3-ethyl-1,5-naphthyridin-2(1H)-one derivatives as potent PARP-1 selective inhibitors and PARP-1 DNA trappers
+  - **Authors:** Ren, Junkang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2022), 78, 129046.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.129046](https://doi.org/10.1016/j.bmcl.2022.129046)
 
 **Original Text:**
 ```
@@ -19663,10 +19663,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `O=C(Nc1ccccn1)c1ccc(B(O)O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of Commercial Manufacturing Processes for Acalabrutinib
+  - **Authors:** Bethel, Paul A.; et al
+  - **Citation:** Organic Process Research & Development (2022), 26(12), 3303-3311.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00304](https://doi.org/10.1021/acs.oprd.2c00304)
 
 **Original Text:**
 ```
@@ -19707,10 +19707,10 @@ Organic Process Research & Development (2024), 28(2), 559-576.
   - Products: `Cc1ccc(C(=O)NCCO)cc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Orally Bioavailable N-Benzylpiperidinol Derivatives as Potent and Selective USP7 Inhibitors with In Vivo Antitumor Immunity Activity against Colon Cancer
+  - **Authors:** Li, Xing; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(24), 16622-16639.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01444](https://doi.org/10.1021/acs.jmedchem.2c01444)
 
 **Original Text:**
 ```
@@ -19752,10 +19752,10 @@ ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
   - Products: `CC(C)C[C@H](NC(=O)OC(C)(C)C)C(=O)NC/C=C/C(=O)N(Cc1ccccc1)Cc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** An Activity-Based Probe for Cathepsin K Imaging with Excellent Potency and Selectivity
+  - **Authors:** Lemke, Carina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(18), 13793-13806.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01178](https://doi.org/10.1021/acs.jmedchem.1c01178)
 
 **Original Text:**
 ```
@@ -19811,10 +19811,10 @@ Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
   - Products: `O=C(Nc1ccn(-c2ccnc(F)c2)n1)C1(c2ccccc2F)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Optimization of Pyrazole Amides as Inhibitors of ELOVL1
+  - **Authors:** Come, Jon H.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(24), 17753-17776.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00944](https://doi.org/10.1021/acs.jmedchem.1c00944)
 
 **Original Text:**
 ```
@@ -19866,10 +19866,10 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
   - Products: `CCOC(=O)CC[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)OC(C)(C)C)C(C)C)C(=O)OCC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Covalently Conjugated NOD2/TLR7 Agonists Are Potent and Versatile Immune Potentiators
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00808](https://doi.org/10.1021/acs.jmedchem.2c00808)
 
 **Original Text:**
 ```
@@ -19917,10 +19917,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
   - Products: `CCOC(=O)[C@@H](CCC(=O)OCc1ccccc1)NC(=O)[C@@H](NC(=O)CNC(=O)OC(C)(C)C)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Covalently Conjugated NOD2/TLR7 Agonists Are Potent and Versatile Immune Potentiators
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00808](https://doi.org/10.1021/acs.jmedchem.2c00808)
 
 **Original Text:**
 ```
@@ -19970,10 +19970,10 @@ European Journal of Medicinal Chemistry (2021), 213, 113172.
   - Products: `CCOC(=O)[C@@H](CCC(=O)OCc1ccccc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Covalently Conjugated NOD2/TLR7 Agonists Are Potent and Versatile Immune Potentiators
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00808](https://doi.org/10.1021/acs.jmedchem.2c00808)
 
 **Original Text:**
 ```
@@ -20011,10 +20011,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 11126-11149.
   - Products: `C[C@@H](C(=O)Nc1ccc(Cl)cc1)[C@H]1CC[C@@H](c2ccnc3ccc(F)cc32)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Identification and Characterization of a Novel Indoleamine 2,3-Dioxygenase 1 Protein Degrader for Glioblastoma
+  - **Authors:** Bollu, Lakshmi R.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00771](https://doi.org/10.1021/acs.jmedchem.2c00771)
 
 **Original Text:**
 ```
@@ -20053,10 +20053,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3388-3403.
   - Products: `C[C@@H](C(=O)Nc1ccc(OC2CCN(C(=O)OC(C)(C)C)CC2)cc1)[C@H]1CC[C@@H](c2ccnc3ccc(F)cc32)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification and Characterization of a Novel Indoleamine 2,3-Dioxygenase 1 Protein Degrader for Glioblastoma
+  - **Authors:** Bollu, Lakshmi R.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00771](https://doi.org/10.1021/acs.jmedchem.2c00771)
 
 **Original Text:**
 ```
@@ -20102,10 +20102,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1770-1785.
   - Products: `N=C(N)NCCCC[C@H](NC(=O)CCS)C(=O)NCC(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CS)C(N)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** An optimized safe process from bench to pilot cGMP production of API eptifibatide using a multigram-scale microwave-assisted solid-phase peptide synthesizer
+  - **Authors:** D’Ercole, Annunziata; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(12), 2754-2771.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00368](https://doi.org/10.1021/acs.oprd.1c00368)
 
 **Original Text:**
 ```
@@ -20168,10 +20168,10 @@ European Journal of Medicinal Chemistry (2023), 258, 115568.
   - Products: `CNC(=O)c1cccc(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Cancer-Cell-Selective Targeting by Arylcyclopropylamine-Vorinostat Conjugates
+  - **Authors:** Ota, Yosuke; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(10), 1568-1573.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00126](https://doi.org/10.1021/acsmedchemlett.2c00126)
 
 **Original Text:**
 ```
@@ -20211,10 +20211,10 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
   - Products: `C[C@H](NC(=O)OC(C)(C)C)C(=O)NCC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Lectin-Targeted Prodrugs Activated by Pseudomonas aeruginosa for Self-Destructive Antibiotic Release
+  - **Authors:** Meiers, Joscha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01214](https://doi.org/10.1021/acs.jmedchem.2c01214)
 
 **Original Text:**
 ```
@@ -20252,10 +20252,10 @@ Journal of Medicinal Chemistry (2023), 66(2), 1221-1238.
   - Products: `CC(C)C[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@@H](C)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Lectin-Targeted Prodrugs Activated by Pseudomonas aeruginosa for Self-Destructive Antibiotic Release
+  - **Authors:** Meiers, Joscha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01214](https://doi.org/10.1021/acs.jmedchem.2c01214)
 
 **Original Text:**
 ```
@@ -20296,10 +20296,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - Products: `CC(C)[C@H](NC(=O)[C@H](CCC(=O)OC(C)(C)C)NC(=O)CCCCCN1C(=O)C=CC1=O)C(=O)O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Enhancing the Safety and Efficacy of PSMA-Based Small-Molecule Drug Conjugates by Linker Stabilization and Conjugation to Transthyretin Binding Ligand
+  - **Authors:** Amin, Toufiq Ul; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(22), 15473-15486.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01423](https://doi.org/10.1021/acs.jmedchem.2c01423)
 
 **Original Text:**
 ```
@@ -20347,10 +20347,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `CNC(=O)c1cnc(Cl)cc1Nc1cccc(C(=O)NC)c1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a potent and subtype-selective TYK2 degrader based on an allosteric TYK2 inhibitor
+  - **Authors:** Kato, Jun-ya; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 79, 129083.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.129083](https://doi.org/10.1016/j.bmcl.2022.129083)
 
 **Original Text:**
 ```
@@ -20388,10 +20388,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
   - Products: `O=c1nc[nH]c2ccc(F)cc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Second generation Spautin-1 analogues targeting EGFR-mutant non-small cell lung cancer cells
+  - **Authors:** Elsocht, Mathias; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 79, 129066.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.129066](https://doi.org/10.1016/j.bmcl.2022.129066)
 
 **Original Text:**
 ```
@@ -20433,10 +20433,10 @@ Bioorganic & Medicinal Chemistry (2024), 100, 117618.
   - Products: `CCC[C@H](NC(=O)[C@H](CNC(=O)OC(C)(C)C)NC(=O)OCc1ccccc1)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Elastase inhibitor cyclotheonellazole A: Total synthesis and in vivo biological evaluation for acute lung injury
+  - **Authors:** Cui, Yingjun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01583](https://doi.org/10.1021/acs.jmedchem.1c01583)
 
 **Original Text:**
 ```
@@ -20477,10 +20477,10 @@ Bioorganic & Medicinal Chemistry (2023), 93, 117462.
   - Products: `C=CCOc1ccc(C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CNC(=O)OC(C)(C)C)C(=O)N[C@@H](CCC)C(=O)OC)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Elastase inhibitor cyclotheonellazole A: Total synthesis and in vivo biological evaluation for acute lung injury
+  - **Authors:** Cui, Yingjun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01583](https://doi.org/10.1021/acs.jmedchem.1c01583)
 
 **Original Text:**
 ```
@@ -20521,10 +20521,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
   - Products: `C=CCOC(=O)[C@H](CSC(c1ccccc1)(c1ccccc1)c1ccccc1)NC(=O)/C=C/c1csc([C@H](Cc2ccc(O[Si](C)(C)C(C)(C)C)cc2)NC(=O)C(O[Si](C)(C)C(C)(C)C)[C@@H](NC(=O)[C@H](CCC)NC(=O)[C@H](CNC(=O)OCC2c3ccccc3-c3ccccc32)NC(=O)[C@H](C)NC(=O)CNC(=O)c2ccc(O)cc2)[C@@H](C)CC)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Elastase inhibitor cyclotheonellazole A: Total synthesis and in vivo biological evaluation for acute lung injury
+  - **Authors:** Cui, Yingjun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01583](https://doi.org/10.1021/acs.jmedchem.1c01583)
 
 **Original Text:**
 ```
@@ -20561,10 +20561,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)c2cc3ccccc3o2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure based design and evaluation of benzoheterocycle derivatives as potential dual HIV-1 protease and reverse transcriptase inhibitors
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 246, 114981.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114981](https://doi.org/10.1016/j.ejmech.2022.114981)
 
 **Original Text:**
 ```
@@ -20602,10 +20602,10 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)c1cc2ccccc2o1)S(=O)(=O)c1ccc(N)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure based design and evaluation of benzoheterocycle derivatives as potential dual HIV-1 protease and reverse transcriptase inhibitors
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 246, 114981.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114981](https://doi.org/10.1016/j.ejmech.2022.114981)
 
 **Original Text:**
 ```
@@ -20643,10 +20643,10 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)c2cc3ccccc3[nH]2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure based design and evaluation of benzoheterocycle derivatives as potential dual HIV-1 protease and reverse transcriptase inhibitors
+  - **Authors:** Zhu, Mei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 246, 114981.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114981](https://doi.org/10.1016/j.ejmech.2022.114981)
 
 **Original Text:**
 ```
@@ -20687,10 +20687,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
   - Products: `O=C(Cc1ccc(Cl)cc1)NCCc1nc2ccccc2[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Hit-to-lead optimization of a 2-aminobenzimidazole series as new candidates for chagas disease
+  - **Authors:** de Oliveira Rezende, Celso Junior; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 246, 114925.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.114925](https://doi.org/10.1016/j.ejmech.2022.114925)
 
 **Original Text:**
 ```
@@ -20728,10 +20728,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
   - Products: `COCCNC(=O)c1cc(I)cc(CNc2ccc(Cl)c(O)c2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** DNA-Encoded Library Hit Confirmation: Bridging the Gap Between On-DNA and Off-DNA Chemistry
+  - **Authors:** Xia, Bing; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(7), 1166-1172.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00156](https://doi.org/10.1021/acsmedchemlett.1c00156)
 
 **Original Text:**
 ```
@@ -20763,10 +20763,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15288-15308.
   - Products: `O=c1nc[nH]c2cccc(Cl)c12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel 3,4-dihydro-2H-[1,4]oxazino[2,3-f]quinazoline derivatives as EGFR-TKIs
+  - **Authors:** Qin, Xuemei; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 80, 129104.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2022.129104](https://doi.org/10.1016/j.bmcl.2022.129104)
 
 **Original Text:**
 ```
@@ -20809,10 +20809,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `Cc1cc(NC(=O)c2cccc(-c3ccccc3)c2)no1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Identification and Optimization of Novel Small-Molecule Cas9 Inhibitors by Cell-Based High-Throughput Screening
+  - **Authors:** Lee, Sang-Woo; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3266-3305.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01834](https://doi.org/10.1021/acs.jmedchem.1c01834)
 
 **Original Text:**
 ```
@@ -20853,10 +20853,10 @@ Journal of Medicinal Chemistry (2021), 64(12), 8053-8075.
   - Products: `O=C(NCCc1ccccc1)c1cnc2ccc(Cl)nn12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Function-oriented synthesis of Imidazo[1,2-a]pyrazine and Imidazo[1,2-b]pyridazine derivatives as potent PI3K/mTOR dual inhibitors
+  - **Authors:** Li, Chuchu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 247, 115030.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115030](https://doi.org/10.1016/j.ejmech.2022.115030)
 
 **Original Text:**
 ```
@@ -20898,10 +20898,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
   - Products: `C#CCNC(=O)CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Targeting Vancomycin-Resistant Enterococci (VRE) Infections and Van Operon-Mediated Drug Resistance Using Dimeric Cholic Acid-Peptide Conjugates
+  - **Authors:** Saini, Varsha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(22), 15312-15326.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01293](https://doi.org/10.1021/acs.jmedchem.2c01293)
 
 **Original Text:**
 ```
@@ -20940,10 +20940,10 @@ Journal of Medicinal Chemistry (2020), 63(9), 4716-4731.
   - Products: `COc1ccc(NC(=O)C(c2ccc(C(F)(F)F)cc2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -20985,10 +20985,10 @@ European Journal of Medicinal Chemistry (2020), 190, 112086pp..
   - Products: `COc1ccc(NC(=O)C(c2ccc(Cl)c(Cl)c2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -21030,10 +21030,10 @@ Organic Process Research & Development (2020), 24(6), 1157-1163.
   - Products: `COc1ccc(NC(=O)C(c2ccc(C)cc2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -21075,10 +21075,10 @@ Organic Process Research & Development (2022), 26(9), 2739-2748.
   - Products: `COc1ccc(NC(=O)C(c2ccc(F)c(Cl)c2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -21123,10 +21123,10 @@ Organic Process Research & Development (2024), 28(4), 1253-1259.
   - Products: `COc1ccc(NC(=O)C(c2ccc(F)c(F)c2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -21168,10 +21168,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `COc1ccc(NC(=O)C(c2ccc(OC)cc2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -21213,10 +21213,10 @@ Journal of Medicinal Chemistry (2024), 67(20), 18549-18575.
   - Products: `COc1ccc(NC(=O)C(c2ccc(OC(F)(F)F)cc2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -21258,10 +21258,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
   - Products: `COc1ccc(NC(=O)C(c2ccc(F)cc2)N2CCN(c3ncnc4sc5c(c34)CCCC5)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification, in-vitro anti-plasmodial assessment and docking studies of series of tetrahydrobenzothieno[2,3-d]pyrimidine-acetamide molecular hybrids as potential antimalarial agents
+  - **Authors:** Pal, Kavita; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115055.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115055](https://doi.org/10.1016/j.ejmech.2022.115055)
 
 **Original Text:**
 ```
@@ -21302,10 +21302,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `CCNC(=O)c1ccc(N[C@H]2CCN(C(=O)OC(C)(C)C)C[C@@H]2C)c(NC(=O)C(F)F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of High-Affinity Small-Molecule Binders of the Epigenetic Reader YEATS4
+  - **Authors:** Londregan, Allyn T.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(1), 460-472.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01421](https://doi.org/10.1021/acs.jmedchem.2c01421)
 
 **Original Text:**
 ```
@@ -21346,10 +21346,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `CCNC(=O)c1ccc2cc(C)nn2c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of High-Affinity Small-Molecule Binders of the Epigenetic Reader YEATS4
+  - **Authors:** Londregan, Allyn T.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(1), 460-472.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01421](https://doi.org/10.1021/acs.jmedchem.2c01421)
 
 **Original Text:**
 ```
@@ -21386,10 +21386,10 @@ Journal of Medicinal Chemistry (2023), 66(1), 220-234.
   - Products: `Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)CCCCCCCBr)C(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of potent small molecule PROTACs targeting mutant EGFR
+  - **Authors:** Zhao, Hong-Yi; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112781.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112781](https://doi.org/10.1016/j.ejmech.2020.112781)
 
 **Original Text:**
 ```
@@ -21426,10 +21426,10 @@ European Journal of Medicinal Chemistry (2023), 256, 115459.
   - Products: `C=CC[C@@H]1[C@@H](NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)C)CN(C(=O)OC(C)(C)C)[C@@H]1C(=O)OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-Based Discovery of Proline-Derived Arginase Inhibitors with Improved Oral Bioavailability for Immuno-Oncology
+  - **Authors:** Lu, Min; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2021), 12(9), 1380-1388.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00195](https://doi.org/10.1021/acsmedchemlett.1c00195)
 
 **Original Text:**
 ```
@@ -21472,10 +21472,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COc1ccc(CN(c2nn(C)c3c(-n4c([C@H](Cc5cc(F)cc(F)c5)NC(=O)Cn5nc(C(F)F)c6c5C(F)(F)[C@@H]5C[C@H]65)nc5ccccc5c4=O)ccc(Cl)c23)S(C)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21517,10 +21517,10 @@ Journal of Medicinal Chemistry (2020), 63(19), 11034-11044.
   - Products: `COC(=O)[C@H](Cc1cc(F)cc(F)c1)NC(=O)Cn1nc(C(F)F)c2c1C(F)(F)[C@@H]1C[C@H]21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21557,10 +21557,10 @@ Journal of Medicinal Chemistry (2022), 65(9), 6940-6952.
   - Products: `COc1ccc(CN(c2nn(C)c3c(-n4c([C@H](Cc5cc(F)cc(F)c5)NC(=O)Cn5nc(C(F)F)c6c5C(F)(F)[C@@H]5C[C@H]65)nc5cc(F)ccc5c4=O)ccc(Cl)c23)S(C)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21600,10 +21600,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `COc1ccc(CN(c2nn(C)c3c(-n4c([C@H](Cc5cc(F)cc(F)c5)NC(=O)Cn5nc(C(F)F)c6c5C(F)(F)[C@@H]5C[C@H]65)nc5cc(OC)ccc5c4=O)ccc(Cl)c23)S(C)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21644,10 +21644,10 @@ Organic Process Research & Development (2022), 26(4), 1078-1093.
   - Products: `COc1ccc(CN(c2nn(C)c3c(-n4c([C@H](Cc5cc(F)cc(F)c5)NC(=O)Cn5nc(C(F)F)c6c5C(F)(F)[C@@H]5C[C@H]65)nc5ccc(F)cc5c4=O)ccc(Cl)c23)S(C)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21687,10 +21687,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `COc1ccc(CN(c2nn(C)c3c(-n4c([C@H](Cc5cc(F)cc(F)c5)NC(=O)Cn5nc(C(F)F)c6c5C(F)(F)[C@@H]5C[C@H]65)nc5cc(Cl)ccc5c4=O)ccc(Cl)c23)S(C)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21730,10 +21730,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `COc1ccc(CN(c2nn(C)c3c(-n4c([C@H](Cc5cc(F)cc(F)c5)NC(=O)Cn5nc(C(F)F)c6c5C(F)(F)[C@@H]5C[C@H]65)nc5cccc(F)c5c4=O)ccc(Cl)c23)S(C)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21775,10 +21775,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `Cn1nc(NS(C)(=O)=O)c2c(Cl)ccc(-n3c(C(Cc4cc(F)cc(F)c4)NC(=O)Cn4nc(C(F)F)c5c4C(F)(F)C4CC54)nc4cc(Br)ccc4c3=O)c21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Potent Long-Acting Inhibitors Targeting the HIV-1 Capsid Based on a Versatile Quinazolin-4-one Scaffold
+  - **Authors:** Gillis, Eric P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01732](https://doi.org/10.1021/acs.jmedchem.2c01732)
 
 **Original Text:**
 ```
@@ -21819,10 +21819,10 @@ European Journal of Medicinal Chemistry (2023), 259, 115578.
   - Products: `Cc1cc(NC(=O)[C@H]2CCCN(C(=O)OC(C)(C)C)C2)ccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and evaluation of N-sulfonylpiperidine-3-carboxamide derivatives as capsid assembly modulators inhibiting HBV in vitro and in HBV-transgenic mice
+  - **Authors:** Yin, Jiaxin; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 249, 115141.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115141](https://doi.org/10.1016/j.ejmech.2023.115141)
 
 **Original Text:**
 ```
@@ -21863,10 +21863,10 @@ Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
   - Products: `CCC(=O)Nc1ccc(-c2ccc(C(=O)N3CCc4cc(OC)c(OC)cc4C3)o2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -21908,10 +21908,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
   - Products: `CCCCC(=O)Nc1ccc(-c2ccc(C(=O)N3CCc4cc(OC)c(OC)cc4C3)o2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -21953,10 +21953,10 @@ ACS Medicinal Chemistry Letters (2023), 14(12), 1760-1766.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(C)=O)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22000,10 +22000,10 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)C(C)C)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22048,10 +22048,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)C(C)(C)C)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22096,10 +22096,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
   - Products: `C/C=C/C(=O)Nc1ccc(-c2ccc(C(=O)N3CCc4cc(OC)c(OC)cc4C3)o2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22141,10 +22141,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)C=Cc4ccccc4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22189,10 +22189,10 @@ Organic Process Research & Development (2022), 26(2), 365-379.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)C4CC4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22234,10 +22234,10 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)C4CCC4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22279,10 +22279,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)c4cccc5ccccc45)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22324,10 +22324,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)Cc4cccc5ccccc45)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22372,10 +22372,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)c4cc5ccccc5o4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22419,10 +22419,10 @@ Organic Process Research & Development (2024), 28(6), 2103-2116.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)c4csc5ccccc45)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22472,10 +22472,10 @@ Organic Process Research & Development (2021), 25(12), 2754-2771.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)CC(C)(C)C)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22517,10 +22517,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)c4cc5ccccc5s4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22565,10 +22565,10 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)c4cc5ccccc5[nH]4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22614,10 +22614,10 @@ ChemMedChem (2020), 15(20), 1932-1939.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)C4CCCC4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22659,10 +22659,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)c4cc5cc(Cl)ccc5[nH]4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22706,10 +22706,10 @@ Organic Process Research & Development (2024), 28(6), 2103-2116.
   - Products: `COc1ccc2cc(C(=O)Nc3ccc(-c4ccc(C(=O)N5CCc6cc(OC)c(OC)cc6C5)o4)cc3)[nH]c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22751,10 +22751,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1ccc(-c3ccc(NC(=O)c4cc5c(C)cccc5[nH]4)cc3)o1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel phenylfuran-bisamide derivatives as P-glycoprotein inhibitors against multidrug resistance in MCF-7/ADR cell
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115092.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115092](https://doi.org/10.1016/j.ejmech.2023.115092)
 
 **Original Text:**
 ```
@@ -22797,10 +22797,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8988-9027.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)c1cc2c(OC)cccc2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Early Clinical Development of Lufotrelvir as a Potential Therapy for COVID-19
+  - **Authors:** Allais, Christophe; et al
+  - **Citation:** Organic Process Research & Development (2023), 27(12), 2223-2239.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00375](https://doi.org/10.1021/acs.oprd.2c00375)
 
 **Original Text:**
 ```
@@ -22840,10 +22840,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 8310-8323.
   - Products: `COC(=O)[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](CC(C)C)NC(=O)c1cc2c(OC)cccc2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Early Clinical Development of Lufotrelvir as a Potential Therapy for COVID-19
+  - **Authors:** Allais, Christophe; et al
+  - **Citation:** Organic Process Research & Development (2023), 27(12), 2223-2239.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.2c00375](https://doi.org/10.1021/acs.oprd.2c00375)
 
 **Original Text:**
 ```
@@ -22883,10 +22883,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 4150-4166.
   - Products: `CCOC(=O)c1sc(NC(=O)CCNC(=O)OC(C)(C)C)nc1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of 2-(3-Benzamidopropanamido)thiazole-5-carboxylate Inhibitors of the Kinesin HSET (KIFC1) and the Development of Cellular Target Engagement Probes
+  - **Authors:** Saint-Dizier, Francois; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01591](https://doi.org/10.1021/acs.jmedchem.2c01591)
 
 **Original Text:**
 ```
@@ -22925,10 +22925,10 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
   - Products: `COC(=O)CCNC(=O)c1cccc(-c2noc(C)n2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of 2-(3-Benzamidopropanamido)thiazole-5-carboxylate Inhibitors of the Kinesin HSET (KIFC1) and the Development of Cellular Target Engagement Probes
+  - **Authors:** Saint-Dizier, Francois; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01591](https://doi.org/10.1021/acs.jmedchem.2c01591)
 
 **Original Text:**
 ```
@@ -22974,10 +22974,10 @@ Journal of Medicinal Chemistry (2021), 64(7), 4117-4129.
   - Products: `Cn1cc(OCc2ccccc2)c(=O)cc1CNC(=O)CCCC(=O)N1CCN(c2cc3c(cc2F)c(=O)c(C(=O)OCc2ccccc2)cn3C2CC2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of 3-Hydroxy-pyridin-4(1H)-ones-Ciprofloxacin Conjugates as Dual Antibacterial and Antibiofilm Agents against Pseudomonas aeruginosa
+  - **Authors:** Wang, Yuan-Yuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02044](https://doi.org/10.1021/acs.jmedchem.2c02044)
 
 **Original Text:**
 ```
@@ -23024,10 +23024,10 @@ Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
   - Products: `O=C(CCC(=O)N1CCN(c2cc3c(cc2F)c(=O)c(C(=O)OCc2ccccc2)cn3C2CC2)CC1)NCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of 3-Hydroxy-pyridin-4(1H)-ones-Ciprofloxacin Conjugates as Dual Antibacterial and Antibiofilm Agents against Pseudomonas aeruginosa
+  - **Authors:** Wang, Yuan-Yuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02044](https://doi.org/10.1021/acs.jmedchem.2c02044)
 
 **Original Text:**
 ```
@@ -23073,10 +23073,10 @@ Organic Process Research & Development (2021), 25(8), 1898-1910.
   - Products: `Cn1cc(OCc2ccccc2)c(=O)cc1CNC(=O)CCC(=O)N1CCN(c2cc3c(cc2F)c(=O)c(C(=O)OCc2ccccc2)cn3C2CC2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of 3-Hydroxy-pyridin-4(1H)-ones-Ciprofloxacin Conjugates as Dual Antibacterial and Antibiofilm Agents against Pseudomonas aeruginosa
+  - **Authors:** Wang, Yuan-Yuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02044](https://doi.org/10.1021/acs.jmedchem.2c02044)
 
 **Original Text:**
 ```
@@ -23120,10 +23120,10 @@ Journal of Medicinal Chemistry (2022), 65(6), 4818-4831.
   - Products: `Cc1cc(=O)c(OCc2ccccc2)cn1CCCNC(=O)CCC(=O)N1CCN(c2cc3c(cc2F)c(=O)c(C(=O)OCc2ccccc2)cn3C2CC2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Synthesis of 3-Hydroxy-pyridin-4(1H)-ones-Ciprofloxacin Conjugates as Dual Antibacterial and Antibiofilm Agents against Pseudomonas aeruginosa
+  - **Authors:** Wang, Yuan-Yuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02044](https://doi.org/10.1021/acs.jmedchem.2c02044)
 
 **Original Text:**
 ```
@@ -23167,10 +23167,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
   - Products: `COC(=O)c1cc(F)c(F)cc1NC(=O)c1ccc(Cl)nn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Bipyridazine Derivatives as Stimulator of Interferon Genes (STING) Receptor Agonists
+  - **Authors:** Shan, Bin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01714](https://doi.org/10.1021/acs.jmedchem.2c01714)
 
 **Original Text:**
 ```
@@ -23211,10 +23211,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
   - Products: `COC(=O)c1cc(OC)ccc1NC(=O)c1ccc(-c2ccnnc2)nn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Bipyridazine Derivatives as Stimulator of Interferon Genes (STING) Receptor Agonists
+  - **Authors:** Shan, Bin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01714](https://doi.org/10.1021/acs.jmedchem.2c01714)
 
 **Original Text:**
 ```
@@ -23252,10 +23252,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `COC(=O)c1ccc(OC)cc1NC(=O)c1ccc(-c2ccnnc2)nn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Bipyridazine Derivatives as Stimulator of Interferon Genes (STING) Receptor Agonists
+  - **Authors:** Shan, Bin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01714](https://doi.org/10.1021/acs.jmedchem.2c01714)
 
 **Original Text:**
 ```
@@ -23293,10 +23293,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
   - Products: `COC(=O)c1cc(OC)c(OC)cc1NC(=O)c1ccc(-c2ccnnc2)nn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Bipyridazine Derivatives as Stimulator of Interferon Genes (STING) Receptor Agonists
+  - **Authors:** Shan, Bin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01714](https://doi.org/10.1021/acs.jmedchem.2c01714)
 
 **Original Text:**
 ```
@@ -23338,10 +23338,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `COC(=O)c1cc(Br)ccc1NC(=O)c1ccc(-c2ccnnc2)nn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Bipyridazine Derivatives as Stimulator of Interferon Genes (STING) Receptor Agonists
+  - **Authors:** Shan, Bin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01714](https://doi.org/10.1021/acs.jmedchem.2c01714)
 
 **Original Text:**
 ```
@@ -23384,10 +23384,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `CNC(=O)c1ccc(Br)cc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4
+  - **Authors:** Ashton, Trent D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02092](https://doi.org/10.1021/acs.jmedchem.2c02092)
 
 **Original Text:**
 ```
@@ -23425,10 +23425,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Products: `CNC(=O)c1ccc(Cl)cc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4
+  - **Authors:** Ashton, Trent D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02092](https://doi.org/10.1021/acs.jmedchem.2c02092)
 
 **Original Text:**
 ```
@@ -23466,10 +23466,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Products: `CNC(=O)c1ccc(F)cc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4
+  - **Authors:** Ashton, Trent D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02092](https://doi.org/10.1021/acs.jmedchem.2c02092)
 
 **Original Text:**
 ```
@@ -23507,10 +23507,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
   - Products: `CNC(=O)c1c(N)cccc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4
+  - **Authors:** Ashton, Trent D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02092](https://doi.org/10.1021/acs.jmedchem.2c02092)
 
 **Original Text:**
 ```
@@ -23547,10 +23547,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Products: `CNC(=O)c1cccc(F)c1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4
+  - **Authors:** Ashton, Trent D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02092](https://doi.org/10.1021/acs.jmedchem.2c02092)
 
 **Original Text:**
 ```
@@ -23587,10 +23587,10 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
   - Products: `CNC(=O)c1cc(F)ccc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4
+  - **Authors:** Ashton, Trent D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02092](https://doi.org/10.1021/acs.jmedchem.2c02092)
 
 **Original Text:**
 ```
@@ -23627,10 +23627,10 @@ Bioorganic & Medicinal Chemistry (2023), 80, 117173.
   - Products: `CNC(=O)c1cc(Cl)ccc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of 2,3-Dihydroquinazolinone-3-carboxamides as Antimalarials Targeting PfATP4
+  - **Authors:** Ashton, Trent D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02092](https://doi.org/10.1021/acs.jmedchem.2c02092)
 
 **Original Text:**
 ```
@@ -23668,10 +23668,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Products: `CC(C)C[C@H](NC(=O)CNC(=O)OC(C)(C)C)B1O[C@@H]2[C@@H]3C[C@H](C[C@]2(C)O1)C3(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and discovery of novel dipeptide boronic acid ester proteasome inhibitors, an oral slowly-released prodrug for the treatment of multiple myeloma
+  - **Authors:** Wang, Xueyuan; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 250, 115187.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115187](https://doi.org/10.1016/j.ejmech.2023.115187)
 
 **Original Text:**
 ```
@@ -23710,10 +23710,10 @@ European Journal of Medicinal Chemistry (2022), 241, 114620.
   - Products: `CC(C)C[C@H](NC(=O)CNC(=O)c1cc(Cl)ccc1Cl)B1O[C@@H]2[C@@H]3C[C@H](C[C@]2(C)O1)C3(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and discovery of novel dipeptide boronic acid ester proteasome inhibitors, an oral slowly-released prodrug for the treatment of multiple myeloma
+  - **Authors:** Wang, Xueyuan; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 250, 115187.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115187](https://doi.org/10.1016/j.ejmech.2023.115187)
 
 **Original Text:**
 ```
@@ -23753,10 +23753,10 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116455.
   - Products: `CCCCCCCCCCCCNC(=O)[C@H](CSC(c1ccccc1)(c1ccccc1)c1ccccc1)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Serine-/Cysteine-Based sp2-Iminoglycolipids as Novel TLR4 Agonists: Evaluation of Their Adjuvancy and Immunotherapeutic Properties in a Murine Model of Asthma
+  - **Authors:** Gonzalez-Cuesta, Manuel; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(7), 4768-4783.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01948](https://doi.org/10.1021/acs.jmedchem.2c01948)
 
 **Original Text:**
 ```
@@ -23799,10 +23799,10 @@ Journal of Medicinal Chemistry (2021), 64(21), 15787-15798.
   - Products: `C[C@H](C(=O)N[C@@H](CN=[N+]=[N-])c1ccc(OCC2CCC2)cc1)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Evaluation of Amide Bioisosteres Leading to 1,2,3-Triazole Containing Compounds as GPR88 Agonists: Design, Synthesis, and Structure-Activity Relationship Studies
+  - **Authors:** Rahman, Toufiqur Md; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01075](https://doi.org/10.1021/acs.jmedchem.1c01075)
 
 **Original Text:**
 ```
@@ -23847,10 +23847,10 @@ Journal of Medicinal Chemistry (2024), 67(13), 10710-10742.
   - Products: `CC[C@H](C)COc1ccc([C@H](CN=[N+]=[N-])NC(=O)[C@@H](C)c2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Evaluation of Amide Bioisosteres Leading to 1,2,3-Triazole Containing Compounds as GPR88 Agonists: Design, Synthesis, and Structure-Activity Relationship Studies
+  - **Authors:** Rahman, Toufiqur Md; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01075](https://doi.org/10.1021/acs.jmedchem.1c01075)
 
 **Original Text:**
 ```
@@ -23892,10 +23892,10 @@ Journal of Medicinal Chemistry (2022), 65(1), 409-423.
   - Products: `COC(=O)[C@H](CCCCOCc1ccccc1)NC(=O)[C@H](CCc1ccccc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and optimization of macrocyclic peptides as species-selective antimalaria proteasome inhibitors
+  - **Authors:** Zhang, Hao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00611](https://doi.org/10.1021/acs.jmedchem.2c00611)
 
 **Original Text:**
 ```
@@ -23934,10 +23934,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
   - Products: `O=C(CCCBr)N[C@@H](Cc1cccc(OCc2ccccc2)c1)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and optimization of macrocyclic peptides as species-selective antimalaria proteasome inhibitors
+  - **Authors:** Zhang, Hao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00611](https://doi.org/10.1021/acs.jmedchem.2c00611)
 
 **Original Text:**
 ```
@@ -23979,10 +23979,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
   - Products: `O=C(N[C@@H](CCCCO)C(=O)NC1CCCC1)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and optimization of macrocyclic peptides as species-selective antimalaria proteasome inhibitors
+  - **Authors:** Zhang, Hao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00611](https://doi.org/10.1021/acs.jmedchem.2c00611)
 
 **Original Text:**
 ```
@@ -24021,10 +24021,10 @@ ChemMedChem (2020), 15(14), 1294-1309.
   - Products: `CC(C)(C)OC(=O)N1CCC(c2ccc3nc(NC(=O)c4c(F)cccc4Br)n(C4CCCC4)c3c2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Process Development for the Synthesis of BI 1702135: A Concise Design Enabled by Selective Acylation of a 2-Aminobenzimidazole Intermediate
+  - **Authors:** Wu, Jiang-Ping; et al
+  - **Citation:** Organic Process Research & Development (2023), 27(4), 788-797.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00050](https://doi.org/10.1021/acs.oprd.3c00050)
 
 **Original Text:**
 ```
@@ -24073,10 +24073,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
   - Products: `O=C(Nc1cccc(C(F)(F)F)c1)c1ccc(F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Activity of N-phenylbenzamide analogs against the neglected disease pathogen, Schistosoma mansoni
+  - **Authors:** Kanyanta, Masebe; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2023.129164](https://doi.org/10.1016/j.bmcl.2023.129164)
 
 **Original Text:**
 ```
@@ -24120,10 +24120,10 @@ European Journal of Medicinal Chemistry (2023), 257, 115473.
   - Products: `COc1ccc(NC(=O)c2ccccc2)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Activity of N-phenylbenzamide analogs against the neglected disease pathogen, Schistosoma mansoni
+  - **Authors:** Kanyanta, Masebe; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2023.129164](https://doi.org/10.1016/j.bmcl.2023.129164)
 
 **Original Text:**
 ```
@@ -24164,10 +24164,10 @@ ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
   - Products: `C=CCNC(=O)CCCNC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Optimization of a Novel Macrocyclic Amidinourea Series Active as Acidic Mammalian Chitinase Inhibitors
+  - **Authors:** Balestri, Lorenzo Jacopo Ilic; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(4), 417-424.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00472](https://doi.org/10.1021/acsmedchemlett.2c00472)
 
 **Original Text:**
 ```
@@ -24205,10 +24205,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
   - Products: `[N-]=[N+]=NCCCCCCCC(=O)NCc1ccco1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and structure-activity relationship of new nicotinamide phosphoribosyltransferase inhibitors with antitumor activity on solid and haematological cancer
+  - **Authors:** Fratta, Simone; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 250, 115170.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115170](https://doi.org/10.1016/j.ejmech.2023.115170)
 
 **Original Text:**
 ```
@@ -24246,10 +24246,10 @@ Organic Process Research & Development (2022), 26(12), 3303-3311.
   - Products: `Cc1cc([C@H](C(=O)N2C[C@H](O)C[C@H]2C(=O)NCc2ccc(-c3scnc3Cl)cc2)C(C)C)on1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Systematic Potency and Property Assessment of VHL Ligands and Implications on PROTAC Design
+  - **Authors:** Krieger, Johannes; et al
+  - **Citation:** ChemMedChem (2023), 18(8), e202200615.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202200615](https://doi.org/10.1002/cmdc.202200615)
 
 **Original Text:**
 ```
@@ -24290,10 +24290,10 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
   - Products: `Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)NCCCCCOc1cc(C(C(=O)O)C(C)C)on1)c1nnc(C)n1-2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Systematic Potency and Property Assessment of VHL Ligands and Implications on PROTAC Design
+  - **Authors:** Krieger, Johannes; et al
+  - **Citation:** ChemMedChem (2023), 18(8), e202200615.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202200615](https://doi.org/10.1002/cmdc.202200615)
 
 **Original Text:**
 ```
@@ -24340,10 +24340,10 @@ ACS Medicinal Chemistry Letters (2022), 13(1), 76-83.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)C[C@H]1CCN(C(=O)OC(C)(C)C)C1)S(=O)(=O)c1ccc(O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of novel HIV-1 protease inhibitors containing pyrrolidine-derived P2 ligands to combat drug-resistant variant
+  - **Authors:** Zhou, Huiyu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115389.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115389](https://doi.org/10.1016/j.ejmech.2023.115389)
 
 **Original Text:**
 ```
@@ -24391,10 +24391,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)C[C@@H]2CCN(C(=O)OC(C)(C)C)C2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of novel HIV-1 protease inhibitors containing pyrrolidine-derived P2 ligands to combat drug-resistant variant
+  - **Authors:** Zhou, Huiyu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115389.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115389](https://doi.org/10.1016/j.ejmech.2023.115389)
 
 **Original Text:**
 ```
@@ -24438,10 +24438,10 @@ Journal of Medicinal Chemistry (2022), 65(24), 16829-16859.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCN(C(=O)OC(C)(C)C)C1)S(=O)(=O)c1ccc(N)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of novel HIV-1 protease inhibitors containing pyrrolidine-derived P2 ligands to combat drug-resistant variant
+  - **Authors:** Zhou, Huiyu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115389.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115389](https://doi.org/10.1016/j.ejmech.2023.115389)
 
 **Original Text:**
 ```
@@ -24487,10 +24487,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `COc1ccc(S(=O)(=O)N(CC(C)C)C[C@@H](O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCN(C(=O)OC(C)(C)C)C2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of novel HIV-1 protease inhibitors containing pyrrolidine-derived P2 ligands to combat drug-resistant variant
+  - **Authors:** Zhou, Huiyu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115389.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115389](https://doi.org/10.1016/j.ejmech.2023.115389)
 
 **Original Text:**
 ```
@@ -24534,10 +24534,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
   - Products: `CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@@H]1CCN(C(=O)OC(C)(C)C)C1)S(=O)(=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of novel HIV-1 protease inhibitors containing pyrrolidine-derived P2 ligands to combat drug-resistant variant
+  - **Authors:** Zhou, Huiyu; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115389.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115389](https://doi.org/10.1016/j.ejmech.2023.115389)
 
 **Original Text:**
 ```
@@ -24578,10 +24578,10 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
   - Products: `CC(C)(C)OC(=O)N[C@@H](Cc1ccc([N+](=O)[O-])cc1)C(=O)NCc1ccc(CNC(=O)OCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and Structural Characterization of Macrocyclic Plasmin Inhibitors
+  - **Authors:** Wiedemeyer, Simon J. A.; et al
+  - **Citation:** ChemMedChem (2023), 18(6), e202200632.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202200632](https://doi.org/10.1002/cmdc.202200632)
 
 **Original Text:**
 ```
@@ -24627,10 +24627,10 @@ Journal of Medicinal Chemistry (2020), 63(24), 15564-15590.
   - Products: `CC(C)(C)OC(=O)N[C@@H](Cc1ccc([N+](=O)[O-])cc1)C(=O)NCc1ccc(CNC(=O)C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and Structural Characterization of Macrocyclic Plasmin Inhibitors
+  - **Authors:** Wiedemeyer, Simon J. A.; et al
+  - **Citation:** ChemMedChem (2023), 18(6), e202200632.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202200632](https://doi.org/10.1002/cmdc.202200632)
 
 **Original Text:**
 ```
@@ -24671,10 +24671,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127425.
   - Products: `CC(C)(C)OC(=O)C1CCN(c2ccc(NC(=O)c3cnc(Oc4ccccc4)nc3)cc2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** CRBN ligand expansion for hematopoietic prostaglandin D2 synthase (H-PGDS) targeting PROTAC design and their in vitro ADME profiles
+  - **Authors:** Osawa, Hinata; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 84, 117259.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117259](https://doi.org/10.1016/j.bmc.2023.117259)
 
 **Original Text:**
 ```
@@ -24714,10 +24714,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113653.
   - Products: `C#CCN(C)CCCOc1ccc(NC(=O)c2cc(C(C)C)c(OCc3ccccc3)cc2OCc2ccccc2)cc1Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological activity of dual monoamine oxidase A and heat shock protein 90 inhibitors, N-Methylpropargylamine-conjugated 4-isopropylresorcinol for glioblastoma
+  - **Authors:** Tseng, Hui-Ju; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 256, 115459.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115459](https://doi.org/10.1016/j.ejmech.2023.115459)
 
 **Original Text:**
 ```
@@ -24755,10 +24755,10 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
   - Products: `COc1ccc(-n2nccn2)c(C(=O)N2C(=O)CC[C@@]2(C)C(=O)Nc2ccc(Cl)c(CO)c2N)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** CYP3A4 Catalyzes the Rearrangement of the Dual Orexin Receptor Antagonist Daridorexant to 4-Hydroxypiperidinol Metabolites
+  - **Authors:** Treiber, Alexander; et al
+  - **Citation:** ChemMedChem (2023), 18(10), e202300030.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300030](https://doi.org/10.1002/cmdc.202300030)
 
 **Original Text:**
 ```
@@ -24798,10 +24798,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 9599-9612.
   - Products: `CC(C)(C)OC(=O)Nc1cccc(C(=O)NCCC(=O)OCc2ccccc2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Bifunctional degraders of cyclin dependent kinase 9 (CDK9): Probing the relationship between linker length, properties, and selective protein degradation
+  - **Authors:** Tokarski, Robert J. II; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 254, 115342.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115342](https://doi.org/10.1016/j.ejmech.2023.115342)
 
 **Original Text:**
 ```
@@ -24841,10 +24841,10 @@ ChemMedChem (2023), 18(15), e202300160.
   - Products: `CNC(=O)c1ccccc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and evaluation of sulfonamide derivatives targeting EGFR790M/L858R mutations and ALK rearrangement as anticancer agents
+  - **Authors:** Cao, Longcai; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 85, 117241.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117241](https://doi.org/10.1016/j.bmc.2023.117241)
 
 **Original Text:**
 ```
@@ -24883,10 +24883,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116113.
   - Products: `COC[C@H](C(=O)Nc1cccc2c(-c3nc(Nc4cccc(S(C)(=O)=O)c4F)ncc3F)c[nH]c12)N1CCN(C)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Practical and Scalable Method for Manufacturing AZD4604, A Potent and Selective JAK1 Inhibitor
+  - **Authors:** Pithani, Subhash; et al
+  - **Citation:** Organic Process Research & Development (2023), 27(7), 1317-1329.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00077](https://doi.org/10.1021/acs.oprd.3c00077)
 
 **Original Text:**
 ```
@@ -24925,10 +24925,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
   - Products: `CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(NC(=O)COCCOCCNC(=O)OC(C)(C)C)cc4)cc23)c1F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A cyanine-based NIR fluorescent Vemurafenib analog to probe BRAFV600E in cancer cells
+  - **Authors:** Barresi, Elisabetta; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 256, 115446.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115446](https://doi.org/10.1016/j.ejmech.2023.115446)
 
 **Original Text:**
 ```
@@ -24967,10 +24967,10 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - Products: `CCN(c1cc([N+](=O)[O-])cc(C(=O)NCc2c(C)cc(C)[nH]c2=O)c1C)C1CCOCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a New-Generation S-Adenosylmethionine-Noncompetitive Covalent Inhibitor Targeting the Lysine Methyltransferase Enhancer of Zeste Homologue 2
+  - **Authors:** Zhang, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00504](https://doi.org/10.1021/acs.jmedchem.3c00504)
 
 **Original Text:**
 ```
@@ -25008,10 +25008,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
   - Products: `CCCc1cc(C)[nH]c(=O)c1CNC(=O)c1cc(C#N)cc(N(CC)C2CCOCC2)c1C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a New-Generation S-Adenosylmethionine-Noncompetitive Covalent Inhibitor Targeting the Lysine Methyltransferase Enhancer of Zeste Homologue 2
+  - **Authors:** Zhang, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00504](https://doi.org/10.1021/acs.jmedchem.3c00504)
 
 **Original Text:**
 ```
@@ -25053,10 +25053,10 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
   - Products: `CCN(c1cc(C#N)cc(C(=O)NCc2c(C)cc(C)[nH]c2=O)c1C)C1CCOCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a New-Generation S-Adenosylmethionine-Noncompetitive Covalent Inhibitor Targeting the Lysine Methyltransferase Enhancer of Zeste Homologue 2
+  - **Authors:** Zhang, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00504](https://doi.org/10.1021/acs.jmedchem.3c00504)
 
 **Original Text:**
 ```
@@ -25097,10 +25097,10 @@ Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
   - Products: `CCN(c1cc(C#N)cc(C(=O)NCc2c(SC)cc(C)[nH]c2=O)c1C)C1CCOCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a New-Generation S-Adenosylmethionine-Noncompetitive Covalent Inhibitor Targeting the Lysine Methyltransferase Enhancer of Zeste Homologue 2
+  - **Authors:** Zhang, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00504](https://doi.org/10.1021/acs.jmedchem.3c00504)
 
 **Original Text:**
 ```
@@ -25142,10 +25142,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
   - Products: `CCN(c1cc(C#N)cc(C(=O)NCc2c(OC)cc(C)[nH]c2=O)c1C)C1CCOCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a New-Generation S-Adenosylmethionine-Noncompetitive Covalent Inhibitor Targeting the Lysine Methyltransferase Enhancer of Zeste Homologue 2
+  - **Authors:** Zhang, Yi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00504](https://doi.org/10.1021/acs.jmedchem.3c00504)
 
 **Original Text:**
 ```
@@ -25185,10 +25185,10 @@ Journal of Medicinal Chemistry (2023), 66(23), 16426-16440.
   - Products: `O=C(Nc1ccc2[nH]ncc2c1)c1cccc(I)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Bioisosteric replacement based on 1,2,4-oxadiazoles in the discovery of 1H-indazole-bearing neuroprotective MAO B inhibitors
+  - **Authors:** Rullo, Mariagrazia; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115352.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115352](https://doi.org/10.1016/j.ejmech.2023.115352)
 
 **Original Text:**
 ```
@@ -25226,10 +25226,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `O=C(Nc1ccc2[nH]ncc2c1)c1ccc(I)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Bioisosteric replacement based on 1,2,4-oxadiazoles in the discovery of 1H-indazole-bearing neuroprotective MAO B inhibitors
+  - **Authors:** Rullo, Mariagrazia; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115352.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115352](https://doi.org/10.1016/j.ejmech.2023.115352)
 
 **Original Text:**
 ```
@@ -25267,10 +25267,10 @@ ACS Medicinal Chemistry Letters (2020), 11(11), 2195-2203.
   - Products: `COc1ccc(C(=O)Nc2ccc3[nH]ncc3c2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Bioisosteric replacement based on 1,2,4-oxadiazoles in the discovery of 1H-indazole-bearing neuroprotective MAO B inhibitors
+  - **Authors:** Rullo, Mariagrazia; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 255, 115352.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115352](https://doi.org/10.1016/j.ejmech.2023.115352)
 
 **Original Text:**
 ```
@@ -25312,10 +25312,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8791-8816.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5cccc(F)c5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25358,10 +25358,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(C(F)(F)F)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25404,10 +25404,10 @@ Bioorganic & Medicinal Chemistry (2022), 73, 117035.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5cccc(Cl)c5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25450,10 +25450,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccccc5F)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25496,10 +25496,10 @@ Journal of Medicinal Chemistry (2023), 66(7), 4849-4867.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(F)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25545,10 +25545,10 @@ Journal of Medicinal Chemistry (2024), 67(16), 13550-13571.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(C#N)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25591,10 +25591,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(I)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25639,10 +25639,10 @@ Journal of Medicinal Chemistry (2024), 67(12), 10306-10320.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccccc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25689,10 +25689,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(Oc6ccccc6)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25738,10 +25738,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(Br)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25784,10 +25784,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccccc5OC)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25834,10 +25834,10 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccccc5Cl)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25880,10 +25880,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cccc(C(=O)Nc2ccc(-c3ccc4[nH]c(C(=O)N5CCc6cc(OC)c(OC)cc6C5)cc4c3)cc2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25929,10 +25929,10 @@ Journal of Medicinal Chemistry (2020), 63(1), 349-368.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(Cl)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -25975,10 +25975,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1ccc(C(=O)Nc2ccc(-c3ccc4[nH]c(C(=O)N5CCc6cc(OC)c(OC)cc6C5)cc4c3)cc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -26025,10 +26025,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 10934-10950.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(OC(F)(F)F)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -26071,10 +26071,10 @@ Journal of Medicinal Chemistry (2021), 64(4), 1835-1843.
   - Products: `CCOc1ccc(C(=O)Nc2ccc(-c3ccc4[nH]c(C(=O)N5CCc6cc(OC)c(OC)cc6C5)cc4c3)cc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -26117,10 +26117,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5ccc(OC(C)(C)C)cc5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -26167,10 +26167,10 @@ Journal of Medicinal Chemistry (2024), 67(4), 2369-2378.
   - Products: `COc1cc2c(cc1OC)CN(C(=O)c1cc3cc(-c4ccc(NC(=O)c5cc(OC)c(OC)c(OC)c5)cc4)ccc3[nH]1)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -26213,10 +26213,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1ccc(C(=O)Nc2ccc(-c3ccc4[nH]c(C(=O)N5CCc6cc(OC)c(OC)cc6C5)cc4c3)cc2)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel Benzo Five-Membered Heterocycle Derivatives as P-Glycoprotein Inhibitors: Design, Synthesis, Molecular Docking, and Anti-Multidrug Resistance Activity
+  - **Authors:** Yang, Zhikun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01999](https://doi.org/10.1021/acs.jmedchem.2c01999)
 
 **Original Text:**
 ```
@@ -26259,10 +26259,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 11066-11083.
   - Products: `CC(C)(C)OC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)CNC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** N-Alkyl Carbamoylimidazoles as Versatile Synthons for the Synthesis of Urea-Based PSMA Inhibitors
+  - **Authors:** Gade, Narendar Reddy; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(7), 943-948.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.3c00087](https://doi.org/10.1021/acsmedchemlett.3c00087)
 
 **Original Text:**
 ```
@@ -26298,10 +26298,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `CC(=O)N1CCC(C(=O)Nc2ccc(C)c(Cl)c2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A “Two-Birds-One-Stone” Approach toward the Design of Bifunctional Human Immunodeficiency Virus Type 1 Entry Inhibitors Targeting the CCR5 Coreceptor and gp41 N-Terminal Heptad Repeat Region
+  - **Authors:** Wang, Chao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(15), 11460-11471.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00781](https://doi.org/10.1021/acs.jmedchem.1c00781)
 
 **Original Text:**
 ```
@@ -26344,10 +26344,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
   - Products: `CCOC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccncc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Subnanomolar Cathepsin S Inhibitors with High Selectivity: Optimizing Covalent Reversible α-Fluorovinylsulfones and α-Sulfonates as Potential Immunomodulators in Cancer
+  - **Authors:** Fuchs, Natalie; et al
+  - **Citation:** ChemMedChem (2023), 18(15), e202300160.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300160](https://doi.org/10.1002/cmdc.202300160)
 
 **Original Text:**
 ```
@@ -26388,10 +26388,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `CCOC(=O)[C@H](CC(C)C)NC(=O)c1ccncc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Subnanomolar Cathepsin S Inhibitors with High Selectivity: Optimizing Covalent Reversible α-Fluorovinylsulfones and α-Sulfonates as Potential Immunomodulators in Cancer
+  - **Authors:** Fuchs, Natalie; et al
+  - **Citation:** ChemMedChem (2023), 18(15), e202300160.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300160](https://doi.org/10.1002/cmdc.202300160)
 
 **Original Text:**
 ```
@@ -26432,10 +26432,10 @@ ACS Medicinal Chemistry Letters (2022), 13(5), 779-785.
   - Products: `CCOC(=O)[C@H](CC1CCCCC1)NC(=O)c1ccncc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Subnanomolar Cathepsin S Inhibitors with High Selectivity: Optimizing Covalent Reversible α-Fluorovinylsulfones and α-Sulfonates as Potential Immunomodulators in Cancer
+  - **Authors:** Fuchs, Natalie; et al
+  - **Citation:** ChemMedChem (2023), 18(15), e202300160.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300160](https://doi.org/10.1002/cmdc.202300160)
 
 **Original Text:**
 ```
@@ -26474,10 +26474,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `CCOC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Subnanomolar Cathepsin S Inhibitors with High Selectivity: Optimizing Covalent Reversible α-Fluorovinylsulfones and α-Sulfonates as Potential Immunomodulators in Cancer
+  - **Authors:** Fuchs, Natalie; et al
+  - **Citation:** ChemMedChem (2023), 18(15), e202300160.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300160](https://doi.org/10.1002/cmdc.202300160)
 
 **Original Text:**
 ```
@@ -26516,10 +26516,10 @@ Journal of Medicinal Chemistry (2023), 66(4), 2457-2476.
   - Products: `CCOC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccsc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Subnanomolar Cathepsin S Inhibitors with High Selectivity: Optimizing Covalent Reversible α-Fluorovinylsulfones and α-Sulfonates as Potential Immunomodulators in Cancer
+  - **Authors:** Fuchs, Natalie; et al
+  - **Citation:** ChemMedChem (2023), 18(15), e202300160.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300160](https://doi.org/10.1002/cmdc.202300160)
 
 **Original Text:**
 ```
@@ -26558,10 +26558,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - Products: `CCOC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)c1ccncc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Subnanomolar Cathepsin S Inhibitors with High Selectivity: Optimizing Covalent Reversible α-Fluorovinylsulfones and α-Sulfonates as Potential Immunomodulators in Cancer
+  - **Authors:** Fuchs, Natalie; et al
+  - **Citation:** ChemMedChem (2023), 18(15), e202300160.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300160](https://doi.org/10.1002/cmdc.202300160)
 
 **Original Text:**
 ```
@@ -26600,10 +26600,10 @@ European Journal of Medicinal Chemistry (2020), 191, 112148pp..
   - Products: `CCOC(=O)[C@H](CC1CCCCC1)NC(=O)c1ccc(NC(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Subnanomolar Cathepsin S Inhibitors with High Selectivity: Optimizing Covalent Reversible α-Fluorovinylsulfones and α-Sulfonates as Potential Immunomodulators in Cancer
+  - **Authors:** Fuchs, Natalie; et al
+  - **Citation:** ChemMedChem (2023), 18(15), e202300160.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300160](https://doi.org/10.1002/cmdc.202300160)
 
 **Original Text:**
 ```
@@ -26645,10 +26645,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
   - Products: `Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)CCCCBr)C(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of intracellular self-assembly protein degraders driven by tumor-specific activatable bioorthogonal reaction
+  - **Authors:** Si, Ru; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 257, 115497.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115497](https://doi.org/10.1016/j.ejmech.2023.115497)
 
 **Original Text:**
 ```
@@ -26684,10 +26684,10 @@ Journal of Medicinal Chemistry (2021), 64(10), 6670-6695.
   - Products: `Cc1cc(=O)c(C(=O)NCc2c(F)cc(Br)cc2F)nn1-c1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Structure-Based Design of Inhibitors of the WD Repeat-Containing Protein 5 (WDR5)-MYC Interaction
+  - **Authors:** Ding, Jian; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(12), 8310-8323.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00787](https://doi.org/10.1021/acs.jmedchem.3c00787)
 
 **Original Text:**
 ```
@@ -26728,10 +26728,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(22), 127547.
   - Products: `COCCn1nc(C(=O)NCCOCCNC(=O)OC(C)(C)C)c2cc(Nc3nccc(-n4cc(C=O)c(C)n4)n3)ccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Optimization of a series of novel, potent and selective Macrocyclic SYK inhibitors
+  - **Authors:** Grimster, Neil P.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 91, 129352.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2023.129352](https://doi.org/10.1016/j.bmcl.2023.129352)
 
 **Original Text:**
 ```
@@ -26765,10 +26765,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
   - Products: `C#CCNC(=O)[C@@H](C)c1ccc2cc(OC)ccc2c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** NSAID-Au(I) Complexes Induce ROS-Driven DAMPs and Interpose Inflammation to Stimulate the Immune Response against Ovarian Cancer
+  - **Authors:** Xu, Zhongren; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00063](https://doi.org/10.1021/acs.jmedchem.3c00063)
 
 **Original Text:**
 ```
@@ -26802,10 +26802,10 @@ European Journal of Medicinal Chemistry (2021), 220, 113482.
   - Products: `C#CCNC(=O)CC1=C(C)C(=Cc2ccc(S(C)=O)cc2)c2ccc(F)cc21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** NSAID-Au(I) Complexes Induce ROS-Driven DAMPs and Interpose Inflammation to Stimulate the Immune Response against Ovarian Cancer
+  - **Authors:** Xu, Zhongren; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00063](https://doi.org/10.1021/acs.jmedchem.3c00063)
 
 **Original Text:**
 ```
@@ -26839,10 +26839,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `C#CCNC(=O)Cc1cccc2ccccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** NSAID-Au(I) Complexes Induce ROS-Driven DAMPs and Interpose Inflammation to Stimulate the Immune Response against Ovarian Cancer
+  - **Authors:** Xu, Zhongren; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00063](https://doi.org/10.1021/acs.jmedchem.3c00063)
 
 **Original Text:**
 ```
@@ -26876,10 +26876,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Products: `C#CCNC(=O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** NSAID-Au(I) Complexes Induce ROS-Driven DAMPs and Interpose Inflammation to Stimulate the Immune Response against Ovarian Cancer
+  - **Authors:** Xu, Zhongren; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00063](https://doi.org/10.1021/acs.jmedchem.3c00063)
 
 **Original Text:**
 ```
@@ -26917,10 +26917,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `CCCCCc1cc(OC)c(NC(=O)c2ccc(Br)cc2)c(OC)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and analgesia evaluation of novel Transient Receptor Potential Vanilloid 1 (TRPV1) agonists modified from Cannabidiol (CBD)
+  - **Authors:** Jin, Fangjie; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 90, 117379.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117379](https://doi.org/10.1016/j.bmc.2023.117379)
 
 **Original Text:**
 ```
@@ -26961,10 +26961,10 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
   - Products: `N#Cc1c(Nc2ccccc2)nc(SCC(=O)NCCOc2no[n+]([O-])c2S(=O)(=O)c2ccccc2)nc1-c1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of nitric oxide-releasing 5-cyano-6-phenyl-2, 4-disubstituted pyrimidine derivatives
+  - **Authors:** Chi, Lingling; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 92, 129389.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2023.129389](https://doi.org/10.1016/j.bmcl.2023.129389)
 
 **Original Text:**
 ```
@@ -27001,10 +27001,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `CC[C@@H](NC(=O)c1cc(Br)cc(I)c1)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Aldo-Keto Reductase 1C3 Inhibitor Prodrug Improves Pharmacokinetic Profile and Demonstrates In Vivo Efficacy in a Prostate Cancer Xenograft Model
+  - **Authors:** Maddeboina, Krishnaiah; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(14), 9894-9915.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00732](https://doi.org/10.1021/acs.jmedchem.3c00732)
 
 **Original Text:**
 ```
@@ -27043,10 +27043,10 @@ European Journal of Medicinal Chemistry (2024), 272, 116473.
   - Products: `CCCC[C@@H](NC(=O)[C@@H](Cc1c[nH]c2ccccc12)NC(=O)OC(C)(C)C)C(=O)OCc1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development, synthesis and evaluation of novel fluorescent Endothelin-B receptor probes
+  - **Authors:** Delahaye, Juliette; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 258, 115568.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115568](https://doi.org/10.1016/j.ejmech.2023.115568)
 
 **Original Text:**
 ```
@@ -27091,10 +27091,10 @@ Organic Process Research & Development (2023), 27(4), 788-797.
   - Products: `C[C@@H](NC(=O)[C@H]1CCc2ccccc2O1)c1cccc2ccccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of LNP1892: A Precision Calcimimetic for the Treatment of Secondary Hyperparathyroidism
+  - **Authors:** Shukla, Manojkumar R.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(14), 9418-9444.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00698](https://doi.org/10.1021/acs.jmedchem.3c00698)
 
 **Original Text:**
 ```
@@ -27140,10 +27140,10 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116211.
   - Products: `O=C(Nc1ccccc1)c1nc(Cl)ccc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Rhodium(III)-Picolinamide Complexes Act as Anticancer and Antimetastasis Agents via Inducing Apoptosis and Autophagy
+  - **Authors:** Gu, Yun-Qiong; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(14), 9592-9606.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00318](https://doi.org/10.1021/acs.jmedchem.3c00318)
 
 **Original Text:**
 ```
@@ -27183,10 +27183,10 @@ Journal of Medicinal Chemistry (2021), 64(21), 15772-15786.
   - Products: `COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NS(=O)(=O)c1ccccc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of novel PEX5-PEX14 protein-protein interaction (PPI) inhibitors based on an oxopiperazine template
+  - **Authors:** Marciniak, Monika; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 258, 115587.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115587](https://doi.org/10.1016/j.ejmech.2023.115587)
 
 **Original Text:**
 ```
@@ -27225,10 +27225,10 @@ Journal of Medicinal Chemistry (2022), 65(22), 15000-15013.
   - Products: `C[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@@H](C)C(=O)Nc1cccc(Cc2ccc([C@@H]3O[C@@H]4C[C@H]5[C@@H]6CCC7=CC(=O)C=C[C@]7(C)[C@H]6[C@@H](O)C[C@]5(C)[C@]4(C(=O)CO)O3)cc2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Optimization of Drug-Linker to Enable Long-term Storage of Antibody-Drug Conjugate for Subcutaneous Dosing
+  - **Authors:** Hobson, Adrian D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(13), 9161-9173.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00794](https://doi.org/10.1021/acs.jmedchem.3c00794)
 
 **Original Text:**
 ```
@@ -27267,10 +27267,10 @@ Organic Process Research & Development (2023), 27(7), 1317-1329.
   - Products: `C#Cc1cccc(NC(=O)CNC(=O)OC(C)(C)C)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Metal binding pharmacophore click-derived discovery of new broad-spectrum metallo-β-lactamase inhibitors
+  - **Authors:** Yan, Yu-Hang; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 257, 115473.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115473](https://doi.org/10.1016/j.ejmech.2023.115473)
 
 **Original Text:**
 ```
@@ -27307,10 +27307,10 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
   - Products: `CC(C)(C)OC(=O)N1CCC[C@H]1C(=O)Nc1ccc(OCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** [18F]ZCDD083: A PFKFB3-Targeted PET Tracer for Atherosclerotic Plaque Imaging
+  - **Authors:** De Dominicis, Carlo; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(5), 933-939.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.9b00677](https://doi.org/10.1021/acsmedchemlett.9b00677)
 
 **Original Text:**
 ```
@@ -27352,10 +27352,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 96, 129492.
   - Products: `COC(=O)[C@H](Cc1ccccc1)NC(=O)CC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Serendipitous Discovery of Leucine and Methionine Depletion Agents during the Search for Polyamine Transport Inhibitors
+  - **Authors:** Massaro, Chelsea; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(6), 2814-2832.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b00568](https://doi.org/10.1021/acs.jmedchem.9b00568)
 
 **Original Text:**
 ```
@@ -27395,10 +27395,10 @@ Journal of Medicinal Chemistry (2024), 67(4), 2849-2863.
   - Products: `Cc1ccc(C(=O)NCc2cccnc2)cc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of Benzamide Derivatives as Potent and Orally Active Tubulin Inhibitors Targeting the Colchicine Binding Site
+  - **Authors:** Lin, Songwen; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(24), 16372-16391.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01208](https://doi.org/10.1021/acs.jmedchem.2c01208)
 
 **Original Text:**
 ```
@@ -27438,10 +27438,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `CC(C)(C)OC(=O)N[C@@H](CCCNC(=O)OCc1ccccc1)C(=O)NCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Highly-tumor-targeted PAD4 inhibitors with PBA modification inhibit tumors in vivo by specifically inhibiting the PAD4-H3cit-NETs pathway in neutrophils
+  - **Authors:** Zhu, Di; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 258, 115619.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115619](https://doi.org/10.1016/j.ejmech.2023.115619)
 
 **Original Text:**
 ```
@@ -27483,10 +27483,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - Products: `CCCCCCCCCCCC[N+](C)(CCCCCCCCCCCC)CCNC(=O)c1ccccc1Nc1cccc(C)c1C.[I-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and Characterization of a New Cationic Lipid: Efficient siRNA Delivery and Anticancer Activity of Survivin-siRNA Lipoplexes for the Treatment of Lung and Breast Cancers
+  - **Authors:** Vaidya, Sandeep; et al
+  - **Citation:** ChemMedChem (2023), 18(16), e202300097.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300097](https://doi.org/10.1002/cmdc.202300097)
 
 **Original Text:**
 ```
@@ -27528,10 +27528,10 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
   - Products: `CCCCCCCCCCCC[N+](C)(CCCCCCCCCCCC)CCNC(=O)C(C)c1ccc(CC(C)C)cc1.[I-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and Characterization of a New Cationic Lipid: Efficient siRNA Delivery and Anticancer Activity of Survivin-siRNA Lipoplexes for the Treatment of Lung and Breast Cancers
+  - **Authors:** Vaidya, Sandeep; et al
+  - **Citation:** ChemMedChem (2023), 18(16), e202300097.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300097](https://doi.org/10.1002/cmdc.202300097)
 
 **Original Text:**
 ```
@@ -27573,10 +27573,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `CCCCCCCCCCCC[N+](C)(CCCCCCCCCCCC)CCNC(=O)C(C)c1cccc(C(=O)c2ccccc2)c1.[I-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and Characterization of a New Cationic Lipid: Efficient siRNA Delivery and Anticancer Activity of Survivin-siRNA Lipoplexes for the Treatment of Lung and Breast Cancers
+  - **Authors:** Vaidya, Sandeep; et al
+  - **Citation:** ChemMedChem (2023), 18(16), e202300097.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300097](https://doi.org/10.1002/cmdc.202300097)
 
 **Original Text:**
 ```
@@ -27618,10 +27618,10 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
   - Products: `CCCCCCCCCCCC[N+](C)(CCCCCCCCCCCC)CCNC(=O)C(C)c1ccc2c(c1)[nH]c1ccc(Cl)cc12.[I-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and Characterization of a New Cationic Lipid: Efficient siRNA Delivery and Anticancer Activity of Survivin-siRNA Lipoplexes for the Treatment of Lung and Breast Cancers
+  - **Authors:** Vaidya, Sandeep; et al
+  - **Citation:** ChemMedChem (2023), 18(16), e202300097.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300097](https://doi.org/10.1002/cmdc.202300097)
 
 **Original Text:**
 ```
@@ -27669,10 +27669,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `CCCCCCCCCCCC[N+](C)(CCCCCCCCCCCC)CCNC(=O)Cc1c(C)n(C(=O)c2ccc(Cl)cc2)c2ccc(OC)cc12.[I-]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and Characterization of a New Cationic Lipid: Efficient siRNA Delivery and Anticancer Activity of Survivin-siRNA Lipoplexes for the Treatment of Lung and Breast Cancers
+  - **Authors:** Vaidya, Sandeep; et al
+  - **Citation:** ChemMedChem (2023), 18(16), e202300097.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300097](https://doi.org/10.1002/cmdc.202300097)
 
 **Original Text:**
 ```
@@ -27715,10 +27715,10 @@ ChemMedChem (2024), 19(14), e202300727.
   - Products: `CN1CCc2nc(C(=O)N[C@@H]3C[C@@H](C(=O)N(C)C)CC[C@H]3O)sc2C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Stereoinvertive Deoxyamination of trans-2-Aminocyclohexanol Using Bose-Mitsunobu Azidation and Staudinger Reaction for the Stereoselective Synthesis of Edoxaban
+  - **Authors:** Ochiai, Hidenori; et al
+  - **Citation:** Organic Process Research & Development (2023), 27(8), 1517-1532.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00189](https://doi.org/10.1021/acs.oprd.3c00189)
 
 **Original Text:**
 ```
@@ -27754,10 +27754,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
   - Products: `COC(=O)C(C)NC(=O)CCc1c[nH]c2ccccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Nonpeptidic Oxazole Based Prolyl Oligopeptidase Ligands with Disease Modifying Effects on alpha Synuclein Mouse Models of Parkinson Disease
+  - **Authors:** Kilpelainen, Tommi P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00235](https://doi.org/10.1021/acs.jmedchem.3c00235)
 
 **Original Text:**
 ```
@@ -27798,10 +27798,10 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
   - Products: `COC(=O)C(C)NC(=O)CCC(=O)N1CCCCCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Nonpeptidic Oxazole Based Prolyl Oligopeptidase Ligands with Disease Modifying Effects on alpha Synuclein Mouse Models of Parkinson Disease
+  - **Authors:** Kilpelainen, Tommi P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00235](https://doi.org/10.1021/acs.jmedchem.3c00235)
 
 **Original Text:**
 ```
@@ -27847,10 +27847,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
   - Products: `C[C@H](NC(=O)CCCc1ccccn1)C(=O)N1CCC[C@H]1C(N)=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Nonpeptidic Oxazole Based Prolyl Oligopeptidase Ligands with Disease Modifying Effects on alpha Synuclein Mouse Models of Parkinson Disease
+  - **Authors:** Kilpelainen, Tommi P.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00235](https://doi.org/10.1021/acs.jmedchem.3c00235)
 
 **Original Text:**
 ```
@@ -27880,10 +27880,10 @@ Journal of Medicinal Chemistry (2022), 65(6), 4972-4990.
   - Products: `O=c1nc[nH]c2cnc(Cl)cc12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification of Pyrido[3,4-d]pyrimidine derivatives as RIPK3-Mediated necroptosis inhibitors
+  - **Authors:** Kim, Namkyoung; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 259, 115635.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115635](https://doi.org/10.1016/j.ejmech.2023.115635)
 
 **Original Text:**
 ```
@@ -27921,10 +27921,10 @@ ChemMedChem (2020), 15(7), 643-658.
   - Products: `O=C(CC[C@H](NC(=O)OCc1ccccc1)C(=O)OCc1ccccc1)NC1CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Metabolism-guided development of Ko143 analogs as ABCG2 inhibitors
+  - **Authors:** Zhu, Junjie; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 259, 115666.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115666](https://doi.org/10.1016/j.ejmech.2023.115666)
 
 **Original Text:**
 ```
@@ -27965,10 +27965,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
   - Products: `CC(C)(C)NC(=O)CC[C@H](NC(=O)OCc1ccccc1)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Metabolism-guided development of Ko143 analogs as ABCG2 inhibitors
+  - **Authors:** Zhu, Junjie; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 259, 115666.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115666](https://doi.org/10.1016/j.ejmech.2023.115666)
 
 **Original Text:**
 ```
@@ -28009,10 +28009,10 @@ European Journal of Medicinal Chemistry (2023), 254, 115342.
   - Products: `CC(C)NC(=O)CC[C@H](NC(=O)OCc1ccccc1)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Metabolism-guided development of Ko143 analogs as ABCG2 inhibitors
+  - **Authors:** Zhu, Junjie; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 259, 115666.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115666](https://doi.org/10.1016/j.ejmech.2023.115666)
 
 **Original Text:**
 ```
@@ -28052,10 +28052,10 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
   - Products: `COc1nn(-c2cncc(Br)c2)cc1C(=O)Nc1cccc(-c2nncn2C(C)C)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of CNS-Penetrant Apoptosis Signal-Regulating Kinase 1 (ASK1) Inhibitors
+  - **Authors:** Xin, Zhili; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2020), 11(4), 485-490.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.9b00611](https://doi.org/10.1021/acsmedchemlett.9b00611)
 
 **Original Text:**
 ```
@@ -28099,10 +28099,10 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
   - Products: `NCCOCCOCCOCC(=O)Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** PROTACs Targeting MLKL Protect Cells from Necroptosis
+  - **Authors:** Rathje, Oliver H.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(16), 11216-11236.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00665](https://doi.org/10.1021/acs.jmedchem.3c00665)
 
 **Original Text:**
 ```
@@ -28137,10 +28137,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `O=c1nc[nH]c2cc(Br)ccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel 4-Arylindolines Containing a Pyrido[3,2-d]pyrimidine Moiety as the Programmed Cell Death-1/Programmed Cell Death-Ligand 1 Interaction Inhibitors for Tumor Immunotherapy
+  - **Authors:** Meng, Yangyang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 11815-11830.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00264](https://doi.org/10.1021/acs.jmedchem.3c00264)
 
 **Original Text:**
 ```
@@ -28175,10 +28175,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 34, 127676.
   - Products: `COC(=O)Cc1ccc(NC(=O)/C=C/c2cc(OC)c(OC)c(OC)c2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Tetrazole and oxadiazole derivatives as bioisosteres of tariquidar and elacridar: New potent P-gp modulators acting as MDR reversers
+  - **Authors:** Braconi, Laura; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 259, 115716.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115716](https://doi.org/10.1016/j.ejmech.2023.115716)
 
 **Original Text:**
 ```
@@ -28218,10 +28218,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 99, 129610.
   - Products: `COC(=O)Cc1ccc(NC(=O)c2cc(OC)c(OC)c(OC)c2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Tetrazole and oxadiazole derivatives as bioisosteres of tariquidar and elacridar: New potent P-gp modulators acting as MDR reversers
+  - **Authors:** Braconi, Laura; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 259, 115716.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115716](https://doi.org/10.1016/j.ejmech.2023.115716)
 
 **Original Text:**
 ```
@@ -28260,10 +28260,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
   - Products: `Cn1nc(C(=O)NCC2CCCOC2)cc1-c1ccc(C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of CVN417, a Novel Brain-Penetrant α6-Containing Nicotinic Receptor Antagonist for the Modulation of Motor Dysfunction
+  - **Authors:** Christie, Louisa A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00630](https://doi.org/10.1021/acs.jmedchem.3c00630)
 
 **Original Text:**
 ```
@@ -28306,10 +28306,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3473-3517.
   - Products: `CN1CCCC(NC(=O)c2cc(-c3ccc(C(F)(F)F)cc3Cl)n(C)n2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of CVN417, a Novel Brain-Penetrant α6-Containing Nicotinic Receptor Antagonist for the Modulation of Motor Dysfunction
+  - **Authors:** Christie, Louisa A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00630](https://doi.org/10.1021/acs.jmedchem.3c00630)
 
 **Original Text:**
 ```
@@ -28351,10 +28351,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - Products: `COc1ccc(-c2cc(C(=O)N[C@H]3CCCN(C)C3)nn2C)c(Cl)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of CVN417, a Novel Brain-Penetrant α6-Containing Nicotinic Receptor Antagonist for the Modulation of Motor Dysfunction
+  - **Authors:** Christie, Louisa A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00630](https://doi.org/10.1021/acs.jmedchem.3c00630)
 
 **Original Text:**
 ```
@@ -28398,10 +28398,10 @@ Journal of Medicinal Chemistry (2023), 66(1), 460-472.
   - Products: `[2H]C([2H])([2H])Oc1ccc(-c2cc(C(=O)N[C@H]3CCCN(C(=O)OC(C)(C)C)C3)nn2C([2H])([2H])[2H])c(Cl)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of CVN417, a Novel Brain-Penetrant α6-Containing Nicotinic Receptor Antagonist for the Modulation of Motor Dysfunction
+  - **Authors:** Christie, Louisa A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00630](https://doi.org/10.1021/acs.jmedchem.3c00630)
 
 **Original Text:**
 ```
@@ -28441,10 +28441,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cn(C(C)C(=O)Nc2ccc(C(=O)OC(C)(C)C)cc2)c(=O)cc1-c1cc(Cl)ccc1C#N`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Preclinical Characterization Program toward Asundexian (BAY 2433334), an Oral Factor XIa Inhibitor for the Prevention and Treatment of Thromboembolic Disorders
+  - **Authors:** Roehrig, Susanne; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00795](https://doi.org/10.1021/acs.jmedchem.3c00795)
 
 **Original Text:**
 ```
@@ -28483,10 +28483,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
   - Products: `CCOC(=O)c1ccc(NC(=O)C(CCOC)n2cc(OC)c(-c3cc(Cl)ccc3C#N)cc2=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Preclinical Characterization Program toward Asundexian (BAY 2433334), an Oral Factor XIa Inhibitor for the Prevention and Treatment of Thromboembolic Disorders
+  - **Authors:** Roehrig, Susanne; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00795](https://doi.org/10.1021/acs.jmedchem.3c00795)
 
 **Original Text:**
 ```
@@ -28522,10 +28522,10 @@ Journal of Medicinal Chemistry (2022), 65(9), 6940-6952.
   - Products: `CC(C)[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@@H](C)C(=O)Nc1ccc(CO)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Enhancing the Pharmacokinetics and Antitumor Activity of an α-Amanitin-Based Small-Molecule Drug Conjugate via Conjugation with an Fc Domain
+  - **Authors:** Gallo, Francesca; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(7), 4117-4129.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00003](https://doi.org/10.1021/acs.jmedchem.1c00003)
 
 **Original Text:**
 ```
@@ -28564,10 +28564,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `O=C(CCc1cccnc1)C(=O)NCc1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Analysis of Structure-Activity Relationships of Novel Inhibitors of the Macrophage Infectivity Potentiator (Mip) Proteins of Neisseria meningitidis, Neisseria gonorrhoeae, and Burkholderia pseudomallei
+  - **Authors:** Scheuplein, Nicolas J.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00458](https://doi.org/10.1021/acs.jmedchem.3c00458)
 
 **Original Text:**
 ```
@@ -28605,10 +28605,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Products: `C=CCOC(=O)[C@H](Cc1ccc(F)cc1)NC(=O)[C@@H]1CCCCN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Analysis of Structure-Activity Relationships of Novel Inhibitors of the Macrophage Infectivity Potentiator (Mip) Proteins of Neisseria meningitidis, Neisseria gonorrhoeae, and Burkholderia pseudomallei
+  - **Authors:** Scheuplein, Nicolas J.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00458](https://doi.org/10.1021/acs.jmedchem.3c00458)
 
 **Original Text:**
 ```
@@ -28652,10 +28652,10 @@ Journal of Medicinal Chemistry (2020), 63(5), 2688-2704.
   - Products: `CC(=O)N[C@@H](CCCCNC(=O)OC(C)(C)C)C(=O)N[C@@H](C)C(=O)Nc1cccc(C(=O)Oc2ccccc2)c1C#Cc1c(NC(=O)[C@H](C)NC(=O)[C@H](CCCCNC(=O)OC(C)(C)C)NC(C)=O)cccc1C(=O)Oc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Antimicrobial Peptide Mimetics Based on a Diphenylacetylene Scaffold: Synthesis, Conformational Analysis, and Activity
+  - **Authors:** Peacock, Hayden; et al
+  - **Citation:** ChemMedChem (2020), 15(20), 1932-1939.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202000474](https://doi.org/10.1002/cmdc.202000474)
 
 **Original Text:**
 ```
@@ -28694,10 +28694,10 @@ Organic Process Research & Development (2024), 28(12), 4374-4379.
   - Products: `COC(=O)[C@@]1(n2cc(CNC(=O)CCCCCN=[N+]=[N-])nn2)C[C@H](OC(C)=O)[C@@H](NC(C)=O)[C@H]([C@H](OC(C)=O)[C@@H](COC(C)=O)OC(C)=O)O1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthetic pentatrideca-valent triazolylsialoside inhibits influenza virus hemagglutinin/neuraminidase and aggregates virion particles
+  - **Authors:** Lao, Zhiqi; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 259, 115578.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115578](https://doi.org/10.1016/j.ejmech.2023.115578)
 
 **Original Text:**
 ```
@@ -28741,10 +28741,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 11972-11989.
   - Products: `Cc1c(O)cccc1C(=O)N[C@@H](CC(=O)OC(C)(C)C)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a novel series of medium-sized cyclic enteropeptidase inhibitors
+  - **Authors:** Kikuchi, Fumiaki; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 93, 117462.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117462](https://doi.org/10.1016/j.bmc.2023.117462)
 
 **Original Text:**
 ```
@@ -28782,10 +28782,10 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
   - Products: `CC(C)C[C@H](NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-Activity Relationship Studies of SARS-CoV-2 Main Protease Inhibitors Containing 4-Fluorobenzothiazole-2-carbonyl Moieties
+  - **Authors:** Tsuji, Kohei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(19), 13516-13529.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00777](https://doi.org/10.1021/acs.jmedchem.3c00777)
 
 **Original Text:**
 ```
@@ -28824,10 +28824,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COc1ccc2c3ccnc(C)c3n(CCNC(=O)/C=C/c3cccc(OC(F)(F)F)c3)c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and antiplasmodial evaluation of new amide-, carbamate-, and ureido-type harmicines
+  - **Authors:** Marinovic, Marina; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 94, 117468.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117468](https://doi.org/10.1016/j.bmc.2023.117468)
 
 **Original Text:**
 ```
@@ -28865,10 +28865,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `COc1ccc2c3ccnc(C)c3n(CCNC(=O)/C=C/c3cccc(Cl)c3)c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and antiplasmodial evaluation of new amide-, carbamate-, and ureido-type harmicines
+  - **Authors:** Marinovic, Marina; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 94, 117468.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117468](https://doi.org/10.1016/j.bmc.2023.117468)
 
 **Original Text:**
 ```
@@ -28913,10 +28913,10 @@ European Journal of Medicinal Chemistry (2022), 244, 114830.
   - Products: `O=C(CN1CCn2c(cc3sccc32)C1=O)NC1CCOCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Triazinone Derivatives as Novel, Specific, and Direct NLRP3 Inflammasome Inhibitors for the Treatment of DSS-Induced Ulcerative Colitis
+  - **Authors:** Li, Na; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(19), 13428-13451.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00696](https://doi.org/10.1021/acs.jmedchem.3c00696)
 
 **Original Text:**
 ```
@@ -28959,10 +28959,10 @@ European Journal of Medicinal Chemistry (2023), 261, 115871.
   - Products: `COC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@]12CCC(C)(C)C[C@H]1C1=CC[C@@H]3[C@@]4(C)CC[C@H](O)C(C)(C)[C@@H]4CC[C@@]3(C)[C@]1(C)CC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Pentacyclic triterpene-amino acid derivatives induced apoptosis and autophagy in tumor cells, affected the JNK and PI3K/AKT/mTOR pathway
+  - **Authors:** Zhang, Li-qiong; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 94, 117478.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117478](https://doi.org/10.1016/j.bmc.2023.117478)
 
 **Original Text:**
 ```
@@ -29008,10 +29008,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `CCOC(=O)CSc1ccc(NC(=O)c2ccc(F)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-Based Ligand Discovery Targeting the Transmembrane Domain of Frizzled Receptor FZD7
+  - **Authors:** Li, Cuixia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(17), 11855-11868.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01795](https://doi.org/10.1021/acs.jmedchem.2c01795)
 
 **Original Text:**
 ```
@@ -29049,10 +29049,10 @@ ChemMedChem (2023), 18(16), e202300097.
   - Products: `Cc1cccc(C(=O)Nc2ccccc2C(N)=O)n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dual inhibition of Mycobacterium tuberculosis and the host TGFBR1 by an anilinoquinazoline
+  - **Authors:** Nandakumar, Meganathan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(21), 14724-14734.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01273](https://doi.org/10.1021/acs.jmedchem.3c01273)
 
 **Original Text:**
 ```
@@ -29091,10 +29091,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3266-3305.
   - Products: `Cc1cn2cc(NC(=O)c3ccc(N4CC[C@@H](N(C)C(=O)OC(C)(C)C)C4)nn3)cc(F)c2n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification and Optimization of RNA-Splicing Modulators as Huntingtin Protein-Lowering Agents for the Treatment of Huntington’s Disease
+  - **Authors:** Liu, Longbin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01173](https://doi.org/10.1021/acs.jmedchem.3c01173)
 
 **Original Text:**
 ```
@@ -29136,10 +29136,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 3006-3025.
   - Products: `Cc1cn2cc(NC(=O)c3ncc(N4CC[C@@H](N(C)C(=O)OC(C)(C)C)C4)cn3)cc(F)c2n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification and Optimization of RNA-Splicing Modulators as Huntingtin Protein-Lowering Agents for the Treatment of Huntington’s Disease
+  - **Authors:** Liu, Longbin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01173](https://doi.org/10.1021/acs.jmedchem.3c01173)
 
 **Original Text:**
 ```
@@ -29180,10 +29180,10 @@ Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
   - Products: `CC(C)(O)[C@H]1CC[C@H](NC(=O)c2cnc3nc(C4CC4)c(Cl)cc3c2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** The exploration of aza-quinolines as hematopoietic prostaglandin D synthase (H-PGDS) inhibitors with low brain exposure
+  - **Authors:** Cadilla, Rodolfo; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115791](https://doi.org/10.1016/j.bmc.2020.115791)
 
 **Original Text:**
 ```
@@ -29220,10 +29220,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112756.
   - Products: `COc1nc2ncc(C(=O)N[C@H]3CC[C@H](C(C)(C)O)CC3)cc2cc1Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** The exploration of aza-quinolines as hematopoietic prostaglandin D synthase (H-PGDS) inhibitors with low brain exposure
+  - **Authors:** Cadilla, Rodolfo; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115791](https://doi.org/10.1016/j.bmc.2020.115791)
 
 **Original Text:**
 ```
@@ -29260,10 +29260,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
   - Products: `C[C@H]1CCN1c1nc2ncc(C(=O)N[C@H]3C[C@](C)(O)C3)cc2cc1Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** The exploration of aza-quinolines as hematopoietic prostaglandin D synthase (H-PGDS) inhibitors with low brain exposure
+  - **Authors:** Cadilla, Rodolfo; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115791](https://doi.org/10.1016/j.bmc.2020.115791)
 
 **Original Text:**
 ```
@@ -29306,10 +29306,10 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
   - Products: `CC(C)(C)[Si](Oc1cc(CC(=O)NCCc2ccc(OCc3ccccc3)c(O)c2)c(Br)cc1OCc1ccccc1)(c1ccccc1)c1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Selective Dopamine Receptor Ligands Derived from (-)-Stepholidine via C-3 Alkoxylation and C-3/C-9 Dialkoxylation
+  - **Authors:** Namballa, Hari K.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(14), 10060-10079.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00976](https://doi.org/10.1021/acs.jmedchem.3c00976)
 
 **Original Text:**
 ```
@@ -29350,10 +29350,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `O=c1nc[nH]c2ccc(Cl)cc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel quinazolinone inhibitors of the Pseudomonas aeruginosa quorum sensing transcriptional regulator PqsR
+  - **Authors:** Grossman, Scott; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112778.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112778](https://doi.org/10.1016/j.ejmech.2020.112778)
 
 **Original Text:**
 ```
@@ -29386,10 +29386,10 @@ European Journal of Medicinal Chemistry (2020), 190, 112108pp..
   - Products: `O=c1nc[nH]c2cc(Cl)ccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel quinazolinone inhibitors of the Pseudomonas aeruginosa quorum sensing transcriptional regulator PqsR
+  - **Authors:** Grossman, Scott; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112778.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112778](https://doi.org/10.1016/j.ejmech.2020.112778)
 
 **Original Text:**
 ```
@@ -29426,10 +29426,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `COc1ccc(NC(=O)[C@H]2CCCN2C(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Proline-Based p300/CBP Inhibitors Using DNA-Encoded Library Technology in Combination with High-Throughput Screening
+  - **Authors:** Tian, Xinrong; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(21), 14391-14408.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00670](https://doi.org/10.1021/acs.jmedchem.2c00670)
 
 **Original Text:**
 ```
@@ -29462,10 +29462,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `NC(=O)NC(=O)CCN1CCC(C(=O)c2ccc(O)cc2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structural and Functional Study of the Klebsiella pneumoniae VapBC Toxin-Antitoxin System, Including the Development of an Inhibitor That Activates VapC
+  - **Authors:** Kang, Sung-Min; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(22), 13669-13679.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01118](https://doi.org/10.1021/acs.jmedchem.0c01118)
 
 **Original Text:**
 ```
@@ -29508,10 +29508,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - Products: `Cc1cc(F)ccc1NC(=O)c1ccc(Br)o1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dual Targeting of Steroid Sulfatase and 17β-Hydroxysteroid Dehydrogenase Type 1 by a Novel Drug-Prodrug Approach: A Potential Therapeutic Option for the Treatment of Endometriosis
+  - **Authors:** Mohamed, Abdelrahman; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00589](https://doi.org/10.1021/acs.jmedchem.2c00589)
 
 **Original Text:**
 ```
@@ -29556,10 +29556,10 @@ Bioorganic & Medicinal Chemistry (2024), 104, 117712.
   - Products: `Cc1ncccc1NC(=O)c1ccc(Br)o1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dual Targeting of Steroid Sulfatase and 17β-Hydroxysteroid Dehydrogenase Type 1 by a Novel Drug-Prodrug Approach: A Potential Therapeutic Option for the Treatment of Endometriosis
+  - **Authors:** Mohamed, Abdelrahman; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00589](https://doi.org/10.1021/acs.jmedchem.2c00589)
 
 **Original Text:**
 ```
@@ -29603,10 +29603,10 @@ ACS Medicinal Chemistry Letters (2020), 11(5), 857-861.
   - Products: `NCCNC(=O)CCC(=O)Nc1cccc2ccccc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A new naphthalene derivative with anti-amyloidogenic activity as potential therapeutic agent for Alzheimer’s disease
+  - **Authors:** Rivera-Marrero, Suchitil; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2020), 28(20), 115700.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2020.115700](https://doi.org/10.1016/j.bmc.2020.115700)
 
 **Original Text:**
 ```
@@ -29648,10 +29648,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `COC(=O)c1ccc(CNC(=O)c2cnn(-c3ccccc3)c2N)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Selective targeting of the αC and DFG-out pocket in p38 MAPK
+  - **Authors:** Roehm, Sandra; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112721.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112721](https://doi.org/10.1016/j.ejmech.2020.112721)
 
 **Original Text:**
 ```
@@ -29693,10 +29693,10 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
   - Products: `CC[C@H](C)[C@@H]([C@@H](CC(=O)OC(C)(C)C)OC)N(C)C(=O)[C@@H](NC(=O)[C@H](C(C)C)N(C)C(=O)OCC1c2ccccc2-c2ccccc21)C(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** hIMB1636-MMAE, a Novel TROP2-Targeting Antibody-Drug Conjugate Exerting Potent Antitumor Efficacy in Pancreatic Cancer
+  - **Authors:** Sun, Li-ping; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01210](https://doi.org/10.1021/acs.jmedchem.3c01210)
 
 **Original Text:**
 ```
@@ -29738,10 +29738,10 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
   - Products: `CC(C)[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)N[C@@H](CCCNC(N)=O)C(=O)Nc1ccc(CO)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** hIMB1636-MMAE, a Novel TROP2-Targeting Antibody-Drug Conjugate Exerting Potent Antitumor Efficacy in Pancreatic Cancer
+  - **Authors:** Sun, Li-ping; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01210](https://doi.org/10.1021/acs.jmedchem.3c01210)
 
 **Original Text:**
 ```
@@ -29777,10 +29777,10 @@ European Journal of Medicinal Chemistry (2020), 207, 112815.
   - Products: `O=c1nc[nH]c2cc(F)c(F)cc12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification of Small Molecule Inhibitors and Ligand Directed Degraders of Calcium/Calmodulin Dependent Protein Kinase Kinase 1 and 2 (CaMKK1/2)
+  - **Authors:** Chen, Young; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(23), 15750-15760.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01137](https://doi.org/10.1021/acs.jmedchem.3c01137)
 
 **Original Text:**
 ```
@@ -29818,10 +29818,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CC(C)(C)OC(=O)NCCNC(=O)c1ccc(COc2c(N)cc(Cl)cc2Cl)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of benzyloxy benzamide derivatives as potent neuroprotective agents against ischemic stroke
+  - **Authors:** Chen, Weilin; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 261, 115871.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115871](https://doi.org/10.1016/j.ejmech.2023.115871)
 
 **Original Text:**
 ```
@@ -29861,10 +29861,10 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
   - Products: `CNC(=O)c1ccc(-c2ccc(C(F)(F)F)cc2)c(C(=O)N[C@H](C(=O)N(C)C)c2cccc(C(F)(F)F)c2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of small molecule inhibitors of natural killer group 2D receptor (NKG2D)
+  - **Authors:** Wang, Jocelyn; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 96, 129492.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2023.129492](https://doi.org/10.1016/j.bmcl.2023.129492)
 
 **Original Text:**
 ```
@@ -29902,10 +29902,10 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
   - Products: `CC(C)(C)OC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)[C@@H](Cc1ccccc1)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of tert-butyl ester-based DON prodrugs for enhanced metabolic stability and tumor delivery
+  - **Authors:** Novotna, Katerina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01681](https://doi.org/10.1021/acs.jmedchem.3c01681)
 
 **Original Text:**
 ```
@@ -29946,10 +29946,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
   - Products: `CC(C)(C)OC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)[C@H](Cc1ccc(C(F)(F)F)cc1)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of tert-butyl ester-based DON prodrugs for enhanced metabolic stability and tumor delivery
+  - **Authors:** Novotna, Katerina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01681](https://doi.org/10.1021/acs.jmedchem.3c01681)
 
 **Original Text:**
 ```
@@ -29989,10 +29989,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `CC(C)(C)OC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)[C@H](Cc1cccc(F)c1)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of tert-butyl ester-based DON prodrugs for enhanced metabolic stability and tumor delivery
+  - **Authors:** Novotna, Katerina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01681](https://doi.org/10.1021/acs.jmedchem.3c01681)
 
 **Original Text:**
 ```
@@ -30032,10 +30032,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `CC(C)(C)OC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)[C@H](CCc1ccccc1)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of tert-butyl ester-based DON prodrugs for enhanced metabolic stability and tumor delivery
+  - **Authors:** Novotna, Katerina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01681](https://doi.org/10.1021/acs.jmedchem.3c01681)
 
 **Original Text:**
 ```
@@ -30072,10 +30072,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `CC(C)(C)C[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)N[C@@H](CCC(=O)C=[N+]=[N-])C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of tert-butyl ester-based DON prodrugs for enhanced metabolic stability and tumor delivery
+  - **Authors:** Novotna, Katerina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01681](https://doi.org/10.1021/acs.jmedchem.3c01681)
 
 **Original Text:**
 ```
@@ -30115,10 +30115,10 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
   - Products: `C[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)N[C@@H](CCC(=O)C=[N+]=[N-])C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of tert-butyl ester-based DON prodrugs for enhanced metabolic stability and tumor delivery
+  - **Authors:** Novotna, Katerina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01681](https://doi.org/10.1021/acs.jmedchem.3c01681)
 
 **Original Text:**
 ```
@@ -30155,10 +30155,10 @@ Journal of Medicinal Chemistry (2021), 64(24), 17753-17776.
   - Products: `CC(C)(C)OC(=O)[C@H](CCC(=O)C=[N+]=[N-])NC(=O)CNC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of tert-butyl ester-based DON prodrugs for enhanced metabolic stability and tumor delivery
+  - **Authors:** Novotna, Katerina; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01681](https://doi.org/10.1021/acs.jmedchem.3c01681)
 
 **Original Text:**
 ```
@@ -30197,10 +30197,10 @@ Journal of Medicinal Chemistry (2024), 67(1), 643-673.
   - Products: `C[C@@]1(C(=O)NC2CCOCC2)COCCN1c1nc(-c2cccc3[nH]ccc23)ncc1F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Optimization of mTOR Inhibitors Using Property-Based Drug Design and Free-Wilson Analysis for Improved In Vivo Efficacy
+  - **Authors:** Murphy, Sean T.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(11), 1544-1550.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.3c00351](https://doi.org/10.1021/acsmedchemlett.3c00351)
 
 **Original Text:**
 ```
@@ -30245,10 +30245,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 11637-11650.
   - Products: `O=C(Nc1ccc(F)c([N+](=O)[O-])c1)c1ccc(NC(=O)C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Insight from Linker Investigations: Discovery of a Novel Phenylbenzothiazole Necroptosis Inhibitor Targeting Receptor-Interacting Protein Kinase 1 (RIPK1) from a Phenoxybenzothiazole Compound with Dual RIPK1/3 Targeting Activity
+  - **Authors:** Fang, Jing-jie; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15288-15308.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01351](https://doi.org/10.1021/acs.jmedchem.3c01351)
 
 **Original Text:**
 ```
@@ -30295,10 +30295,10 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
   - Products: `Nc1ccc(C(=O)Nc2ccc(F)c(NC(=O)Cc3cccc(OC(F)(F)F)c3)c2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Insight from Linker Investigations: Discovery of a Novel Phenylbenzothiazole Necroptosis Inhibitor Targeting Receptor-Interacting Protein Kinase 1 (RIPK1) from a Phenoxybenzothiazole Compound with Dual RIPK1/3 Targeting Activity
+  - **Authors:** Fang, Jing-jie; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(22), 15288-15308.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01351](https://doi.org/10.1021/acs.jmedchem.3c01351)
 
 **Original Text:**
 ```
@@ -30337,10 +30337,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `CC(C)(C)OC(=O)[C@H](Cc1ccccc1)NC(=O)c1cc2ccccc2[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Pyrazolidinone-based peptidomimetic SARS-CoV-2 Mpro inhibitors
+  - **Authors:** Jelisejevs, Daniels; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2023), 96, 129530.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2023.129530](https://doi.org/10.1016/j.bmcl.2023.129530)
 
 **Original Text:**
 ```
@@ -30377,10 +30377,10 @@ Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
   - Products: `CC(C)C[C@H](NC(=O)[C@@H]1CCCN1C(=O)OC(C)(C)C)C(=O)NCC(=O)NC12CC3CC(CC(C3)C1)C2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Stapling Amantadine to Melanostatin Neuropeptide: Discovery of Potent Positive Allosteric Modulators of the D2 Receptors
+  - **Authors:** Silva-Reis, Sara C.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(12), 1656-1663.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.3c00264](https://doi.org/10.1021/acsmedchemlett.3c00264)
 
 **Original Text:**
 ```
@@ -30418,10 +30418,10 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
   - Products: `COc1ccc2cc(C(=O)NCC(=O)O)oc2c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Efficacy, Mechanism, and Structure-Activity Relationship of 6-Methoxy Benzofuran Derivatives as a Useful Tool for Senile Osteoporosis
+  - **Authors:** Zhou, Zi-ying; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(3), 1742-1760.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01377](https://doi.org/10.1021/acs.jmedchem.2c01377)
 
 **Original Text:**
 ```
@@ -30459,10 +30459,10 @@ European Journal of Medicinal Chemistry (2021), 226, 113835.
   - Products: `CC(C)(C)OC(=O)Nc1ccc(C(=O)NC2CCC(=O)NC2=O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and synthesis of novel cereblon binders for use in targeted protein degradation
+  - **Authors:** Norris, Stephen; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(23), 16388-16409.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01848](https://doi.org/10.1021/acs.jmedchem.3c01848)
 
 **Original Text:**
 ```
@@ -30499,10 +30499,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `CC(C)(C)OC(=O)NCc1ccc(C(=O)NC2CCC(=O)NC2=O)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and synthesis of novel cereblon binders for use in targeted protein degradation
+  - **Authors:** Norris, Stephen; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(23), 16388-16409.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01848](https://doi.org/10.1021/acs.jmedchem.3c01848)
 
 **Original Text:**
 ```
@@ -30544,10 +30544,10 @@ Organic Process Research & Development (2022), 26(10), 2811-2822.
   - Products: `CNC(=O)C[C@H](NC(=O)OC(C)(C)C)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Nanomolar DCAF1 Small Molecule Ligands
+  - **Authors:** Li, Alice Shi Ming; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(7), 5041-5060.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02132](https://doi.org/10.1021/acs.jmedchem.2c02132)
 
 **Original Text:**
 ```
@@ -30596,10 +30596,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(11), 127138.
   - Products: `CCCC(=O)Nc1cc2c(Oc3ccc(NC(=O)CCCc4ccc(OC)cc4)cc3F)ncnc2cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of 4-(2-fluorophenoxy)-7-methoxyquinazoline derivatives as dual EGFR/c-Met inhibitors for the treatment of NSCLC
+  - **Authors:** Tang, Sheng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 263, 115939.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115939](https://doi.org/10.1016/j.ejmech.2023.115939)
 
 **Original Text:**
 ```
@@ -30658,10 +30658,10 @@ Organic Process Research & Development (2024), 28(8), 3382-3395.
   - Products: `C=CC(=O)Nc1cc2c(Oc3ccc(NC(=O)CCCc4cccs4)cc3F)ncnc2cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of 4-(2-fluorophenoxy)-7-methoxyquinazoline derivatives as dual EGFR/c-Met inhibitors for the treatment of NSCLC
+  - **Authors:** Tang, Sheng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 263, 115939.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115939](https://doi.org/10.1016/j.ejmech.2023.115939)
 
 **Original Text:**
 ```
@@ -30717,10 +30717,10 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - Products: `CCCCC(=O)Nc1cc2c(Oc3ccc(NC(=O)CCCc4ccc(OC)cc4)cc3F)ncnc2cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of 4-(2-fluorophenoxy)-7-methoxyquinazoline derivatives as dual EGFR/c-Met inhibitors for the treatment of NSCLC
+  - **Authors:** Tang, Sheng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 263, 115939.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115939](https://doi.org/10.1016/j.ejmech.2023.115939)
 
 **Original Text:**
 ```
@@ -30778,10 +30778,10 @@ Organic Process Research & Development (2024), 28(11), 4099-4113.
   - Products: `C/C=C/C(=O)Nc1cc2c(Oc3ccc(NC(=O)CCCc4cccs4)cc3F)ncnc2cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of 4-(2-fluorophenoxy)-7-methoxyquinazoline derivatives as dual EGFR/c-Met inhibitors for the treatment of NSCLC
+  - **Authors:** Tang, Sheng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 263, 115939.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115939](https://doi.org/10.1016/j.ejmech.2023.115939)
 
 **Original Text:**
 ```
@@ -30839,10 +30839,10 @@ Organic Process Research & Development (2022), 26(3), 804-816.
   - Products: `CCCC(=O)Nc1cc2c(Oc3ccc(NC(=O)CCCc4cccs4)cc3F)ncnc2cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of 4-(2-fluorophenoxy)-7-methoxyquinazoline derivatives as dual EGFR/c-Met inhibitors for the treatment of NSCLC
+  - **Authors:** Tang, Sheng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 263, 115939.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115939](https://doi.org/10.1016/j.ejmech.2023.115939)
 
 **Original Text:**
 ```
@@ -30898,10 +30898,10 @@ European Journal of Medicinal Chemistry (2021), 226, 113895.
   - Products: `C/C=C/C(=O)Nc1cc2c(Oc3ccc(NC(=O)c4sc(-c5ccccc5)nc4C)cc3F)ncnc2cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis, and biological evaluation of 4-(2-fluorophenoxy)-7-methoxyquinazoline derivatives as dual EGFR/c-Met inhibitors for the treatment of NSCLC
+  - **Authors:** Tang, Sheng; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 263, 115939.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.115939](https://doi.org/10.1016/j.ejmech.2023.115939)
 
 **Original Text:**
 ```
@@ -30945,10 +30945,10 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
   - Products: `CC(C)(C)OC(=O)N1CCN(c2ccc(Cl)c(Cl)c2)[C@H](C(=O)NCc2cccs2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Trisubstituted Piperazine Derivatives as Noncovalent Severe Acute Respiratory Syndrome Coronavirus 2 Main Protease Inhibitors with Improved Antiviral Activity and Favorable Druggability
+  - **Authors:** Gao, Shenghua; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(23), 16426-16440.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01876](https://doi.org/10.1021/acs.jmedchem.3c01876)
 
 **Original Text:**
 ```
@@ -30991,10 +30991,10 @@ Journal of Medicinal Chemistry (2022), 65(24), 16902-16917.
   - Products: `COc1ccc(-c2nc(C(=O)Nc3ccc(CN4CCC(N5CCCCC5)CC4)cc3)cc3c2[nH]c2ccccc23)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** 1,3-Substituted β-Carboline Derivatives as Potent Chemotherapy for the Treatment of Cystic Echinococcosis
+  - **Authors:** Chen, Bei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01326](https://doi.org/10.1021/acs.jmedchem.3c01326)
 
 **Original Text:**
 ```
@@ -31039,10 +31039,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `COc1cccc(-c2nc(C(=O)Nc3ccc(CN4CCC(N5CCCCC5)CC4)cc3)cc3c2[nH]c2ccccc23)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** 1,3-Substituted β-Carboline Derivatives as Potent Chemotherapy for the Treatment of Cystic Echinococcosis
+  - **Authors:** Chen, Bei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01326](https://doi.org/10.1021/acs.jmedchem.3c01326)
 
 **Original Text:**
 ```
@@ -31085,10 +31085,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 108, 129799.
   - Products: `COc1cccc(-c2nc(C(=O)Nc3ccc(CN4CCC(N5CCCCC5)CC4)cc3)cc3c2[nH]c2ccccc23)c1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** 1,3-Substituted β-Carboline Derivatives as Potent Chemotherapy for the Treatment of Cystic Echinococcosis
+  - **Authors:** Chen, Bei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01326](https://doi.org/10.1021/acs.jmedchem.3c01326)
 
 **Original Text:**
 ```
@@ -31133,10 +31133,10 @@ Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
   - Products: `COc1ccc(-c2nc(C(=O)Nc3ccc(CN4CCC(N5CCCCC5)CC4)cc3)cc3c2[nH]c2ccccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** 1,3-Substituted β-Carboline Derivatives as Potent Chemotherapy for the Treatment of Cystic Echinococcosis
+  - **Authors:** Chen, Bei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01326](https://doi.org/10.1021/acs.jmedchem.3c01326)
 
 **Original Text:**
 ```
@@ -31179,10 +31179,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 40, 127911.
   - Products: `COc1ccc(-c2nc(C(=O)Nc3ccc(CN4CCC(N5CCCCC5)CC4)cc3)cc3c2[nH]c2ccccc23)c(OC)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** 1,3-Substituted β-Carboline Derivatives as Potent Chemotherapy for the Treatment of Cystic Echinococcosis
+  - **Authors:** Chen, Bei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01326](https://doi.org/10.1021/acs.jmedchem.3c01326)
 
 **Original Text:**
 ```
@@ -31228,10 +31228,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(17), 127402.
   - Products: `COc1cc(OC)cc(-c2nc(C(=O)Nc3ccc(CN4CCC(N5CCCCC5)CC4)cc3)cc3c2[nH]c2ccccc23)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** 1,3-Substituted β-Carboline Derivatives as Potent Chemotherapy for the Treatment of Cystic Echinococcosis
+  - **Authors:** Chen, Bei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01326](https://doi.org/10.1021/acs.jmedchem.3c01326)
 
 **Original Text:**
 ```
@@ -31269,10 +31269,10 @@ Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
   - Products: `CCCCNC(=O)c1cc([N+](=O)[O-])ccc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of Quinazolinones and Quinazolinediones for Ameliorating Nonalcoholic Fatty Liver Disease (NAFLD) by Modulating COP1-ATGL Axis
+  - **Authors:** Sarkar, Dipayan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01431](https://doi.org/10.1021/acs.jmedchem.3c01431)
 
 **Original Text:**
 ```
@@ -31310,10 +31310,10 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
   - Products: `Nc1ccc([N+](=O)[O-])cc1C(=O)NCCN1CCCCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of Quinazolinones and Quinazolinediones for Ameliorating Nonalcoholic Fatty Liver Disease (NAFLD) by Modulating COP1-ATGL Axis
+  - **Authors:** Sarkar, Dipayan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01431](https://doi.org/10.1021/acs.jmedchem.3c01431)
 
 **Original Text:**
 ```
@@ -31351,10 +31351,10 @@ Journal of Medicinal Chemistry (2021), 64(1), 343-353.
   - Products: `COCCNC(=O)c1cc([N+](=O)[O-])ccc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of Quinazolinones and Quinazolinediones for Ameliorating Nonalcoholic Fatty Liver Disease (NAFLD) by Modulating COP1-ATGL Axis
+  - **Authors:** Sarkar, Dipayan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01431](https://doi.org/10.1021/acs.jmedchem.3c01431)
 
 **Original Text:**
 ```
@@ -31392,10 +31392,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - Products: `Nc1ccc([N+](=O)[O-])cc1C(=O)NCCN1CCOCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of Quinazolinones and Quinazolinediones for Ameliorating Nonalcoholic Fatty Liver Disease (NAFLD) by Modulating COP1-ATGL Axis
+  - **Authors:** Sarkar, Dipayan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01431](https://doi.org/10.1021/acs.jmedchem.3c01431)
 
 **Original Text:**
 ```
@@ -31433,10 +31433,10 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
   - Products: `Nc1ccc([N+](=O)[O-])cc1C(=O)NCCCN1CCOCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of Quinazolinones and Quinazolinediones for Ameliorating Nonalcoholic Fatty Liver Disease (NAFLD) by Modulating COP1-ATGL Axis
+  - **Authors:** Sarkar, Dipayan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01431](https://doi.org/10.1021/acs.jmedchem.3c01431)
 
 **Original Text:**
 ```
@@ -31476,10 +31476,10 @@ Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
   - Products: `CN(C)CCNC(=O)c1cc([N+](=O)[O-])ccc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of Quinazolinones and Quinazolinediones for Ameliorating Nonalcoholic Fatty Liver Disease (NAFLD) by Modulating COP1-ATGL Axis
+  - **Authors:** Sarkar, Dipayan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01431](https://doi.org/10.1021/acs.jmedchem.3c01431)
 
 **Original Text:**
 ```
@@ -31510,10 +31510,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 75, 128990.
   - Products: `COc1cc(Br)cc2c(=O)nc[nH]c12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Fragment-Based Screening Identifies New Quinazolinone-Based Inositol Hexakisphosphate Kinase (IP6K) Inhibitors
+  - **Authors:** Heitmann, Tyler; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(12), 1760-1766.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.3c00409](https://doi.org/10.1021/acsmedchemlett.3c00409)
 
 **Original Text:**
 ```
@@ -31556,10 +31556,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `CNC(=O)c1ccc(N2CCN(C(=O)OC(C)(C)C)CC2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of (2S)-N-(6-cyano-5-(trifluoromethyl)pyridin-3-yl)-3-(6-(4-cyanophenyl)-3,6-diazabicyclo[3.1.1]heptan-3-yl)-2-hydroxy-2-methylpropanamide as a Highly Potent and Selective Topical Androgen Receptor Antagonist for Androgenetic Alopecia Treatment
+  - **Authors:** Zhang, Wenqiang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(1), 322-348.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01417](https://doi.org/10.1021/acs.jmedchem.3c01417)
 
 **Original Text:**
 ```
@@ -31601,10 +31601,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127433.
   - Products: `CCN1[C@@H](CC(C)(C)C)[C@](CN)(c2ccc(Cl)cc2F)[C@@H](c2cccc(Cl)c2)[C@@H]1C(=O)Nc1ccc(C(=O)OC)cc1OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of JN122, a Spiroindoline-Containing Molecule that Inhibits MDM2/p53 Protein-Protein Interaction and Exerts Robust In Vivo Antitumor Efficacy
+  - **Authors:** Cheng, Jing; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(24), 16991-17025.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01815](https://doi.org/10.1021/acs.jmedchem.3c01815)
 
 **Original Text:**
 ```
@@ -31648,10 +31648,10 @@ ChemMedChem (2024), 19(2), e202300606.
   - Products: `COc1cc(Br)cc2c1NC(=O)CNC2=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design of Dual EP2/EP4 Antagonists through Scaffold Merging of Selective Inhibitors
+  - **Authors:** Corminboeuf, Olivier; et al
+  - **Citation:** ChemMedChem (2024), 19(2), e202300606.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300606](https://doi.org/10.1002/cmdc.202300606)
 
 **Original Text:**
 ```
@@ -31693,10 +31693,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
   - Products: `CC(C)(C)OC(=O)n1ncc2cc(NC(=O)c3cccc(C(F)(F)F)n3)c(Cl)cc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of IRAK4 Inhibitors BAY1834845 (Zabedosertib) and BAY1830839
+  - **Authors:** Bothe, Ulrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01714](https://doi.org/10.1021/acs.jmedchem.3c01714)
 
 **Original Text:**
 ```
@@ -31734,10 +31734,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `CCOC(=O)Cn1cc2cc(NC(=O)c3cccc(C(F)(F)F)n3)c(OCc3ccccc3)cc2n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of IRAK4 Inhibitors BAY1834845 (Zabedosertib) and BAY1830839
+  - **Authors:** Bothe, Ulrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01714](https://doi.org/10.1021/acs.jmedchem.3c01714)
 
 **Original Text:**
 ```
@@ -31776,10 +31776,10 @@ Journal of Medicinal Chemistry (2024), 67(4), 2466-2486.
   - Products: `COc1cc(NC(=O)C2CCCS(=O)(=O)C2)c(N)cc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of IRAK4 Inhibitors BAY1834845 (Zabedosertib) and BAY1830839
+  - **Authors:** Bothe, Ulrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01714](https://doi.org/10.1021/acs.jmedchem.3c01714)
 
 **Original Text:**
 ```
@@ -31820,10 +31820,10 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
   - Products: `CNc1cc(NC(=O)OC(C)(C)C)c(OC)cc1NC(=O)C1CCCS(=O)(=O)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of IRAK4 Inhibitors BAY1834845 (Zabedosertib) and BAY1830839
+  - **Authors:** Bothe, Ulrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01714](https://doi.org/10.1021/acs.jmedchem.3c01714)
 
 **Original Text:**
 ```
@@ -31862,10 +31862,10 @@ Journal of Medicinal Chemistry (2021), 64(17), 12453-12468.
   - Products: `CNc1ccc(C(=O)OC)cc1NC(=O)CCC(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of IRAK4 Inhibitors BAY1834845 (Zabedosertib) and BAY1830839
+  - **Authors:** Bothe, Ulrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01714](https://doi.org/10.1021/acs.jmedchem.3c01714)
 
 **Original Text:**
 ```
@@ -31904,10 +31904,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CCNc1ccc(C(=O)OC)cc1NC(=O)CCC(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of IRAK4 Inhibitors BAY1834845 (Zabedosertib) and BAY1830839
+  - **Authors:** Bothe, Ulrich; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01714](https://doi.org/10.1021/acs.jmedchem.3c01714)
 
 **Original Text:**
 ```
@@ -31944,10 +31944,10 @@ Journal of Medicinal Chemistry (2024), 67(13), 10710-10742.
   - Products: `COC(=O)[C@@H]1CN(C(=O)OC(C)(C)C)CC[C@@H]1NC(=O)c1cc(-c2ccc(F)cc2F)on1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of a Scalable, Stereoselective second Generation Route for CXCR7 Antagonist ACT-1004-1239 via Chiral Enamine Reduction and a Novel Telescoped Sequence of Transesterification, cis-to-trans-Epimerization and Saponification
+  - **Authors:** Schafer, Gabriel; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(6), 2103-2116.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00446](https://doi.org/10.1021/acs.oprd.3c00446)
 
 **Original Text:**
 ```
@@ -31987,10 +31987,10 @@ Organic Process Research & Development (2024), 28(6), 2090-2102.
   - Products: `CC(C)(C)OC(=O)N1CC[C@H](NC(=O)c2cc(-c3ccc(F)cc3F)on2)[C@@H](C(=O)NC2(c3ncccn3)CC2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of a Scalable, Stereoselective second Generation Route for CXCR7 Antagonist ACT-1004-1239 via Chiral Enamine Reduction and a Novel Telescoped Sequence of Transesterification, cis-to-trans-Epimerization and Saponification
+  - **Authors:** Schafer, Gabriel; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(6), 2103-2116.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00446](https://doi.org/10.1021/acs.oprd.3c00446)
 
 **Original Text:**
 ```
@@ -32030,10 +32030,10 @@ Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
   - Products: `COC(=O)C1CN(C(=O)OC(C)(C)C)CCC1NC(=O)c1cc(-c2ccc(F)cc2F)on1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of a Scalable, Racemic first Generation Route for CXCR7 Antagonist ACT-1004-1239 via cis-to-trans Epimerization and Subsequent Separation of Enantiomers
+  - **Authors:** Schafer, Gabriel; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(6), 2090-2102.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00445](https://doi.org/10.1021/acs.oprd.3c00445)
 
 **Original Text:**
 ```
@@ -32079,10 +32079,10 @@ ChemMedChem (2023), 18(16), e202300097.
   - Products: `Cc1ccc(NC(=O)C[C@H](CCC(=O)O)c2noc([C@H]3C[C@@H](CC(C)(C)C)C3)c2C2CC2)c(Cl)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Practical Synthesis of Chiral 3-(Hydroxyiminomethyl)adipic Acid, a Key Intermediate of the ROR-γ Inhibitor JTE-151, via Crystallization-Induced Dynamic Resolution
+  - **Authors:** Takiguchi, Hiromu; et al
+  - **Citation:** Organic Process Research & Development (2023), 27(12), 2355-2364.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00320](https://doi.org/10.1021/acs.oprd.3c00320)
 
 **Original Text:**
 ```
@@ -32128,10 +32128,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `Cc1ccc(NC(=O)CC(CCCOCc2ccccc2)n2ncc([C@H]3C[C@@H](CC(C)(C)C)C3)c2C2CC2)c(Cl)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and SAR of JTE-151: A Novel RORγ Inhibitor for Clinical Development
+  - **Authors:** Maeba, Takaki; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 952-970.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01933](https://doi.org/10.1021/acs.jmedchem.3c01933)
 
 **Original Text:**
 ```
@@ -32171,10 +32171,10 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
   - Products: `COc1ccc2[nH]c(=O)c(=O)[nH]c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** DW71177: A novel [1,2,4]triazolo[4,3-a]quinoxaline-based potent and BD1-Selective BET inhibitor for the treatment of acute myeloid leukemia
+  - **Authors:** Ali, Imran; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 265, 116052.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116052](https://doi.org/10.1016/j.ejmech.2023.116052)
 
 **Original Text:**
 ```
@@ -32218,10 +32218,10 @@ ACS Medicinal Chemistry Letters (2023), 14(12), 1656-1663.
   - Products: `CC(C)(C)OC(=O)NC1CC(=O)Nc2ccc(Cl)cc2C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Characterization of RGH-122, a Potent, Selective, and Orally Bioavailable V1a Receptor Antagonist
+  - **Authors:** Baska, Ferenc; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(1), 643-673.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01868](https://doi.org/10.1021/acs.jmedchem.3c01868)
 
 **Original Text:**
 ```
@@ -32261,10 +32261,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
   - Products: `COc1ccc(OC)c(-n2nnc(C(=O)Nc3cc(C(C)(C)C)ccc3NC(C)=O)c2C)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Optimization of 1H-1,2,3-Triazole-4-carboxamides as Novel, Potent, and Selective Inverse Agonists and Antagonists of PXR
+  - **Authors:** Li, Yongtao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(24), 16829-16859.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01640](https://doi.org/10.1021/acs.jmedchem.2c01640)
 
 **Original Text:**
 ```
@@ -32304,10 +32304,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
   - Products: `COC(=O)CCCCCCCCCCC(=O)NC(COCCC(=O)OC(C)(C)C)(COCCC(=O)OC(C)(C)C)COCCC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Metabolically Stable Anomeric Linkages Containing GalNAc-siRNA Conjugates: An Interplay among ASGPR, Glycosidase, and RISC Pathways
+  - **Authors:** Kandasamy, Pachamuthu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(4), 2506-2523.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01337](https://doi.org/10.1021/acs.jmedchem.2c01337)
 
 **Original Text:**
 ```
@@ -32345,10 +32345,10 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
   - Products: `Cc1[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)N[C@H]1CCN(C(=O)OC(C)(C)C)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Economical and Practical Process Development for a Novel Multitarget Tyrosine Kinase Inhibitor Vorolanib
+  - **Authors:** Xiu, Xiaomeng; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(2), 492-499.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00311](https://doi.org/10.1021/acs.oprd.3c00311)
 
 **Original Text:**
 ```
@@ -32391,10 +32391,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16991-17025.
   - Products: `CCOC(=O)CNC(=O)c1nc(Cl)cnc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and development of BI 1265162, an ENaC inhibitor for the treatment of cystic fibrosis
+  - **Authors:** Betzemeier, Bodo; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 265, 116038.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116038](https://doi.org/10.1016/j.ejmech.2023.116038)
 
 **Original Text:**
 ```
@@ -32436,10 +32436,10 @@ European Journal of Medicinal Chemistry (2021), 216, 113313.
   - Products: `CCNc1cc(OCC(=O)OC(C)C)ccc1NC(=O)CNC(=O)c1nc(Cl)cnc1N`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and development of BI 1265162, an ENaC inhibitor for the treatment of cystic fibrosis
+  - **Authors:** Betzemeier, Bodo; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 265, 116038.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116038](https://doi.org/10.1016/j.ejmech.2023.116038)
 
 **Original Text:**
 ```
@@ -32489,10 +32489,10 @@ European Journal of Medicinal Chemistry (2023), 258, 115587.
   - Products: `COC(=O)c1cc2[nH]ncc2cc1NC(=O)c1cccc(C(F)(F)F)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of KT-413, a Targeted Protein Degrader of IRAK4 and IMiD Substrates Targeting MYD88 Mutant Diffuse Large B-Cell Lymphoma
+  - **Authors:** Weiss, Matthew M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01823](https://doi.org/10.1021/acs.jmedchem.3c01823)
 
 **Original Text:**
 ```
@@ -32530,10 +32530,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `COC(=O)c1cc(NC(=O)[C@H]2CC[C@H](COCc3ccccc3)CC2)c(I)cc1Br`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of KT-413, a Targeted Protein Degrader of IRAK4 and IMiD Substrates Targeting MYD88 Mutant Diffuse Large B-Cell Lymphoma
+  - **Authors:** Weiss, Matthew M.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01823](https://doi.org/10.1021/acs.jmedchem.3c01823)
 
 **Original Text:**
 ```
@@ -32573,10 +32573,10 @@ Journal of Medicinal Chemistry (2020), 63(17), 9045-9069.
   - Products: `CCN(c1cc(-c2cccc(NC(=O)c3cc(C(C)C)c(OCc4ccccc4)cc3OCc3ccccc3)c2)cc(C(=O)NCc2c(C)cc(C)[nH]c2=O)c1C)C1CCOCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** First-in-Class Dual EZH2-HSP90 Inhibitor Eliciting Striking Antiglioblastoma Activity In Vitro and In Vivo
+  - **Authors:** Sharma, Sachin; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(4), 2963-2985.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02053](https://doi.org/10.1021/acs.jmedchem.3c02053)
 
 **Original Text:**
 ```
@@ -32612,10 +32612,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
   - Products: `Cc1nc2ccccc2[nH]c1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Exploring the Dispersion and Electrostatic Components in Arene-Arene Interactions between Ligands and G4 DNA to Develop G4-Ligands
+  - **Authors:** Andreasson, Maans; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02127](https://doi.org/10.1021/acs.jmedchem.3c02127)
 
 **Original Text:**
 ```
@@ -32653,10 +32653,10 @@ Journal of Medicinal Chemistry (2021), 64(2), 1054-1072.
   - Products: `Cc1cc2nc(C)c(=O)[nH]c2cc1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Exploring the Dispersion and Electrostatic Components in Arene-Arene Interactions between Ligands and G4 DNA to Develop G4-Ligands
+  - **Authors:** Andreasson, Maans; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02127](https://doi.org/10.1021/acs.jmedchem.3c02127)
 
 **Original Text:**
 ```
@@ -32692,10 +32692,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 39, 127853.
   - Products: `Cc1nc2cc(Cl)c(Cl)cc2[nH]c1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Exploring the Dispersion and Electrostatic Components in Arene-Arene Interactions between Ligands and G4 DNA to Develop G4-Ligands
+  - **Authors:** Andreasson, Maans; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02127](https://doi.org/10.1021/acs.jmedchem.3c02127)
 
 **Original Text:**
 ```
@@ -32735,10 +32735,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COC(=O)[C@H](C[C@@H]1CCNC1=O)NC(=O)[C@H](CC(C)C)NC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of a GC-376 Based Peptidomimetic PROTAC as a Degrader of 3-Chymotrypsin-like Protease of SARS-CoV-2
+  - **Authors:** Grifagni, Deborah; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.3c00498](https://doi.org/10.1021/acsmedchemlett.3c00498)
 
 **Original Text:**
 ```
@@ -32780,10 +32780,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of a GC-376 Based Peptidomimetic PROTAC as a Degrader of 3-Chymotrypsin-like Protease of SARS-CoV-2
+  - **Authors:** Grifagni, Deborah; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.3c00498](https://doi.org/10.1021/acsmedchemlett.3c00498)
 
 **Original Text:**
 ```
@@ -32821,10 +32821,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 10806-10833.
   - Products: `O=c1[nH]c(=O)c2cc(Cl)ccc2[nH]1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of N-(1-(6-Oxo-1,6-dihydropyrimidine)-pyrazole) Acetamide Derivatives as Novel Noncovalent DprE1 Inhibitors against Mycobacterium tuberculosis
+  - **Authors:** Yang, Liu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 1914-1931.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01703](https://doi.org/10.1021/acs.jmedchem.3c01703)
 
 **Original Text:**
 ```
@@ -32866,10 +32866,10 @@ European Journal of Medicinal Chemistry (2022), 241, 114620.
   - Products: `COC(=O)CCCCNC(=O)c1ccc(NC(=O)NC23CC4CC(C)(CC(C)(C4)C2)C3)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Dual-Targeting Inhibitors of sEH and HDAC6 for the Treatment of Neuropathic Pain and Lipopolysaccharide-Induced Mortality
+  - **Authors:** Chen, Yuanguang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02006](https://doi.org/10.1021/acs.jmedchem.3c02006)
 
 **Original Text:**
 ```
@@ -32907,10 +32907,10 @@ Journal of Medicinal Chemistry (2023), 66(23), 16388-16409.
   - Products: `COC(=O)CCCCCNC(=O)c1ccc(NC(=O)NC23CC4CC(C)(CC(C)(C4)C2)C3)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Dual-Targeting Inhibitors of sEH and HDAC6 for the Treatment of Neuropathic Pain and Lipopolysaccharide-Induced Mortality
+  - **Authors:** Chen, Yuanguang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02006](https://doi.org/10.1021/acs.jmedchem.3c02006)
 
 **Original Text:**
 ```
@@ -32948,10 +32948,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112769.
   - Products: `COC(=O)CCCCCCNC(=O)c1ccc(NC(=O)NC23CC4CC(C)(CC(C)(C4)C2)C3)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Dual-Targeting Inhibitors of sEH and HDAC6 for the Treatment of Neuropathic Pain and Lipopolysaccharide-Induced Mortality
+  - **Authors:** Chen, Yuanguang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02006](https://doi.org/10.1021/acs.jmedchem.3c02006)
 
 **Original Text:**
 ```
@@ -32992,10 +32992,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
   - Products: `COC(=O)CCNC(=O)c1ccc(O[C@H]2CC[C@H](NC(=O)OC(C)(C)C)CC2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and Synthesis of Dual-Targeting Inhibitors of sEH and HDAC6 for the Treatment of Neuropathic Pain and Lipopolysaccharide-Induced Mortality
+  - **Authors:** Chen, Yuanguang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02006](https://doi.org/10.1021/acs.jmedchem.3c02006)
 
 **Original Text:**
 ```
@@ -33037,10 +33037,10 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
   - Products: `CC(C)CNC(=O)Cc1ccc(I)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a novel lead characterized by a stilbene-extended scaffold against sepsis as soluble epoxide hydrolase inhibitors
+  - **Authors:** Feng, Zi-Qiang; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116113.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116113](https://doi.org/10.1016/j.ejmech.2023.116113)
 
 **Original Text:**
 ```
@@ -33077,10 +33077,10 @@ Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
   - Products: `O=C(NCC1CCOCC1)Nc1ccc(/C=C/c2cccc(NC(=O)c3ccccn3)c2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a novel lead characterized by a stilbene-extended scaffold against sepsis as soluble epoxide hydrolase inhibitors
+  - **Authors:** Feng, Zi-Qiang; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116113.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116113](https://doi.org/10.1016/j.ejmech.2023.116113)
 
 **Original Text:**
 ```
@@ -33117,10 +33117,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
   - Products: `CCS(=O)(=O)c1ccc(CC(=O)Nc2ccc(Br)c(C)c2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33161,10 +33161,10 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2ccc(C#N)cc2)cc1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33201,10 +33201,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2cccc(C#N)c2)cc1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33241,10 +33241,10 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2ccccc2[N+](=O)[O-])cc1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33283,10 +33283,10 @@ ACS Medicinal Chemistry Letters (2020), 11(2), 188-194.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2ccc(S(=O)(=O)CC)cc2)cc1C(F)(F)F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33325,10 +33325,10 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)c2cnc(C)nc2)cc1C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33365,10 +33365,10 @@ Bioorganic & Medicinal Chemistry (2023), 90, 117379.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2ccc(S(=O)(=O)CC)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33405,10 +33405,10 @@ Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2ccc(S(=O)(=O)CC)cc2)cc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33445,10 +33445,10 @@ Bioorganic & Medicinal Chemistry (2021), 42, 116245.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2ccc(S(=O)(=O)CC)cc2)cc1F`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33485,10 +33485,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 3249-3281.
   - Products: `C=CC(=O)Nc1ccccc1-c1ccc(NC(=O)Cc2ccc(S(=O)(=O)CC)cc2)cn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the First-in-Class RORγ Covalent Inhibitors for Treatment of Castration-Resistant Prostate Cancer
+  - **Authors:** Fang, Wei; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02063](https://doi.org/10.1021/acs.jmedchem.3c02063)
 
 **Original Text:**
 ```
@@ -33527,10 +33527,10 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - Products: `O=C(N[C@@H]1CCOC1)c1cccc(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Metal catalyzed C-N bond forming reaction selection and process development for the manufacture of AZD7594
+  - **Authors:** Aydin, Gulsevim; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(2), 559-576.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00393](https://doi.org/10.1021/acs.oprd.3c00393)
 
 **Original Text:**
 ```
@@ -33575,10 +33575,10 @@ Journal of Medicinal Chemistry (2020), 63(3), 1313-1327.
   - Products: `C[C@H](NC(=O)C(C)(F)F)[C@H](Oc1ccc2c(cnn2-c2cccc(C(=O)N[C@@H]3CCOC3)c2)c1)c1ccc2c(c1)OCCO2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Metal catalyzed C-N bond forming reaction selection and process development for the manufacture of AZD7594
+  - **Authors:** Aydin, Gulsevim; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(2), 559-576.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.3c00393](https://doi.org/10.1021/acs.oprd.3c00393)
 
 **Original Text:**
 ```
@@ -33622,10 +33622,10 @@ Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
   - Products: `Cc1noc(C)c1-c1ccc(NC2CCN(C(=O)OCc3ccccc3)CC2)c(NC(=O)[C@@H]2CCCC(=O)N2)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Novel PROTAC Degraders of p300/CBP as Potential Therapeutics for Hepatocellular Carcinoma
+  - **Authors:** Chang, Qi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(4), 2466-2486.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01468](https://doi.org/10.1021/acs.jmedchem.3c01468)
 
 **Original Text:**
 ```
@@ -33666,10 +33666,10 @@ Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
   - Products: `CC(C)C[C@H](N)C(=O)N[C@@H](C[C@@H]1CCNC1=O)C(=O)COc1c(F)c(F)cc(F)c1F.Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of CMX990: A Potent SARS-CoV-2 3CL Protease Inhibitor Bearing a Novel Warhead
+  - **Authors:** Dayan Elshan, N. G. R.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(4), 2369-2378.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01938](https://doi.org/10.1021/acs.jmedchem.3c01938)
 
 **Original Text:**
 ```
@@ -33708,10 +33708,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `O=C(NCC(F)(F)F)c1ccc(Br)o1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties
+  - **Authors:** Morozova, Alisa; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116101.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116101](https://doi.org/10.1016/j.ejmech.2023.116101)
 
 **Original Text:**
 ```
@@ -33748,10 +33748,10 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
   - Products: `O=C(NCC(F)(F)F)c1ccc(Br)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties
+  - **Authors:** Morozova, Alisa; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116101.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116101](https://doi.org/10.1016/j.ejmech.2023.116101)
 
 **Original Text:**
 ```
@@ -33788,10 +33788,10 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
   - Products: `O=C(NCC(F)(F)F)c1ccnc(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties
+  - **Authors:** Morozova, Alisa; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116101.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116101](https://doi.org/10.1016/j.ejmech.2023.116101)
 
 **Original Text:**
 ```
@@ -33828,10 +33828,10 @@ Journal of Medicinal Chemistry (2022), 65(18), 12095-12123.
   - Products: `O=C(NCC(F)(F)F)c1cc(Br)cs1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties
+  - **Authors:** Morozova, Alisa; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116101.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116101](https://doi.org/10.1016/j.ejmech.2023.116101)
 
 **Original Text:**
 ```
@@ -33868,10 +33868,10 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
   - Products: `O=C(NCC(F)(F)F)c1cnc(Br)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties
+  - **Authors:** Morozova, Alisa; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116101.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116101](https://doi.org/10.1016/j.ejmech.2023.116101)
 
 **Original Text:**
 ```
@@ -33911,10 +33911,10 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
   - Products: `O=C(NCC(F)(F)F)c1cc(Br)ccn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties
+  - **Authors:** Morozova, Alisa; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 266, 116101.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2023.116101](https://doi.org/10.1016/j.ejmech.2023.116101)
 
 **Original Text:**
 ```
@@ -33956,10 +33956,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
   - Products: `CNC(=O)c1[nH]nc(C(C)C)c1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Lead Optimization of the 5-Phenylpyrazolopyrimidinone NPD-2975 toward Compounds with Improved Antitrypanosomal Efficacy
+  - **Authors:** Zheng, Yang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(4), 2849-2863.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c01976](https://doi.org/10.1021/acs.jmedchem.3c01976)
 
 **Original Text:**
 ```
@@ -34001,10 +34001,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1ccc(F)cc1)NC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Exploration of the P1 residue in 3CL protease inhibitors leading to the discovery of a 2-tetrahydrofuran P1 replacement
+  - **Authors:** Barton, Linda S.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2024), 100, 117618.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2024.117618](https://doi.org/10.1016/j.bmc.2024.117618)
 
 **Original Text:**
 ```
@@ -34045,10 +34045,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15288-15308.
   - Products: `CCc1nc(C(F)(F)F)cnc1N[C@@H]1CCC[C@H]1NC(=O)c1ncccc1-n1nccn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and first-time disclosure of CVN766, an exquisitely selective orexin 1 receptor antagonist
+  - **Authors:** Glen, Angela; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2024), 100, 129629.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2024.129629](https://doi.org/10.1016/j.bmcl.2024.129629)
 
 **Original Text:**
 ```
@@ -34091,10 +34091,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
   - Products: `[N-]=[N+]=Nc1ccc(NC(=O)[C@@H](N)CCCCN)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Selective Recognition of c-KIT 1 G-Quadruplex by Structural Tuning of Heteroaromatic Scaffolds and Side Chains
+  - **Authors:** Fatma, Khushnood; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(3), 388-395.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.3c00537](https://doi.org/10.1021/acsmedchemlett.3c00537)
 
 **Original Text:**
 ```
@@ -34133,10 +34133,10 @@ Journal of Medicinal Chemistry (2022), 65(14), 9662-9677.
   - Products: `COc1ccc(CNC(=O)c2ccccc2Nc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** N-2-(Phenylamino) Benzamide Derivatives as Dual Inhibitors of COX-2 and Topo I Deter Gastrointestinal Cancers via Targeting Inflammation and Tumor Progression
+  - **Authors:** Li, Junfang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(15), 10481-10505.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00635](https://doi.org/10.1021/acs.jmedchem.2c00635)
 
 **Original Text:**
 ```
@@ -34176,10 +34176,10 @@ ChemMedChem (2023), 18(15), e202300160.
   - Products: `CC(C)(C)NC(=O)C[C@H](NC(=O)OC(C)(C)C)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Highly Selective Inhibitors of the Human Constitutive Proteasome β5c Chymotryptic Subunit
+  - **Authors:** Zhan, Wenhu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00733](https://doi.org/10.1021/acs.jmedchem.2c00733)
 
 **Original Text:**
 ```
@@ -34219,10 +34219,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `COc1cc(NC(=O)c2ccc(C(F)(F)F)cc2F)ccn1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a novel series of pyridone amides as NaV1.8 inhibitors
+  - **Authors:** Wang, Yanfang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2024), 101, 129655.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2024.129655](https://doi.org/10.1016/j.bmcl.2024.129655)
 
 **Original Text:**
 ```
@@ -34260,10 +34260,10 @@ Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
   - Products: `COC(=O)CCCCCCC(=O)Nc1cc(C=O)ccc1O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel estrogen receptor β/histone deacetylase dual-targeted near-infrared fluorescent probes as theranostic agents for imaging and treatment of prostate cancer
+  - **Authors:** He, Pei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 268, 116236.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116236](https://doi.org/10.1016/j.ejmech.2024.116236)
 
 **Original Text:**
 ```
@@ -34310,10 +34310,10 @@ Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
   - Products: `COC(=O)[C@H](Cc1ccc(NC(=O)C2CC2)cc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of 6-chloro-quinolin-2-one derivatives as novel FXIa inhibitors
+  - **Authors:** Wang, Yanshi; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2024), 99, 129610.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2024.129610](https://doi.org/10.1016/j.bmcl.2024.129610)
 
 **Original Text:**
 ```
@@ -34352,10 +34352,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 101, 129655.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1cccc2ccccc12)NC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and biological evaluation of novel peptidomimetic inhibitors of the coronavirus 3C-like protease
+  - **Authors:** Amblard, Franck; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 268, 116263.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116263](https://doi.org/10.1016/j.ejmech.2024.116263)
 
 **Original Text:**
 ```
@@ -34392,10 +34392,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
   - Products: `CCCn1c(=O)c(NC(=O)C23CC4CC(CC(C4)C2)C3)c(N)n(Cc2ccccc2)c1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development and Application of Subtype-Selective Fluorescent Antagonists for the Study of the Human Adenosine A1 Receptor in Living Cells
+  - **Authors:** Comeo, Eleonora; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(10), 6670-6695.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02067](https://doi.org/10.1021/acs.jmedchem.0c02067)
 
 **Original Text:**
 ```
@@ -34441,10 +34441,10 @@ European Journal of Medicinal Chemistry (2021), 224, 113687.
   - Products: `COC(=O)c1ccc(CNC(=O)/C=C/c2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Determination of Slow-Binding HDAC Inhibitor Potency and Subclass Selectivity
+  - **Authors:** Moreno-Yruela, Carlos; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(5), 779-785.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00702](https://doi.org/10.1021/acsmedchemlett.1c00702)
 
 **Original Text:**
 ```
@@ -34485,10 +34485,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
   - Products: `CC(C)Cn1ncc2cc(Oc3ccc(F)cc3F)c(C(=O)N[C@@H](CCN(C)C)C(N)=O)cc21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development and Scale-Up of a Key Copper-Catalyzed Biaryl Ether Formation for the Multikilogram Synthesis of Emprumapimod
+  - **Authors:** Brearley, Christopher; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(4), 1253-1259.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00052](https://doi.org/10.1021/acs.oprd.4c00052)
 
 **Original Text:**
 ```
@@ -34531,10 +34531,10 @@ Journal of Medicinal Chemistry (2020), 63(23), 14740-14760.
   - Products: `CCOC(=O)[C@H]1CC[C@@H](Oc2cc(C(=O)N[C@H]3[C@@H](C(=O)OCc4ccccc4)[C@@H]4C=C[C@H]3C4)c(OC)cc2F)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification of Novel Series of Potent and Selective Relaxin Family Peptide Receptor 1 (RXFP1) Agonists
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02183](https://doi.org/10.1021/acs.jmedchem.3c02183)
 
 **Original Text:**
 ```
@@ -34571,10 +34571,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `COc1cc(F)c(O[C@H]2CC[C@@](C)(C(=O)OC(C)(C)C)CC2)cc1C(=O)N[C@@H]1[C@H]2CC[C@H](C2)[C@@H]1C(=O)Nc1cccc(S(=O)(=O)C(F)(F)F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification of Novel Series of Potent and Selective Relaxin Family Peptide Receptor 1 (RXFP1) Agonists
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02183](https://doi.org/10.1021/acs.jmedchem.3c02183)
 
 **Original Text:**
 ```
@@ -34617,10 +34617,10 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
   - Products: `COc1cc(F)c(O[C@H]2CC[C@@](C)(C(=O)OC(C)(C)C)CC2)cc1C(=O)N[C@@H]1[C@H]2CC[C@H](C2)[C@@H]1C(=O)Nc1ccc(F)c(S(F)(F)(F)(F)F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification of Novel Series of Potent and Selective Relaxin Family Peptide Receptor 1 (RXFP1) Agonists
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02183](https://doi.org/10.1021/acs.jmedchem.3c02183)
 
 **Original Text:**
 ```
@@ -34661,10 +34661,10 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
   - Products: `COC(=O)[C@H]1CC[C@H](NC(=O)C2=C3N/C(=N\C/C=C\COc4cc(ccc4C)N3)N=C2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Novel Macrocyclic MERTK/AXL Dual Inhibitors
+  - **Authors:** Kong, Deyu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(7), 5866-5882.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00148](https://doi.org/10.1021/acs.jmedchem.4c00148)
 
 **Original Text:**
 ```
@@ -34705,10 +34705,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
   - Products: `CC(C)OC(=O)[C@H](O[C@@H]1O[C@H](COCc2ccccc2)[C@H](OC(=O)c2ccccc2)[C@H](O[C@H](Cc2ccccc2)C(=O)OCc2ccccc2)[C@H]1OC(=O)c1ccccc1)[C@@H](O[C@@H]1O[C@@H](C)[C@@H](OCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]1OCc1ccccc1)C(=O)O[C@@H](C)CCCn1cc(CCCCC(=O)Nc2cc(S(=O)(=O)O)cc3cc(S(=O)(=O)O)cc(S(=O)(=O)O)c23)nn1.[Na]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Sialyl LewisX glycomimetics bearing an extended anionic chain targeting E- and P- selectin binding sites
+  - **Authors:** Belouin, Audrey; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2024), 98, 117553.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117553](https://doi.org/10.1016/j.bmc.2023.117553)
 
 **Original Text:**
 ```
@@ -34748,10 +34748,10 @@ ACS Medicinal Chemistry Letters (2020), 11(10), 1886-1892.
   - Products: `CC(C)OC(=O)[C@H](O[C@@H]1O[C@H](COCc2ccccc2)[C@H](OC(=O)c2ccccc2)[C@H](O[C@H](Cc2ccccc2)C(=O)OCc2ccccc2)[C@H]1OC(=O)c1ccccc1)[C@@H](O[C@@H]1O[C@@H](C)[C@@H](OCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]1OCc1ccccc1)C(=O)O[C@H](C)CCCn1cc(CCCCC(=O)Nc2ccc(OCCCS(=O)(=O)O)cc2)nn1.[Na]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Sialyl LewisX glycomimetics bearing an extended anionic chain targeting E- and P- selectin binding sites
+  - **Authors:** Belouin, Audrey; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2024), 98, 117553.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117553](https://doi.org/10.1016/j.bmc.2023.117553)
 
 **Original Text:**
 ```
@@ -34792,10 +34792,10 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
   - Products: `CC(C)OC(=O)[C@H](O[C@@H]1O[C@H](COCc2ccccc2)[C@H](OC(=O)c2ccccc2)[C@H](O[C@H](Cc2ccccc2)C(=O)OCc2ccccc2)[C@H]1OC(=O)c1ccccc1)[C@@H](O[C@@H]1O[C@@H](C)[C@@H](OCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]1OCc1ccccc1)C(=O)O[C@@H](C)CCCn1cc(CCCCC(=O)Nc2ccc(OCCCS(=O)(=O)O)cc2)nn1.[Na]`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Sialyl LewisX glycomimetics bearing an extended anionic chain targeting E- and P- selectin binding sites
+  - **Authors:** Belouin, Audrey; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2024), 98, 117553.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117553](https://doi.org/10.1016/j.bmc.2023.117553)
 
 **Original Text:**
 ```
@@ -34833,10 +34833,10 @@ Organic Process Research & Development (2021), 25(4), 799-809.
   - Products: `CC(C)(C)OC(=O)N1CCN(c2ccc(Cl)c(Cl)c2)[C@H](C(=O)NCc2cccs2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Crystallographic Studies of Trisubstituted Piperazine Derivatives as Non-Covalent SARS-CoV-2 Main Protease Inhibitors with High Target Specificity and Low Toxicity
+  - **Authors:** Gao, Shenghua; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(19), 13343-13364.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01146](https://doi.org/10.1021/acs.jmedchem.2c01146)
 
 **Original Text:**
 ```
@@ -34881,10 +34881,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
   - Products: `O=C(NC1C2CC3CC(C2)CC1C3)c1cc(Br)c[nH]1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Pyrrole-2-carboxamide Derivatives as Mycobacterial Membrane Protein Large 3 Inhibitors for Treating Drug-Resistant Tuberculosis
+  - **Authors:** Zhao, Hongyi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00718](https://doi.org/10.1021/acs.jmedchem.2c00718)
 
 **Original Text:**
 ```
@@ -34938,10 +34938,10 @@ Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
   - Products: `CC(C)(C)OC(=O)n1cc(Br)cc1C(=O)NC12CC3CC(CC(C3)C1)C2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Pyrrole-2-carboxamide Derivatives as Mycobacterial Membrane Protein Large 3 Inhibitors for Treating Drug-Resistant Tuberculosis
+  - **Authors:** Zhao, Hongyi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00718](https://doi.org/10.1021/acs.jmedchem.2c00718)
 
 **Original Text:**
 ```
@@ -34992,10 +34992,10 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
   - Products: `CC(C)(C)OC(=O)n1cc(Br)cc1C(=O)NC1CCCCCCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Pyrrole-2-carboxamide Derivatives as Mycobacterial Membrane Protein Large 3 Inhibitors for Treating Drug-Resistant Tuberculosis
+  - **Authors:** Zhao, Hongyi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00718](https://doi.org/10.1021/acs.jmedchem.2c00718)
 
 **Original Text:**
 ```
@@ -35039,10 +35039,10 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
   - Products: `CC(C)C[C@H](NC(=O)[C@H](Cc1c[nH]c2ccc(O)cc12)NC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C)C(N)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Macrocyclic Oxindole Peptide Epoxyketones-A Comparative Study of Macrocyclic Inhibitors of the 20S Proteasome
+  - **Authors:** Gotz, Marion G.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00017](https://doi.org/10.1021/acsmedchemlett.4c00017)
 
 **Original Text:**
 ```
@@ -35086,10 +35086,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112781.
   - Products: `CC(C)C[C@H](NC(=O)[C@H](Cc1c[nH]c2ccc(O)cc12)NC(=O)OC(C)(C)C)C(N)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Macrocyclic Oxindole Peptide Epoxyketones-A Comparative Study of Macrocyclic Inhibitors of the 20S Proteasome
+  - **Authors:** Gotz, Marion G.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00017](https://doi.org/10.1021/acsmedchemlett.4c00017)
 
 **Original Text:**
 ```
@@ -35132,10 +35132,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
   - Products: `CC(=O)N[C@@H](Cc1ccc([N+](=O)[O-])c(F)c1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1c[nH]c2ccc(O)cc12)C(=O)N[C@@H](CC(C)C)C(N)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Macrocyclic Oxindole Peptide Epoxyketones-A Comparative Study of Macrocyclic Inhibitors of the 20S Proteasome
+  - **Authors:** Gotz, Marion G.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00017](https://doi.org/10.1021/acsmedchemlett.4c00017)
 
 **Original Text:**
 ```
@@ -35173,10 +35173,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
   - Products: `COC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Macrocyclic Oxindole Peptide Epoxyketones-A Comparative Study of Macrocyclic Inhibitors of the 20S Proteasome
+  - **Authors:** Gotz, Marion G.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00017](https://doi.org/10.1021/acsmedchemlett.4c00017)
 
 **Original Text:**
 ```
@@ -35219,10 +35219,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112721.
   - Products: `Cc1ccc(NC(=O)c2ccc3c(c2)OCCO3)cc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** HSF1 Pathway Inhibitor Clinical Candidate (CCT361814/NXP800) Developed from a Phenotypic Screen as a Potential Treatment for Refractory Ovarian Cancer and Other Malignancies
+  - **Authors:** Pasqua, A. Elisa; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00156](https://doi.org/10.1021/acs.jmedchem.3c00156)
 
 **Original Text:**
 ```
@@ -35269,10 +35269,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127053.
   - Products: `C[C@H](CCl)NC(=O)c1c(Cl)ccnc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Commercial Route Development Toward PF-07265807, an AXL-MER Inhibitor Oncology Candidate
+  - **Authors:** Critcher, Douglas J.; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(7), 2646-2658.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00049](https://doi.org/10.1021/acs.oprd.4c00049)
 
 **Original Text:**
 ```
@@ -35319,10 +35319,10 @@ Journal of Medicinal Chemistry (2023), 66(14), 9894-9915.
   - Products: `CC(C)n1cc(C(=O)Nc2ccc(Oc3ccnc4[nH]nc(N[C@H](C)CO)c34)c(F)c2)c(=O)n(-c2ccc(F)cc2)c1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Commercial Route Development Toward PF-07265807, an AXL-MER Inhibitor Oncology Candidate
+  - **Authors:** Critcher, Douglas J.; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(7), 2646-2658.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00049](https://doi.org/10.1021/acs.oprd.4c00049)
 
 **Original Text:**
 ```
@@ -35361,10 +35361,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
   - Products: `CC(C)(C)NC(=O)C[C@H](NC(=O)OC(C)(C)C)C(=O)NCc1cccc(B(O)O)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Highly Selective Inhibitors of the Human Constitutive Proteasome β5c Chymotryptic Subunit
+  - **Authors:** Zhan, Wenhu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00733](https://doi.org/10.1021/acs.jmedchem.2c00733)
 
 **Original Text:**
 ```
@@ -35400,10 +35400,10 @@ Journal of Medicinal Chemistry (2024), 67(13), 11086-11102.
   - Products: `CC(C)(C)NC(=O)CC[C@H](NC(=O)OC(C)(C)C)C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Highly Selective Inhibitors of the Human Constitutive Proteasome β5c Chymotryptic Subunit
+  - **Authors:** Zhan, Wenhu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00733](https://doi.org/10.1021/acs.jmedchem.2c00733)
 
 **Original Text:**
 ```
@@ -35445,10 +35445,10 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
   - Products: `C#CCN(C)CCCOc1ccc(NC(=O)CCCCCCC(=O)OC)cc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** N-Methylpropargylamine-Conjugated Hydroxamic Acids as Dual Inhibitors of Monoamine Oxidase A and Histone Deacetylase for Glioma Treatment
+  - **Authors:** Mehndiratta, Samir; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(3), 2208-2224.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01726](https://doi.org/10.1021/acs.jmedchem.1c01726)
 
 **Original Text:**
 ```
@@ -35497,10 +35497,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
   - Products: `O=C(CCc1cccc(Br)c1)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of the Novel 1H-Pyrrolo[2,3-b]pyridine Derivative as a Potent Type II CDK8 Inhibitor against Colorectal Cancer
+  - **Authors:** Zhang, Xing Xing; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(18), 12095-12123.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00820](https://doi.org/10.1021/acs.jmedchem.2c00820)
 
 **Original Text:**
 ```
@@ -35540,10 +35540,10 @@ Journal of Medicinal Chemistry (2022), 65(24), 16622-16639.
   - Products: `CNC(=O)c1ccccc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of First-in-Class ACKR3/CXCR7 Superagonists for Platelet Degranulation Modulation
+  - **Authors:** Bayrak, Alp; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01198](https://doi.org/10.1021/acs.jmedchem.2c01198)
 
 **Original Text:**
 ```
@@ -35584,10 +35584,10 @@ ACS Medicinal Chemistry Letters (2022), 13(10), 1568-1573.
   - Products: `CC(C)(C)OC(=O)c1ccccc1NC(=O)CSCc1cc(C(F)(F)F)cc(C(F)(F)F)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Identification of ss-Glucocerebrosidase Activators for Glucosylceramide hydrolysis
+  - **Authors:** Schulze, Monika-Sarah E. D.; et al
+  - **Citation:** ChemMedChem (2024), 19(7), e202300548.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300548](https://doi.org/10.1002/cmdc.202300548)
 
 **Original Text:**
 ```
@@ -35627,10 +35627,10 @@ ChemMedChem (2023), 18(16), e202300097.
   - Products: `CC(C)(C)OC(=O)CC[C@H](NC(=O)Cc1ccc(O)cc1)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of a Novel Series of 4-Guanidinobenzoate Derivatives as Enteropeptidase Inhibitors with Low Systemic Exposure for the Treatment of Obesity
+  - **Authors:** Ikeda, Zenichi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00463](https://doi.org/10.1021/acs.jmedchem.2c00463)
 
 **Original Text:**
 ```
@@ -35676,10 +35676,10 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116211.
   - Products: `CC(C)(C)OC(=O)C[C@H](NC(=O)Cc1ccc(O)cc1)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of a Novel Series of 4-Guanidinobenzoate Derivatives as Enteropeptidase Inhibitors with Low Systemic Exposure for the Treatment of Obesity
+  - **Authors:** Ikeda, Zenichi; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00463](https://doi.org/10.1021/acs.jmedchem.2c00463)
 
 **Original Text:**
 ```
@@ -35718,10 +35718,10 @@ ChemMedChem (2020), 15(14), 1294-1309.
   - Products: `CC(C)(C)OC(=O)NCCNC(=O)/C=C/c1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -35758,10 +35758,10 @@ Journal of Medicinal Chemistry (2022), 65(23), 15770-15788.
   - Products: `CC(C)(C)OC(=O)NCCCNC(=O)/C=C/c1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -35800,10 +35800,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `CC(C)(C)OC(=O)NCc1ccc(CNC(=O)/C=C/c2cccnc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -35840,10 +35840,10 @@ Journal of Medicinal Chemistry (2022), 65(15), 10481-10505.
   - Products: `CC(C)(C)OC(=O)NCCCCNC(=O)/C=C/c1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -35880,10 +35880,10 @@ Journal of Medicinal Chemistry (2023), 66(1), 460-472.
   - Products: `CC(C)(C)OC(=O)N1CCC(CNC(=O)/C=C/c2cccnc2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -35924,10 +35924,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
   - Products: `CC(C)(C)OC(=O)N1CCC(NC(=O)/C=C/c2cccnc2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -35964,10 +35964,10 @@ European Journal of Medicinal Chemistry (2020), 197, 112314.
   - Products: `CC(C)(C)OC(=O)NCCCCCCNC(=O)/C=C/c1cccnc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -36006,10 +36006,10 @@ ChemMedChem (2023), 18(15), e202300160.
   - Products: `CC(C)(C)OC(=O)N1CCC(CCNC(=O)/C=C/c2cccnc2)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -36046,10 +36046,10 @@ European Journal of Medicinal Chemistry (2023), 246, 114925.
   - Products: `CN(CCNC(=O)/C=C/c1cccnc1)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small Molecules Simultaneously Targeting NAD(P)H:Quinone Oxidoreductase 1 and Nicotinamide Phosphoribosyltransferase: Treatment of Drug-Resistant Non-small-Cell Lung Cancer
+  - **Authors:** Zhang, Kuojun; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00077](https://doi.org/10.1021/acs.jmedchem.2c00077)
 
 **Original Text:**
 ```
@@ -36086,10 +36086,10 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
   - Products: `Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)NCC#CC#CCOCC(=O)OC(C)(C)C)c1nnc(C)n1-2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Antibody-Mediated Delivery of Chimeric BRD4 Degraders. Part 1: Exploration of Antibody Linker, Payload Loading, and Payload Molecular Properties
+  - **Authors:** Dragovich, Peter S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01845](https://doi.org/10.1021/acs.jmedchem.0c01845)
 
 **Original Text:**
 ```
@@ -36126,10 +36126,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 91, 129352.
   - Products: `Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)COCC#CC#CCNC(=O)C[C@@H]2N=C(c3ccc(Cl)cc3)c3c(sc(C)c3C)-n3c(C)nnc32)C(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Antibody-Mediated Delivery of Chimeric BRD4 Degraders. Part 1: Exploration of Antibody Linker, Payload Loading, and Payload Molecular Properties
+  - **Authors:** Dragovich, Peter S.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01845](https://doi.org/10.1021/acs.jmedchem.0c01845)
 
 **Original Text:**
 ```
@@ -36168,10 +36168,10 @@ Journal of Medicinal Chemistry (2020), 63(9), 4468-4483.
   - Products: `CCOP(=O)(CC(=O)Nc1ccc(/N=C/N(C)C)c(C#N)c1)OCC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of SPH5030, a Selective, Potent, and Irreversible Tyrosine Kinase Inhibitor for HER2-Amplified and HER2-Mutant Cancer Treatment
+  - **Authors:** Li, Di; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(7), 5334-5354.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00710](https://doi.org/10.1021/acs.jmedchem.1c00710)
 
 **Original Text:**
 ```
@@ -36206,10 +36206,10 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
   - Products: `O=c1nc[nH]c2c(F)c(Br)c(Cl)c(F)c12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of AZD4625, a Covalent Allosteric Inhibitor of the Mutant GTPase KRASG12C
+  - **Authors:** Kettle, Jason G.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(9), 6940-6952.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00369](https://doi.org/10.1021/acs.jmedchem.2c00369)
 
 **Original Text:**
 ```
@@ -36245,10 +36245,10 @@ Organic Process Research & Development (2022), 26(8), 2145-2154.
   - Products: `O=c1nc[nH]c2c(F)c(Br)cc(F)c12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of AZD4625, a Covalent Allosteric Inhibitor of the Mutant GTPase KRASG12C
+  - **Authors:** Kettle, Jason G.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(9), 6940-6952.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00369](https://doi.org/10.1021/acs.jmedchem.2c00369)
 
 **Original Text:**
 ```
@@ -36294,10 +36294,10 @@ Organic Process Research & Development (2023), 27(12), 2223-2239.
   - Products: `O=C1CCC(N2C(=O)c3cccc(NC(=O)CBr)c3C2=O)C(=O)N1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a Highly Potent and Selective Dual PROTAC Degrader of CDK12 and CDK13
+  - **Authors:** Yang, Jianzhang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(16), 11066-11083.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00384](https://doi.org/10.1021/acs.jmedchem.2c00384)
 
 **Original Text:**
 ```
@@ -36337,10 +36337,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `CC(C)(C)OC(=O)NCCCCNC(=O)c1cccc(Br)n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of AZD8154, a Dual PI3Kγδ Inhibitor for the Treatment of Asthma
+  - **Authors:** Perry, Matthew W. D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(12), 8053-8075.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00434](https://doi.org/10.1021/acs.jmedchem.1c00434)
 
 **Original Text:**
 ```
@@ -36382,10 +36382,10 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
   - Products: `CO[C@]1(C)C[C@H](O[C@@H]([C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)CN(C)C(=O)[C@H](Cc2ccc([N+](=O)[O-])cc2)NC(=O)[C@@H](N)C(C)C)[C@@H](C)C(=O)O)O[C@@H](C)[C@@H]1O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Macrolide Inspired Macrocycles as Modulators of the IL-17A/IL-17RA Interaction
+  - **Authors:** Kostrun, Sanja; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(12), 8354-8383.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c00327](https://doi.org/10.1021/acs.jmedchem.1c00327)
 
 **Original Text:**
 ```
@@ -36425,10 +36425,10 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
   - Products: `CCCCn1c(=O)c2[nH]c(C34CCC(C(=O)NCCCN=[N+]=[N-])(CC3)CC4)nc2n(Cc2ccc(OC)cc2OC)c1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of Covalent, Clickable Probes for Adenosine A1 and A3 Receptors
+  - **Authors:** Trinh, Phuc N. H.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02169](https://doi.org/10.1021/acs.jmedchem.0c02169)
 
 **Original Text:**
 ```
@@ -36470,10 +36470,10 @@ European Journal of Medicinal Chemistry (2024), 278, 116792.
   - Products: `CCCCn1c(=O)c2[nH]c(C34CCC(C(=O)NCCCCN=[N+]=[N-])(CC3)CC4)nc2n(Cc2ccc(OC)cc2OC)c1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of Covalent, Clickable Probes for Adenosine A1 and A3 Receptors
+  - **Authors:** Trinh, Phuc N. H.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02169](https://doi.org/10.1021/acs.jmedchem.0c02169)
 
 **Original Text:**
 ```
@@ -36510,10 +36510,10 @@ Organic Process Research & Development (2024), 28(2), 559-576.
   - Products: `COc1ccc(CNC(=O)NC(=O)CC#N)c(OC)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of Covalent, Clickable Probes for Adenosine A1 and A3 Receptors
+  - **Authors:** Trinh, Phuc N. H.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c02169](https://doi.org/10.1021/acs.jmedchem.0c02169)
 
 **Original Text:**
 ```
@@ -36550,10 +36550,10 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116216.
   - Products: `CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@H](OCCOCCOCCOC(=O)[C@H](CCCCNC(=O)OC(C)(C)C)NC(=O)CCC(=O)N(CCOC(=O)CCCC[C@@H]5SC[C@@H]6NC(=O)N[C@@H]65)CCOC(=O)CCCC[C@@H]5SC[C@@H]6NC(=O)N[C@@H]65)CC[C@]4(C)[C@H]3CC[C@]12C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, preparation and evaluation of different branched biotin modified liposomes for targeting breast cancer
+  - **Authors:** Tang, Baolan; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 193, 112204.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112204](https://doi.org/10.1016/j.ejmech.2020.112204)
 
 **Original Text:**
 ```
@@ -36595,10 +36595,10 @@ Journal of Medicinal Chemistry (2021), 64(12), 8354-8383.
   - Products: `CC(C)(C)[Si](C)(C)OCC1CCN(c2ccc(C(=O)N[C@H]3CC[C@H](Oc4ccc(C#N)c(Cl)c4)CC3)nn2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Novel selective agents for the degradation of AR/AR-V7 to treat advanced prostate cancer
+  - **Authors:** Yang, Yifei; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 271, 116400.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116400](https://doi.org/10.1016/j.ejmech.2024.116400)
 
 **Original Text:**
 ```
@@ -36640,10 +36640,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
   - Products: `COc1ccc(OC)c(/C=C/C(=O)Nc2nc3ccccc3s2)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** In vitro inhibition of α-Synuclein aggregation and disaggregation of preformed fibers by polyphenol hybrids with 2-conjugated benzothiazole
+  - **Authors:** Zhao, Ya-Dong; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2024), 105, 129752.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2024.129752](https://doi.org/10.1016/j.bmcl.2024.129752)
 
 **Original Text:**
 ```
@@ -36684,10 +36684,10 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
   - Products: `CC(C)(C)NC(=O)c1ccc(C(F)(F)F)cc1N`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of HDAC6, HDAC8, and 6/8 Inhibitors and Development of Cell-Based Drug Screening Models for the Treatment of TGF-β-Induced Idiopathic Pulmonary Fibrosis
+  - **Authors:** Yu, Wei-Chieh; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(15), 10528-10557.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00644](https://doi.org/10.1021/acs.jmedchem.3c00644)
 
 **Original Text:**
 ```
@@ -36727,10 +36727,10 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
   - Products: `CCOc1ncc(NC(=O)c2ccc3nn(C)cc3c2)c(Nc2ccc(OC(F)F)cc2)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Structural Optimization of Methionine Adenosyltransferase 2A (MAT2A) Inhibitors with High In Vivo Potency and Oral Bioavailability
+  - **Authors:** Zhang, Silong; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(7), 4849-4867.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02006](https://doi.org/10.1021/acs.jmedchem.2c02006)
 
 **Original Text:**
 ```
@@ -36768,10 +36768,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COc1cc(F)c(O[C@H]2CC[C@@](C)(C(=O)OC(C)(C)C)CC2)cc1C(=O)N[C@@H]1[C@H]2CC[C@H](C2)[C@@H]1C(=O)NCC(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Clinical Candidate AZD5462, a Selective Oral Allosteric RXFP1 Agonist for Treatment of Heart Failure
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02184](https://doi.org/10.1021/acs.jmedchem.3c02184)
 
 **Original Text:**
 ```
@@ -36810,10 +36810,10 @@ ChemMedChem (2023), 18(10), e202300030.
   - Products: `COc1cc(F)c(O[C@H]2CC[C@@](C)(C(=O)OC(C)(C)C)CC2)cc1C(=O)N[C@@H]1[C@H]2CC[C@H](C2)[C@@H]1C(=O)NCC(C)(C)C(F)(F)F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Clinical Candidate AZD5462, a Selective Oral Allosteric RXFP1 Agonist for Treatment of Heart Failure
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02184](https://doi.org/10.1021/acs.jmedchem.3c02184)
 
 **Original Text:**
 ```
@@ -36851,10 +36851,10 @@ European Journal of Medicinal Chemistry (2023), 256, 115446.
   - Products: `CCOC(=O)[C@H]1CC[C@@H](Oc2cc(C(=O)N[C@@H]3[C@H]4CC[C@H](C4)[C@@H]3C(=O)NCC(C)(C)C)c(OC)cc2F)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Clinical Candidate AZD5462, a Selective Oral Allosteric RXFP1 Agonist for Treatment of Heart Failure
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02184](https://doi.org/10.1021/acs.jmedchem.3c02184)
 
 **Original Text:**
 ```
@@ -36892,10 +36892,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `CC1(CNC(=O)[C@@H]2[C@H](NC(=O)OC(C)(C)C)[C@@H]3C=C[C@H]2CC3)CCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Clinical Candidate AZD5462, a Selective Oral Allosteric RXFP1 Agonist for Treatment of Heart Failure
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02184](https://doi.org/10.1021/acs.jmedchem.3c02184)
 
 **Original Text:**
 ```
@@ -36935,10 +36935,10 @@ Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
   - Products: `COC(=O)[C@@H]1[C@H](NC(=O)c2cc(O[C@H]3CC[C@@](C)(C(=O)OCc4cccc5ccccc45)CC3)c(F)cc2OC)[C@H]2C=C[C@@H]1C2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Clinical Candidate AZD5462, a Selective Oral Allosteric RXFP1 Agonist for Treatment of Heart Failure
+  - **Authors:** Granberg, Kenneth L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02184](https://doi.org/10.1021/acs.jmedchem.3c02184)
 
 **Original Text:**
 ```
@@ -36978,10 +36978,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `N#C[C@@H]1CC(F)(F)CN1C(=O)CNC(=O)c1ccnc2ccc(OCC(O)CF)cc12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Druglike, 18F-labeled PET Tracers Targeting Fibroblast Activation Protein
+  - **Authors:** Tanc, Muhammet; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(9), 7068-7087.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02402](https://doi.org/10.1021/acs.jmedchem.3c02402)
 
 **Original Text:**
 ```
@@ -37022,10 +37022,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
   - Products: `CC(C)(C)OC(=O)NCCC[C@H](NC(=O)OCc1ccccc1)C(=O)NCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A β-Carboline Derivate PAD4 Inhibitor Reshapes Neutrophil Phenotype and Improves the Tumor Immune Microenvironment against Triple-Negative Breast Cancer
+  - **Authors:** Zhu, Di; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(10), 7973-7994.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00030](https://doi.org/10.1021/acs.jmedchem.4c00030)
 
 **Original Text:**
 ```
@@ -37061,10 +37061,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112769.
   - Products: `CC(C)(C)OC(=O)N1CCN(c2ccc(Cl)c(Cl)c2)[C@H](C(=O)NCc2cccs2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Crystallographic Studies of Nonpeptidic Piperazine Derivatives as Covalent SARS-CoV-2 Main Protease Inhibitors
+  - **Authors:** Gao, Shenghua; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(24), 16902-16917.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01716](https://doi.org/10.1021/acs.jmedchem.2c01716)
 
 **Original Text:**
 ```
@@ -37103,10 +37103,10 @@ Journal of Medicinal Chemistry (2022), 65(19), 13343-13364.
   - Products: `CC(C)(C)OC(=O)NCCCCN(CCCNC(=O)c1csc(-c2csc(CCNC(=O)OCC3c4ccccc4-c4ccccc43)n2)n1)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis of Bleomycin-Inspired RNA Ligands Targeting the Biogenesis of Oncogenic miRNAs
+  - **Authors:** Maucort, Chloe; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(15), 10639-10657.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00797](https://doi.org/10.1021/acs.jmedchem.3c00797)
 
 **Original Text:**
 ```
@@ -37152,10 +37152,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 8288-8309.
   - Products: `C[C@H](NC(=O)c1ccc2c(-c3ccc(C(F)(F)F)cc3)cccc2c1)c1cccc(Br)n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Bioevaluation of Transcriptional Enhanced Assocciated Domain (TEAD) PROTAC Degraders
+  - **Authors:** Li, Huajie; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(5), 631-639.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00029](https://doi.org/10.1021/acsmedchemlett.4c00029)
 
 **Original Text:**
 ```
@@ -37196,10 +37196,10 @@ Journal of Medicinal Chemistry (2023), 66(14), 9418-9444.
   - Products: `C=C(C)[C@@H]1CC[C@]2(C(=O)NCCCCCC(=O)OC)CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)CC[C@H](O[C@@H]6OC[C@H](O)[C@H](O)[C@H]6O[C@@H]6O[C@@H](C)[C@H](O)[C@@H](O)[C@H]6O)[C@@](C)(CO)[C@@H]5CC[C@]43C)[C@@H]12`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a New Anti-Inflammatory Agent from Anemoside B4 Derivatives and Its Therapeutic Effect on Colitis by Targeting Pyruvate Carboxylase
+  - **Authors:** Lv, Lijuan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(9), 7385-7405.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00222](https://doi.org/10.1021/acs.jmedchem.4c00222)
 
 **Original Text:**
 ```
@@ -37237,10 +37237,10 @@ Journal of Medicinal Chemistry (2023), 66(4), 3106-3133.
   - Products: `O=C(NCCCCC[P+](c1ccccc1)(c1ccccc1)c1ccccc1)c1ccc(Cl)c([N+](=O)[O-])c1.[Cl-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Human mitochondrial glutathione transferases: Kinetic parameters and accommodation of a mitochondria-targeting group in substrates
+  - **Authors:** Cardwell, Patrick A.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2024), 104, 117712.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2024.117712](https://doi.org/10.1016/j.bmc.2024.117712)
 
 **Original Text:**
 ```
@@ -37281,10 +37281,10 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - Products: `CC(C)(C)OC(=O)NCC(=O)Nc1cncc(Br)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Novel N-(5-(Pyridin-3-yl)-1H-indazol-3-yl)benzamide Derivatives as Potent Cyclin-Dependent Kinase 7 Inhibitors for the Treatment of Autosomal Dominant Polycystic Kidney Disease
+  - **Authors:** Yang, Bowen; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(23), 15770-15788.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01334](https://doi.org/10.1021/acs.jmedchem.2c01334)
 
 **Original Text:**
 ```
@@ -37324,10 +37324,10 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
   - Products: `C#CCOc1ccc2[nH]c3c(C(=O)c4ccc(Br)cc4)nc(C(=O)NCCc4c[nH]c5ccccc45)cc3c2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Biological Activity of Marinacarboline Analogues as STAT3 Pathway Inhibitors for Docetaxel-Resistant Triple-Negative Breast Cancer
+  - **Authors:** Byun, Woong Sub; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(4), 3106-3133.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01115](https://doi.org/10.1021/acs.jmedchem.2c01115)
 
 **Original Text:**
 ```
@@ -37366,10 +37366,10 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - Products: `CC(C)(C)OC(=O)N1CCN(c2ccc(C(=O)N[C@H]3C(C)(C)[C@H](Oc4ccc(C#N)c(Cl)c4)C3(C)C)cc2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and characterization of cereblon-mediated androgen receptor proteolysis-targeting chimeras
+  - **Authors:** Takwale, Akshay D.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112769.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112769](https://doi.org/10.1016/j.ejmech.2020.112769)
 
 **Original Text:**
 ```
@@ -37407,10 +37407,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `O=C1CCC(NC(=O)c2cc(O)ccc2[N+](=O)[O-])C(=O)N1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and characterization of cereblon-mediated androgen receptor proteolysis-targeting chimeras
+  - **Authors:** Takwale, Akshay D.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112769.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112769](https://doi.org/10.1016/j.ejmech.2020.112769)
 
 **Original Text:**
 ```
@@ -37454,10 +37454,10 @@ Organic Process Research & Development (2020), 24(3), 363-370.
   - Products: `Nc1cccc(F)c1C(=O)NC1CCC(=O)NC1=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design and characterization of cereblon-mediated androgen receptor proteolysis-targeting chimeras
+  - **Authors:** Takwale, Akshay D.; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2020), 208, 112769.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2020.112769](https://doi.org/10.1016/j.ejmech.2020.112769)
 
 **Original Text:**
 ```
@@ -37497,10 +37497,10 @@ European Journal of Medicinal Chemistry (2023), 249, 115141.
   - Products: `COC(=O)N[C@H](C(=O)N1C[C@H](C(F)(F)F)C[C@H]1C(=O)N[C@@H](C[C@@H]1CCCNC1=O)C(N)=O)C(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A Second-Generation Oral SARS-CoV-2 Main Protease Inhibitor Clinical Candidate for the Treatment of COVID-19
+  - **Authors:** Allerton, Charlotte M. N.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(16), 13550-13571.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02469](https://doi.org/10.1021/acs.jmedchem.3c02469)
 
 **Original Text:**
 ```
@@ -37539,10 +37539,10 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117468.
   - Products: `COCC(NC(=O)OC(C)(C)C)C(=O)Nc1nnc(Cc2ccc([N+](=O)[O-])cc2)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and characterization of BAY-805, a potent and selective inhibitor of ubiquitin-specific protease USP21
+  - **Authors:** Goericke, Fabian; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01933](https://doi.org/10.1021/acs.jmedchem.2c01933)
 
 **Original Text:**
 ```
@@ -37580,10 +37580,10 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
   - Products: `COC[C@@H](NC(=O)OC(C)(C)C)C(=O)Nc1nnc(Cc2ccc(C#N)cc2)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and characterization of BAY-805, a potent and selective inhibitor of ubiquitin-specific protease USP21
+  - **Authors:** Goericke, Fabian; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01933](https://doi.org/10.1021/acs.jmedchem.2c01933)
 
 **Original Text:**
 ```
@@ -37620,10 +37620,10 @@ Journal of Medicinal Chemistry (2021), 64(18), 13451-13474.
   - Products: `CCCCC(NC(=O)c1c(C)nc2c(OCc3c(F)cccc3F)cccn12)C(=O)OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** New Generation of sGC Stimulators: Discovery of Imidazo[1,2-a]pyridine Carboxamide BAY 1165747 (BAY-747), a Long-Acting Soluble Guanylate Cyclase Stimulator for the Treatment of Resistant Hypertension
+  - **Authors:** Vakalopoulos, Alexandros; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02082](https://doi.org/10.1021/acs.jmedchem.2c02082)
 
 **Original Text:**
 ```
@@ -37661,10 +37661,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3173-3192.
   - Products: `Cc1nc2c(OCc3c(F)cccc3F)cccn2c1C(=O)NC(CNC(=O)OC(C)(C)C)c1ccc(F)c(F)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** New Generation of sGC Stimulators: Discovery of Imidazo[1,2-a]pyridine Carboxamide BAY 1165747 (BAY-747), a Long-Acting Soluble Guanylate Cyclase Stimulator for the Treatment of Resistant Hypertension
+  - **Authors:** Vakalopoulos, Alexandros; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02082](https://doi.org/10.1021/acs.jmedchem.2c02082)
 
 **Original Text:**
 ```
@@ -37705,10 +37705,10 @@ Journal of Medicinal Chemistry (2020), 63(22), 13878-13898.
   - Products: `CC[C@@](C)(CNC(=O)c1c(C)nc2c(OCc3c(F)cccc3F)cc(C)cn12)NC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** New Generation of sGC Stimulators: Discovery of Imidazo[1,2-a]pyridine Carboxamide BAY 1165747 (BAY-747), a Long-Acting Soluble Guanylate Cyclase Stimulator for the Treatment of Resistant Hypertension
+  - **Authors:** Vakalopoulos, Alexandros; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c02082](https://doi.org/10.1021/acs.jmedchem.2c02082)
 
 **Original Text:**
 ```
@@ -37751,10 +37751,10 @@ Journal of Medicinal Chemistry (2021), 64(7), 4020-4033.
   - Products: `O=C(Nc1ccc(F)c([N+](=O)[O-])c1)c1ccc2c(c1)OCCO2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** HSF1 Pathway Inhibitor Clinical Candidate (CCT361814/NXP800) Developed from a Phenotypic Screen as a Potential Treatment for Refractory Ovarian Cancer and Other Malignancies
+  - **Authors:** Pasqua, A. Elisa; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00156](https://doi.org/10.1021/acs.jmedchem.3c00156)
 
 **Original Text:**
 ```
@@ -37799,10 +37799,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
   - Products: `Cc1ccc2cc(C(=O)Nc3cc([N+](=O)[O-])ccc3C)ccc2n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** HSF1 Pathway Inhibitor Clinical Candidate (CCT361814/NXP800) Developed from a Phenotypic Screen as a Potential Treatment for Refractory Ovarian Cancer and Other Malignancies
+  - **Authors:** Pasqua, A. Elisa; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00156](https://doi.org/10.1021/acs.jmedchem.3c00156)
 
 **Original Text:**
 ```
@@ -37847,10 +37847,10 @@ Journal of Medicinal Chemistry (2020), 63(17), 9856-9875.
   - Products: `Cc1ccc2cc(C(=O)Nc3cc([N+](=O)[O-])ccc3Cl)ccc2n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** HSF1 Pathway Inhibitor Clinical Candidate (CCT361814/NXP800) Developed from a Phenotypic Screen as a Potential Treatment for Refractory Ovarian Cancer and Other Malignancies
+  - **Authors:** Pasqua, A. Elisa; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00156](https://doi.org/10.1021/acs.jmedchem.3c00156)
 
 **Original Text:**
 ```
@@ -37889,10 +37889,10 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
   - Products: `Cc1ccc2cc(C(=O)Nc3cc(NC(=O)c4ccc5c(c4)OCCO5)ccc3C)ccc2n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** HSF1 Pathway Inhibitor Clinical Candidate (CCT361814/NXP800) Developed from a Phenotypic Screen as a Potential Treatment for Refractory Ovarian Cancer and Other Malignancies
+  - **Authors:** Pasqua, A. Elisa; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00156](https://doi.org/10.1021/acs.jmedchem.3c00156)
 
 **Original Text:**
 ```
@@ -37940,10 +37940,10 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
   - Products: `Cc1ccc2cc(C(=O)Nc3cc(NC(=O)c4ccc5c(c4)OCCO5)ccc3Br)ccc2n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** HSF1 Pathway Inhibitor Clinical Candidate (CCT361814/NXP800) Developed from a Phenotypic Screen as a Potential Treatment for Refractory Ovarian Cancer and Other Malignancies
+  - **Authors:** Pasqua, A. Elisa; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00156](https://doi.org/10.1021/acs.jmedchem.3c00156)
 
 **Original Text:**
 ```
@@ -37988,10 +37988,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `Nc1cc(=O)[nH]c(=O)n1C1CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-Based Design of Xanthine-Benzimidazole Derivatives as Novel and Potent Tryptophan Hydroxylase Inhibitors
+  - **Authors:** Specker, Edgar; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(16), 11126-11149.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00598](https://doi.org/10.1021/acs.jmedchem.2c00598)
 
 **Original Text:**
 ```
@@ -38035,10 +38035,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 2208-2224.
   - Products: `COC(=O)c1ccc(NC(=O)CCC(=O)c2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Small-Molecule Autophagy Inhibitors by Disrupting the Protein-Protein Interactions Involving Autophagy-Related 5
+  - **Authors:** Xiang, Honggang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(4), 2457-2476.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01233](https://doi.org/10.1021/acs.jmedchem.2c01233)
 
 **Original Text:**
 ```
@@ -38082,10 +38082,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127053.
   - Products: `O=C(NCc1ccc(C(=O)Nc2cccnc2)cc1)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Oxygen-Dependent Interactions between the Ruthenium Cage and the Photoreleased Inhibitor in NAMPT-Targeted Photoactivated Chemotherapy
+  - **Authors:** Abyar, Selda; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(13), 11086-11102.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00589](https://doi.org/10.1021/acs.jmedchem.4c00589)
 
 **Original Text:**
 ```
@@ -38125,10 +38125,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
   - Products: `Cc1cc(NC(=O)C2(C(=O)O)CC2)no1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of 10H-Benzo[b]pyrido[2,3-e][1,4]oxazine AXL Inhibitors via Structure-Based Drug Design Targeting c-Met Kinase
+  - **Authors:** Zhan, Zhengsheng; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(1), 220-234.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00962](https://doi.org/10.1021/acs.jmedchem.2c00962)
 
 **Original Text:**
 ```
@@ -38167,10 +38167,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(20), 115700.
   - Products: `CNC(=O)c1ccccc1NC(=O)CN(C)C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of First-in-Class ACKR3/CXCR7 Superagonists for Platelet Degranulation Modulation
+  - **Authors:** Bayrak, Alp; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01198](https://doi.org/10.1021/acs.jmedchem.2c01198)
 
 **Original Text:**
 ```
@@ -38213,10 +38213,10 @@ ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
   - Products: `CNC(=O)c1ccccc1NC(=O)CNC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of First-in-Class ACKR3/CXCR7 Superagonists for Platelet Degranulation Modulation
+  - **Authors:** Bayrak, Alp; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01198](https://doi.org/10.1021/acs.jmedchem.2c01198)
 
 **Original Text:**
 ```
@@ -38260,10 +38260,10 @@ ChemMedChem (2021), 16(20), 3177-3180.
   - Products: `CC(C)(C)NC(=O)C1CCN(C(=O)OC(C)(C)C)CC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of First-in-Class ACKR3/CXCR7 Superagonists for Platelet Degranulation Modulation
+  - **Authors:** Bayrak, Alp; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01198](https://doi.org/10.1021/acs.jmedchem.2c01198)
 
 **Original Text:**
 ```
@@ -38310,10 +38310,10 @@ Organic Process Research & Development (2024), 28(7), 2646-2658.
   - Products: `CCc1cccc(CC)c1NC(=O)c1ccn2c1CCc1cnc(Nc3ccc(N4CCN(C)CC4)cc3[N+](=O)[O-])nc1-2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of the First Covalent Monopolar Spindle Kinase 1 (MPS1/TTK) Inhibitor
+  - **Authors:** M. Serafim, Ricardo A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3173-3192.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01165](https://doi.org/10.1021/acs.jmedchem.1c01165)
 
 **Original Text:**
 ```
@@ -38356,10 +38356,10 @@ Organic Process Research & Development (2021), 25(6), 1440-1453.
   - Products: `CCCC(CCC)C(=O)Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)C2(F)F)c(=O)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Anti-Cancer Evaluation of Novel Cyclic Phosphate Prodrug of Gemcitabine
+  - **Authors:** Zhang, Liang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 4150-4166.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00006](https://doi.org/10.1021/acs.jmedchem.3c00006)
 
 **Original Text:**
 ```
@@ -38396,10 +38396,10 @@ Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
   - Products: `Cc1ccc(C(=O)C[C@](NC(=O)Cc2nnn[nH]2)(c2ccc(OCCCCCC(F)(F)F)cc2)C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Screening Hit to Clinical Candidate: Discovery of BMS-963272, a Potent, Selective MGAT2 Inhibitor for the Treatment of Metabolic Disorders
+  - **Authors:** Turdi, Huji; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(19), 14773-14792.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01356](https://doi.org/10.1021/acs.jmedchem.1c01356)
 
 **Original Text:**
 ```
@@ -38442,10 +38442,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `C#CCCCC(=O)N[C@@H](Cc1ccc(Oc2no[n+]([O-])c2S(=O)(=O)c2ccccc2)cc1)C(=O)OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Identification of New Nitric Oxide-Donating Peptides with Dual Biofilm Eradication and Antibacterial Activities for Intervention of Device-Related Infections
+  - **Authors:** Fei, Yue; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(17), 9127-9135.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.9b01832](https://doi.org/10.1021/acs.jmedchem.9b01832)
 
 **Original Text:**
 ```
@@ -38487,10 +38487,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `C=CCC[C@@H](C)C[C@@H](CC)[C@H](NC(=O)OC(C)(C)C)C(=O)N1C[C@H](O)C[C@H]1C(=O)N[C@]1(C(=O)NS(=O)(=O)C2(C)CC2)C[C@H]1C=C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of BMS-986144, a Third-Generation, Pan-Genotype NS3/4A Protease Inhibitor for the Treatment of Hepatitis C Virus Infection
+  - **Authors:** Sun, Li-Qiang; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(23), 14740-14760.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c01296](https://doi.org/10.1021/acs.jmedchem.0c01296)
 
 **Original Text:**
 ```
@@ -38529,10 +38529,10 @@ Journal of Medicinal Chemistry (2024), 67(9), 7068-7087.
   - Products: `Cc1cccc(C[C@H](NC(=O)C(c2ccccc2)c2ccccc2)C(=O)NCC#N)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38569,10 +38569,10 @@ ChemMedChem (2023), 18(16), e202300097.
   - Products: `C#CCNC(=O)[C@H](Cc1cccc(C)c1)NC(=O)C(c1ccccc1)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38611,10 +38611,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `C=CCOC(=O)c1cccc(COC[C@H](NC(=O)[C@H](Cc2cccc(C)c2)NC(=O)C(c2ccccc2)c2ccccc2)C(N)=O)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38651,10 +38651,10 @@ Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
   - Products: `C=CCOC(=O)c1cccc(COC[C@H](NC(=O)[C@H](Cc2cccc(I)c2)NC(=O)C(c2ccccc2)c2ccccc2)C(N)=O)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38693,10 +38693,10 @@ Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
   - Products: `COC(=O)c1cn(CCC[C@H](NC(=O)[C@H](Cc2cccc(C)c2)NC(=O)OC(C)(C)C)C(N)=O)nn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38736,10 +38736,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
   - Products: `COC(=O)Cn1cc(COC[C@H](NC(=O)[C@H](Cc2cccc(C)c2)NC(=O)OC(C)(C)C)C(N)=O)nn1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38778,10 +38778,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `C#C[C@H](COCc1cccc(C(=O)OCC=C)c1)NC(=O)[C@H](Cc1cccc(C)c1)NC(=O)OC(C)(C)C.C#C[C@@H](COCc1cccc(C(=O)OCC=C)c1)NC(=O)[C@H](Cc1cccc(C)c1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38823,10 +38823,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `Cc1cccc(C[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38865,10 +38865,10 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129034.
   - Products: `C#CCNC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38906,10 +38906,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
   - Products: `C#CCNC(=O)[C@H](Cc1cccc(C)c1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38950,10 +38950,10 @@ Organic Process Research & Development (2022), 26(8), 2124-2137.
   - Products: `C#C[C@H](COCc1cccc(C(=O)OCC=C)c1)NC(=O)[C@H](Cc1cccc(C)c1)NC(=O)C(c1ccccc1)c1ccccc1.C#C[C@@H](COCc1cccc(C(=O)OCC=C)c1)NC(=O)[C@H](Cc1cccc(C)c1)NC(=O)C(c1ccccc1)c1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -38990,10 +38990,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3667-3683.
   - Products: `C#C[C@H](COCc1cccc(C(=O)OCC=C)c1)NC(=O)[C@H](Cc1cccc(C)c1)NC(=O)c1ccc(I)cc1.C#C[C@@H](COCc1cccc(C(=O)OCC=C)c1)NC(=O)[C@H](Cc1cccc(C)c1)NC(=O)c1ccc(I)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Dipeptide-derived alkynes as potent and selective irreversible inhibitors of cysteine cathepsins
+  - **Authors:** Behring, Lydia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c01360](https://doi.org/10.1021/acs.jmedchem.2c01360)
 
 **Original Text:**
 ```
@@ -39032,10 +39032,10 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
   - Products: `COC(=O)C(Cc1ccccc1)NC(=O)c1cccc2c1-c1ccccc1C2=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of Noncovalent Small-Molecule Keap1-Nrf2 Inhibitors by Fragment-Based Drug Discovery
+  - **Authors:** Narayanan, Dilip; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00830](https://doi.org/10.1021/acs.jmedchem.2c00830)
 
 **Original Text:**
 ```
@@ -39076,10 +39076,10 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
   - Products: `COC(=O)C(NC(=O)c1cccc2c1-c1ccccc1C2=O)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of Noncovalent Small-Molecule Keap1-Nrf2 Inhibitors by Fragment-Based Drug Discovery
+  - **Authors:** Narayanan, Dilip; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00830](https://doi.org/10.1021/acs.jmedchem.2c00830)
 
 **Original Text:**
 ```
@@ -39119,10 +39119,10 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
   - Products: `COC(=O)CC(Cc1ccccc1)NC(=O)c1cccc2c1-c1ccccc1C2=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of Noncovalent Small-Molecule Keap1-Nrf2 Inhibitors by Fragment-Based Drug Discovery
+  - **Authors:** Narayanan, Dilip; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00830](https://doi.org/10.1021/acs.jmedchem.2c00830)
 
 **Original Text:**
 ```
@@ -39160,10 +39160,10 @@ ChemMedChem (2024), 19(7), e202300548.
   - Products: `COC(=O)CC(NC(=O)c1cccc2c1-c1ccccc1C2=O)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of Noncovalent Small-Molecule Keap1-Nrf2 Inhibitors by Fragment-Based Drug Discovery
+  - **Authors:** Narayanan, Dilip; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00830](https://doi.org/10.1021/acs.jmedchem.2c00830)
 
 **Original Text:**
 ```
@@ -39205,10 +39205,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
   - Products: `CNC(=O)c1c(B(O)O)oc2ccc(OC)cc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of TAM16, a Benzofuran That Inhibits the Thioesterase Activity of Pks13; Evaluation toward a Preclinical Candidate for a Novel Antituberculosis Clinical Target
+  - **Authors:** Wilson, Caroline; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(1), 409-423.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01586](https://doi.org/10.1021/acs.jmedchem.1c01586)
 
 **Original Text:**
 ```
@@ -39249,10 +39249,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
   - Products: `COC(=O)N[C@H](C(=O)N1CCC[C@H]1c1nc2cc(F)c([C@H]3CC[C@@H](c4cc5nc([C@@H]6CCCN6C(=O)[C@@H](NC(=O)OC)[C@@H](C)OC)n(COC(=O)[C@@H](NC(=O)COP(=O)(OCc6ccccc6)OCc6ccccc6)C(C)C)c5cc4F)N3c3cc(F)c(N4CCC(c5ccc(F)cc5)CC4)c(F)c3)cc2[nH]1)[C@@H](C)OC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Prodrug Strategies to Improve the Solubility of the HCV NS5A Inhibitor Pibrentasvir (ABT-530)
+  - **Authors:** Randolph, John T.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2020), 63(19), 11034-11044.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.0c00956](https://doi.org/10.1021/acs.jmedchem.0c00956)
 
 **Original Text:**
 ```
@@ -39297,10 +39297,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `COc1ccc(C(=O)Nc2ccc(N(C)C)cc2)cc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and structure-activity relationship study of new biaryl amide derivatives and their inhibitory effects against hepatitis C virus
+  - **Authors:** Liu, Yonghua; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 228, 114033.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.114033](https://doi.org/10.1016/j.ejmech.2021.114033)
 
 **Original Text:**
 ```
@@ -39343,10 +39343,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - Products: `CC(C)Oc1ccc(C(=O)Nc2ccc(N(C)C)cc2)cc1[N+](=O)[O-]`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and structure-activity relationship study of new biaryl amide derivatives and their inhibitory effects against hepatitis C virus
+  - **Authors:** Liu, Yonghua; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 228, 114033.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.114033](https://doi.org/10.1016/j.ejmech.2021.114033)
 
 **Original Text:**
 ```
@@ -39390,10 +39390,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
   - Products: `CN1CCN(Cc2ccc(NC(=O)c3ccc(OCCCCl)c(F)c3)cc2C(F)(F)F)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and structure-activity relationship study of new biaryl amide derivatives and their inhibitory effects against hepatitis C virus
+  - **Authors:** Liu, Yonghua; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 228, 114033.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.114033](https://doi.org/10.1016/j.ejmech.2021.114033)
 
 **Original Text:**
 ```
@@ -39436,10 +39436,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113663.
   - Products: `CN1CCN(Cc2ccc(NC(=O)c3ccc(OCCCCl)c(Cl)c3)cc2C(F)(F)F)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and structure-activity relationship study of new biaryl amide derivatives and their inhibitory effects against hepatitis C virus
+  - **Authors:** Liu, Yonghua; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 228, 114033.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.114033](https://doi.org/10.1016/j.ejmech.2021.114033)
 
 **Original Text:**
 ```
@@ -39482,10 +39482,10 @@ Organic Process Research & Development (2021), 25(4), 817-830.
   - Products: `CN1CCN(Cc2ccc(NC(=O)c3ccc(OCCCl)c([N+](=O)[O-])c3)cc2C(F)(F)F)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis and structure-activity relationship study of new biaryl amide derivatives and their inhibitory effects against hepatitis C virus
+  - **Authors:** Liu, Yonghua; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2022), 228, 114033.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.114033](https://doi.org/10.1016/j.ejmech.2021.114033)
 
 **Original Text:**
 ```
@@ -39526,10 +39526,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `CC(C)(C)OC(=O)NCC1CCCN(CCCCNC(=O)c2cc3ccccc3o2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure Activity Relationships for a Series of Eticlopride-Based Dopamine D2/D3 Receptor Bitopic Ligands
+  - **Authors:** Shaik, Anver Basha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01353](https://doi.org/10.1021/acs.jmedchem.1c01353)
 
 **Original Text:**
 ```
@@ -39567,10 +39567,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
   - Products: `CC(C)(C)OC(=O)NCC1CCCN(CCCCNC(=O)c2cc3ccccc3[nH]2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure Activity Relationships for a Series of Eticlopride-Based Dopamine D2/D3 Receptor Bitopic Ligands
+  - **Authors:** Shaik, Anver Basha; et al
+  - **Citation:** Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01353](https://doi.org/10.1021/acs.jmedchem.1c01353)
 
 **Original Text:**
 ```
@@ -39615,10 +39615,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
   - Products: `COC(=O)c1cc(OC(=O)OC(C)(C)C)c2cc(NC(=O)CCCCNC(=O)OC(C)(C)C)ccc2c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Turning Nonselective Inhibitors of Type I Protein Arginine Methyltransferases into Potent and Selective Inhibitors of Protein Arginine Methyltransferase 4 through a Deconstruction-Reconstruction and Fragment-Growing Approach
+  - **Authors:** Iannelli, Giulia; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(17), 11574-11606.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.2c00252](https://doi.org/10.1021/acs.jmedchem.2c00252)
 
 **Original Text:**
 ```
@@ -39660,10 +39660,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
   - Products: `CN(C)C(=O)[C@@H](CSCc1cc(Br)ccc1C(=O)OCC(Cl)(Cl)Cl)NC(=O)[C@@H](CO)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Importance of Binding Site Hydration and Flexibility Revealed When Optimizing a Macrocyclic Inhibitor of the Keap1-Nrf2 Protein-Protein Interaction
+  - **Authors:** Begnini, Fabio; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3473-3517.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01975](https://doi.org/10.1021/acs.jmedchem.1c01975)
 
 **Original Text:**
 ```
@@ -39708,10 +39708,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A new class of α-ketoamide derivatives with potent anticancer and anti-SARS-CoV-2 activities
+  - **Authors:** Wang, Juan; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 215, 113267.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113267](https://doi.org/10.1016/j.ejmech.2021.113267)
 
 **Original Text:**
 ```
@@ -39751,10 +39751,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 11855-11868.
   - Products: `CN1c2ccc(F)cc2C(=O)N2CCc3c(n(C(=O)OC(C)(C)C)c4ccc(OCCCC(=O)Nc5ccccc5N)cc34)C21`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Evodiamine-Inspired Topoisomerase-Histone Deacetylase Dual Inhibitors: Novel Orally Active Antitumor Agents for Leukemia Therapy
+  - **Authors:** Wu, Shanchao; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(6), 4818-4831.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c02026](https://doi.org/10.1021/acs.jmedchem.1c02026)
 
 **Original Text:**
 ```
@@ -39793,10 +39793,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Products: `CCOC(OCC)[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)OCC1c2ccccc2-c2ccccc21)C(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a Potent and Selective ATAD2 Bromodomain Inhibitor with Antiproliferative Activity in Breast Cancer Models
+  - **Authors:** Winter-Holt, Jon J.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01871](https://doi.org/10.1021/acs.jmedchem.1c01871)
 
 **Original Text:**
 ```
@@ -39835,10 +39835,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `COC(CNC(=O)[C@H](Cc1ccccc1)NC(=O)OCC1c2ccccc2-c2ccccc21)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a Potent and Selective ATAD2 Bromodomain Inhibitor with Antiproliferative Activity in Breast Cancer Models
+  - **Authors:** Winter-Holt, Jon J.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01871](https://doi.org/10.1021/acs.jmedchem.1c01871)
 
 **Original Text:**
 ```
@@ -39877,10 +39877,10 @@ ACS Medicinal Chemistry Letters (2022), 13(7), 1137-1143.
   - Products: `C[C@H](CO)NC(=O)[C@H](Cc1ccccc1)NC(=O)OCC1c2ccccc2-c2ccccc21`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of a Potent and Selective ATAD2 Bromodomain Inhibitor with Antiproliferative Activity in Breast Cancer Models
+  - **Authors:** Winter-Holt, Jon J.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01871](https://doi.org/10.1021/acs.jmedchem.1c01871)
 
 **Original Text:**
 ```
@@ -39921,10 +39921,10 @@ Journal of Medicinal Chemistry (2022), 65(21), 14391-14408.
   - Products: `COC(=O)[C@H](CCCNC(=O)OCc1ccccc1)NC(=O)[C@H](CCCNC(=O)OCc1ccccc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Stereochemical Effects on the Antimicrobial Properties of Tetrasubstituted 2,5-Diketopiperazines
+  - **Authors:** Grant, Thomas M.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(4), 632-640.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.1c00683](https://doi.org/10.1021/acsmedchemlett.1c00683)
 
 **Original Text:**
 ```
@@ -39966,10 +39966,10 @@ European Journal of Medicinal Chemistry (2022), 227, 113918.
   - Products: `C=C(F)C(=O)Nc1ccc(B2OC(C)(C)C(C)(C)O2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of LHQ490 as a highly selective fibroblast growth factor receptor 2 (FGFR2) inhibitor
+  - **Authors:** Li, Huiqiong; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 272, 116473.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116473](https://doi.org/10.1016/j.ejmech.2024.116473)
 
 **Original Text:**
 ```
@@ -40006,10 +40006,10 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
   - Products: `COc1ccc(CCNC(=O)CCc2c[nH]c3ccccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Optimization of Tetrahydroisoquinoline Derivatives To Enhance Lysosome Biogenesis as Preclinical Candidates for the Treatment of Alzheimer’s Disease
+  - **Authors:** Zhou, Jianhui; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00159](https://doi.org/10.1021/acs.jmedchem.4c00159)
 
 **Original Text:**
 ```
@@ -40046,10 +40046,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - Products: `CCOc1ccc(CCNC(=O)CCc2c[nH]c3ccccc23)cc1OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Optimization of Tetrahydroisoquinoline Derivatives To Enhance Lysosome Biogenesis as Preclinical Candidates for the Treatment of Alzheimer’s Disease
+  - **Authors:** Zhou, Jianhui; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00159](https://doi.org/10.1021/acs.jmedchem.4c00159)
 
 **Original Text:**
 ```
@@ -40088,10 +40088,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `O=C(CCc1c[nH]c2ccccc12)NCCc1ccc2c(c1)OCO2`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Optimization of Tetrahydroisoquinoline Derivatives To Enhance Lysosome Biogenesis as Preclinical Candidates for the Treatment of Alzheimer’s Disease
+  - **Authors:** Zhou, Jianhui; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00159](https://doi.org/10.1021/acs.jmedchem.4c00159)
 
 **Original Text:**
 ```
@@ -40133,10 +40133,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `CCOP(=O)(Cn1ccc(NC(=O)c2cc(Oc3cnc(C(=O)N4CCC4)cn3)cc(OC(C)C)c2)n1)OCC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of a Partial Glucokinase Activator Clinical Candidate: Diethyl ((3-(3-((5-(Azetidine-1-carbonyl)pyrazin-2-yl)oxy)-5-isopropoxybenzamido)-1H-pyrazol-1-yl)methyl)phosphonate (BMS-820132)
+  - **Authors:** Shi, Yan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(5), 4291-4317.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c02110](https://doi.org/10.1021/acs.jmedchem.1c02110)
 
 **Original Text:**
 ```
@@ -40174,10 +40174,10 @@ Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
   - Products: `CCOC(=O)CNC(=O)c1[nH]c(Cc2ccc(-c3ccccc3)cc2)nc(=O)c1OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of DS44470011: An oral hypoxia-inducible factor prolyl hydroxylase inhibitor for the treatment of renal anemia
+  - **Authors:** Fukuda, Takeshi; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2024), 108, 129799.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2024.129799](https://doi.org/10.1016/j.bmcl.2024.129799)
 
 **Original Text:**
 ```
@@ -40222,10 +40222,10 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
   - Products: `COC(=O)C(CC(=O)Nc1ccc(-c2ncco2)cc1)c1ccc(C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and biological characterization of an orally bioavailable lactate dehydrogenase-A inhibitor against pancreatic cancer
+  - **Authors:** Sharma, Horrick; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 275, 116598.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116598](https://doi.org/10.1016/j.ejmech.2024.116598)
 
 **Original Text:**
 ```
@@ -40270,10 +40270,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `CCOC(=O)CC(NC(=O)CCc1ccccc1)c1cccc(Cl)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and biological characterization of an orally bioavailable lactate dehydrogenase-A inhibitor against pancreatic cancer
+  - **Authors:** Sharma, Horrick; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 275, 116598.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116598](https://doi.org/10.1016/j.ejmech.2024.116598)
 
 **Original Text:**
 ```
@@ -40310,10 +40310,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
   - Products: `CCOC(=O)CC(NC(=O)Cc1ccccc1)c1cccc(Cl)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and biological characterization of an orally bioavailable lactate dehydrogenase-A inhibitor against pancreatic cancer
+  - **Authors:** Sharma, Horrick; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 275, 116598.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116598](https://doi.org/10.1016/j.ejmech.2024.116598)
 
 **Original Text:**
 ```
@@ -40359,10 +40359,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `C[C@H](NC(=O)c1cn(C2CC2)c2cc(N3CCN(C(=O)OC(C)(C)C)CC3)c(F)cc2c1=O)c1ccc([N+](=O)[O-])cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Site-Specific Antimicrobial Activity of a Dual-Responsive Ciprofloxacin Prodrug
+  - **Authors:** Ross, Catherine L.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 9599-9612.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00724](https://doi.org/10.1021/acs.jmedchem.4c00724)
 
 **Original Text:**
 ```
@@ -40403,10 +40403,10 @@ Journal of Medicinal Chemistry (2021), 64(17), 12670-12679.
   - Products: `CCCC[C@H](NC(=O)CC(O)/C=C/CCSC(c1ccccc1)(c1ccccc1)c1ccccc1)C(=O)OC`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of a Novel, Small-Molecule Brain-Penetrant Histone Deacetylase Inhibitor That Enhances Spatial Memory Formation in Mice
+  - **Authors:** Belayet, Jawad B.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2022), 65(4), 3388-3403.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.1c01928](https://doi.org/10.1021/acs.jmedchem.1c01928)
 
 **Original Text:**
 ```
@@ -40446,10 +40446,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(19), 115683.
   - Products: `Cc1noc(C)c1COc1ccccc1C(=O)NCCc1ccc(S(N)(=O)=O)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Novel Aldo-Keto Reductase 1C3 Inhibitors as Chemotherapeutic Potentiators for Cancer Drug Resistance
+  - **Authors:** He, Siyu; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(8), 1286-1294.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00175](https://doi.org/10.1021/acsmedchemlett.2c00175)
 
 **Original Text:**
 ```
@@ -40497,10 +40497,10 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
   - Products: `CCOC(=O)CC[C@@H](NC(=O)[C@H](CC1CCCCC1)NC(=O)CNC(=O)OC(C)(C)C)C(=O)OCC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Desmuramylpeptide NOD2 Agonists with Single-Digit Nanomolar Potency
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00121](https://doi.org/10.1021/acsmedchemlett.2c00121)
 
 **Original Text:**
 ```
@@ -40553,10 +40553,10 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 632-640.
   - Products: `CCOC(=O)CC[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)OC(C)(C)C)C12CC3CC(CC(C3)C1)C2)C(=O)OCC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Desmuramylpeptide NOD2 Agonists with Single-Digit Nanomolar Potency
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00121](https://doi.org/10.1021/acsmedchemlett.2c00121)
 
 **Original Text:**
 ```
@@ -40608,10 +40608,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CCOC(=O)CC[C@@H](NC(=O)[C@H](Cc1ccncc1)NC(=O)CNC(=O)OC(C)(C)C)C(=O)OCC`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Desmuramylpeptide NOD2 Agonists with Single-Digit Nanomolar Potency
+  - **Authors:** Guzelj, Samo; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00121](https://doi.org/10.1021/acsmedchemlett.2c00121)
 
 **Original Text:**
 ```
@@ -40656,10 +40656,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `COC(=O)CCCCCCC(=O)Nc1ccc(CN2CCC(CC3Cc4cc(OC)c(OC)cc4C3=O)CC2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Rationally designed donepezil-based hydroxamates modulate Sig-1R and HDAC isoforms to exert anti-glioblastoma effects
+  - **Authors:** Nepali, Kunal; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2023), 248, 115054.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2022.115054](https://doi.org/10.1016/j.ejmech.2022.115054)
 
 **Original Text:**
 ```
@@ -40699,10 +40699,10 @@ ACS Medicinal Chemistry Letters (2020), 11(5), 933-939.
   - Products: `Cc1ccc(F)c2cc(C(=O)N[C@@H]3CCC[C@@H](O)C3)[nH]c12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Conformational-Design-Driven Discovery of EZM0414: A Selective, Potent SETD2 Inhibitor for Clinical Studies
+  - **Authors:** Alford, Joshua S.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2022), 13(7), 1137-1143.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00167](https://doi.org/10.1021/acsmedchemlett.2c00167)
 
 **Original Text:**
 ```
@@ -40739,10 +40739,10 @@ ACS Medicinal Chemistry Letters (2021), 12(10), 1539-1545.
   - Products: `Cc1cc(C)n(C(C(=O)NC23CC4CC(CC(C4)C2)C3)n2nc(C)cc2C)n1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Copper-Based Complexes with Adamantane Ring-Conjugated bis(3,5-Dimethyl-pyrazol-1-yl)acetate Ligand as Promising Agents for the Treatment of Glioblastoma
+  - **Authors:** Morelli, Maria Beatrice; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 9662-9685.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00821](https://doi.org/10.1021/acs.jmedchem.4c00821)
 
 **Original Text:**
 ```
@@ -40782,10 +40782,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
   - Products: `COc1cccc(C(=O)Nc2cccc(-c3nn([C@H]4CCN(C(=O)OC(C)(C)C)C4)cc3-c3ccncc3)c2)c1F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Optimization of Potent, Efficacious and Selective Inhibitors Targeting EGFR Exon20 Insertion Mutations
+  - **Authors:** Thomson, Clare; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8988-9027.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00227](https://doi.org/10.1021/acs.jmedchem.4c00227)
 
 **Original Text:**
 ```
@@ -40822,10 +40822,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
   - Products: `CC(C)(C)OC(=O)N1CC[C@H](n2cc(-c3ccncc3)c(-c3cccc(NC(=O)c4cn(C5CC5)cn4)c3)n2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery and Optimization of Potent, Efficacious and Selective Inhibitors Targeting EGFR Exon20 Insertion Mutations
+  - **Authors:** Thomson, Clare; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8988-9027.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00227](https://doi.org/10.1021/acs.jmedchem.4c00227)
 
 **Original Text:**
 ```
@@ -40861,10 +40861,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Products: `CCCCCCCCNC(=O)[C@H](CCCCNC(=O)OC(C)(C)C)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Novel Acyl Thiourea-Based Hydrophobic Tagging Degraders Exert Potent Anti-Influenza Activity through Two Distinct Endonuclease Polymerase Acidic-Targeted Degradation Pathways
+  - **Authors:** Ma, Xiaoyu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8791-8816.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00131](https://doi.org/10.1021/acs.jmedchem.4c00131)
 
 **Original Text:**
 ```
@@ -40911,10 +40911,10 @@ Bioorganic & Medicinal Chemistry (2023), 84, 117257.
   - Products: `CN1CCC[C@@H](OC(=O)[C@](O)(c2ccccc2)c2cccc(OCCCNC(=O)c3ccc(CN(C[C@H](O[Si](C)(C)C(C)(C)C)c4ccc(O)c5[nH]c(=O)ccc45)C(=O)OC(C)(C)C)cc3)c2)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery, Multiparametric Optimization, and Solid-State Driven Identification of CHF-6550, a Novel Soft Dual Pharmacology Muscarinic Antagonist and Agonist (MABA) for the Inhaled Treatment of Respiratory Diseases
+  - **Authors:** Carzaniga, Laura; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 9816-9841.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00298](https://doi.org/10.1021/acs.jmedchem.4c00298)
 
 **Original Text:**
 ```
@@ -40956,10 +40956,10 @@ European Journal of Medicinal Chemistry (2020), 193, 112204.
   - Products: `COC(=O)[C@H](CC1CCCCC1)NC(=O)C1CCOCC1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structural Modifications of Covalent Cathepsin S Inhibitors: Impact on Affinity, Selectivity, and Permeability
+  - **Authors:** Meta, Mergim; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00050](https://doi.org/10.1021/acsmedchemlett.4c00050)
 
 **Original Text:**
 ```
@@ -41001,10 +41001,10 @@ Journal of Medicinal Chemistry (2022), 65(7), 5334-5354.
   - Products: `COC(=O)[C@H](CC1CCCCC1)NC(=O)c1ccncc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structural Modifications of Covalent Cathepsin S Inhibitors: Impact on Affinity, Selectivity, and Permeability
+  - **Authors:** Meta, Mergim; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00050](https://doi.org/10.1021/acsmedchemlett.4c00050)
 
 **Original Text:**
 ```
@@ -41044,10 +41044,10 @@ European Journal of Medicinal Chemistry (2024), 265, 116038.
   - Products: `CS(=O)(=O)C[C@H](N[C@@H](c1ccc([N+](=O)[O-])cc1)C(F)(F)F)C(=O)N[C@H](C#N)COCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structural Modifications of Covalent Cathepsin S Inhibitors: Impact on Affinity, Selectivity, and Permeability
+  - **Authors:** Meta, Mergim; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00050](https://doi.org/10.1021/acsmedchemlett.4c00050)
 
 **Original Text:**
 ```
@@ -41088,10 +41088,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `COC(=O)c1ccc(C(=O)Nc2cccc(-c3cccc(NC(=O)OC(C)(C)C)c3C)c2C)nc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Nonsymmetrically Substituted 1,1’-Biphenyl-Based Small Molecule Inhibitors of the PD-1/PD-L1 Interaction
+  - **Authors:** Hec-Galazka, Aleksandra; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00042](https://doi.org/10.1021/acsmedchemlett.4c00042)
 
 **Original Text:**
 ```
@@ -41129,10 +41129,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14728-14744.
   - Products: `COC(=O)c1ccc(C(=O)Nc2cccc(-c3cccc(NC(=O)c4ccc(CN5CCC(O[Si](C)(C)C(C)(C)C)CC5)cn4)c3C)c2C)nc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Nonsymmetrically Substituted 1,1’-Biphenyl-Based Small Molecule Inhibitors of the PD-1/PD-L1 Interaction
+  - **Authors:** Hec-Galazka, Aleksandra; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00042](https://doi.org/10.1021/acsmedchemlett.4c00042)
 
 **Original Text:**
 ```
@@ -41175,10 +41175,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 112, 129942.
   - Products: `CC(C)(C)OC(=O)[C@H](CNC(=O)Cn1c(=O)[nH]c2ncccc21)NC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design and Discovery of a Potent and Selective Inhibitor of Integrin αvβ1
+  - **Authors:** Sabat, Mark; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 10306-10320.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00743](https://doi.org/10.1021/acs.jmedchem.4c00743)
 
 **Original Text:**
 ```
@@ -41215,10 +41215,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `COC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1cccc(Cl)c1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Identification of highly potent and selective HTRA1 inhibitors
+  - **Authors:** Dennis, David G.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2024), 109, 129814.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2024.129814](https://doi.org/10.1016/j.bmcl.2024.129814)
 
 **Original Text:**
 ```
@@ -41258,10 +41258,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
   - Products: `COc1ccccc1CNC(=O)c1ccc(CNC(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-Based Design and Synthesis of Covalent Inhibitors for Deubiquitinase and Acetyltransferase ChlaDUB1 of Chlamydia trachomatis
+  - **Authors:** Zimmermann, Thomas; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(13), 10710-10742.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00230](https://doi.org/10.1021/acs.jmedchem.4c00230)
 
 **Original Text:**
 ```
@@ -41304,10 +41304,10 @@ European Journal of Medicinal Chemistry (2021), 225, 113777.
   - Products: `CCOc1ccccc1CNC(=O)c1ccc(CNC(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-Based Design and Synthesis of Covalent Inhibitors for Deubiquitinase and Acetyltransferase ChlaDUB1 of Chlamydia trachomatis
+  - **Authors:** Zimmermann, Thomas; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(13), 10710-10742.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00230](https://doi.org/10.1021/acs.jmedchem.4c00230)
 
 **Original Text:**
 ```
@@ -41347,10 +41347,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 11302-11329.
   - Products: `COC(=O)[C@H](Cc1ccc(OC)cc1)NC(=O)[C@H](C)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** A new class of α-ketoamide derivatives with potent anticancer and anti-SARS-CoV-2 activities
+  - **Authors:** Wang, Juan; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 215, 113267.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113267](https://doi.org/10.1016/j.ejmech.2021.113267)
 
 **Original Text:**
 ```
@@ -41392,10 +41392,10 @@ Journal of Medicinal Chemistry (2024), 67(14), 11885-11916.
   - Products: `COC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(C)C)NC(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A new class of α-ketoamide derivatives with potent anticancer and anti-SARS-CoV-2 activities
+  - **Authors:** Wang, Juan; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2021), 215, 113267.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2021.113267](https://doi.org/10.1016/j.ejmech.2021.113267)
 
 **Original Text:**
 ```
@@ -41440,10 +41440,10 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
   - Products: `C=CCOC(=O)Nc1ccc(C[C@@H](CO)NC(=O)[C@H](CCCCNC(=O)CP(=O)(OCC)OCC)NC(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of small molecule-drug conjugates based on derivatives of natural proteasome inhibitors that exhibit selectivity for PSMA-expressing cancer cells
+  - **Authors:** Obara, Takahiro; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2024), 108, 117773.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2024.117773](https://doi.org/10.1016/j.bmc.2024.117773)
 
 **Original Text:**
 ```
@@ -41482,10 +41482,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `Cc1ccc([C@@H](Oc2ccc(C(=O)N[C@H]3CCCN(C(=O)OC(C)(C)C)C3)nc2)[C@H](C)NC(=O)C(F)(F)F)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Topical ‘dual-soft’ glucocorticoid receptor agonist for dermatology
+  - **Authors:** Dack, Kevin N.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(17), 127402.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127402](https://doi.org/10.1016/j.bmcl.2020.127402)
 
 **Original Text:**
 ```
@@ -41524,10 +41524,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
   - Products: `COc1cc(/C=C/c2ccc(NC(=O)[C@H](Cc3c[nH]c4ccccc34)NC(=O)OC(C)(C)C)cc2)cc(OC)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A Structure-Activity Relationship Study of Amino Acid Derivatives of Pterostilbene Analogues Toward Human Breast Cancer
+  - **Authors:** Cordella, Fabiana; et al
+  - **Citation:** ChemMedChem (2024), 19(14), e202300727.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300727](https://doi.org/10.1002/cmdc.202300727)
 
 **Original Text:**
 ```
@@ -41568,10 +41568,10 @@ Journal of Medicinal Chemistry (2020), 63(1), 349-368.
   - Products: `COc1cc(/C=C/c2ccc(NC(=O)[C@H](Cc3cncn3C(=O)OC(C)(C)C)NC(=O)OC(C)(C)C)cc2)cc(OC)c1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** A Structure-Activity Relationship Study of Amino Acid Derivatives of Pterostilbene Analogues Toward Human Breast Cancer
+  - **Authors:** Cordella, Fabiana; et al
+  - **Citation:** ChemMedChem (2024), 19(14), e202300727.
+  - **DOI:** [https://doi.org/10.1002/cmdc.202300727](https://doi.org/10.1002/cmdc.202300727)
 
 **Original Text:**
 ```
@@ -41611,10 +41611,10 @@ Bioorganic & Medicinal Chemistry (2023), 77, 117115.
   - Products: `O=C(C#Cc1ccccc1)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization and Development of a Scalable Palladium-Catalyzed C-H Activation Process for the Geometry-Selective Preparation of Kilograms of YLF466D, a Potent AMP-Activated Protein Kinase Activator
+  - **Authors:** Yin, Jianpeng; et al
+  - **Citation:** Organic Process Research & Development (2021), 25(10), 2260-2269.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.1c00150](https://doi.org/10.1021/acs.oprd.1c00150)
 
 **Original Text:**
 ```
@@ -41655,10 +41655,10 @@ Bioorganic & Medicinal Chemistry (2023), 85, 117241.
   - Products: `CNC(=O)c1nn(C)c2ccc([N+](=O)[O-])cc12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Optimization of a series of potent, selective and orally bioavailable SYK inhibitors
+  - **Authors:** Grimster, Neil P.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127433.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127433](https://doi.org/10.1016/j.bmcl.2020.127433)
 
 **Original Text:**
 ```
@@ -41700,10 +41700,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `CC(C)(C#Cc1ccc(Br)c([C@H](Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)[C@@H]2C[C@H]32)n1)S(C)(=O)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synthesis of Lenacapavir Sodium: Active Pharmaceutical Ingredient Process Development and Scale-up
+  - **Authors:** Wagner, Anna M.; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(8), 3382-3395.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00242](https://doi.org/10.1021/acs.oprd.4c00242)
 
 **Original Text:**
 ```
@@ -41740,10 +41740,10 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - Products: `Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@H](O)CN2C(=O)OC(C)(C)C)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-guided design and optimization of covalent VHL-targeted sulfonyl fluoride PROTACs
+  - **Authors:** Shah, Rishi R.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4641-4654.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02123](https://doi.org/10.1021/acs.jmedchem.3c02123)
 
 **Original Text:**
 ```
@@ -41784,10 +41784,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - Products: `CC(C)(C)OC(=O)N1C[C@H]2[C@@H]([C@H]1C(=O)N[C@@H](C[C@@H]1CCNC1=O)C(N)=O)C2(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of the potent covalent inhibitor with an acrylate warhead for SARS-CoV-2 3CL protease
+  - **Authors:** Shen, Wen; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2024), 112, 129942.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2024.129942](https://doi.org/10.1016/j.bmcl.2024.129942)
 
 **Original Text:**
 ```
@@ -41822,10 +41822,10 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
   - Products: `CC(O)CNC(=O)CCCS(=O)(=O)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Efficient Total Synthesis of Bilirubin IXα from Butyrolactone
+  - **Authors:** Chen, Fapu; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(7), 2777-2788.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00122](https://doi.org/10.1021/acs.oprd.4c00122)
 
 **Original Text:**
 ```
@@ -41867,10 +41867,10 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1730-1738.
   - Products: `CC(C)(C)OC(=O)N1CC2(CC(NC(=O)c3cc(-c4ccccc4)no3)C2)C1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis, and optimization of a series of 2-azaspiro[3.3]heptane derivatives as orally bioavailable fetal hemoglobin inducers
+  - **Authors:** Katayama, Katsushi; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127425.
+  - **DOI:** [https://doi.org/10.1016/j.bmcl.2020.127425](https://doi.org/10.1016/j.bmcl.2020.127425)
 
 **Original Text:**
 ```
@@ -41910,10 +41910,10 @@ ChemMedChem (2023), 18(16), e202300097.
   - Products: `Cn1ccc([C@H]2C[C@H](N(c3cc(F)c(NC(=O)c4ccnn(-c5ccc(F)cn5)c4=O)cc3F)c3nccn4nccc34)C2)n1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of Pyrazolopyrazines as Selective, Potent, and Mutant-Active MET Inhibitors with Intracranial Efficacy
+  - **Authors:** Bumpers, Quinn A.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(16), 14466-14477.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c01232](https://doi.org/10.1021/acs.jmedchem.4c01232)
 
 **Original Text:**
 ```
@@ -41951,10 +41951,10 @@ Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
   - Products: `CC(C)(C)OC(=O)NCC(=O)Nc1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of aromatic 2-(3-(methylcarbamoyl) guanidino)-N-aylacetamides as highly potent chitinase inhibitors
+  - **Authors:** Zhao, Zhixiang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 80, 117172.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117172](https://doi.org/10.1016/j.bmc.2023.117172)
 
 **Original Text:**
 ```
@@ -41992,10 +41992,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
   - Products: `CNC(=O)[C@@H](O)[C@H](CCC(C)(F)F)N(Cc1ccccc1)[C@@H](C)c1ccccc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Invention of MK-7845, a SARS-CoV-2 3CL protease inhibitor employing a novel difluorinated glutamine mimic
+  - **Authors:** Shurtleff, Valerie W.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02248](https://doi.org/10.1021/acs.jmedchem.3c02248)
 
 **Original Text:**
 ```
@@ -42039,10 +42039,10 @@ ChemMedChem (2023), 18(15), e202300160.
   - Products: `COC(OC)[C@H](CCC(C)(F)F)NC(=O)[C@@H]1CC2(CCCCC2)CN1C(=O)OCc1ccccc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Invention of MK-7845, a SARS-CoV-2 3CL protease inhibitor employing a novel difluorinated glutamine mimic
+  - **Authors:** Shurtleff, Valerie W.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02248](https://doi.org/10.1021/acs.jmedchem.3c02248)
 
 **Original Text:**
 ```
@@ -42075,10 +42075,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `O=c1nc[nH]c2cccc(Cl)c12`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery of Novel 5,6-Dihydro-4H-pyrido[2,3,4-de]quinazoline Irreversible Inhibitors Targeting Both Wild-Type and A775_G776insYVMA Mutated HER2 Kinases
+  - **Authors:** Yang, Leifu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(7), 5662-5682.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02302](https://doi.org/10.1021/acs.jmedchem.3c02302)
 
 **Original Text:**
 ```
@@ -42116,10 +42116,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 80, 129104.
   - Products: `CC(=O)N[C@H]1[C@H](OCCN=[N+]=[N-])O[C@@H]2COC(c3ccccc3)O[C@H]2[C@@H]1O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](CCC(=O)OCc1ccccc1)C(N)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Synergistic immune augmentation enabled by covalently conjugating TLR4 and NOD2 agonists
+  - **Authors:** Ding, Dong; et al
+  - **Citation:** European Journal of Medicinal Chemistry (2024), 278, 116792.
+  - **DOI:** [https://doi.org/10.1016/j.ejmech.2024.116792](https://doi.org/10.1016/j.ejmech.2024.116792)
 
 **Original Text:**
 ```
@@ -42163,10 +42163,10 @@ Journal of Medicinal Chemistry (2024), 67(12), 9816-9841.
   - Products: `Cc1ccc(NC(=O)c2snnc2C)cc1Cl`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** On-Demand Production of Two Commercial Plant Activators, Tiadinil and Methiadinil, under an Integrated Continuous Flow System
+  - **Authors:** Fang, Zhengqi; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(8), 3143-3151.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00043](https://doi.org/10.1021/acs.oprd.4c00043)
 
 **Original Text:**
 ```
@@ -42207,10 +42207,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - Products: `Cc1cnc(NC(=O)c2snnc2C)s1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** On-Demand Production of Two Commercial Plant Activators, Tiadinil and Methiadinil, under an Integrated Continuous Flow System
+  - **Authors:** Fang, Zhengqi; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(8), 3143-3151.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00043](https://doi.org/10.1021/acs.oprd.4c00043)
 
 **Original Text:**
 ```
@@ -42250,10 +42250,10 @@ Bioorganic & Medicinal Chemistry (2022), 72, 116995.
   - Products: `CC(C)(C)OC(=O)NCCC(=O)Nc1ccc(Cl)c(Cl)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Structure-Activity Relationships and Target Selectivity of Phenylsulfonylamino-Benzanilide Inhibitors Based on S1647 at the SLC10 Carriers ASBT, NTCP, and SOAT
+  - **Authors:** Wannowius, Marie; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(21), 19342-19364.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c01743](https://doi.org/10.1021/acs.jmedchem.4c01743)
 
 **Original Text:**
 ```
@@ -42295,10 +42295,10 @@ Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
   - Products: `CCCCOc1ccc(C(C)(C)C)cc1NC(=O)c1nnn(-c2cc(C)c(OCc3ccccc3)cc2OC)c1C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** First-in-Class Small Molecule Degrader of Pregnane X Receptor Enhances Chemotherapy Efficacy
+  - **Authors:** Huber, Andrew D.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(20), 18549-18575.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c01926](https://doi.org/10.1021/acs.jmedchem.4c01926)
 
 **Original Text:**
 ```
@@ -42337,10 +42337,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
   - Products: `CNC(=O)[C@@H](Cc1ccc(Cl)cc1)NC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Rational Design of Macrocyclic Noncovalent Inhibitors of SARS-CoV-2 Mpro from a DNA-Encoded Chemical Library Screening Hit That Demonstrate Potent Inhibition against Pan-Coronavirus Homologues and Nirmatrelvir-Resistant Variants
+  - **Authors:** Wang, Xu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c02009](https://doi.org/10.1021/acs.jmedchem.4c02009)
 
 **Original Text:**
 ```
@@ -42379,10 +42379,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
   - Products: `C=CCCCCCCOC(=O)[C@@H](Cc1ccc(Cl)cc1)NC(=O)C[C@H]1CCCN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Rational Design of Macrocyclic Noncovalent Inhibitors of SARS-CoV-2 Mpro from a DNA-Encoded Chemical Library Screening Hit That Demonstrate Potent Inhibition against Pan-Coronavirus Homologues and Nirmatrelvir-Resistant Variants
+  - **Authors:** Wang, Xu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c02009](https://doi.org/10.1021/acs.jmedchem.4c02009)
 
 **Original Text:**
 ```
@@ -42424,10 +42424,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
   - Products: `C=CCCCCCOC(=O)[C@@H](Cc1ccc(Cl)cc1)NC(=O)C[C@H]1CCCN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Rational Design of Macrocyclic Noncovalent Inhibitors of SARS-CoV-2 Mpro from a DNA-Encoded Chemical Library Screening Hit That Demonstrate Potent Inhibition against Pan-Coronavirus Homologues and Nirmatrelvir-Resistant Variants
+  - **Authors:** Wang, Xu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c02009](https://doi.org/10.1021/acs.jmedchem.4c02009)
 
 **Original Text:**
 ```
@@ -42468,10 +42468,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Products: `C=CCCCCOC(=O)[C@@H](Cc1ccc(Cl)cc1)NC(=O)C[C@H]1CCCN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Rational Design of Macrocyclic Noncovalent Inhibitors of SARS-CoV-2 Mpro from a DNA-Encoded Chemical Library Screening Hit That Demonstrate Potent Inhibition against Pan-Coronavirus Homologues and Nirmatrelvir-Resistant Variants
+  - **Authors:** Wang, Xu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c02009](https://doi.org/10.1021/acs.jmedchem.4c02009)
 
 **Original Text:**
 ```
@@ -42518,10 +42518,10 @@ ChemMedChem (2024), 19(14), e202300727.
   - Products: `C=CCCCCCNC(=O)[C@@H](Cc1ccc(Cl)cc1)NC(=O)C[C@H]1CCCN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Rational Design of Macrocyclic Noncovalent Inhibitors of SARS-CoV-2 Mpro from a DNA-Encoded Chemical Library Screening Hit That Demonstrate Potent Inhibition against Pan-Coronavirus Homologues and Nirmatrelvir-Resistant Variants
+  - **Authors:** Wang, Xu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c02009](https://doi.org/10.1021/acs.jmedchem.4c02009)
 
 **Original Text:**
 ```
@@ -42564,10 +42564,10 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
   - Products: `C=CCCCCCNC(=O)[C@@H](Cc1ccc(Cl)cc1Cl)NC(=O)C[C@H]1CC2(CC2)CN1C(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Rational Design of Macrocyclic Noncovalent Inhibitors of SARS-CoV-2 Mpro from a DNA-Encoded Chemical Library Screening Hit That Demonstrate Potent Inhibition against Pan-Coronavirus Homologues and Nirmatrelvir-Resistant Variants
+  - **Authors:** Wang, Xu; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c02009](https://doi.org/10.1021/acs.jmedchem.4c02009)
 
 **Original Text:**
 ```
@@ -42608,10 +42608,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Products: `CC(C)(C)OC(=O)N1CCc2c(cc(Cl)c(C(=O)N[C@@H](Cc3cccc(S(C)(=O)=O)c3)C(=O)OCc3ccccc3)c2Cl)C1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** An improved commercial process for the preparation of Lifitegrast
+  - **Authors:** Girkar, Arvind; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(12), 4374-4379.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00356](https://doi.org/10.1021/acs.oprd.4c00356)
 
 **Original Text:**
 ```
@@ -42651,10 +42651,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
   - Products: `CC(C)(C)OC(=O)NCCCC(=O)Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Discovery of selective platelet-derived growth factor receptor-beta (PDGFR-β) bifunctional small-molecule degraders
+  - **Authors:** Si, Ru; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 77, 117115.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2022.117115](https://doi.org/10.1016/j.bmc.2022.117115)
 
 **Original Text:**
 ```
@@ -42694,10 +42694,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `COc1cc(NC(=O)c2nc(Br)cnc2N)cc(OC)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of 3-Amino-pyrazine-2-carboxamide Derivatives as Novel FGFR Inhibitors
+  - **Authors:** Zheng, Jia; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2024), 15(11), 2019-2031.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.4c00431](https://doi.org/10.1021/acsmedchemlett.4c00431)
 
 **Original Text:**
 ```
@@ -42737,10 +42737,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
   - Products: `C[C@@H](OC(=O)Nc1c(-c2ccc(NC(=O)c3cnc(C(F)(F)F)nc3)cn2)nnn1C)c1cc(F)cnc1F`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Early Process Development of an LPAR1 Antagonist, GS-2278
+  - **Authors:** Kadunce, Nathaniel; et al
+  - **Citation:** Organic Process Research & Development (2024), 28(11), 4099-4113.
+  - **DOI:** [https://doi.org/10.1021/acs.oprd.4c00369](https://doi.org/10.1021/acs.oprd.4c00369)
 
 **Original Text:**
 ```
@@ -42781,10 +42781,10 @@ Journal of Medicinal Chemistry (2024), 67(9), 7385-7405.
   - Products: `CNC(=O)c1cc(Br)cc(OC)c1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Integrating a phenotypic screening with a structural simplification strategy to identify 4-phenoxy-quinoline derivatives to potently disrupt the mitotic localization of Aurora kinase B
+  - **Authors:** Lv, Gang; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 80, 117173.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117173](https://doi.org/10.1016/j.bmc.2023.117173)
 
 **Original Text:**
 ```
@@ -42824,10 +42824,10 @@ Organic Process Research & Development (2024), 28(7), 2777-2788.
   - Products: `CC(C)[C@@H](C(=O)NC[C@@H](NC(=O)OC(C)(C)C)C(=O)N1CCCC[C@H]1C(=O)NCC(=O)N(C)CC(=O)N(C)[C@H](C(=O)NC[C@@H](NC(=O)OCc1ccccc1)C(=O)N1CCCC[C@H]1C(=O)O)C(C)C)N(C)C(=O)CN(C)C(=O)CN`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structure-activity relationships of bis-intercalating peptides and their application as antibody-drug conjugate payloads
+  - **Authors:** Petersen, Mark E.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2023), 66(12), 8288-8309.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c00760](https://doi.org/10.1021/acs.jmedchem.3c00760)
 
 **Original Text:**
 ```
@@ -42893,10 +42893,10 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
   - Products: `O=C1N[C@H]2[C@H](CS[C@H]2CCCCCc2cn(C(c3ccc(C(=O)NCc4cccnc4)cc3)c3cccc(F)c3)nn2)N1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structural study of potent triazole-based inhibitors of Staphylococcus aureus biotin protein ligase
+  - **Authors:** Stachura, Damian L.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00505](https://doi.org/10.1021/acsmedchemlett.2c00505)
 
 **Original Text:**
 ```
@@ -42940,10 +42940,10 @@ Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
   - Products: `O=C1N[C@H]2[C@H](CS[C@H]2CCCCCc2cn(C(c3ccc(C(=O)NCc4ccccn4)cc3)c3cccc(F)c3)nn2)N1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structural study of potent triazole-based inhibitors of Staphylococcus aureus biotin protein ligase
+  - **Authors:** Stachura, Damian L.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00505](https://doi.org/10.1021/acsmedchemlett.2c00505)
 
 **Original Text:**
 ```
@@ -42986,10 +42986,10 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
   - Products: `Nc1ccc(CNC(=O)c2ccc(C(c3cccc(F)c3)n3cc(CCCCC[C@@H]4SC[C@@H]5NC(=O)N[C@@H]54)nn3)cc2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structural study of potent triazole-based inhibitors of Staphylococcus aureus biotin protein ligase
+  - **Authors:** Stachura, Damian L.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00505](https://doi.org/10.1021/acsmedchemlett.2c00505)
 
 **Original Text:**
 ```
@@ -43033,10 +43033,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CC(C)(C)OC(=O)NCCCNC(=O)c1ccc(C(c2cccc(F)c2)n2cc(CCCCC[C@@H]3SC[C@@H]4NC(=O)N[C@@H]43)nn2)cc1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Structural study of potent triazole-based inhibitors of Staphylococcus aureus biotin protein ligase
+  - **Authors:** Stachura, Damian L.; et al
+  - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
+  - **DOI:** [https://doi.org/10.1021/acsmedchemlett.2c00505](https://doi.org/10.1021/acsmedchemlett.2c00505)
 
 **Original Text:**
 ```
@@ -43077,10 +43077,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112769.
   - Products: `COCCCNC(=O)c1ccc(CBr)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of NLRP3 Inhibitors Targeting the LRR Domain to Disrupt NLRP3-NEK7 Interaction for the Treatment of Rheumatoid Arthritis
+  - **Authors:** Li, Bing-yan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02407](https://doi.org/10.1021/acs.jmedchem.3c02407)
 
 **Original Text:**
 ```
@@ -43118,10 +43118,10 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
   - Products: `CCCCCNC(=O)c1ccc(CBr)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of NLRP3 Inhibitors Targeting the LRR Domain to Disrupt NLRP3-NEK7 Interaction for the Treatment of Rheumatoid Arthritis
+  - **Authors:** Li, Bing-yan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02407](https://doi.org/10.1021/acs.jmedchem.3c02407)
 
 **Original Text:**
 ```
@@ -43159,10 +43159,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Products: `COCCNC(=O)c1ccc(CBr)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of NLRP3 Inhibitors Targeting the LRR Domain to Disrupt NLRP3-NEK7 Interaction for the Treatment of Rheumatoid Arthritis
+  - **Authors:** Li, Bing-yan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02407](https://doi.org/10.1021/acs.jmedchem.3c02407)
 
 **Original Text:**
 ```
@@ -43200,10 +43200,10 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Products: `CCCCNC(=O)c1ccc(CBr)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of NLRP3 Inhibitors Targeting the LRR Domain to Disrupt NLRP3-NEK7 Interaction for the Treatment of Rheumatoid Arthritis
+  - **Authors:** Li, Bing-yan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02407](https://doi.org/10.1021/acs.jmedchem.3c02407)
 
 **Original Text:**
 ```
@@ -43241,10 +43241,10 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
   - Products: `CCCNC(=O)c1ccc(CBr)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of NLRP3 Inhibitors Targeting the LRR Domain to Disrupt NLRP3-NEK7 Interaction for the Treatment of Rheumatoid Arthritis
+  - **Authors:** Li, Bing-yan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02407](https://doi.org/10.1021/acs.jmedchem.3c02407)
 
 **Original Text:**
 ```
@@ -43282,10 +43282,10 @@ Organic Process Research & Development (2021), 25(10), 2260-2269.
   - Products: `CCNC(=O)c1ccc(CBr)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Discovery and Development of NLRP3 Inhibitors Targeting the LRR Domain to Disrupt NLRP3-NEK7 Interaction for the Treatment of Rheumatoid Arthritis
+  - **Authors:** Li, Bing-yan; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02407](https://doi.org/10.1021/acs.jmedchem.3c02407)
 
 **Original Text:**
 ```
@@ -43328,10 +43328,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
   - Products: `C#CCNC(=O)CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](OC(C)=O)CC[C@]4(C)[C@H]3CC[C@]12C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Amphiphilic Heparinoids as Potent Antiviral Agents against SARS-CoV-2
+  - **Authors:** Chhabra, Mohit; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(14), 11885-11916.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00487](https://doi.org/10.1021/acs.jmedchem.4c00487)
 
 **Original Text:**
 ```
@@ -43374,10 +43374,10 @@ Journal of Medicinal Chemistry (2021), 64(18), 13793-13806.
   - Products: `CC(=O)N[C@H]1[C@@H](OCc2ccccc2)O[C@@H]2CO[C@@H](c3ccccc3)O[C@H]2[C@@H]1O[C@H](C)C(=O)N[C@@H](C)C(=O)N[C@H](CCC(=O)OCc1ccccc1)C(N)=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, synthesis and biological evaluation of novel lipophilic 2, 5-disubstituted tetrazole analogues of muramyl dipeptide as NOD2 agonists
+  - **Authors:** Mhamane, Tukaram B.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117296](https://doi.org/10.1016/j.bmc.2023.117296)
 
 **Original Text:**
 ```
@@ -43421,10 +43421,10 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
   - Products: `C[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@H](CCC(=O)OCc1ccccc1)C(N)=O`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, synthesis and biological evaluation of novel lipophilic 2, 5-disubstituted tetrazole analogues of muramyl dipeptide as NOD2 agonists
+  - **Authors:** Mhamane, Tukaram B.; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117296](https://doi.org/10.1016/j.bmc.2023.117296)
 
 **Original Text:**
 ```
@@ -43469,10 +43469,10 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
   - Products: `CCOc1cc(I)cc2c1OCC(=O)NC1CCC(CC1)CC(=O)NC(c1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of Potent Mcl-1 Inhibitors: Structural Investigations on Macrocycles Originating from a DNA-Encoded Chemical Library Screen
+  - **Authors:** Hekking, Koen F. W.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02206](https://doi.org/10.1021/acs.jmedchem.3c02206)
 
 **Original Text:**
 ```
@@ -43505,10 +43505,10 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
   - Products: `CC(C)(C)OC(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(OCc2ccccc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Development of Potent Mcl-1 Inhibitors: Structural Investigations on Macrocycles Originating from a DNA-Encoded Chemical Library Screen
+  - **Authors:** Hekking, Koen F. W.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02206](https://doi.org/10.1021/acs.jmedchem.3c02206)
 
 **Original Text:**
 ```
@@ -43547,10 +43547,10 @@ European Journal of Medicinal Chemistry (2023), 258, 115619.
   - Products: `CC(C)(C)OC(=O)N[C@H]1CC[C@@H](CC(=O)N[C@H](C(=O)N[C@H](Cc2ccccc2)C(=O)NCCc2ccc(OCc3ccccc3)cc2)c2ccccc2)CC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Development of Potent Mcl-1 Inhibitors: Structural Investigations on Macrocycles Originating from a DNA-Encoded Chemical Library Screen
+  - **Authors:** Hekking, Koen F. W.; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.3c02206](https://doi.org/10.1021/acs.jmedchem.3c02206)
 
 **Original Text:**
 ```
@@ -43594,10 +43594,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `COC(=O)[C@H](Cc1ccc(O)c(I)c1)NC(=O)CCNC(=O)OC(C)(C)C`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Novel Arylomycins against Multidrug-Resistant Gram-Negative Bacteria
+  - **Authors:** Zhang, Yinyong; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00018](https://doi.org/10.1021/acs.jmedchem.4c00018)
 
 **Original Text:**
 ```
@@ -43637,10 +43637,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Products: `C[C@@H]1NC(=O)[C@@H](N(C)C(=O)[C@H](CCNC(=O)OC(C)(C)C)NC(=O)OCc2ccccc2)c2ccc(OCCNC(=O)OC(C)(C)C)c(c2)-c2cc(ccc2OCCNC(=O)OC(C)(C)C)C[C@@H](C(=O)NCC#N)NC1=O`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **Authors:** Breidenbach, Julian; et al
-  - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
-  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
+  - **Title:** Design, Synthesis, and Biological Evaluation of Novel Arylomycins against Multidrug-Resistant Gram-Negative Bacteria
+  - **Authors:** Zhang, Yinyong; et al
+  - **Citation:** Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
+  - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00018](https://doi.org/10.1021/acs.jmedchem.4c00018)
 
 **Original Text:**
 ```
@@ -43684,10 +43684,10 @@ Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
   - Products: `CN(C)c1ccc(/C=C/c2ccc(NC(=O)CNC(=O)OC(C)(C)C)cc2)cc1`
 
 **Reference:**
-  - **Title:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **Authors:** Reddyrajula, Rajkumar; et al
-  - **Citation:** Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
-  - **DOI:** [https://doi.org/10.1016/j.bmcl.2019.126846](https://doi.org/10.1016/j.bmcl.2019.126846)
+  - **Title:** Synthesis and bioactivity evaluation of a myelin-specific contrast agent for magnetic resonance imaging of myelination in central nervous system
+  - **Authors:** Wei, Bin; et al
+  - **Citation:** Bioorganic & Medicinal Chemistry (2023), 84, 117257.
+  - **DOI:** [https://doi.org/10.1016/j.bmc.2023.117257](https://doi.org/10.1016/j.bmc.2023.117257)
 
 **Original Text:**
 ```
@@ -43734,7 +43734,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - Products: `CN(/N=C/c1ccc(Cl)cc1)C(=O)[C@H](Cc1ccccc1)NC(=O)COc1ccc(Cl)cc1Cl`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -43787,7 +43787,7 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
   - Products: `CN(/N=C/c1ccc(Cl)cc1)C(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -43837,7 +43837,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -43885,7 +43885,7 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1ccccc1F)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -43936,7 +43936,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1cccc(Cl)c1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -43987,7 +43987,7 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1ccc(F)cc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -44040,7 +44040,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1ccccc1Cl)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -44090,7 +44090,7 @@ Journal of Medicinal Chemistry (2020), 63(17), 9127-9135.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1ccc(Cl)cc1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -44140,7 +44140,7 @@ ACS Medicinal Chemistry Letters (2021), 12(3), 420-425.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1cccc(F)c1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -44193,7 +44193,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@H](Cc1cccs1)NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)
@@ -44246,7 +44246,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - Products: `CN(/N=C/c1cccc(Cl)c1F)C(=O)[C@@H](NC(=O)[C@@H](NC(=O)OC(C)(C)C)C(C)(C)C)C1CCCCC1`
 
 **Reference:**
-  - **Title:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
+  - **Title:** Macrocyclic Azapeptide Nitriles: Structure-Based Discovery of Potent SARS-CoV-2 Main Protease Inhibitors as Antiviral Drugs
   - **Authors:** Breidenbach, Julian; et al
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - **DOI:** [https://doi.org/10.1021/acs.jmedchem.4c00053](https://doi.org/10.1021/acs.jmedchem.4c00053)

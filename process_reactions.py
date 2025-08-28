@@ -780,30 +780,46 @@ def infer_reaction_type(core_generic_tokens: List[str]) -> str:
     return 'Other'
 
 def load_cas_maps(paths: List[str]) -> Dict[str, Dict[str, str]]:
-    """Load one or more CSV mapping files into a dict: CAS -> {Name, GenericCore, Role, CategoryHint, Token}.
-    Accepts slightly different headers; missing fields are blank. CAS keys are normalized as plain strings.
+    """Load one or more JSONL mapping files into a dict: CAS -> {Name, GenericCore, Role, CategoryHint, Token}.
+    Only supports JSONL format. Missing fields are blank. CAS keys are normalized as plain strings.
     """
-    import csv as _csv
     mapping: Dict[str, Dict[str, str]] = {}
+    
     for p in paths:
         if not p or not os.path.exists(p):
             continue
+        
+        if not p.endswith('.jsonl'):
+            print(f"Warning: Skipping non-JSONL file {p}. Only JSONL format is supported.")
+            continue
+        
         try:
+            # Load JSONL format
             with open(p, 'r', encoding='utf-8', errors='ignore') as f:
-                reader = _csv.DictReader(f)
-                for row in reader:
-                    cas = (row.get('CAS') or '').strip()
-                    if not cas:
+                for line in f:
+                    line = line.strip()
+                    if not line:
                         continue
-                    entry = mapping.setdefault(cas, {})
-                    # Copy known fields if present
-                    for k in ['Name', 'GenericCore', 'Role', 'CategoryHint', 'Token']:
-                        v = row.get(k)
-                        if v:
-                            entry[k] = v.strip()
+                    try:
+                        entry_data = json.loads(line)
+                        cas = (entry_data.get('cas') or '').strip()
+                        if not cas:
+                            continue
+                        
+                        entry = mapping.setdefault(cas, {})
+                        # Map JSONL fields to expected format
+                        entry['Name'] = (entry_data.get('name') or '').strip()
+                        entry['GenericCore'] = (entry_data.get('generic_core') or '').strip()
+                        entry['Role'] = (entry_data.get('role') or '').strip()
+                        entry['CategoryHint'] = (entry_data.get('category_hint') or '').strip()
+                        entry['Token'] = (entry_data.get('token') or '').strip()
+                        
+                    except json.JSONDecodeError:
+                        continue
         except Exception:
             # ignore file-specific issues
             pass
+    
     return mapping
 
 
@@ -1631,7 +1647,7 @@ def main():
     ap.add_argument('--rdf', required=True, help='Path to Reaction_*.rdf file')
     ap.add_argument('--txt', required=True, help='Path to Reaction_*.txt file')
     ap.add_argument('--out', required=True, help='Output CSV path')
-    ap.add_argument('--cas-map', action='append', help='Optional CAS->Name mapping CSV (can be used multiple times)')
+    ap.add_argument('--cas-map', action='append', help='Optional CAS->Name mapping JSONL (can be used multiple times)')
     ap.add_argument('--no-auto-cas-maps', action='store_true', help='Disable auto-detection of built-in CAS maps')
     args = ap.parse_args()
 
@@ -1646,13 +1662,18 @@ def main():
     if args.cas_map:
         cas_map_paths.extend(args.cas_map)
     if not args.no_auto_cas_maps:
-        # Try auto-known paths if present
+        # Use only the unified registry if available, otherwise fall back to individual files
         here = os.path.dirname(os.path.abspath(__file__))
-        maybe = [
-            os.path.join(here, 'Buchwald', 'cas_dictionary.csv'),
-            os.path.join(here, 'Ullman', '新建文件夹', 'ullmann_cas_to_name_mapping.csv'),
-        ]
-        cas_map_paths.extend([p for p in maybe if os.path.exists(p)])
+        merged_path = os.path.join(here, 'cas_registry_merged.jsonl')
+        if os.path.exists(merged_path):
+            cas_map_paths.append(merged_path)
+        else:
+            # Fallback to individual JSONL files if merged doesn't exist
+            maybe = [
+                os.path.join(here, 'cas_dictionary.jsonl'),
+                os.path.join(here, 'comprehensive_cas_registry.jsonl'),
+            ]
+            cas_map_paths.extend([p for p in maybe if os.path.exists(p)])
     cas_map = load_cas_maps(cas_map_paths) if cas_map_paths else {}
 
     rows = assemble_rows(txt_map, rdf_map, cas_map)

@@ -270,18 +270,22 @@ class ReactionMarkdownGenerator:
         """Load CAS mappings from known locations."""
         cas_map_paths = []
         
-        # Auto-detect built-in CAS maps
+        # Use only the unified registry if available, otherwise fall back to individual files
         here = os.path.dirname(os.path.abspath(__file__))
-        maybe_paths = [
-            os.path.join(here, 'Buchwald', 'cas_dictionary.csv'),
-            os.path.join(here, 'Ullman', '新建文件夹', 'ullmann_cas_to_name_mapping.csv'),
-            os.path.join(folder_path, 'cas_dictionary.csv'),
-            os.path.join(folder_path, 'cas_mapping.csv'),
-        ]
-        
-        for path in maybe_paths:
-            if os.path.exists(path):
-                cas_map_paths.append(path)
+        merged_path = os.path.join(here, 'cas_registry_merged.jsonl')
+        if os.path.exists(merged_path):
+            cas_map_paths.append(merged_path)
+        else:
+            # Fallback to individual JSONL files if merged doesn't exist
+            maybe_paths = [
+                os.path.join(here, 'cas_dictionary.jsonl'),
+                os.path.join(here, 'comprehensive_cas_registry.jsonl'),
+                os.path.join(folder_path, 'cas_dictionary.jsonl'),
+                os.path.join(folder_path, 'cas_mapping.jsonl'),
+            ]
+            for path in maybe_paths:
+                if os.path.exists(path):
+                    cas_map_paths.append(path)
         
         return load_cas_maps(cas_map_paths) if cas_map_paths else {}
     

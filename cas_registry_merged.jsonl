@@ -1,0 +1,184 @@
+{"cas": "1028206-60-1", "name": "BrettPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1038-95-5", "name": "P(p-tol)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "106-42-3", "name": "p-Xylene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "107-06-2", "name": "1,2-Dichloroethane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "107-21-1", "name": "Ethylene Glycol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "1076-43-3", "name": "Benzene-d6", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-10-1", "name": "Methyl isobutyl ketone", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-20-3", "name": "Diisopropyl Ether", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-21-4", "name": "Isopropyl Acetate", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-24-7", "name": "Acetic anhydride", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-38-3", "name": "m-Xylene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-48-5", "name": "2,6-Lutidine", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "108-67-8", "name": "Mesitylene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-88-3", "name": "Toluene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-90-7", "name": "Chlorobenzene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-94-1", "name": "Cyclohexanone", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "108-99-6", "name": "2", "generic_core": "6-Dimethylpyridine", "role": null, "category_hint": "BASE", "token": "hindered pyridine", "compound_type": "6-Dimethylpyridine", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "109-02-4", "name": "N-Methylmorpholine", "generic_core": null, "role": "BASE", "category_hint": "morpholine base", "token": "nmm", "compound_type": "amide_base", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "109-66-0", "name": "Pentane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "109-72-8", "name": "n-BuLi", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "109-86-4", "name": "Glycol monoethyl ether", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "109-99-9", "name": "Tetrahydrofuran", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "110-18-9", "name": "TMEDA", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "110-54-3", "name": "Hexane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "110-71-4", "name": "1,2-Dimethoxyethane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "110-80-5", "name": "2-Ethoxyethanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "110-82-7", "name": "Cyclohexane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "110-86-1", "name": "Pyridine", "generic_core": null, "role": "BASE", "category_hint": "pyridine", "token": "pyridine", "compound_type": "amide_base", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "110-89-4", "name": "Piperidine", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "111-46-6", "name": "Diethylene Glycol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "1122-58-3", "name": "4-Dimethylaminopyridine", "generic_core": null, "role": "CATALYST", "category_hint": "nucleophilic acyl-transfer", "token": "dmap", "compound_type": "ligand", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "1159-54-2", "name": "P(p-Cl-Ph)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1160-71-4", "name": "P(p-CF3-Ph)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "117016-01-8", "name": "H8-BINAP", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1185098-04-7", "name": "Ph-XPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "12012-95-2", "name": "Di-μ-chlorobis(η3-2-propenyl)dipalladium", "generic_core": "Pd", "role": "CAT_CORE", "category_hint": "precatalyst", "token": "allyl palladium dimer", "compound_type": null, "sources": ["cas_dictionary"]}
+{"cas": "121-44-8", "name": "Triethylamine", "generic_core": null, "role": "BASE", "category_hint": "tertiary amine", "token": "tea", "compound_type": "base", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "12150-46-8", "name": "1", "generic_core": "1-Bis(diphenylphosphino)ferrocene", "role": null, "category_hint": "CAT_LIG", "token": "bidentate phosphine", "compound_type": "ligand", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "123-86-4", "name": "Butyl Acetate", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "123-91-1", "name": "1,4-Dioxane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "124-41-4", "name": "NaOMe", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "127-18-4", "name": "Tetrachloroethylene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "127-19-5", "name": "Dimethylacetamide", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "128625-52-5", "name": "Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate", "generic_core": null, "role": "ACTIVATOR", "category_hint": "phosphonium", "token": "pybop", "compound_type": "activator", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "1310-58-3", "name": "KOH", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "1310-66-3", "name": "LiOH", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "1310-73-2", "name": "NaOH", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "131274-22-1", "name": "Tri-tert-butylphosphonium tetrafluoroborate", "generic_core": null, "role": "CAT_LIG", "category_hint": "salt", "token": "tBu3P·HBF4", "compound_type": null, "sources": ["cas_dictionary"]}
+{"cas": "1317-39-1", "name": "Cu2O", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
+{"cas": "1330-20-7", "name": "Xylene (mixed isomers)", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "1336-21-6", "name": "NH4OH", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "13716-12-6", "name": "PtBu3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1374640-42-8", "name": "AmplPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "141-78-6", "name": "Ethyl Acetate", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "141556-44-7", "name": "SIMes", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "141556-45-8", "name": "IMes", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "142-71-2", "name": "Cu(OAc)2", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
+{"cas": "142-82-5", "name": "Heptane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "142-96-1", "name": "Dibutyl Ether", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "1429311-55-2", "name": "Me4tBuXPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "144-55-8", "name": "NaHCO3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "1447952-32-2", "name": "MorDalPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1447953-76-7", "name": "AlPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1447977-55-6", "name": "tBuBrettPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1447977-56-7", "name": "AdBrettPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "145052-34-0", "name": "JohnPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "145854-69-9", "name": "SEGPHOS", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1486-28-8", "name": "PMePh2", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "148893-10-1", "name": "O-(7-Azabenzotriazol-1-yl)-N", "generic_core": "N", "role": "N'", "category_hint": "N'-tetramethyluronium hexafluorophosphate", "token": null, "compound_type": "N", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "150992-96-0", "name": "C3-TunePhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "156707-92-7", "name": "DifluorPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "161265-03-8", "name": "XantPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1634-04-4", "name": "tert-Butyl methyl ether", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "164298-23-1", "name": "Tetramethylfluoroformamidinium hexafluorophosphate", "generic_core": null, "role": "ACTIVATOR", "category_hint": "halo-formamidinium", "token": "tffh", "compound_type": "activator", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "1663-45-2", "name": "DPPE", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "166330-10-5", "name": "DPEPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "173219-46-8", "name": "MePhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1757-50-8", "name": "P(C6F5)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "180664-67-1", "name": "O-(2", "generic_core": "3", "role": "4", "category_hint": "5", "token": "6-pentafluorobenzoyl)-N", "compound_type": "3", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "18437-78-2", "name": "P(p-F-Ph)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "196868-63-0", "name": "DM-SEGPHOS", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "200001-74-9", "name": "CyJohnPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "205319-91-7", "name": "SynPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "213697-53-1", "name": "DavePhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "2250-01-3", "name": "BINAP", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "23897-15-6", "name": "P(mes)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "243984-11-4", "name": "DTBM-SEGPHOS", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "246047-72-3", "name": "IPr", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "250285-32-6", "name": "IPrCl", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "25322-68-3", "name": "Polyethylene glycol (PEG-400)", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "2592-95-2", "name": "1-Hydroxybenzotriazole", "generic_core": null, "role": "ADDITIVE", "category_hint": "coupling additive", "token": "hobt", "compound_type": "amide_additive", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "25952-53-8", "name": "1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride", "generic_core": null, "role": "ACTIVATOR", "category_hint": "carbodiimide", "token": "edc", "compound_type": "activator", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "2622-14-2", "name": "PCy3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "280-57-9", "name": "DABCO", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "3001-72-7", "name": "DBN", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "32005-36-0", "name": "Pd(dba)2", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
+{"cas": "330645-87-9", "name": "Tetramethylchloroformamidinium hexafluorophosphate", "generic_core": null, "role": "ACTIVATOR", "category_hint": "halo-formamidinium", "token": "tcfh", "compound_type": "activator", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "3375-31-3", "name": "Palladium diacetate", "generic_core": "Pd", "role": "CAT_CORE", "category_hint": "metal", "token": "pd(oac)2", "compound_type": null, "sources": ["cas_dictionary"]}
+{"cas": "343970-73-8", "name": "SIPr", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "366-18-7", "name": "Bipyridine", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "384347-21-1", "name": "QPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "39968-33-7", "name": "1-Hydroxy-7-azabenzotriazole", "generic_core": null, "role": "ADDITIVE", "category_hint": "coupling additive", "token": "hoat", "compound_type": "amide_additive", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "4039-32-1", "name": "LiHMDS", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "4731-65-1", "name": "P(o-MeO-Ph)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "497-19-8", "name": "Na2CO3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "51364-51-3", "name": "Tris(dibenzylideneacetone)dipalladium", "generic_core": "Pd", "role": "CAT_CORE", "category_hint": "precatalyst", "token": "pd2(dba)3", "compound_type": "catalyst_core", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "52364-71-3", "name": "MeO-BIPHEP", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "534-17-8", "name": "Cs2CO3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "538-75-0", "name": "N,N-Dicyclohexylcarbodiimide", "generic_core": "N'-Dicyclohexylcarbodiimide", "role": null, "category_hint": "ACTIVATOR", "token": "carbodiimide", "compound_type": "N'-Dicyclohexylcarbodiimide", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "5470-18-8", "name": "Ethyl (hydroxyimino)cyanoacetate", "generic_core": null, "role": "ADDITIVE", "category_hint": "coupling additive", "token": "oxyma", "compound_type": "amide_additive", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "5518-52-5", "name": "P(2-furyl)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "554-70-1", "name": "PEt3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "56-23-5", "name": "Carbon Tetrachloride", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "5614-37-9", "name": "Cyclopentyl methyl ether", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "564483-18-7", "name": "X-Phos", "generic_core": null, "role": "CAT_LIG", "category_hint": "biaryl phosphine", "token": "x-phos", "compound_type": "ligand", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "564483-19-8", "name": "tBuXPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "584-08-7", "name": "K2CO3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "58467-99-1", "name": "BIPHEP", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "594-09-2", "name": "PMe3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "60-29-7", "name": "Diethyl Ether", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "603-35-0", "name": "PPh3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "6066-82-6", "name": "N-Hydroxysuccinimide", "generic_core": null, "role": "ADDITIVE", "category_hint": "coupling additive", "token": "nhs", "compound_type": "amide_additive", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "616-47-7", "name": "N-Methylimidazole", "generic_core": null, "role": "CATALYST", "category_hint": "base + nucleophilic catalyst", "token": "nmi", "compound_type": "amide_catalyst", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "6163-58-2", "name": "Tri-o-tolylphosphine", "generic_core": null, "role": "CAT_LIG", "category_hint": "phosphine", "token": "p(o-tol)3", "compound_type": "ligand", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "63503-60-6", "name": "Diphenylphosphinic chloride", "generic_core": null, "role": "ACTIVATOR", "category_hint": "phosphinic chloride", "token": "dppCl", "compound_type": "activator", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "64-17-5", "name": "Ethanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "64-19-7", "name": "Acetic Acid", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "6476-36-4", "name": "P(iPr)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "657408-07-6", "name": "SPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "66-71-7", "name": "Phenanthroline", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "6674-22-2", "name": "DBU", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "67-56-1", "name": "Methanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "67-63-0", "name": "Isopropanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "67-64-1", "name": "Acetone", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "67-66-3", "name": "Chloroform", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "67-68-5", "name": "Dimethyl Sulfoxide", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "672-66-2", "name": "PMe2Ph", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "6737-42-4", "name": "1", "generic_core": "3-Bis(diphenylphosphino)propane", "role": null, "category_hint": "CAT_LIG", "token": "bidentate phosphine", "compound_type": "ligand", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "67969-82-8", "name": "Bis(2-oxo-3-oxazolidinyl)phosphinic chloride", "generic_core": null, "role": "ACTIVATOR", "category_hint": "phosphonium chloride", "token": "bop-cl", "compound_type": "activator", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "68-12-2", "name": "Dimethylformamide", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "68957-94-8", "name": "Propylphosphonic anhydride", "generic_core": null, "role": "ACTIVATOR", "category_hint": "phosphonic anhydride", "token": "t3p", "compound_type": "activator", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "693-13-0", "name": "N,N-Diisopropylcarbodiimide", "generic_core": "N'-Diisopropylcarbodiimide", "role": null, "category_hint": "ACTIVATOR", "token": "carbodiimide", "compound_type": "N'-Diisopropylcarbodiimide", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "7087-68-5", "name": "N,N-Diisopropylethylamine", "generic_core": "N-Diisopropylethylamine", "role": null, "category_hint": "BASE", "token": "non-nucleophilic base", "compound_type": "base", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "71-23-8", "name": "1-Propanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "71-36-3", "name": "1-Butanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "71-43-2", "name": "Benzene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "74104-79-3", "name": "4-(4", "generic_core": "6-Dimethoxy-1", "role": "3", "category_hint": "5-triazin-2-yl)-4-methylmorpholinium chloride", "token": null, "compound_type": "6-Dimethoxy-1", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "742103-27-1", "name": "Bis(1", "generic_core": "1-dimethylethyl)(1-methyl-2", "role": "2-diphenylcyclopropyl)phosphine", "category_hint": null, "token": "CAT_LIG", "compound_type": null, "sources": ["cas_dictionary"]}
+{"cas": "7447-39-4", "name": "CuCl2", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
+{"cas": "75-05-8", "name": "Acetonitrile", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "75-09-2", "name": "Dichloromethane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "75-52-5", "name": "Nitromethane", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "75-65-0", "name": "tert-Butanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "75-85-4", "name": "2-Methyl-2-butanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "75-89-8", "name": "2,2,2-Trifluoroethanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "76-05-1", "name": "Trifluoroacetic acid", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "7646-69-7", "name": "NaH", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "7647-10-1", "name": "Palladium chloride", "generic_core": "Pd", "role": "CAT_CORE", "category_hint": "metal", "token": "pdcl2", "compound_type": "catalyst_core", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "7681-65-4", "name": "CuI", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
+{"cas": "7688-25-7", "name": "DPPB", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "7732-18-5", "name": "Water", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "7758-89-6", "name": "CuCl", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
+{"cas": "7778-53-2", "name": "K3PO4", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "7787-70-4", "name": "CuBr", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
+{"cas": "78-83-1", "name": "Isobutanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "78-92-2", "name": "2-Butanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "78-93-3", "name": "Methyl Ethyl Ketone", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "787618-22-8", "name": "RuPhos", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "79-09-4", "name": "Propionic Acid", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "855-38-9", "name": "P(p-MeO-Ph)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "865-47-4", "name": "KOtBu", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "865-48-5", "name": "NaOtBu", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
+{"cas": "872-50-4", "name": "N-Methyl-2-pyrrolidone", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "920-66-1", "name": "1,1,1,3,3,3-Hexafluoro-2-propanol", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "94790-37-1", "name": "O-(1H-7-azabenzotriazol-1-yl)-N", "generic_core": "N", "role": "N'", "category_hint": "N'-tetramethyluronium tetrafluoroborate", "token": null, "compound_type": "N", "sources": ["cas_dictionary", "comprehensive_registry"]}
+{"cas": "95-47-6", "name": "o-Xylene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "95-50-1", "name": "1,2-Dichlorobenzene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "96-47-9", "name": "2-Methyltetrahydrofuran", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "98-08-8", "name": "(Trifluoromethyl)benzene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "98-95-3", "name": "Nitrobenzene", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
+{"cas": "99646-27-4", "name": "Tol-BINAP", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "998-40-3", "name": "P(nBu)3", "generic_core": null, "role": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["comprehensive_registry"]}
+{"cas": "1892-57-5", "name": "1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide", "generic_core": null, "role": "ACTIVATOR", "category_hint": "carbodiimide", "token": "edc", "compound_type": "activator", "sources": ["manual_addition"]}
+{"cas": "25952-53-8", "name": "1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride", "generic_core": null, "role": "ACTIVATOR", "category_hint": "carbodiimide salt", "token": "edci", "compound_type": "activator", "sources": ["manual_addition"]}

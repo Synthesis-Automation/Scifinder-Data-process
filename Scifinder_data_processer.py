@@ -66,11 +66,17 @@ class Worker(QtCore.QObject):
         cas_map_paths: List[str] = list(self.cas_maps)
         if self.auto_detect_maps:
             here = os.path.dirname(os.path.abspath(__file__))
-            maybe = [
-                os.path.join(here, 'Buchwald', 'cas_dictionary.csv'),
-                os.path.join(here, 'Ullman', '新建文件夹', 'ullmann_cas_to_name_mapping.csv'),
-            ]
-            cas_map_paths.extend([p for p in maybe if os.path.exists(p)])
+            # Use only the unified registry if available, otherwise fall back to individual files
+            merged_path = os.path.join(here, 'cas_registry_merged.jsonl')
+            if os.path.exists(merged_path):
+                cas_map_paths.append(merged_path)
+            else:
+                # Fallback to individual JSONL files if merged doesn't exist
+                maybe = [
+                    os.path.join(here, 'cas_dictionary.jsonl'),
+                    os.path.join(here, 'comprehensive_cas_registry.jsonl'),
+                ]
+                cas_map_paths.extend([p for p in maybe if os.path.exists(p)])
         return load_cas_maps(cas_map_paths) if cas_map_paths else {}
 
     def _run_single(self):
@@ -337,7 +343,7 @@ class MainWindow(QtWidgets.QWidget):
             self.out_edit.setText(path)
 
     def pick_cas(self):
-        files, _ = QtWidgets.QFileDialog.getOpenFileNames(self, "Select CAS Map CSV(s)", os.getcwd(), "CSV files (*.csv);;All files (*.*)")
+        files, _ = QtWidgets.QFileDialog.getOpenFileNames(self, "Select CAS Map JSONL(s)", os.getcwd(), "JSONL files (*.jsonl);;All files (*.*)")
         if files:
             self.cas_paths = files
             self.cas_edit.setText("; ".join(files))

@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "generated_at": "2025-08-28T01:34:16.833430-04:00",
+    "encoding": "UTF-8",
+    "notes": "Amide formation from carboxylic acids + amines. Equivalents are typical starting points. Adjust for scale/scope.",
+    "source_keys": {
+      "Valeur2009": "Amide bond formation: beyond the myth of coupling reagents (2009 review)",
+      "Beutner2018": "TCFH–NMI: Direct Access to N-Acyl Imidazoliums for Challenging Amide Couplings (2018)",
+      "Sperry2018": "Thermal Stability Assessment of Peptide Coupling Reagents (2018)",
+      "DMTMM_wiki": "DMTMM overview",
+      "T3P_green": "Green peptide synthesis using T3P (RSC 2023)",
+      "DPPCl_bandit": "Identifying general reaction conditions by bandit optimization (2024)",
+      "HOBt_safety": "Explosive properties of 1-hydroxybenzotriazoles",
+      "Oxyma2022": "Understanding OxymaPure as a peptide coupling additive (2022)",
+      "DMAP_general": "DMAP as acyl-transfer catalyst (overviews)"
+    }
+  },
+  "lists": {
+    "activators": [
+      {"name": "DPPCl", "long_name": "Diphenylphosphinic chloride", "class": "phosphinic chloride", "typical_equiv": 1.3, "typical_bases": ["NMM", "DIPEA"], "notes": "High-performing across anilines in HTE; thermally stable; scalable.", "source_keys": ["DPPCl_bandit", "Valeur2009"]},
+      {"name": "TCFH", "long_name": "Tetramethylchloroformamidinium hexafluorophosphate", "class": "halo-formamidinium", "typical_equiv": 1.1, "typical_bases": ["NMI"], "notes": "Pairs with NMI to form acyl imidazoliums; excellent for hindered/poorly nucleophilic amines.", "source_keys": ["Beutner2018"]},
+      {"name": "TFFH", "long_name": "Tetramethylfluoroformamidinium hexafluorophosphate", "class": "halo-formamidinium", "typical_equiv": 1.1, "typical_bases": ["NMI","Lutidine","NMM"], "notes": "Alternative to TCFH.", "source_keys": ["Valeur2009"]},
+      {"name": "HATU", "long_name": "O-(7-Azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate", "class": "uronium", "typical_equiv": 1.2, "typical_bases": ["DIPEA","2,6-Lutidine"], "notes": "Benchmark peptide/amide coupler; beware benzotriazole byproducts and exotherm.", "source_keys": ["Valeur2009","Sperry2018"]},
+      {"name": "HOTU", "long_name": "O-(1H-7-azabenzotriazol-1-yl)-N,N,N',N'-tetramethyluronium tetrafluoroborate", "class": "uronium", "typical_equiv": 1.2, "typical_bases": ["DIPEA"], "notes": "Uronium alternative.", "source_keys": ["Valeur2009"]},
+      {"name": "PFTU", "long_name": "O-(2,3,4,5,6-pentafluorobenzoyl)-N,N,N',N'-tetramethyluronium tetrafluoroborate", "class": "uronium", "typical_equiv": 1.2, "typical_bases": ["DIPEA"], "notes": "Electron-poor variant; similar handling to HATU/HOTU.", "source_keys": ["Valeur2009"]},
+      {"name": "PyBOP", "long_name": "Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate", "class": "phosphonium", "typical_equiv": 1.2, "typical_bases": ["DIPEA","2,6-Lutidine"], "notes": "Classic peptide coupler; phosphonium waste; watch thermal stability.", "source_keys": ["Valeur2009","Sperry2018"]},
+      {"name": "BOP-Cl", "long_name": "Bis(2-oxo-3-oxazolidinyl)phosphinic chloride (BOP-Cl)", "class": "phosphonium chloride", "typical_equiv": 1.2, "typical_bases": ["NMI","NMM"], "notes": "Solid performer in HTE screens.", "source_keys": ["Valeur2009"]},
+      {"name": "T3P", "long_name": "Propylphosphonic anhydride (50% in EtOAc or DMF)", "class": "phosphonic anhydride", "typical_equiv": 1.5, "typical_bases": ["Pyridine","DIPEA"], "notes": "Greener profile; low epimerization; compatible with EtOAc/green solvents.", "source_keys": ["T3P_green"]},
+      {"name": "DIC", "long_name": "N,N'-Diisopropylcarbodiimide", "class": "carbodiimide", "typical_equiv": 1.1, "typical_bases": ["DIPEA"], "notes": "Use with additives (e.g., Oxyma, HOBt/HOAt).", "source_keys": ["Valeur2009","Oxyma2022"]},
+      {"name": "DCC", "long_name": "N,N'-Dicyclohexylcarbodiimide", "class": "carbodiimide", "typical_equiv": 1.1, "typical_bases": ["DIPEA"], "notes": "Use with additives; DCU byproduct.", "source_keys": ["Valeur2009"]},
+      {"name": "EDC·HCl", "long_name": "1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride", "class": "carbodiimide (water-soluble)", "typical_equiv": 1.2, "typical_bases": ["NMM","DIPEA"], "notes": "Often with NHS or Oxyma; aqueous-compatible.", "source_keys": ["Valeur2009","Oxyma2022"]},
+      {"name": "DMTMM", "long_name": "4-(4,6-Dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium chloride", "class": "triazinylmorpholinium", "typical_equiv": 1.1, "typical_bases": ["NMM (optional)"], "notes": "Effective in water/alcohols; convenient workup.", "source_keys": ["DMTMM_wiki"]}
+    ],
+    "catalysts": [
+      {"name": "DMAP", "long_name": "4-Dimethylaminopyridine", "typical_loading_mol_percent": [5,10], "role": "nucleophilic acyl-transfer catalyst", "notes": "Accelerates sluggish couplings (e.g., with carbodiimides). Handle with care; toxic.", "source_keys": ["DMAP_general"]},
+      {"name": "NMI", "long_name": "N-Methylimidazole", "typical_loading_mol_percent": null, "role": "base + nucleophilic catalyst (esp. with TCFH/TFFH)", "notes": "Often 2–3 equiv with TCFH to form acyl imidazoliums.", "source_keys": ["Beutner2018"]}
+    ],
+    "bases": [
+      {"name": "DIPEA", "long_name": "N,N-Diisopropylethylamine", "typical_equiv": 2.0, "notes": "General non-nucleophilic base."},
+      {"name": "NMM", "long_name": "N-Methylmorpholine", "typical_equiv": 3.0, "notes": "Common with DPPCl and DMTMM."},
+      {"name": "NMI", "long_name": "N-Methylimidazole", "typical_equiv": 2.0, "notes": "Required with TCFH/TFFH for acyl-imidazolium pathway."},
+      {"name": "2,6-Lutidine", "long_name": "2,6-Dimethylpyridine", "typical_equiv": 2.0, "notes": "Hindered base; pairs with uroniums/phosphoniums."},
+      {"name": "TEA", "long_name": "Triethylamine", "typical_equiv": 2.0, "notes": "Occasional substitute; less hindered."},
+      {"name": "Pyridine", "long_name": "Pyridine", "typical_equiv": 2.0, "notes": "Pairs with T3P; also a nucleophilic base."}
+    ],
+    "additives": [
+      {"name": "OxymaPure", "long_name": "Ethyl (hydroxyimino)cyanoacetate (Oxyma)", "typical_equiv": 1.1, "role": "additive with carbodiimides to suppress racemization and boost rates", "safety": "Lower explosion risk vs. HOBt/HOAt", "source_keys": ["Oxyma2022"]},
+      {"name": "HOBt (monohydrate)", "long_name": "1-Hydroxybenzotriazole·H2O", "typical_equiv": 1.1, "role": "additive with carbodiimides", "safety": "Anhydrous HOBt is explosive; handle only as monohydrate/in solution", "source_keys": ["HOBt_safety"]},
+      {"name": "HOAt", "long_name": "1-Hydroxy-7-azabenzotriazole", "typical_equiv": 1.1, "role": "additive (carbodiimide/uroniums)", "safety": "Energetic; safety concerns similar to HOBt", "source_keys": ["HOBt_safety"]},
+      {"name": "NHS", "long_name": "N-Hydroxysuccinimide", "typical_equiv": 1.1, "role": "EDC-mediated couplings; forms NHS esters", "source_keys": ["Valeur2009"]}
+    ]
+  },
+  "conditions_lookup": {
+    "global_defaults": {
+      "acid_equiv": 1.0,
+      "amine_equiv": 1.5,
+      "activator_equiv_default": 1.3,
+      "base_equiv_default": 3.0,
+      "concentration_M": 0.10,
+      "temperature_C": 25,
+      "time_h": 24,
+      "solvent_set": ["THF","MeCN","DMF"],
+      "order_of_addition": ["acid", "activator (pre-activation 5–10 min)", "base", "amine"],
+      "note": "Defaults reflect HTE settings for aryl acids to anilines; tune per substrate."
+    },
+    "by_amine_class": [
+      {
+        "class": "aniline (electron-poor/electron-rich)",
+        "recommended": [
+          {
+            "name": "DPPCl–NMM",
+            "activator": "DPPCl",
+            "base": "NMM",
+            "catalyst": null,
+            "solvent_options": ["THF","MeCN","DMF"],
+            "equivalents": {"acid":1.0,"amine":1.5,"activator":1.3,"base":3.0},
+            "concentration_M": 0.10,
+            "temperature_C": 25,
+            "time_h": 24,
+            "order_of_addition": ["acid","DPPCl (5–10 min)","NMM","amine"],
+            "notes": "Top performer across aniline panel in HTE ranking.",
+            "source_keys": ["DPPCl_bandit"]
+          },
+          {
+            "name": "DPPCl–DIPEA",
+            "activator": "DPPCl",
+            "base": "DIPEA",
+            "catalyst": null,
+            "solvent_options": ["THF","MeCN","DMF"],
+            "equivalents": {"acid":1.0,"amine":1.5,"activator":1.3,"base":3.0},
+            "concentration_M": 0.10,
+            "temperature_C": 25,
+            "time_h": 24,
+            "order_of_addition": ["acid","DPPCl","DIPEA","amine"],
+            "notes": "Close second in HTE ranking.",
+            "source_keys": ["DPPCl_bandit"]
+          }
+        ],
+        "alternatives": [
+          {
+            "name": "HATU–DIPEA",
+            "activator": "HATU",
+            "base": "DIPEA",
+            "catalyst": null,
+            "solvent_options": ["DMF","MeCN"],
+            "equivalents": {"acid":1.0,"amine":1.5,"activator":1.2,"base":2.0},
+            "temperature_C": 25,
+            "time_h": 4,
+            "order_of_addition": ["acid","HATU (pre-activate)","DIPEA","amine"],
+            "notes": "Benchmark uronium; manage benzotriazole byproducts and exotherm.",
+            "source_keys": ["Valeur2009","Sperry2018"]
+          },
+          {
+            "name": "TCFH–NMI",
+            "activator": "TCFH",
+            "base": "NMI",
+            "catalyst": null,
+            "solvent_options": ["MeCN"],
+            "equivalents": {"acid":1.0,"amine":1.2,"activator":1.1,"base":2.1},
+            "temperature_C": 25,
+            "time_h": 1,
+            "order_of_addition": ["acid + NMI","TCFH (form acyl-imidazolium)","amine"],
+            "notes": "Fast, clean; simple workup.",
+            "source_keys": ["Beutner2018"]
+          }
+        ]
+      },
+      {
+        "class": "heteroaryl amine / poor nucleophile",
+        "recommended": [
+          {
+            "name": "TCFH–NMI",
+            "activator": "TCFH",
+            "base": "NMI",
+            "catalyst": null,
+            "solvent_options": ["MeCN"],
+            "equivalents": {"acid":1.0,"amine":1.2,"activator":1.1,"base":2.5},
+            "temperature_C": 25,
+            "time_h": 1,
+            "order_of_addition": ["acid + NMI","TCFH","amine"],
+            "notes": "Designed for non-nucleophilic and hindered amines via acyl-imidazolium.",
+            "source_keys": ["Beutner2018"]
+          }
+        ],
+        "alternatives": [
+          {
+            "name": "DMTMM (optional NMM)",
+            "activator": "DMTMM",
+            "base": "NMM (0–1.0 equiv)",
+            "catalyst": null,
+            "solvent_options": ["MeCN","H2O","MeOH"],
+            "equivalents": {"acid":1.0,"amine":1.1,"activator":1.1},
+            "temperature_C": 25,
+            "time_h": 2,
+            "order_of_addition": ["acid","DMTMM","amine"],
+            "notes": "Useful in water/protic media; good with polar substrates.",
+            "source_keys": ["DMTMM_wiki"]
+          }
+        ]
+      },
+      {
+        "class": "aliphatic primary amine",
+        "recommended": [
+          {
+            "name": "T3P–DIPEA",
+            "activator": "T3P",
+            "base": "DIPEA or Pyridine",
+            "catalyst": null,
+            "solvent_options": ["EtOAc","THF","MeCN"],
+            "equivalents": {"acid":1.0,"amine":1.1,"activator":1.5,"base":2.0},
+            "temperature_C": 25,
+            "time_h": 4,
+            "order_of_addition": ["acid","T3P","base","amine"],
+            "notes": "Greener, scalable; low epimerization risk.",
+            "source_keys": ["T3P_green"]
+          }
+        ],
+        "alternatives": [
+          {
+            "name": "EDC·HCl + Oxyma",
+            "activator": "EDC·HCl",
+            "base": "DIPEA or NMM",
+            "catalyst": "DMAP (5–10 mol%) optional",
+            "solvent_options": ["DMF","MeCN","H2O (with NHS)"],
+            "equivalents": {"acid":1.0,"amine":1.1,"activator":1.2,"additive (Oxyma)":1.1,"base":2.0},
+            "temperature_C": 0,
+            "time_h": 2,
+            "order_of_addition": ["acid","+ additive (Oxyma/NHS)","+ activator (EDC)","base","amine"],
+            "notes": "Aqueous-compatible; Oxyma preferred over HOBt/HOAt for safety.",
+            "source_keys": ["Oxyma2022","HOBt_safety"]
+          }
+        ]
+      },
+      {
+        "class": "hindered secondary amine",
+        "recommended": [
+          {
+            "name": "TCFH–NMI",
+            "activator": "TCFH",
+            "base": "NMI",
+            "catalyst": null,
+            "solvent_options": ["MeCN"],
+            "equivalents": {"acid":1.0,"amine":1.2,"activator":1.2,"base":2.5},
+            "temperature_C": 25,
+            "time_h": 1,
+            "order_of_addition": ["acid + NMI","TCFH","amine"],
+            "notes": "Excellent for sterically hindered partners; minimizes racemization.",
+            "source_keys": ["Beutner2018"]
+          }
+        ],
+        "alternatives": [
+          {
+            "name": "HATU–Lutidine",
+            "activator": "HATU",
+            "base": "2,6-Lutidine",
+            "catalyst": null,
+            "solvent_options": ["DMF","MeCN"],
+            "equivalents": {"acid":1.0,"amine":1.2,"activator":1.2,"base":2.0},
+            "temperature_C": 25,
+            "time_h": 4,
+            "order_of_addition": ["acid","HATU (pre-activate)","base","amine"],
+            "notes": "Effective but monitor for guanidinium byproducts; manage heat.",
+            "source_keys": ["Valeur2009","Sperry2018"]
+          }
+        ]
+      },
+      {
+        "class": "epimerization-sensitive (peptide-like, α-stereocenter adjacent)",
+        "recommended": [
+          {
+            "name": "T3P–Pyridine",
+            "activator": "T3P",
+            "base": "Pyridine (or DIPEA)",
+            "catalyst": null,
+            "solvent_options": ["EtOAc","2-MeTHF"],
+            "equivalents": {"acid":1.0,"amine":1.1,"activator":1.5,"base":2.0},
+            "temperature_C": 0,
+            "time_h": 2,
+            "order_of_addition": ["acid","T3P","base","amine (0–10 °C)"],
+            "notes": "Lower epimerization risk; greener solvent set.",
+            "source_keys": ["T3P_green"]
+          }
+        ],
+        "alternatives": [
+          {
+            "name": "DIC + Oxyma (DMAP 5–10 mol% optional)",
+            "activator": "DIC",
+            "base": "DIPEA",
+            "catalyst": "DMAP (optional)",
+            "solvent_options": ["DMF","DCM"],
+            "equivalents": {"acid":1.0,"amine":1.1,"activator":1.1,"additive (Oxyma)":1.1,"base":2.0},
+            "temperature_C": 0,
+            "time_h": 2,
+            "order_of_addition": ["acid","+ Oxyma","DIC (pre-activate briefly)","base","amine (0–10 °C)"],
+            "notes": "Oxyma preferred over HOBt/HOAt for safety.",
+            "source_keys": ["Oxyma2022","HOBt_safety"]
+          }
+        ]
+      }
+    ]
+  }
+}

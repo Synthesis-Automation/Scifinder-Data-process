@@ -45,7 +45,7 @@
     ],
     "additives": [
       {"name": "OxymaPure", "long_name": "Ethyl (hydroxyimino)cyanoacetate (Oxyma)", "typical_equiv": 1.1, "role": "additive with carbodiimides to suppress racemization and boost rates", "safety": "Lower explosion risk vs. HOBt/HOAt", "source_keys": ["Oxyma2022"]},
-      {"name": "HOBt (monohydrate)", "long_name": "1-Hydroxybenzotriazole·H2O", "typical_equiv": 1.1, "role": "additive with carbodiimides", "safety": "Anhydrous HOBt is explosive; handle only as monohydrate/in solution", "source_keys": ["HOBt_safety"]},
+      {"name": "HOBt", "long_name": "1-Hydroxybenzotriazole", "typical_equiv": 1.1, "role": "additive with carbodiimides", "safety": "Anhydrous HOBt is explosive; handle only as monohydrate/in solution", "source_keys": ["HOBt_safety"]},
       {"name": "HOAt", "long_name": "1-Hydroxy-7-azabenzotriazole", "typical_equiv": 1.1, "role": "additive (carbodiimide/uroniums)", "safety": "Energetic; safety concerns similar to HOBt", "source_keys": ["HOBt_safety"]},
       {"name": "NHS", "long_name": "N-Hydroxysuccinimide", "typical_equiv": 1.1, "role": "EDC-mediated couplings; forms NHS esters", "source_keys": ["Valeur2009"]}
     ]

@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-29 00:21:16
+**Generated:** 2025-08-29 22:28:48
 **Source Folder:** C:/Git-softwares/Scifinder-Data-process/dataset/Amide formation/2021-2024
 **Total Reactions:** 1000
 
@@ -28,10 +28,10 @@
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
@@ -127,10 +127,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -178,10 +178,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -235,10 +235,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -475,10 +475,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -1820,7 +1820,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) *[Corrected from: Na2CO3|497-19-8]* - Role: UNK
+  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
   - Sodium carbonate - Role: UNK
 
 **Solvents:**
@@ -4143,10 +4143,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -4245,10 +4245,10 @@ ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -4606,7 +4606,7 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]* - Role: CATALYST
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-(Dimethylamino)pyridine - Role: BASE
   - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
@@ -5393,10 +5393,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -5448,10 +5448,10 @@ ChemMedChem (2021), 16(6), 942-948.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -5498,10 +5498,10 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -5548,10 +5548,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -5598,10 +5598,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 39, 127853.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -9131,10 +9131,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
@@ -10858,10 +10858,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
@@ -10994,7 +10994,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115497.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]* - Role: CATALYST
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-(Dimethylamino)pyridine - Role: BASE
   - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
@@ -11042,7 +11042,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]* - Role: CATALYST
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-(Dimethylamino)pyridine - Role: BASE
   - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
@@ -13773,10 +13773,10 @@ European Journal of Medicinal Chemistry (2023), 250, 115170.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -13827,10 +13827,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -13881,10 +13881,10 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -13933,10 +13933,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 92, 129389.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -13985,10 +13985,10 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14039,10 +14039,10 @@ ChemMedChem (2023), 18(8), e202200615.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14093,10 +14093,10 @@ Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14149,10 +14149,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14203,10 +14203,10 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14260,10 +14260,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14314,10 +14314,10 @@ Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14368,10 +14368,10 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117468.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14424,10 +14424,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14478,10 +14478,10 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -14750,10 +14750,10 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117478.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -15764,10 +15764,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129066.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -16203,7 +16203,7 @@ ACS Medicinal Chemistry Letters (2024), 15(11), 2019-2031.
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Sodium carbonate (CAS: 497-19-8) *[Corrected from: Na2CO3|497-19-8]* - Role: UNK
+  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
   - Diisopropylethylamine - Role: UNK
   - Sodium carbonate - Role: UNK
 
@@ -16335,10 +16335,10 @@ European Journal of Medicinal Chemistry (2024), 268, 116263.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -17067,12 +17067,12 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
   - Dimethylformamide (CAS: 68-12-2)
   - 4-(Dimethylamino)pyridine
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Ligands:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -17128,12 +17128,12 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
   - Dimethylformamide (CAS: 68-12-2)
   - 4-(Dimethylamino)pyridine
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Ligands:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -17727,10 +17727,10 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -17866,10 +17866,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127106.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -17921,10 +17921,10 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -18016,10 +18016,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18068,10 +18068,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18120,10 +18120,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 1914-1931.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18177,10 +18177,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18229,10 +18229,10 @@ Journal of Medicinal Chemistry (2023), 66(23), 15750-15760.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18284,10 +18284,10 @@ Journal of Medicinal Chemistry (2023), 66(7), 4768-4783.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18336,10 +18336,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18392,10 +18392,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18447,10 +18447,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18502,10 +18502,10 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18554,10 +18554,10 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18606,10 +18606,10 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129083.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18660,10 +18660,10 @@ Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -18714,10 +18714,10 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -19313,10 +19313,10 @@ ChemMedChem (2023), 18(8), e202200615.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
@@ -19373,10 +19373,10 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
@@ -19427,10 +19427,10 @@ ACS Medicinal Chemistry Letters (2021), 12(2), 217-227.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
@@ -20535,7 +20535,7 @@ Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - Triethylamine (CAS: 121-44-8) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Sodium carbonate (CAS: 497-19-8) *[Corrected from: Na2CO3|497-19-8]* - Role: UNK
+  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
   - Sodium carbonate - Role: UNK
 
 **Solvents:**
@@ -20586,10 +20586,10 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
@@ -20643,10 +20643,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
@@ -20702,10 +20702,10 @@ European Journal of Medicinal Chemistry (2021), 213, 113172.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
@@ -24858,10 +24858,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -24910,10 +24910,10 @@ European Journal of Medicinal Chemistry (2023), 257, 115473.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -25142,10 +25142,10 @@ ACS Medicinal Chemistry Letters (2022), 13(1), 76-83.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -25198,10 +25198,10 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -25250,10 +25250,10 @@ Journal of Medicinal Chemistry (2022), 65(24), 16829-16859.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -25304,10 +25304,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -25356,10 +25356,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -28239,7 +28239,7 @@ Bioorganic & Medicinal Chemistry Letters (2023), 96, 129492.
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) *[Corrected from: Na2CO3|497-19-8]* - Role: UNK
+  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
   - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium carbonate - Role: UNK
@@ -28375,10 +28375,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -28425,10 +28425,10 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -28475,10 +28475,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -28525,10 +28525,10 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -28581,10 +28581,10 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -28983,7 +28983,7 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - Pyridine (CAS: 110-86-1) - Role: CATALYST
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]* - Role: UNK
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: UNK
   - 4-(Dimethylamino)pyridine - Role: UNK
 
 **Solvents:**
@@ -30515,10 +30515,10 @@ Bioorganic & Medicinal Chemistry (2024), 104, 117712.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: WORKUP
@@ -31284,7 +31284,7 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]* - Role: CATALYST
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Sodium borohydride (CAS: 16940-66-2) - Role: BASE
   - 4-(Dimethylamino)pyridine - Role: UNK
@@ -31998,10 +31998,10 @@ Journal of Medicinal Chemistry (2022), 65(24), 16902-16917.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -32051,10 +32051,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -32102,10 +32102,10 @@ Bioorganic & Medicinal Chemistry Letters (2024), 108, 129799.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -32155,10 +32155,10 @@ Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -32206,10 +32206,10 @@ Bioorganic & Medicinal Chemistry Letters (2021), 40, 127911.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -32260,10 +32260,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(17), 127402.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -33137,7 +33137,7 @@ ChemMedChem (2023), 18(16), e202300097.
 **Reagents:**
   - Potassium bisulfate (CAS: 7646-93-7) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
-  - Potassium carbonate (CAS: 584-08-7) *[Corrected from: K2CO3|584-08-7]* - Role: UNK
+  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: UNK
   - Potassium carbonate - Role: UNK
@@ -34126,7 +34126,7 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: CATALYST
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]* - Role: UNK
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: UNK
   - Dicyclohexylcarbodiimide - Role: UNK
   - 4-(Dimethylamino)pyridine - Role: UNK
 
@@ -34687,7 +34687,7 @@ Journal of Medicinal Chemistry (2020), 63(3), 1313-1327.
 **Type:** Other
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) *[Corrected from: K2CO3|584-08-7]* - Role: BASE
+  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - Pivaloyl chloride (CAS: 3282-30-2) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
@@ -35443,10 +35443,10 @@ Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
@@ -35588,7 +35588,7 @@ European Journal of Medicinal Chemistry (2021), 224, 113687.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) *[Corrected from: K2CO3|584-08-7]* - Role: UNK
+  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
   - Potassium carbonate - Role: UNK
 
 **Solvents:**
@@ -36096,10 +36096,10 @@ Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -36156,10 +36156,10 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -36681,10 +36681,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
@@ -36867,10 +36867,10 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116211.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -39306,10 +39306,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 2208-2224.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
@@ -39587,10 +39587,10 @@ Organic Process Research & Development (2024), 28(7), 2646-2658.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
@@ -40608,10 +40608,10 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -40659,10 +40659,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -40711,10 +40711,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -40762,10 +40762,10 @@ European Journal of Medicinal Chemistry (2021), 223, 113663.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -40813,10 +40813,10 @@ Organic Process Research & Development (2021), 25(4), 817-830.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -40951,10 +40951,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
@@ -41492,10 +41492,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
@@ -41724,10 +41724,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
@@ -41868,10 +41868,10 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
@@ -41930,10 +41930,10 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 632-640.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
@@ -41991,10 +41991,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
@@ -42312,10 +42312,10 @@ Bioorganic & Medicinal Chemistry (2023), 84, 117257.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
@@ -44794,10 +44794,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) *[Corrected from: 4-Dimethylaminopyridine|1122-58-3]*
+  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK

@@ -17,7 +17,9 @@ A standalone application that combines RDF and TXT files from SciFinder to gener
 ## What's New: Enhanced Data Quality
 
 ### CAS Number Validation
+
 The tool now includes comprehensive CAS number validation:
+
 - **Format validation**: Ensures proper XXXXX-XX-X format
 - **Checksum verification**: Validates CAS number checksums according to official algorithm
 - **Manual corrections**: Built-in database of common CAS/name corrections
@@ -26,6 +28,7 @@ The tool now includes comprehensive CAS number validation:
 ### Example of Data Quality Improvement
 
 **Before (incorrect):**
+
 ```
 **Full Catalytic System:**
   - 1 (CAS: 6737-42-4)
@@ -33,6 +36,7 @@ The tool now includes comprehensive CAS number validation:
 ```
 
 **After (corrected with warnings):**
+
 ```
 **Full Catalytic System:**
   - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
@@ -63,16 +67,19 @@ The tool now includes comprehensive CAS number validation:
 ### GUI Mode (Recommended)
 
 Run the application with GUI:
+
 ```bash
 python reaction_markdown_generator.py
 ```
 
 Or use the batch script on Windows:
+
 ```bash
 run_markdown_generator.bat
 ```
 
 **GUI Steps:**
+
 1. Click "Browse Folder" to select a folder containing RDF/TXT pairs
 2. Choose an output location for the markdown report
 3. Click "Generate Report"
@@ -82,11 +89,13 @@ run_markdown_generator.bat
 ### Command Line Mode
 
 For batch processing or automation:
+
 ```bash
 python reaction_markdown_generator.py --folder "path/to/rdf_txt_folder" --output "report.md"
 ```
 
 **Examples:**
+
 ```bash
 # Process Ullmann dataset
 python reaction_markdown_generator.py --folder "dataset/Ullman/2020-2024" --output "ullmann_reactions.md"
@@ -103,11 +112,13 @@ python reaction_markdown_generator.py --folder "dataset/Amide formation/2021-202
 The included `run_markdown_generator.bat` provides easy access:
 
 **GUI Mode:**
+
 ```cmd
 run_markdown_generator.bat
 ```
 
 **CLI Mode:**
+
 ```cmd
 run_markdown_generator.bat "dataset\Ullman\2020-2024" "ullmann_report.md"
 ```
@@ -117,12 +128,15 @@ run_markdown_generator.bat "dataset\Ullman\2020-2024" "ullmann_report.md"
 The generated markdown report includes:
 
 ### Summary Section
+
 - Total reaction count
 - Reaction type distribution (Buchwald, Ullmann, Other)
 - Yield statistics
 
 ### Individual Reactions
+
 For each reaction:
+
 - **Reaction ID and Type**
 - **Full Catalytic System**: Complete list of catalysts/ligands with CAS numbers
 - **Catalyst Core**: Metal precursors and core catalysts
@@ -142,31 +156,38 @@ For each reaction:
 **Type:** Ullmann
 
 **Full Catalytic System:**
-  - N,N′-Dimethylethylenediamine (CAS: 110-70-3)
-  - Cupric acetate (CAS: 142-71-2)
+
+- N,N′-Dimethylethylenediamine (CAS: 110-70-3)
+- Cupric acetate (CAS: 142-71-2)
 
 **Catalyst Core:**
-  - Cupric acetate (CAS: 142-71-2)
+
+- Cupric acetate (CAS: 142-71-2)
 
 **Generic Catalyst:** Cu(II)
 
 **Ligands:**
-  - N,N′-Dimethylethylenediamine (CAS: 110-70-3)
+
+- N,N′-Dimethylethylenediamine (CAS: 110-70-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+
+- Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Dimethylformamide (CAS: 68-12-2)
+
+- Dimethylformamide (CAS: 68-12-2)
 
 **Reaction Conditions:**
-  - Temperature: 150.0°C
-  - Time: 12.0 hours
-  - Yield: 68%
+
+- Temperature: 150.0°C
+- Time: 12.0 hours
+- Yield: 68%
 
 **SMILES:**
-  - Reactants: `C1CCNC1.O=C(Cc1c(C(F)(F)F)nc2ccc(Cl)nn12)Nc1cccc(F)c1`
-  - Products: `O=C(Cc1c(C(F)(F)F)nc2ccc(-n3cccc3)nn12)Nc1cccc(F)c1`
+
+- Reactants: `C1CCNC1.O=C(Cc1c(C(F)(F)F)nc2ccc(Cl)nn12)Nc1cccc(F)c1`
+- Products: `O=C(Cc1c(C(F)(F)F)nc2ccc(-n3cccc3)nn12)Nc1cccc(F)c1`
 
 **Reference:** Journal of Medicinal Chemistry (2021), 64(1), 234-261. | Smith, J.; et al | Journal of Medicinal Chemistry (2021), 64(1), 234-261.
 ```
@@ -174,6 +195,7 @@ For each reaction:
 ## File Structure
 
 After running the tool, you'll have:
+
 - Input folder with RDF/TXT pairs
 - Generated markdown report (`.md` file)
 - Automatically loaded CAS mapping files (if present)
@@ -181,8 +203,9 @@ After running the tool, you'll have:
 ## CAS Mapping
 
 The tool automatically loads CAS mapping files from:
+
 - `Buchwald/cas_dictionary.csv`
-- `Ullman/新建文件夹/ullmann_cas_to_name_mapping.csv` 
+- `Ullman/新建文件夹/ullmann_cas_to_name_mapping.csv`
 - Local files: `cas_dictionary.csv`, `cas_mapping.csv` in the input folder
 
 ## Troubleshooting
@@ -190,14 +213,17 @@ The tool automatically loads CAS mapping files from:
 ### Common Issues
 
 1. **No RDF/TXT pairs found**
+
    - Ensure files have matching base names (e.g., `Reaction_2024-1.rdf` and `Reaction_2024-1.txt`)
    - Check file extensions are exactly `.rdf` and `.txt`
 
 2. **Missing dependencies**
+
    - Install PyQt6: `pip install PyQt6`
    - Ensure `process_reactions.py` is in the same folder
 
 3. **Empty report**
+
    - Check that RDF/TXT files contain valid reaction data
    - Verify file encoding (should be UTF-8)
 
@@ -232,6 +258,7 @@ python cas_registry_tool.py --build-registry "dataset/" --output "comprehensive_
 ```
 
 **Features:**
+
 - CAS format and checksum validation
 - Online lookup via PubChem API (when available)
 - Manual correction database

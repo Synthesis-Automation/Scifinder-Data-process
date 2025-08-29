@@ -314,10 +314,6 @@ class ReactionMarkdownGenerator:
                         result += f"  - {corrected_name} (CAS: {corrected_cas})"
                     else:
                         result += f"  - CAS: {corrected_cas}"
-                    
-                    # Add validation note if corrections were made
-                    if corrected_name != name or corrected_cas != cas:
-                        result += f" *[Corrected from: {name}|{cas}]*"
                     result += "\n"
                 elif corrected_name:
                     result += f"  - {corrected_name}\n"
@@ -507,8 +503,6 @@ class ReactionMarkdownGenerator:
                     
                     if corrected_name and corrected_cas:
                         display_text = f"{corrected_name} (CAS: {corrected_cas})"
-                        if corrected_name != name or corrected_cas != cas:
-                            display_text += f" *[Corrected from: {name}|{cas}]*"
                     elif corrected_name:
                         display_text = corrected_name
                     elif corrected_cas:

@@ -76,6 +76,7 @@ class CASRegistry:
     
     def __init__(self):
         self.cas_cache = {}
+        self.registry_data = {}  # Will store the full registry from JSONL
         self.manual_corrections = {
             # Known corrections from your example
             "6737-42-4": "1,3-Bis(diphenylphosphino)propane",
@@ -137,6 +138,47 @@ class CASRegistry:
             "109-99-9": "solvent",
             "75-09-2": "solvent",
         }
+        
+        # Load registry data from the updated JSONL file
+        self.load_registry_data()
+    
+    def load_registry_data(self):
+        """Load the updated CAS registry data from the JSONL file."""
+        registry_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cas_registry_merged.jsonl')
+        
+        if os.path.exists(registry_path):
+            try:
+                with open(registry_path, 'r', encoding='utf-8') as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        
+                        try:
+                            entry = json.loads(line)
+                            cas = entry.get('cas')
+                            if cas:
+                                self.registry_data[cas] = entry
+                        except json.JSONDecodeError:
+                            continue
+                            
+                print(f"[INFO] Loaded {len(self.registry_data)} entries from CAS registry")
+            except Exception as e:
+                print(f"[WARNING] Could not load CAS registry: {e}")
+        else:
+            print(f"[WARNING] CAS registry not found at {registry_path}")
+    
+    def get_registry_entry(self, cas: str) -> Optional[Dict[str, Any]]:
+        """Get the full registry entry for a CAS number."""
+        return self.registry_data.get(cas)
+    
+    def get_compound_abbreviation(self, cas: str) -> Optional[str]:
+        """Get the abbreviation for a compound from the registry."""
+        entry = self.get_registry_entry(cas)
+        if entry:
+            abbrev = entry.get('abbreviation', '')
+            return abbrev if abbrev else None
+        return None
     
     def validate_cas_format(self, cas: str) -> bool:
         """Validate CAS number format (XXXXX-XX-X)."""
@@ -182,7 +224,14 @@ class CASRegistry:
         if not cas or not self.validate_cas_format(cas):
             return cas or "Unknown"
         
-        # Check manual corrections first
+        # Check registry first
+        entry = self.get_registry_entry(cas)
+        if entry:
+            name = entry.get('name', '')
+            if name:
+                return name
+        
+        # Check manual corrections
         if cas in self.manual_corrections:
             return self.manual_corrections[cas]
         
@@ -202,7 +251,32 @@ class CASRegistry:
     
     def get_compound_type(self, cas: str) -> Optional[str]:
         """Get the compound type (catalyst_core, ligand, base, solvent) for a CAS number."""
+        # Check registry first
+        entry = self.get_registry_entry(cas)
+        if entry:
+            compound_type = entry.get('compound_type')
+            if compound_type:
+                return compound_type
+        
+        # Fallback to manual mappings
         return self.compound_types.get(cas)
+    
+    def get_display_name(self, name: str, cas: str) -> str:
+        """Get the best display name for a compound, using abbreviation if available."""
+        if not cas:
+            return name
+        
+        # Get abbreviation from registry
+        abbreviation = self.get_compound_abbreviation(cas)
+        registry_name = self.get_compound_name(cas)
+        
+        # Priority: 1) abbreviation, 2) registry name, 3) provided name
+        if abbreviation and abbreviation != cas:
+            return abbreviation
+        elif registry_name and registry_name != cas:
+            return registry_name
+        else:
+            return name if name else cas
     
     def validate_compound_pair(self, name: str, cas: str) -> Tuple[str, str, List[str]]:
         """Validate and correct a compound name/CAS pair.
@@ -223,14 +297,40 @@ class CASRegistry:
         if not self.calculate_cas_checksum(cas):
             warnings.append(f"Invalid CAS checksum: {cas}")
         
-        # Get the correct name for this CAS
-        correct_name = self.get_compound_name(cas)
+        # Get the best display name using the new registry
+        best_name = self.get_display_name(name, cas)
         
-        # If we have a manual correction and the provided name doesn't match
-        if cas in self.manual_corrections:
-            if name.lower() != correct_name.lower():
-                warnings.append(f"Name mismatch: '{name}' vs expected '{correct_name}' for CAS {cas}")
-                corrected_name = correct_name
+        # Get registry entry for additional validation
+        entry = self.get_registry_entry(cas)
+        if entry:
+            registry_name = entry.get('name', '')
+            abbreviation = entry.get('abbreviation', '')
+            
+            # Check for name mismatches
+            if name and registry_name:
+                # Allow for abbreviation matches
+                name_lower = name.lower().strip()
+                registry_name_lower = registry_name.lower().strip()
+                abbrev_lower = abbreviation.lower().strip() if abbreviation else ""
+                
+                if (name_lower != registry_name_lower and 
+                    name_lower != abbrev_lower and
+                    name_lower != cas.lower()):
+                    warnings.append(
+                        f"Name mismatch: '{name}' vs registry '{registry_name}'"
+                        + (f" (abbrev: '{abbreviation}')" if abbreviation else "")
+                        + f" for CAS {cas}"
+                    )
+            
+            # Use the best available name
+            corrected_name = best_name
+        else:
+            # Check manual corrections if not in registry
+            if cas in self.manual_corrections:
+                correct_name = self.manual_corrections[cas]
+                if name.lower() != correct_name.lower():
+                    warnings.append(f"Name mismatch: '{name}' vs expected '{correct_name}' for CAS {cas}")
+                    corrected_name = correct_name
         
         return corrected_name, corrected_cas, warnings
 
@@ -290,7 +390,7 @@ class ReactionMarkdownGenerator:
         return load_cas_maps(cas_map_paths) if cas_map_paths else {}
     
     def format_compound_list(self, compound_list: List[str], title: str) -> str:
-        """Format a list of compounds for markdown output with CAS validation."""
+        """Format a list of compounds for markdown output with CAS validation and abbreviations."""
         if not compound_list:
             return f"**{title}:** None\n"
         
@@ -308,17 +408,32 @@ class ReactionMarkdownGenerator:
                 for warning in warnings:
                     self.validation_warnings.append(f"{title}: {warning}")
                 
+                # Get compound type for role annotation
+                compound_type = self.cas_registry.get_compound_type(corrected_cas) if corrected_cas else None
+                
                 if corrected_name and corrected_cas:
-                    # Use corrected values
-                    if corrected_name != cas:  # Don't show CAS twice if name is just the CAS
-                        result += f"  - {corrected_name} (CAS: {corrected_cas})"
+                    # Use corrected values with abbreviation preference
+                    display_name = self.cas_registry.get_display_name(corrected_name, corrected_cas)
+                    
+                    if display_name != corrected_cas:  # Don't show CAS twice if name is just the CAS
+                        result += f"  - {display_name} (CAS: {corrected_cas})"
+                        if compound_type:
+                            result += f" - Role: {compound_type.upper()}"
                     else:
                         result += f"  - CAS: {corrected_cas}"
+                        if compound_type:
+                            result += f" - Role: {compound_type.upper()}"
                     result += "\n"
                 elif corrected_name:
-                    result += f"  - {corrected_name}\n"
+                    result += f"  - {corrected_name}"
+                    if compound_type:
+                        result += f" - Role: {compound_type.upper()}"
+                    result += "\n"
                 elif corrected_cas:
-                    result += f"  - CAS: {corrected_cas}\n"
+                    result += f"  - CAS: {corrected_cas}"
+                    if compound_type:
+                        result += f" - Role: {compound_type.upper()}"
+                    result += "\n"
             else:
                 result += f"  - {compound}\n"
         
@@ -496,21 +611,32 @@ class ReactionMarkdownGenerator:
                     name = name.strip()
                     cas = cas.strip()
                     
-                    # Validate reagent
+                    # Validate reagent using updated registry
                     corrected_name, corrected_cas, warnings = self.cas_registry.validate_compound_pair(name, cas)
                     for warning in warnings:
                         self.validation_warnings.append(f"Reagent: {warning}")
                     
-                    if corrected_name and corrected_cas:
-                        display_text = f"{corrected_name} (CAS: {corrected_cas})"
-                    elif corrected_name:
-                        display_text = corrected_name
+                    # Get the best display name with abbreviation preference
+                    display_name = self.cas_registry.get_display_name(corrected_name, corrected_cas)
+                    
+                    # Get compound type from registry for additional context
+                    compound_type = self.cas_registry.get_compound_type(corrected_cas) if corrected_cas else None
+                    
+                    if display_name and corrected_cas:
+                        display_text = f"{display_name} (CAS: {corrected_cas})"
+                    elif display_name:
+                        display_text = display_name
                     elif corrected_cas:
                         display_text = f"CAS: {corrected_cas}"
                     else:
                         display_text = reagent
                     
-                    markdown += f"  - {display_text} - Role: {role}\n"
+                    # Show both the role from the data and compound type from registry if different
+                    role_text = f" - Role: {role}"
+                    if compound_type and compound_type.upper() != role.upper():
+                        role_text += f" (Registry: {compound_type.upper()})"
+                    
+                    markdown += f"  - {display_text}{role_text}\n"
                 else:
                     markdown += f"  - {reagent} - Role: {role}\n"
             markdown += "\n"
@@ -737,14 +863,12 @@ class ReactionMarkdownGenerator:
                     name, cas = item.split('|', 1)
                     compounds.append({
                         'name': name.strip(),
-                        'cas': cas.strip(),
-                        'name_cas': item
+                        'cas': cas.strip()
                     })
                 else:
                     compounds.append({
                         'name': item.strip(),
-                        'cas': '',
-                        'name_cas': item
+                        'cas': ''
                     })
             return compounds
         
@@ -757,15 +881,13 @@ class ReactionMarkdownGenerator:
                 reagent_data.append({
                     'name': name.strip(),
                     'cas': cas.strip(),
-                    'role': role,
-                    'name_cas': reagent
+                    'role': role
                 })
             else:
                 reagent_data.append({
                     'name': reagent.strip(),
                     'cas': '',
-                    'role': role,
-                    'name_cas': reagent
+                    'role': role
                 })
         
         # Parse numerical values safely

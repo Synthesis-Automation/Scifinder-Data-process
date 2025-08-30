@@ -43,16 +43,14 @@ Each JSONL record contains the following structured fields:
     "core": [
       {
         "name": "Tris(dibenzylideneacetone)dipalladium",
-        "cas": "",
-        "name_cas": "Tris(dibenzylideneacetone)dipalladium|"
+        "cas": ""
       }
     ],
     "generic": ["Pd"],
     "ligands": [
       {
         "name": "Tri-tert-butylphosphonium tetrafluoroborate",
-        "cas": "",
-        "name_cas": "Tri-tert-butylphosphonium tetrafluoroborate|"
+        "cas": ""
       }
     ],
     "full_system": [...]
@@ -67,8 +65,7 @@ Each JSONL record contains the following structured fields:
     {
       "name": "Sodium tert-butoxide",
       "cas": "865-48-5",
-      "role": "BASE",
-      "name_cas": "Sodium tert-butoxide|865-48-5"
+      "role": "BASE"
     }
   ]
 }

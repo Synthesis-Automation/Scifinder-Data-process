@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-30 14:50:23
+**Generated:** 2025-08-30 15:13:03
 **Source Folder:** C:/Git-ChemRobox/Scifinder-Data-process/dataset/Buchwald/2021-2024
 **Total Reactions:** 1343
 
@@ -47,7 +47,6 @@
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Sodium tert-butoxide - Role: UNK
   - Sodium hydroxide - Role: UNK
 
 **Solvents:**
@@ -97,11 +96,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -110,7 +109,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -150,11 +148,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -163,7 +161,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -205,11 +202,11 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -218,7 +215,6 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -259,11 +255,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -272,7 +268,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -312,11 +307,11 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -325,7 +320,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -602,11 +596,11 @@ Journal of Medicinal Chemistry (2024), 67(13), 11168-11181.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -615,7 +609,6 @@ Journal of Medicinal Chemistry (2024), 67(13), 11168-11181.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -776,11 +769,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -789,7 +782,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -1006,11 +998,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -1019,7 +1011,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -1357,11 +1348,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -1370,7 +1361,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -1468,11 +1458,11 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -1481,7 +1471,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -1580,11 +1569,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -1593,7 +1582,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -1704,7 +1692,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -1984,7 +1971,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -2024,12 +2010,12 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2223,7 +2209,6 @@ ACS Catalysis (2022), 12(10), 5949-5960.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2263,11 +2248,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Dicyclohexyl[3,6-dimethoxy-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 1070663-78-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2335,7 +2320,6 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -2371,11 +2355,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2384,7 +2368,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2424,11 +2407,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2437,7 +2420,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2477,11 +2459,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2490,7 +2472,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2638,11 +2619,11 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2651,7 +2632,6 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2693,11 +2673,11 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2706,7 +2686,6 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2748,11 +2727,11 @@ Organic Letters (2023), 25(9), 1470-1475.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2761,7 +2740,6 @@ Organic Letters (2023), 25(9), 1470-1475.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2803,11 +2781,11 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2816,7 +2794,6 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2858,11 +2835,11 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2871,7 +2848,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2914,12 +2890,12 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2929,7 +2905,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2973,12 +2948,12 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2988,7 +2963,6 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3030,12 +3004,12 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3045,7 +3019,6 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3085,12 +3058,12 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(41), 5391-5394.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3100,7 +3073,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(41), 5391-5394.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3142,12 +3114,12 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3157,7 +3129,6 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3197,12 +3168,12 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3212,7 +3183,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3254,12 +3224,12 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3269,7 +3239,6 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3311,12 +3280,12 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3326,7 +3295,6 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3368,12 +3336,12 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3383,7 +3351,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3425,12 +3392,12 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3440,7 +3407,6 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3482,12 +3448,12 @@ Organic Letters (2021), 23(3), 876-880.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3497,7 +3463,6 @@ Organic Letters (2021), 23(3), 876-880.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3539,12 +3504,12 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3554,7 +3519,6 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3599,12 +3563,12 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3614,7 +3578,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3656,12 +3619,12 @@ European Journal of Medicinal Chemistry (2023), 249, 115178.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3671,7 +3634,6 @@ European Journal of Medicinal Chemistry (2023), 249, 115178.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3713,12 +3675,12 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3728,7 +3690,6 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3768,12 +3729,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3783,7 +3744,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3825,12 +3785,12 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3840,7 +3800,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3880,12 +3839,12 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3895,7 +3854,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3937,12 +3895,12 @@ Organic Letters (2023), 25(19), 3386-3390.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -3952,7 +3910,6 @@ Organic Letters (2023), 25(19), 3386-3390.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -3992,12 +3949,12 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4007,7 +3964,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4049,12 +4005,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4064,7 +4020,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4106,12 +4061,12 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4121,7 +4076,6 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4163,12 +4117,12 @@ Chemistry - A European Journal (2023), 29(5), e202202594.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4178,7 +4132,6 @@ Chemistry - A European Journal (2023), 29(5), e202202594.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4220,12 +4173,12 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(44), 5707-5710.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4235,7 +4188,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(44), 5707-5710.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4277,12 +4229,12 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4292,7 +4244,6 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4348,7 +4299,6 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4737,7 +4687,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4792,7 +4741,6 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4845,7 +4793,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(33), 4011-4014.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4898,7 +4845,6 @@ Angewandte Chemie, International Edition (2024), 63(12), e202319089.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5004,7 +4950,6 @@ Angewandte Chemie, International Edition (2021), 60(1), 304-312.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5057,7 +5002,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5110,7 +5054,6 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5209,10 +5152,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5260,11 +5203,11 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5273,7 +5216,6 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5313,11 +5255,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5326,7 +5268,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5376,7 +5317,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5428,7 +5368,6 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5478,7 +5417,6 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5518,12 +5456,12 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5533,7 +5471,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5573,12 +5510,12 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5588,7 +5525,6 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5628,12 +5564,12 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5643,7 +5579,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5685,12 +5620,12 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5756,7 +5691,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -5796,11 +5730,11 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5809,7 +5743,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5851,11 +5784,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5864,7 +5797,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6027,7 +5959,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6080,7 +6011,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6186,7 +6116,6 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6228,12 +6157,12 @@ Angewandte Chemie, International Edition (2023), 62(26), e202302371.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6286,12 +6215,12 @@ Organometallics (2021), 40(2), 156-165.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6354,7 +6283,6 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -6394,12 +6322,12 @@ Advanced Synthesis & Catalysis (2023), 365(3), 373-380.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6409,7 +6337,6 @@ Advanced Synthesis & Catalysis (2023), 365(3), 373-380.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6451,11 +6378,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6464,7 +6391,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -6504,11 +6430,11 @@ ACS Catalysis (2023), 13(13), 9264-9273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6517,7 +6443,6 @@ ACS Catalysis (2023), 13(13), 9264-9273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -6570,7 +6495,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6716,12 +6640,12 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6731,7 +6655,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6786,7 +6709,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6843,7 +6765,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -6902,7 +6823,6 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -6944,17 +6864,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7011,7 +6930,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7070,7 +6988,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7130,7 +7047,6 @@ ACS Catalysis (2023), 13(11), 7680-7690.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7290,7 +7206,6 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7329,12 +7244,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -7344,7 +7259,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7517,11 +7431,11 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -7530,7 +7444,6 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7572,12 +7485,12 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -7587,7 +7500,6 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -8226,11 +8138,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Dicyclohexyl(4′′-methoxy[1,1′:2′,1′′-terphenyl]-2-yl)phosphine (CAS: 2097737-81-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -8239,7 +8151,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0) - Role: SOLVENT
@@ -8294,7 +8205,6 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -8350,7 +8260,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -8393,12 +8302,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
   - Triphenylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -8539,7 +8448,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -8601,7 +8509,6 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -8663,7 +8570,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -8725,7 +8631,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -8787,7 +8692,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -8849,7 +8753,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -8911,7 +8814,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -8973,7 +8875,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9035,7 +8936,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9097,7 +8997,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9159,7 +9058,6 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9221,7 +9119,6 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9283,7 +9180,6 @@ ChemCatChem (2022), 14(17), e202200485.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9345,7 +9241,6 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9407,7 +9302,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9469,7 +9363,6 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9531,7 +9424,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9585,7 +9477,6 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -9634,7 +9525,6 @@ Organic Letters (2022), 24(20), 3589-3593.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -12717,12 +12607,12 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -12732,7 +12622,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12772,12 +12661,12 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -12787,7 +12676,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12827,12 +12715,12 @@ Organic Letters (2021), 23(8), 3207-3210.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -12842,7 +12730,6 @@ Organic Letters (2021), 23(8), 3207-3210.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12882,12 +12769,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -12897,7 +12784,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12937,12 +12823,12 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -12952,7 +12838,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12992,12 +12877,12 @@ Angewandte Chemie, International Edition (2021), 60(5), 2455-2463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -13007,7 +12892,6 @@ Angewandte Chemie, International Edition (2021), 60(5), 2455-2463.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13049,12 +12933,12 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -13064,7 +12948,6 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16137,7 +16020,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16189,7 +16071,6 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16583,11 +16464,11 @@ Journal of Organic Chemistry (2023), 88(7), 4101-4111.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -16596,7 +16477,6 @@ Journal of Organic Chemistry (2023), 88(7), 4101-4111.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -18380,11 +18260,11 @@ European Journal of Medicinal Chemistry (2022), 243, 114764.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18435,12 +18315,12 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18490,12 +18370,12 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18545,12 +18425,12 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18600,12 +18480,12 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18655,12 +18535,12 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(21), 2609-2612.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18710,12 +18590,12 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18765,12 +18645,12 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -19731,12 +19611,12 @@ Organic Letters (2022), 24(10), 1929-1934.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -19747,7 +19627,6 @@ Organic Letters (2022), 24(10), 1929-1934.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tetrabutylammonium fluoride (CAS: 429-41-4) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -19790,12 +19669,12 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -19805,7 +19684,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -19860,7 +19738,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -19901,11 +19778,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20030,7 +19907,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20085,7 +19961,6 @@ Journal of Medicinal Chemistry (2023), 66(13), 9130-9146.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20174,11 +20049,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (11bR)-2,6-Dimethyl-N,N-bis[(1R)-1-phenylethyl]dinaphtho[2,1-d:1′,2′-f][1,3,2]dioxaphosphepin-4-amine (CAS: 340700-94-9)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20380,11 +20255,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (11bR)-2,6-Dimethyl-N,N-bis[(1R)-1-phenylethyl]dinaphtho[2,1-d:1′,2′-f][1,3,2]dioxaphosphepin-4-amine (CAS: 340700-94-9)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20445,7 +20320,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20485,11 +20359,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20498,7 +20372,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20547,7 +20420,6 @@ Chemistry - A European Journal (2021), 27(6), 2212-2218.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20644,10 +20516,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20696,12 +20568,12 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20712,7 +20584,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -20755,12 +20626,12 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20771,7 +20642,6 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -20814,12 +20684,12 @@ Journal of the American Chemical Society (2021), 143(17), 6498-6504.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20871,12 +20741,12 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20887,7 +20757,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -20930,11 +20799,11 @@ Nature Communications (2022), 13(1), 2869.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -20943,7 +20812,6 @@ Nature Communications (2022), 13(1), 2869.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20983,11 +20851,11 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21052,7 +20920,6 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -21092,12 +20959,12 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21145,11 +21012,11 @@ Journal of Organic Chemistry (2024), 89(3), 1880-1897.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21158,7 +21025,6 @@ Journal of Organic Chemistry (2024), 89(3), 1880-1897.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21255,13 +21121,13 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Phosphoric acid (CAS: 58856-12-5)
   - 2,2-dichloroethenyl dimethyl ester
   - mixt. with 1,2,4-trichloro-5-[(4-chlorophenyl)thio]benzene
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21315,11 +21181,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - CAS: 1239478-87-5
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21389,7 +21255,6 @@ Organic Letters (2023), 25(9), 1420-1424.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21444,7 +21309,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21549,7 +21413,6 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21589,11 +21452,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21602,7 +21465,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21697,11 +21559,11 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21712,7 +21574,6 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Sodium tert-butoxide - Role: UNK
   - Sodium carbonate - Role: UNK
 
 **Solvents:**
@@ -21758,11 +21619,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21771,7 +21632,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22054,7 +21914,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22106,7 +21965,6 @@ Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22158,7 +22016,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22210,7 +22067,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22262,7 +22118,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22301,11 +22156,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22314,7 +22169,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22355,11 +22209,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22368,7 +22222,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22407,11 +22260,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22420,7 +22273,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22472,7 +22324,6 @@ European Journal of Medicinal Chemistry (2023), 253, 115305.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22526,7 +22377,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22579,7 +22429,6 @@ Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22632,7 +22481,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22685,7 +22533,6 @@ Angewandte Chemie, International Edition (2022), 61(35), e202203908.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22725,17 +22572,16 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22891,11 +22737,11 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22958,7 +22804,6 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23058,11 +22903,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23071,7 +22916,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23168,14 +23012,14 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Cs2CO3 (CAS: 98327-87-8)
   - Cs2CO3 (CAS: 534-15-6) - Role: BASE
   - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23278,11 +23122,11 @@ Angewandte Chemie, International Edition (2023), 62(7), e202216473.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23292,7 +23136,6 @@ Angewandte Chemie, International Edition (2023), 62(7), e202216473.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23333,11 +23176,11 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(62), 8698-8701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23347,7 +23190,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(62), 8698-8701.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23390,11 +23232,11 @@ Journal of Medicinal Chemistry (2024), 67(14), 11868-11884.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23405,7 +23247,6 @@ Journal of Medicinal Chemistry (2024), 67(14), 11868-11884.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Sodium tert-butoxide - Role: UNK
   - Sodium hydroxide - Role: UNK
 
 **Solvents:**
@@ -23453,11 +23294,11 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23466,7 +23307,6 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23506,11 +23346,11 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23519,7 +23359,6 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23576,7 +23415,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23635,7 +23473,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23745,7 +23582,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23786,12 +23622,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -23801,7 +23637,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23858,7 +23693,6 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23913,7 +23747,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23972,7 +23805,6 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -24031,7 +23863,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -24090,7 +23921,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -24187,12 +24017,12 @@ Nature Communications (2024), 15(1), 3968.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24256,7 +24086,6 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -24311,7 +24140,6 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -24351,11 +24179,11 @@ Journal of Organic Chemistry (2023), 88(20), 14797-14802.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24404,11 +24232,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24457,11 +24285,11 @@ Organic Letters (2022), 24(47), 8651-8656.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24510,11 +24338,11 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24563,11 +24391,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24616,11 +24444,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24669,11 +24497,11 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24722,11 +24550,11 @@ Organic Letters (2022), 24(49), 8969-8974.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24778,11 +24606,11 @@ Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24831,11 +24659,11 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24884,11 +24712,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24937,11 +24765,11 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -24992,11 +24820,11 @@ Journal of Medicinal Chemistry (2024), 67(15), 12485-12520.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25045,11 +24873,11 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25098,11 +24926,11 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25151,11 +24979,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25259,11 +25087,11 @@ Organometallics (2021), 40(23), 3871-3875.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25272,7 +25100,6 @@ Organometallics (2021), 40(23), 3871-3875.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -25312,11 +25139,11 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25325,7 +25152,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -25365,16 +25191,15 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -25588,7 +25413,6 @@ Angewandte Chemie, International Edition (2022), 61(39), e202209365.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -25683,11 +25507,11 @@ Journal of the American Chemical Society (2021), 143(47), 19769-19777.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - [3,6-Dimethoxy-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]bis(1,1-dimethylethyl)phosphine (CAS: 1160861-53-9)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26004,12 +25828,12 @@ Chemistry - A European Journal (2022), 28(37), e202200510.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26019,7 +25843,6 @@ Chemistry - A European Journal (2022), 28(37), e202200510.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26059,12 +25882,12 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26074,7 +25897,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26117,12 +25939,12 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26132,7 +25954,6 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26172,12 +25993,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26187,7 +26008,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26499,11 +26319,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26565,7 +26385,6 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26621,7 +26440,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26714,11 +26532,11 @@ Chemistry - A European Journal (2023), 29(1), e202202636.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26729,7 +26547,6 @@ Chemistry - A European Journal (2023), 29(1), e202202636.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium tert-butoxide - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -26834,12 +26651,12 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(37), 5614-5617.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26889,12 +26706,12 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26944,12 +26761,12 @@ Journal of the American Chemical Society (2024), 146(33), 22993-23003.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26999,12 +26816,12 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27054,11 +26871,11 @@ Journal of Organic Chemistry (2021), 86(8), 5922-5932.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27067,7 +26884,6 @@ Journal of Organic Chemistry (2021), 86(8), 5922-5932.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27107,11 +26923,11 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27121,7 +26937,6 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27218,11 +27033,11 @@ ACS Catalysis (2023), 13(9), 6416-6429.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27418,11 +27233,11 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27431,7 +27246,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0) - Role: SOLVENT
@@ -27472,11 +27286,11 @@ Journal of Medicinal Chemistry (2023), 66(12), 7988-8010.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27533,11 +27347,11 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27591,11 +27405,11 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27649,11 +27463,11 @@ Organic Letters (2021), 23(9), 3546-3551.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27707,11 +27521,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27720,7 +27534,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27761,11 +27574,11 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27774,7 +27587,6 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27815,11 +27627,11 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27828,7 +27640,6 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27866,12 +27677,12 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27881,7 +27692,6 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27934,7 +27744,6 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27975,12 +27784,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27990,7 +27799,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28030,12 +27838,12 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28095,7 +27903,6 @@ Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28135,12 +27942,12 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28189,12 +27996,12 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28243,12 +28050,12 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28299,12 +28106,12 @@ Advanced Synthesis & Catalysis (2023), 365(13), 2248-2254.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28462,18 +28269,17 @@ Journal of the American Chemical Society (2024), 146(45), 31230-31239.
 
 **Full Catalytic System:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - BINAP (CAS: 98327-87-8) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28513,11 +28319,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28526,7 +28332,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28567,11 +28372,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28580,7 +28385,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28621,11 +28425,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28634,7 +28438,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28677,11 +28480,11 @@ ACS Catalysis (2021), 11(14), 8443-8448.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28690,7 +28493,6 @@ ACS Catalysis (2021), 11(14), 8443-8448.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28731,11 +28533,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28744,7 +28546,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28785,11 +28586,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28798,7 +28599,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28839,11 +28639,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28852,7 +28652,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28896,11 +28695,11 @@ Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28909,7 +28708,6 @@ Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28950,11 +28748,11 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -28963,7 +28761,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29004,11 +28801,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29017,7 +28814,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29058,11 +28854,11 @@ Organic Letters (2024), 26(34), 7244-7248.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29071,7 +28867,6 @@ Organic Letters (2024), 26(34), 7244-7248.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29112,11 +28907,11 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29125,7 +28920,6 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29166,11 +28960,11 @@ ACS Catalysis (2023), 13(11), 7339-7346.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29179,7 +28973,6 @@ ACS Catalysis (2023), 13(11), 7339-7346.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29285,7 +29078,6 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29340,7 +29132,6 @@ Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29395,7 +29186,6 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29449,7 +29239,6 @@ Angewandte Chemie, International Edition (2023), 62(49), e202315108.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29489,11 +29278,11 @@ Angewandte Chemie, International Edition (2021), 60(33), 17910-17914.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29502,7 +29291,6 @@ Angewandte Chemie, International Edition (2021), 60(33), 17910-17914.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29559,7 +29347,6 @@ Journal of the American Chemical Society (2022), 144(1), 106-112.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29616,7 +29403,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29673,7 +29459,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29734,7 +29519,6 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30017,7 +29801,6 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30187,7 +29970,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -30236,7 +30018,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -32559,11 +32340,11 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -32572,7 +32353,6 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32625,7 +32405,6 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32678,7 +32457,6 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32718,12 +32496,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -32733,7 +32511,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -32787,7 +32564,6 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32845,7 +32621,6 @@ Journal of Organic Chemistry (2022), 87(21), 13763-13789.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32886,12 +32661,12 @@ Organic Letters (2023), 25(9), 1470-1475.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -32901,7 +32676,6 @@ Organic Letters (2023), 25(9), 1470-1475.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -32942,11 +32716,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33062,7 +32836,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -33105,11 +32878,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33118,7 +32891,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -33158,12 +32930,12 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33270,11 +33042,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33283,7 +33055,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -33323,14 +33094,14 @@ Advanced Synthesis & Catalysis (2023), 365(18), 3101-3106.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PtBu3 (CAS: 16872-11-0)
   - Tri-tert-butylphosphine
   - Tetrafluoroboric acid
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33342,7 +33113,6 @@ Advanced Synthesis & Catalysis (2023), 365(18), 3101-3106.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -33382,14 +33152,14 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PtBu3 (CAS: 16872-11-0)
   - Tri-tert-butylphosphine
   - Tetrafluoroboric acid
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33401,7 +33171,6 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -33454,7 +33223,6 @@ Organic Letters (2024), 26(9), 1840-1844.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -33547,11 +33315,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33725,11 +33493,11 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33778,11 +33546,11 @@ Angewandte Chemie, International Edition (2023), 62(14), e202217512.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33831,11 +33599,11 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33883,11 +33651,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33989,11 +33757,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -34003,7 +33771,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34047,11 +33814,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -34061,7 +33828,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34102,11 +33868,11 @@ Chemistry - A European Journal (2022), 28(68), e202202305.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -34116,7 +33882,6 @@ Chemistry - A European Journal (2022), 28(68), e202202305.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34212,10 +33977,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -34223,7 +33988,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - 258278-25-0 (CAS: 258278-25-0) - Role: UNK
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
   - 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro- - Role: UNK
   - chloride (1:1) - Role: UNK
 
@@ -34270,17 +34034,16 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - 258278-25-0 (CAS: 258278-25-0) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
   - 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro- - Role: UNK
   - chloride (1:1) - Role: UNK
 
@@ -34377,10 +34140,10 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -34428,12 +34191,12 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -34487,11 +34250,11 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -34500,7 +34263,6 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35618,10 +35380,10 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -35685,7 +35447,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35797,7 +35558,6 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -35854,7 +35614,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -35894,11 +35653,11 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -35907,7 +35666,6 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35946,17 +35704,16 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Bis(tri-tert-butylphosphine)palladium (CAS: 53199-31-8) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36009,7 +35766,6 @@ Chemistry - A European Journal (2023), 29(1), e202202636.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36049,11 +35805,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36062,7 +35818,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36468,11 +36223,11 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36481,7 +36236,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36521,11 +36275,11 @@ Organic Process Research & Development (2022), 26(9), 2756-2760.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36534,7 +36288,6 @@ Organic Process Research & Development (2022), 26(9), 2756-2760.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36575,11 +36328,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36588,7 +36341,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36628,11 +36380,11 @@ Organometallics (2021), 40(2), 156-165.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36641,7 +36393,6 @@ Organometallics (2021), 40(2), 156-165.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36681,11 +36432,11 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36694,7 +36445,6 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36737,11 +36487,11 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36750,7 +36500,6 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36789,12 +36538,12 @@ Advanced Synthesis & Catalysis (2024), 366(7), 1538-1544.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36841,12 +36590,12 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -36896,12 +36645,12 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -37022,7 +36771,6 @@ Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37077,7 +36825,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Morpholine (CAS: 110-91-8)
@@ -37130,7 +36877,6 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37183,7 +36929,6 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37238,7 +36983,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37291,7 +37035,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37346,7 +37089,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37503,11 +37245,11 @@ Organic Letters (2022), 24(23), 4129-4134.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -37516,7 +37258,6 @@ Organic Letters (2022), 24(23), 4129-4134.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37571,7 +37312,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37685,7 +37425,6 @@ Organic Letters (2022), 24(21), 3797-3801.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37796,7 +37535,6 @@ Organic Letters (2021), 23(12), 4588-4592.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -37836,12 +37574,12 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -37851,7 +37589,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -37891,12 +37628,12 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -37946,11 +37683,11 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38055,11 +37792,11 @@ Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38109,11 +37846,11 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38162,11 +37899,11 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38215,11 +37952,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38268,11 +38005,11 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38321,11 +38058,11 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38374,11 +38111,11 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38387,7 +38124,6 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38535,11 +38271,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38548,7 +38284,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38661,7 +38396,6 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38705,11 +38439,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38718,7 +38452,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38771,7 +38504,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38824,7 +38556,6 @@ Organic Letters (2023), 25(19), 3386-3390.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38877,7 +38608,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38986,7 +38716,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39026,11 +38755,11 @@ Angewandte Chemie, International Edition (2021), 60(11), 5673-5678.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -39095,7 +38824,6 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39148,7 +38876,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39190,11 +38917,11 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -39203,7 +38930,6 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - p-Xylene (CAS: 106-42-3) - Role: SOLVENT
@@ -39345,10 +39071,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -39356,7 +39082,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - DavePhos (CAS: 213697-53-1) - Role: NUC (Registry: LIGAND)
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine - Role: UNK
 
 **Solvents:**
@@ -41305,12 +41030,12 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
   - Triphenylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -41320,7 +41045,6 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -41378,7 +41102,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41421,12 +41144,12 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - Palladium (CAS: 7440-05-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Palladium (CAS: 7440-05-3)
 
 **Generic Catalyst:** Pd
@@ -41502,7 +41225,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41619,7 +41341,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4) - Role: SOLVENT
@@ -41675,7 +41396,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -41768,11 +41488,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -41820,20 +41540,18 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41873,20 +41591,18 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41926,20 +41642,18 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41980,11 +41694,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42033,11 +41747,11 @@ Organic Letters (2023), 25(48), 8756-8760.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42094,7 +41808,6 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42134,11 +41847,11 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42204,7 +41917,6 @@ Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42244,12 +41956,12 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42259,7 +41971,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42315,7 +42026,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42365,7 +42075,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -42417,7 +42126,6 @@ ACS Catalysis (2023), 13(9), 6445-6451.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4) - Role: SOLVENT
@@ -42458,11 +42166,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Bis(tri-tert-butylphosphine)palladium (CAS: 53199-31-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Bis(tri-tert-butylphosphine)palladium (CAS: 53199-31-8)
 
 **Generic Catalyst:** Pd
@@ -42509,11 +42217,11 @@ Chemistry - A European Journal (2022), 28(16), e202104411.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42561,11 +42269,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42574,7 +42282,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42613,11 +42320,11 @@ Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42626,7 +42333,6 @@ Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42665,11 +42371,11 @@ Organic Letters (2021), 23(8), 3207-3210.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42678,7 +42384,6 @@ Organic Letters (2021), 23(8), 3207-3210.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42718,12 +42423,12 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42733,7 +42438,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42930,12 +42634,12 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42946,7 +42650,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42989,12 +42692,12 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(44), 6457-6460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43004,7 +42707,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(44), 6457-6460.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43047,12 +42749,12 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43062,7 +42764,6 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43103,12 +42804,12 @@ ACS Catalysis (2024), 14(16), 12173-12180.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43118,7 +42819,6 @@ ACS Catalysis (2024), 14(16), 12173-12180.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43159,12 +42859,12 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43174,7 +42874,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43215,12 +42914,12 @@ Journal of Medicinal Chemistry (2023), 66(24), 17044-17058.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43673,7 +43372,6 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43714,11 +43412,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43727,7 +43425,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43767,11 +43464,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43839,7 +43536,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43894,7 +43590,6 @@ Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -43949,7 +43644,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44004,7 +43698,6 @@ Organic Letters (2021), 23(9), 3552-3556.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44044,12 +43737,12 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44060,7 +43753,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44102,12 +43794,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44118,7 +43810,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44160,12 +43851,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44176,7 +43867,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44218,12 +43908,12 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44234,7 +43924,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44276,12 +43965,12 @@ Journal of the American Chemical Society (2022), 144(14), 6200-6207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44292,7 +43981,6 @@ Journal of the American Chemical Society (2022), 144(14), 6200-6207.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44334,12 +44022,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44350,7 +44038,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44392,12 +44079,12 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44408,7 +44095,6 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44450,12 +44136,12 @@ Organic Letters (2024), 26(4), 939-944.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44466,7 +44152,6 @@ Organic Letters (2024), 26(4), 939-944.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44508,12 +44193,12 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44524,7 +44209,6 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44566,12 +44250,12 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44582,7 +44266,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44624,12 +44307,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44640,7 +44323,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44683,12 +44365,12 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44699,7 +44381,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44741,12 +44422,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44757,7 +44438,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44799,12 +44479,12 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44815,7 +44495,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44857,12 +44536,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44873,7 +44552,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44915,12 +44593,12 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44931,7 +44609,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -44973,12 +44650,12 @@ Journal of the American Chemical Society (2024), 146(51), 35377-35389.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -44989,7 +44666,6 @@ Journal of the American Chemical Society (2024), 146(51), 35377-35389.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45031,12 +44707,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45047,7 +44723,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45089,12 +44764,12 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45105,7 +44780,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45147,12 +44821,12 @@ Chemistry - A European Journal (2022), 28(21), e202104292.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45163,7 +44837,6 @@ Chemistry - A European Journal (2022), 28(21), e202104292.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45205,11 +44878,11 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45218,7 +44891,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -45440,12 +45112,12 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - p-tol (CAS: 1038-95-5) - Role: LIGAND
   - Tri-p-tolylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45455,7 +45127,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -45495,11 +45166,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45566,7 +45237,6 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45623,7 +45293,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45679,7 +45348,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45774,11 +45442,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45787,7 +45455,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45827,12 +45494,12 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45842,7 +45509,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -45882,12 +45548,12 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45897,7 +45563,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -45937,12 +45602,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45952,7 +45617,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -45992,11 +45656,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -46005,7 +45669,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -46045,11 +45708,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -46058,7 +45721,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46099,11 +45761,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -46112,7 +45774,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46152,12 +45813,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -46167,7 +45828,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46208,12 +45868,12 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -46223,7 +45883,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46276,7 +45935,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46371,11 +46029,11 @@ Angewandte Chemie, International Edition (2021), 60(38), 20728-20733.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -46432,7 +46090,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -46488,7 +46145,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -48122,7 +47778,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48179,7 +47834,6 @@ Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48232,7 +47886,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48285,7 +47938,6 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48338,7 +47990,6 @@ Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48395,7 +48046,6 @@ Organic Letters (2022), 24(37), 6869-6873.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48557,17 +48207,16 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48607,17 +48256,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48657,17 +48305,16 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48885,7 +48532,6 @@ ACS Catalysis (2021), 11(16), 10429-10435.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48983,11 +48629,11 @@ Organic Letters (2021), 23(3), 792-796.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -48996,7 +48642,6 @@ Organic Letters (2021), 23(3), 792-796.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49089,12 +48734,12 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49144,13 +48789,13 @@ European Journal of Medicinal Chemistry (2022), 228, 114022.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
   - Diphenyl phosphate
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49199,13 +48844,13 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
   - Diphenyl phosphate
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49254,13 +48899,13 @@ Chemistry - A European Journal (2023), 29(52), e202301971.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
   - Diphenyl phosphate
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49309,13 +48954,13 @@ European Journal of Medicinal Chemistry (2023), 245(Part_1), 114905.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
   - Diphenyl phosphate
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49364,13 +49009,13 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
   - Diphenyl phosphate
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49419,13 +49064,13 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
   - Diphenyl phosphate
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49474,13 +49119,13 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
   - Diphenyl phosphate
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49529,12 +49174,12 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49544,7 +49189,6 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49583,12 +49227,12 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49598,7 +49242,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49637,12 +49280,12 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49652,7 +49295,6 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49692,22 +49334,20 @@ Journal of the American Chemical Society (2023), 145(18), 10431-10440.
 
 **Full Catalytic System:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Sodium tert-butoxide
   - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Sodium tert-butoxide
   - Tri-tert-butylphosphine
 
 **Reagents:**
@@ -49753,7 +49393,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 
 **Full Catalytic System:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
@@ -49761,7 +49401,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 
 **Catalyst Core:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49773,7 +49413,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49814,7 +49453,7 @@ Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
 
 **Full Catalytic System:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
@@ -49822,7 +49461,7 @@ Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
 
 **Catalyst Core:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49834,7 +49473,6 @@ Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49875,7 +49513,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Full Catalytic System:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
@@ -49883,7 +49521,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Catalyst Core:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49895,7 +49533,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49937,7 +49574,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
@@ -49945,7 +49582,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Catalyst Core:**
   - Palladium (CAS: 3375-31-3)
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49957,7 +49594,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50016,7 +49652,6 @@ Organic Process Research & Development (2023), 27(3), 530-538.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50057,11 +49692,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50071,7 +49706,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50272,11 +49906,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -52087,12 +51721,12 @@ ChemCatChem (2022), 14(17), e202200485.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -52103,7 +51737,6 @@ ChemCatChem (2022), 14(17), e202200485.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -52159,7 +51792,6 @@ Journal of Medicinal Chemistry (2024), 67(2), 1262-1313.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -52198,11 +51830,11 @@ Angewandte Chemie, International Edition (2021), 60(51), 26769-26776.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -52266,7 +51898,6 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -52307,12 +51938,12 @@ Organic Letters (2024), 26(49), 10523-10528.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -52325,7 +51956,6 @@ Organic Letters (2024), 26(49), 10523-10528.
   - Magnesium bromide (CAS: 7789-48-2) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Butyllithium - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Et2O (CAS: 60-29-7) - Role: SOLVENT
@@ -52376,12 +52006,12 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -52394,7 +52024,6 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
   - Magnesium bromide (CAS: 7789-48-2) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
   - Butyllithium - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Et2O (CAS: 60-29-7) - Role: SOLVENT
@@ -52443,11 +52072,11 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -52511,7 +52140,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -52564,7 +52192,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -52617,7 +52244,6 @@ ACS Catalysis (2022), 12(12), 7269-7277.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -52728,7 +52354,6 @@ Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -52783,7 +52408,6 @@ Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -53885,11 +53509,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -53942,11 +53566,11 @@ Journal of the American Chemical Society (2021), 143(33), 13342-13349.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -53999,11 +53623,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54056,11 +53680,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54113,11 +53737,11 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54170,11 +53794,11 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54227,11 +53851,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54284,11 +53908,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54343,11 +53967,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54400,11 +54024,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54526,7 +54150,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -54629,11 +54252,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54642,7 +54265,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -54692,7 +54314,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -54751,7 +54372,6 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -54806,7 +54426,6 @@ Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -54846,11 +54465,11 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54899,11 +54518,11 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54952,11 +54571,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -55005,11 +54624,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -55058,11 +54677,11 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -55231,7 +54850,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55286,7 +54904,6 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55345,7 +54962,6 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55402,7 +55018,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55459,7 +55074,6 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55516,7 +55130,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55578,7 +55191,6 @@ Journal of the American Chemical Society (2022), 144(49), 22689-22697.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55619,11 +55231,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -55684,7 +55296,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55724,11 +55335,11 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -55792,7 +55403,6 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55845,7 +55455,6 @@ Nature Communications (2022), 13(1), 115.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55894,7 +55503,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55943,7 +55551,6 @@ Angewandte Chemie, International Edition (2022), 61(20), e202200612.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55992,7 +55599,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14498-14512.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -56032,11 +55638,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -56045,7 +55651,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -56138,11 +55743,11 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -56248,11 +55853,11 @@ Angewandte Chemie, International Edition (2023), 62(18), e202300178.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -56261,7 +55866,6 @@ Angewandte Chemie, International Edition (2023), 62(18), e202300178.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0) - Role: SOLVENT
@@ -56699,11 +56303,11 @@ Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -56752,11 +56356,11 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -56813,7 +56417,6 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -56853,12 +56456,12 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -56957,12 +56560,12 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -57012,12 +56615,12 @@ Journal of Medicinal Chemistry (2022), 65(22), 15140-15164.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -57069,12 +56672,12 @@ Journal of Medicinal Chemistry (2021), 64(6), 3234-3248.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -57124,11 +56727,11 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -57250,7 +56853,6 @@ Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -57305,7 +56907,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -57464,11 +57065,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58143,7 +57744,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -58186,12 +57786,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58295,11 +57895,11 @@ Journal of the American Chemical Society (2022), 144(4), 1748-1757.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58348,11 +57948,11 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58401,11 +58001,11 @@ Journal of the American Chemical Society (2022), 144(29), 13032-13038.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58456,11 +58056,11 @@ ACS Catalysis (2022), 12(20), 12860-12868.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58509,11 +58109,11 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58562,11 +58162,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58615,11 +58215,11 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58668,12 +58268,12 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58723,12 +58323,12 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58778,11 +58378,11 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58791,7 +58391,6 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -58844,7 +58443,6 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -58901,7 +58499,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59005,7 +58602,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59045,11 +58641,11 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59098,11 +58694,11 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59151,11 +58747,11 @@ Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59205,11 +58801,11 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59259,11 +58855,11 @@ Journal of Organic Chemistry (2022), 87(21), 13965-13979.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59313,11 +58909,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59367,11 +58963,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59421,11 +59017,11 @@ ChemCatChem (2023), 15(3), e202201311.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59474,10 +59070,10 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59525,10 +59121,10 @@ Angewandte Chemie, International Edition (2023), 62(12), e202218195.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59577,10 +59173,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -60231,11 +59827,11 @@ Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -60244,7 +59840,6 @@ Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60337,11 +59932,11 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -60350,7 +59945,6 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60411,7 +60005,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60471,7 +60064,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60530,7 +60122,6 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60592,7 +60183,6 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60651,7 +60241,6 @@ Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60710,7 +60299,6 @@ Organic Letters (2024), 26(18), 3855-3860.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -61082,11 +60670,11 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61387,11 +60975,11 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(50), 6395-6398.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61401,7 +60989,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(50), 6395-6398.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -61456,7 +61043,6 @@ Chemistry - A European Journal (2021), 27(53), 13390-13398.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -61496,11 +61082,11 @@ Angewandte Chemie, International Edition (2023), 62(27), e202304461.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61551,11 +61137,11 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61605,11 +61191,11 @@ Angewandte Chemie, International Edition (2022), 61(12), e202113909.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61660,11 +61246,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61715,11 +61301,11 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61769,11 +61355,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61824,11 +61410,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61880,11 +61466,11 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61935,11 +61521,11 @@ Angewandte Chemie, International Edition (2022), 61(52), e202213697.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62054,7 +61640,6 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -62103,7 +61688,6 @@ European Journal of Medicinal Chemistry (2022), 244, 114858.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -62152,7 +61736,6 @@ Nature Communications (2024), 15(1), 3968.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -62192,11 +61775,11 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62259,7 +61842,6 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62302,12 +61884,12 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62365,12 +61947,12 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62478,11 +62060,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62531,10 +62113,10 @@ Nature Communications (2024), 15(1), 9611.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62581,11 +62163,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62634,10 +62216,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62684,11 +62266,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62737,11 +62319,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62790,11 +62372,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -62852,7 +62434,6 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62901,7 +62482,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62992,12 +62572,12 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66538,12 +66118,12 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66553,7 +66133,6 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66593,12 +66172,12 @@ Organic Letters (2022), 24(5), 1201-1206.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66608,7 +66187,6 @@ Organic Letters (2022), 24(5), 1201-1206.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66648,12 +66226,12 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66663,7 +66241,6 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66716,7 +66293,6 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66757,12 +66333,12 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66772,7 +66348,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66813,12 +66388,12 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66828,7 +66403,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66868,12 +66442,12 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66883,7 +66457,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66923,12 +66496,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -66938,7 +66511,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67032,11 +66604,11 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67045,7 +66617,6 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67085,11 +66656,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67098,7 +66669,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67208,7 +66778,6 @@ Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -67305,11 +66874,11 @@ Organic Letters (2021), 23(18), 7094-7099.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67318,7 +66887,6 @@ Organic Letters (2021), 23(18), 7094-7099.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -67358,11 +66926,11 @@ Organic Letters (2023), 25(49), 8912-8916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67372,7 +66940,6 @@ Organic Letters (2023), 25(49), 8912-8916.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67415,11 +66982,11 @@ Chemistry - A European Journal (2021), 27(53), 13390-13398.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67428,7 +66995,6 @@ Chemistry - A European Journal (2021), 27(53), 13390-13398.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67531,7 +67097,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202311250.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67589,7 +67154,6 @@ Angewandte Chemie, International Edition (2024), 63(36), e202407279.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67650,7 +67214,6 @@ Organic Letters (2023), 25(15), 2701-2706.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67693,11 +67256,11 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67706,7 +67269,6 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67746,11 +67308,11 @@ Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67759,7 +67321,6 @@ Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67799,11 +67360,11 @@ Advanced Synthesis & Catalysis (2021), 363(24), 5422-5428.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67812,7 +67373,6 @@ Advanced Synthesis & Catalysis (2021), 363(24), 5422-5428.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67852,11 +67412,11 @@ Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67865,7 +67425,6 @@ Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67905,11 +67464,11 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67918,7 +67477,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -67961,11 +67519,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -67974,7 +67532,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68014,11 +67571,11 @@ Angewandte Chemie, International Edition (2022), 61(16), e202117580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68027,7 +67584,6 @@ Angewandte Chemie, International Edition (2022), 61(16), e202117580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68067,11 +67623,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68080,7 +67636,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68120,11 +67675,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68133,7 +67688,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68173,11 +67727,11 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68186,7 +67740,6 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68226,11 +67779,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 438-441.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68239,7 +67792,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 438-441.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68279,11 +67831,11 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68292,7 +67844,6 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68332,11 +67883,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68345,7 +67896,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68385,11 +67935,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68398,7 +67948,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68441,11 +67990,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68454,7 +68003,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68494,11 +68042,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68507,7 +68055,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68547,11 +68094,11 @@ Angewandte Chemie, International Edition (2022), 61(51), e202213407.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68560,7 +68107,6 @@ Angewandte Chemie, International Edition (2022), 61(51), e202213407.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68600,11 +68146,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68613,7 +68159,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68653,12 +68198,12 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68668,7 +68213,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68708,12 +68252,12 @@ Angewandte Chemie, International Edition (2023), 62(14), e202300199.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68723,7 +68267,6 @@ Angewandte Chemie, International Edition (2023), 62(14), e202300199.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68766,12 +68309,12 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68781,7 +68324,6 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68821,12 +68363,12 @@ Journal of Organic Chemistry (2022), 87(15), 9977-9987.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68836,7 +68378,6 @@ Journal of Organic Chemistry (2022), 87(15), 9977-9987.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68876,12 +68417,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68891,7 +68432,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68931,12 +68471,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -68946,7 +68486,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -68986,12 +68525,12 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69001,7 +68540,6 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69041,12 +68579,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69056,7 +68594,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69096,12 +68633,12 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69111,7 +68648,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69151,12 +68687,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69166,7 +68702,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69206,12 +68741,12 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69221,7 +68756,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69261,12 +68795,12 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69276,7 +68810,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69316,12 +68849,12 @@ ACS Catalysis (2022), 12(13), 8048-8054.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69331,7 +68864,6 @@ ACS Catalysis (2022), 12(13), 8048-8054.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69371,12 +68903,12 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69386,7 +68918,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69429,12 +68960,12 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69444,7 +68975,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69484,12 +69014,12 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69499,7 +69029,6 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69539,12 +69068,12 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69554,7 +69083,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69594,12 +69122,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69609,7 +69137,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69649,12 +69176,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69664,7 +69191,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69704,12 +69230,12 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69719,7 +69245,6 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69759,12 +69284,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69774,7 +69299,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69814,11 +69338,11 @@ Organic Letters (2021), 23(17), 6697-6702.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69827,7 +69351,6 @@ Organic Letters (2021), 23(17), 6697-6702.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69867,11 +69390,11 @@ ChemCatChem (2021), 13(18), 3930-3933.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69880,7 +69403,6 @@ ChemCatChem (2021), 13(18), 3930-3933.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69920,11 +69442,11 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69933,7 +69455,6 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69973,13 +69494,13 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
   - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69990,7 +69511,6 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70030,11 +69550,11 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -70043,7 +69563,6 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70096,7 +69615,6 @@ Organometallics (2021), 40(2), 156-165.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70149,7 +69667,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70320,7 +69837,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70360,11 +69876,11 @@ Journal of Organic Chemistry (2021), 86(3), 2545-2555.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -70374,7 +69890,6 @@ Journal of Organic Chemistry (2021), 86(3), 2545-2555.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70464,12 +69979,12 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
   - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -70480,7 +69995,6 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Dioxane (CAS: 123-91-1) - Role: SOLVENT
@@ -70686,12 +70200,12 @@ Angewandte Chemie, International Edition (2024), 63(14), e202401117.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -70701,7 +70215,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202401117.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70851,11 +70364,11 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -70864,7 +70377,6 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70904,11 +70416,11 @@ ACS Catalysis (2022), 12(8), 4688-4695.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -70917,7 +70429,6 @@ ACS Catalysis (2022), 12(8), 4688-4695.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -70957,11 +70468,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -70970,7 +70481,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -71010,11 +70520,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -71023,7 +70533,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -71063,11 +70572,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -71076,7 +70585,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -71116,11 +70624,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -71129,7 +70637,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -71169,11 +70676,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - BINAP (CAS: 98327-87-8)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -71182,7 +70689,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -71276,11 +70782,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -71289,7 +70795,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -71593,7 +71098,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -71652,7 +71156,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -72260,7 +71763,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -72300,11 +71802,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -72313,7 +71815,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6) - Role: SOLVENT
@@ -72353,11 +71854,11 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Tris (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -72367,7 +71868,6 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -73194,7 +72694,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Sodium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT

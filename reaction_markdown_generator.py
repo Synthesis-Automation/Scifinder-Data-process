@@ -394,7 +394,7 @@ class ReactionMarkdownGenerator:
         if not compound_list:
             return f"**{title}:** None\n"
         
-        result = f"**{title}:**\n"
+        result_lines = []
         for compound in compound_list:
             if '|' in compound:
                 name, cas = compound.split('|', 1)
@@ -411,33 +411,28 @@ class ReactionMarkdownGenerator:
                 # Get compound type for role annotation
                 compound_type = self.cas_registry.get_compound_type(corrected_cas) if corrected_cas else None
                 
-                if corrected_name and corrected_cas:
+                # Skip entries without CAS per user's requirement
+                if corrected_cas:
                     # Use corrected values with abbreviation preference
                     display_name = self.cas_registry.get_display_name(corrected_name, corrected_cas)
                     
                     if display_name != corrected_cas:  # Don't show CAS twice if name is just the CAS
-                        result += f"  - {display_name} (CAS: {corrected_cas})"
+                        line = f"  - {display_name} (CAS: {corrected_cas})"
                         if compound_type:
-                            result += f" - Role: {compound_type.upper()}"
+                            line += f" - Role: {compound_type.upper()}"
                     else:
-                        result += f"  - CAS: {corrected_cas}"
+                        line = f"  - CAS: {corrected_cas}"
                         if compound_type:
-                            result += f" - Role: {compound_type.upper()}"
-                    result += "\n"
-                elif corrected_name:
-                    result += f"  - {corrected_name}"
-                    if compound_type:
-                        result += f" - Role: {compound_type.upper()}"
-                    result += "\n"
-                elif corrected_cas:
-                    result += f"  - CAS: {corrected_cas}"
-                    if compound_type:
-                        result += f" - Role: {compound_type.upper()}"
-                    result += "\n"
+                            line += f" - Role: {compound_type.upper()}"
+                    result_lines.append(line)
             else:
-                result += f"  - {compound}\n"
+                # Skip name-only entries without CAS
+                continue
         
-        return result + "\n"
+        if not result_lines:
+            return f"**{title}:** None\n\n"
+        
+        return f"**{title}:**\n" + "\n".join(result_lines) + "\n\n"
     
     def format_reaction_conditions(self, row: Dict[str, Any]) -> str:
         """Format reaction conditions for markdown output."""
@@ -622,14 +617,14 @@ class ReactionMarkdownGenerator:
                     # Get compound type from registry for additional context
                     compound_type = self.cas_registry.get_compound_type(corrected_cas) if corrected_cas else None
                     
-                    if display_name and corrected_cas:
+                    # Skip reagents without CAS per user's requirement
+                    if corrected_cas and display_name:
                         display_text = f"{display_name} (CAS: {corrected_cas})"
-                    elif display_name:
-                        display_text = display_name
                     elif corrected_cas:
                         display_text = f"CAS: {corrected_cas}"
                     else:
-                        display_text = reagent
+                        # No CAS – skip this reagent entry
+                        continue
                     
                     # Show both the role from the data and compound type from registry if different
                     role_text = f" - Role: {role}"
@@ -638,7 +633,8 @@ class ReactionMarkdownGenerator:
                     
                     markdown += f"  - {display_text}{role_text}\n"
                 else:
-                    markdown += f"  - {reagent} - Role: {role}\n"
+                    # Skip name-only reagent entries without CAS
+                    continue
             markdown += "\n"
         
         if solvents:
@@ -861,15 +857,18 @@ class ReactionMarkdownGenerator:
             for item in compound_list:
                 if '|' in item:
                     name, cas = item.split('|', 1)
+                    name = name.strip()
+                    cas = cas.strip()
+                    # Exclude entries without CAS per requirement
+                    if not cas:
+                        continue
                     compounds.append({
-                        'name': name.strip(),
-                        'cas': cas.strip()
+                        'name': name,
+                        'cas': cas
                     })
                 else:
-                    compounds.append({
-                        'name': item.strip(),
-                        'cas': ''
-                    })
+                    # Skip name-only entries without CAS
+                    continue
             return compounds
         
         # Combine reagents with roles
@@ -878,17 +877,19 @@ class ReactionMarkdownGenerator:
             role = reagent_roles[i] if i < len(reagent_roles) else 'UNK'
             if '|' in reagent:
                 name, cas = reagent.split('|', 1)
+                name = name.strip()
+                cas = cas.strip()
+                # Exclude reagents without CAS
+                if not cas:
+                    continue
                 reagent_data.append({
-                    'name': name.strip(),
-                    'cas': cas.strip(),
+                    'name': name,
+                    'cas': cas,
                     'role': role
                 })
             else:
-                reagent_data.append({
-                    'name': reagent.strip(),
-                    'cas': '',
-                    'role': role
-                })
+                # Skip name-only entries
+                continue
         
         # Parse numerical values safely
         def safe_float(value):

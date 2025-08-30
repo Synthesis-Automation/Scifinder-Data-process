@@ -1,7 +1,7 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-30 15:13:03
-**Source Folder:** C:/Git-ChemRobox/Scifinder-Data-process/dataset/Buchwald/2021-2024
+**Generated:** 2025-08-30 21:55:22
+**Source Folder:** C:/Git-softwares/Scifinder-Data-process/dataset/Buchwald/2021-2024
 **Total Reactions:** 1343
 
 ## Summary
@@ -29,25 +29,22 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -203,7 +200,7 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -211,7 +208,7 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -256,7 +253,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -264,7 +261,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -308,7 +305,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -316,7 +313,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -373,7 +370,6 @@ Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -431,7 +427,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -489,7 +484,6 @@ Journal of Organic Chemistry (2023), 88(13), 9475-9487.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -550,7 +544,6 @@ Angewandte Chemie, International Edition (2024), 63(20), e202402878.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -664,7 +657,6 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -722,7 +714,6 @@ Organic Letters (2021), 23(17), 6697-6702.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -835,7 +826,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -894,7 +884,6 @@ ACS Catalysis (2022), 12(13), 7773-7780.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -954,7 +943,6 @@ Journal of Medicinal Chemistry (2024), 67(4), 2349-2368.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1064,7 +1052,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1124,7 +1111,6 @@ Journal of Medicinal Chemistry (2023), 66(1), 384-397.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1185,7 +1171,6 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1243,7 +1228,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1301,7 +1285,6 @@ Journal of Medicinal Chemistry (2021), 64(20), 15053-15068.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1414,7 +1397,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1525,7 +1507,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1635,7 +1616,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1679,11 +1659,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -1745,7 +1725,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -1804,7 +1783,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -1859,7 +1837,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -1914,7 +1891,6 @@ Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -1954,20 +1930,16 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -2012,7 +1984,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -2021,14 +1992,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -2074,11 +2042,11 @@ ACS Catalysis (2023), 13(9), 6445-6451.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-o-tolylphosphine (CAS: 6163-58-2) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -2088,7 +2056,6 @@ ACS Catalysis (2023), 13(9), 6445-6451.
 **Reagents:**
   - Tetrabutylammonium iodide (CAS: 311-28-4) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2128,29 +2095,22 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -2190,22 +2150,16 @@ ACS Catalysis (2022), 12(10), 5949-5960.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -2261,9 +2215,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - 19533-24-5 (CAS: 19533-24-5) - Role: UNK
-  - 1-Butanol - Role: UNK
-  - 3-methyl- - Role: UNK
-  - sodium salt (1:1) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -2305,18 +2256,16 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -2356,7 +2305,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -2364,7 +2313,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -2511,23 +2460,20 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - CAS: 2599846-83-8
+  - Palladium diacetate (CAS: 2599846-83-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Palladium diacetate (CAS: 2599846-83-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - CAS: 2599846-83-8
-
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -2565,23 +2511,20 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - CAS: 2599846-83-8
+  - Palladium diacetate (CAS: 2599846-83-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Palladium diacetate (CAS: 2599846-83-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - CAS: 2599846-83-8
-
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -3006,7 +2949,6 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -3015,7 +2957,6 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -3116,7 +3057,6 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -3125,7 +3065,6 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -3450,7 +3389,6 @@ Organic Letters (2021), 23(3), 876-880.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -3459,7 +3397,6 @@ Organic Letters (2021), 23(3), 876-880.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -3677,7 +3614,6 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -3686,7 +3622,6 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -3787,7 +3722,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -3796,7 +3730,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -3897,7 +3830,6 @@ Organic Letters (2023), 25(19), 3386-3390.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -3906,7 +3838,6 @@ Organic Letters (2023), 25(19), 3386-3390.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4063,7 +3994,6 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -4072,7 +4002,6 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4231,7 +4160,6 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -4240,7 +4168,6 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4282,20 +4209,16 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 224311-51-7)
-  - 2-(Di-tert-butylphosphino)biphenyl
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 224311-51-7)
-  - 2-(Di-tert-butylphosphino)biphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4339,11 +4262,11 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4352,7 +4275,6 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4392,11 +4314,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4405,7 +4327,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4445,11 +4366,11 @@ Journal of Medicinal Chemistry (2024), 67(4), 2321-2336.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4458,7 +4379,6 @@ Journal of Medicinal Chemistry (2024), 67(4), 2321-2336.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4498,11 +4418,11 @@ Organic Process Research & Development (2024), 28(7), 2862-2874.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4511,7 +4431,6 @@ Organic Process Research & Development (2024), 28(7), 2862-2874.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4555,13 +4474,11 @@ Journal of Medicinal Chemistry (2024), 67(10), 8077-8098.
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - Palladium
   - Phenanthroline (CAS: 66-71-7) - Role: LIGAND
   - Phenanthroline (CAS: 7440-05-3)
 
 **Catalyst Core:**
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - Palladium
 
 **Generic Catalyst:** Cu(I), Pd
 
@@ -4572,7 +4489,6 @@ Journal of Medicinal Chemistry (2024), 67(10), 8077-8098.
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -4612,10 +4528,6 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 10.1016/j.ejmech.2023.115488
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs registry 'CuI' (abbrev: 'CuI') for CAS 7681-65-4
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'CuI' (abbrev: 'CuI') for CAS 7681-65-4
-
 ---
 
 ## Reaction 31-172-CAS-23313902
@@ -4632,7 +4544,6 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -4672,18 +4583,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4728,11 +4637,11 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4780,11 +4689,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(33), 4011-4014.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4832,11 +4741,11 @@ Angewandte Chemie, International Edition (2024), 63(12), e202319089.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4884,20 +4793,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - Picolinic acid (CAS: 98-98-6)
+  - Palladium diacetate (CAS: 98-98-6)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Palladium diacetate (CAS: 98-98-6)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Picolinic acid (CAS: 98-98-6)
+**Ligands:** None
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4937,11 +4845,11 @@ Angewandte Chemie, International Edition (2021), 60(1), 304-312.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -4989,11 +4897,11 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5041,11 +4949,11 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5093,29 +5001,22 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -5162,11 +5063,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
   - RuPhos (CAS: 787618-22-8) - Role: UNK (Registry: LIGAND)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -5307,10 +5206,10 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5358,10 +5257,10 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5407,10 +5306,10 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5458,7 +5357,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -5467,7 +5365,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5512,7 +5409,6 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -5521,7 +5417,6 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5566,7 +5461,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -5575,7 +5469,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5622,7 +5515,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -5631,11 +5523,9 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5676,18 +5566,16 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5836,22 +5724,19 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5891,22 +5776,19 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -5946,11 +5828,11 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -5998,11 +5880,11 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6050,20 +5932,19 @@ Journal of the American Chemical Society (2024), 146(45), 31230-31239.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 247940-06-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 247940-06-3)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 247940-06-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 247940-06-3)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4) - Role: SOLVENT
@@ -6103,11 +5984,11 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6159,7 +6040,6 @@ Angewandte Chemie, International Edition (2023), 62(26), e202302371.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -6168,12 +6048,10 @@ Angewandte Chemie, International Edition (2023), 62(26), e202302371.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6217,7 +6095,6 @@ Organometallics (2021), 40(2), 156-165.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -6226,12 +6103,10 @@ Organometallics (2021), 40(2), 156-165.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -6324,7 +6199,6 @@ Advanced Synthesis & Catalysis (2023), 365(3), 373-380.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -6333,7 +6207,6 @@ Advanced Synthesis & Catalysis (2023), 365(3), 373-380.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6482,16 +6355,16 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6534,28 +6407,23 @@ Organic Letters (2023), 25(15), 2701-2706.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -6592,10 +6460,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -6642,7 +6510,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -6651,7 +6518,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6694,18 +6560,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6748,20 +6612,16 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
-  - 2-(Dicyclohexylphosphino)biphenyl
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6806,20 +6666,16 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
-  - 2-(Dicyclohexylphosphino)biphenyl
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6913,20 +6769,16 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
-  - 2-(Dicyclohexylphosphino)biphenyl
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6971,20 +6823,16 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
-  - 2-(Dicyclohexylphosphino)biphenyl
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -7030,20 +6878,16 @@ ACS Catalysis (2023), 13(11), 7680-7690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
-  - 2-(Dicyclohexylphosphino)biphenyl
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 247940-06-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -7088,20 +6932,21 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7141,17 +6986,16 @@ Angewandte Chemie, International Edition (2021), 60(5), 2393-2397.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7193,11 +7037,9 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -7246,7 +7088,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -7255,7 +7096,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -7299,10 +7139,10 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -7343,10 +7183,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -7387,10 +7227,10 @@ Journal of Medicinal Chemistry (2021), 64(8), 5018-5036.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -7487,7 +7327,6 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -7496,7 +7335,6 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -7541,20 +7379,19 @@ Journal of Organic Chemistry (2024), 89(3), 2009-2013.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7595,20 +7432,19 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7650,20 +7486,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7704,20 +7539,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7758,20 +7592,19 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7814,20 +7647,19 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7868,20 +7700,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7922,20 +7753,19 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -7976,20 +7806,19 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -8030,20 +7859,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -8084,20 +7912,19 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -8190,18 +8017,16 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -8244,18 +8069,16 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -8304,7 +8127,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -8313,14 +8135,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - TsOH (CAS: 104-15-4) - Role: UNK (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4) - Role: SOLVENT
@@ -8366,29 +8185,20 @@ Angewandte Chemie, International Edition (2022), 61(30), e202202227.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - PPh3 (CAS: 52522-40-4)
-  - Triphenylphosphine
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
+  - Triphenylphosphine (CAS: 52522-40-4)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - PPh3 (CAS: 52522-40-4)
-  - Triphenylphosphine
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
+  - Triphenylphosphine (CAS: 52522-40-4)
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Silica (CAS: 7631-86-9) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4) - Role: SOLVENT
@@ -8433,11 +8243,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8450,7 +8258,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8494,11 +8302,9 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8511,7 +8317,7 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8555,11 +8361,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8572,7 +8376,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8616,11 +8420,9 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8633,7 +8435,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8677,11 +8479,9 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8694,7 +8494,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8738,11 +8538,9 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8755,7 +8553,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8799,11 +8597,9 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8816,7 +8612,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8860,11 +8656,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8877,7 +8671,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8921,11 +8715,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8938,7 +8730,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -8982,11 +8774,9 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -8999,7 +8789,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9043,11 +8833,9 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -9060,7 +8848,7 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9104,11 +8892,9 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -9121,7 +8907,7 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9165,11 +8951,9 @@ ChemCatChem (2022), 14(17), e202200485.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -9182,7 +8966,7 @@ ChemCatChem (2022), 14(17), e202200485.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9226,11 +9010,9 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -9243,7 +9025,7 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9287,11 +9069,9 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -9304,7 +9084,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9348,11 +9128,9 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -9365,7 +9143,7 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9409,11 +9187,9 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -9426,7 +9202,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -9479,7 +9255,7 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -9527,7 +9303,7 @@ Organic Letters (2022), 24(20), 3589-3593.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -9572,7 +9348,7 @@ Journal of Medicinal Chemistry (2022), 65(13), 8843-8854.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9620,7 +9396,7 @@ Organic Letters (2023), 25(6), 1030-1034.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9668,7 +9444,7 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9716,7 +9492,7 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9764,7 +9540,7 @@ Angewandte Chemie, International Edition (2021), 60(33), 17910-17914.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9812,7 +9588,7 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9860,7 +9636,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9908,7 +9684,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -9956,7 +9732,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10006,7 +9782,7 @@ Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10054,7 +9830,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10105,7 +9881,7 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10154,7 +9930,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10202,7 +9978,7 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10250,7 +10026,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10298,7 +10074,7 @@ ChemCatChem (2022), 14(16), e202200734.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10346,7 +10122,7 @@ Angewandte Chemie, International Edition (2021), 60(51), 26769-26776.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10394,7 +10170,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10442,7 +10218,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10490,7 +10266,7 @@ Chemistry - A European Journal (2022), 28(37), e202200510.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10541,7 +10317,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10589,7 +10365,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10637,7 +10413,7 @@ Organometallics (2021), 40(2), 156-165.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10685,7 +10461,7 @@ Angewandte Chemie, International Edition (2021), 60(11), 6036-6041.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10733,7 +10509,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10781,7 +10557,7 @@ Chemistry - A European Journal (2022), 28(68), e202202305.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -10821,22 +10597,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -10890,7 +10663,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -10944,7 +10716,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -10999,7 +10770,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11053,7 +10823,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11107,7 +10876,6 @@ ChemCatChem (2022), 14(16), e202200734.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11161,7 +10929,6 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11215,7 +10982,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11269,7 +11035,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11324,7 +11089,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11378,7 +11142,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11433,7 +11196,6 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11487,7 +11249,6 @@ Journal of the American Chemical Society (2023), 145(3), 1505-1511.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11541,7 +11302,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11596,7 +11356,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11650,7 +11409,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11704,7 +11462,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11758,7 +11515,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11812,7 +11568,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11866,7 +11621,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11920,7 +11674,6 @@ Journal of Medicinal Chemistry (2024), 67(2), 1262-1313.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -11974,7 +11727,6 @@ Journal of Organic Chemistry (2021), 86(15), 10829-10837.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12030,7 +11782,6 @@ Journal of Organic Chemistry (2022), 87(5), 2864-2872.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12084,7 +11835,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12138,7 +11888,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12192,7 +11941,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12246,7 +11994,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12286,21 +12033,18 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - CAS: 2183514-08-9
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 2183514-08-9)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 2183514-08-9)
 
 **Generic Catalyst:** Pd
-
-**Ligands:**
-  - CAS: 2183514-08-9
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Hantzsch ester (CAS: 1149-23-1) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12339,21 +12083,18 @@ Journal of the American Chemical Society (2021), 143(47), 19769-19777.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - CAS: 2183514-08-9
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 2183514-08-9)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 2183514-08-9)
 
 **Generic Catalyst:** Pd
-
-**Ligands:**
-  - CAS: 2183514-08-9
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Hantzsch ester (CAS: 1149-23-1) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12406,7 +12147,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12446,21 +12186,18 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - CAS: 2183514-08-9
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 2183514-08-9)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 2183514-08-9)
 
 **Generic Catalyst:** Pd
-
-**Ligands:**
-  - CAS: 2183514-08-9
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Hantzsch ester (CAS: 1149-23-1) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -12513,7 +12250,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12567,7 +12303,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Reagents:**
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -12609,7 +12344,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -12618,7 +12352,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12663,7 +12396,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -12672,7 +12404,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12717,7 +12448,6 @@ Organic Letters (2021), 23(8), 3207-3210.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -12726,7 +12456,6 @@ Organic Letters (2021), 23(8), 3207-3210.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12771,7 +12500,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -12780,7 +12508,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12825,7 +12552,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -12834,7 +12560,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12879,7 +12604,6 @@ Angewandte Chemie, International Edition (2021), 60(5), 2455-2463.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -12888,7 +12612,6 @@ Angewandte Chemie, International Edition (2021), 60(5), 2455-2463.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12935,7 +12658,6 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -12944,7 +12666,6 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12987,20 +12708,19 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13045,20 +12765,19 @@ Organic Letters (2023), 25(29), 5498-5503.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13099,20 +12818,19 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13153,20 +12871,19 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13207,20 +12924,19 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13261,20 +12977,19 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13315,20 +13030,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13369,20 +13083,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13423,20 +13136,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13477,20 +13189,19 @@ Journal of Medicinal Chemistry (2021), 64(19), 14477-14497.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13531,20 +13242,19 @@ Nature Communications (2022), 13(1), 2869.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13585,20 +13295,19 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13639,20 +13348,19 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317570.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13693,20 +13401,19 @@ Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13747,20 +13454,19 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13802,20 +13508,19 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13856,20 +13561,19 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13910,20 +13614,19 @@ Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -13964,20 +13667,19 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14018,20 +13720,19 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14072,20 +13773,19 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14126,20 +13826,19 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14180,20 +13879,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14235,20 +13933,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14289,20 +13986,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14343,20 +14039,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14397,20 +14092,19 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14451,20 +14145,19 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14505,20 +14198,19 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14559,20 +14251,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14613,20 +14304,19 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14667,20 +14357,19 @@ Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14721,20 +14410,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14775,20 +14463,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14829,20 +14516,19 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14883,20 +14569,19 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14937,20 +14622,19 @@ Chemistry - A European Journal (2022), 28(34), e202200326.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -14991,20 +14675,19 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -15045,20 +14728,19 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(45), 6522-6525.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -15099,20 +14781,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -15154,20 +14835,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -15208,20 +14888,19 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -15262,20 +14941,19 @@ ACS Catalysis (2022), 12(8), 4688-4695.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -15316,20 +14994,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -15381,7 +15058,6 @@ Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15430,7 +15106,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15479,7 +15154,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15528,7 +15202,6 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15577,7 +15250,6 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15626,7 +15298,6 @@ Angewandte Chemie, International Edition (2023), 62(35), e202306890.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15675,7 +15346,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15724,7 +15394,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15773,7 +15442,6 @@ Organic Letters (2022), 24(15), 2889-2893.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15822,7 +15490,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15871,7 +15538,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15920,7 +15586,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15970,7 +15635,6 @@ Journal of Medicinal Chemistry (2022), 65(23), 15627-15641.
 **Reagents:**
   - Tetrabutylammonium fluoride (CAS: 429-41-4) - Role: BASE
   - KOH (CAS: 1310-58-3) - Role: UNK (Registry: BASE)
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -16010,10 +15674,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -16061,10 +15725,10 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -16114,7 +15778,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - Dichlorobis(triphenylphosphine)palladium (CAS: 283175-97-3)
-  - Cucurbit[6]uril
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
@@ -16122,8 +15785,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Cucurbit[6]uril
+**Ligands:** None
 
 **Reagents:**
   - Potassium pyrosulfite (CAS: 16731-55-8) - Role: UNK
@@ -16164,7 +15826,6 @@ Organic Chemistry Frontiers (2021), 8(17), 4678-4684.
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - Dichlorobis(triphenylphosphine)palladium (CAS: 283175-97-3)
-  - Cucurbit[6]uril
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
@@ -16172,8 +15833,7 @@ Organic Chemistry Frontiers (2021), 8(17), 4678-4684.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Cucurbit[6]uril
+**Ligands:** None
 
 **Reagents:**
   - Potassium pyrosulfite (CAS: 16731-55-8) - Role: UNK
@@ -16214,7 +15874,6 @@ Organic Letters (2021), 23(5), 1554-1560.
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - Dichlorobis(triphenylphosphine)palladium (CAS: 283175-97-3)
-  - Cucurbit[6]uril
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
@@ -16222,8 +15881,7 @@ Organic Letters (2021), 23(5), 1554-1560.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Cucurbit[6]uril
+**Ligands:** None
 
 **Reagents:**
   - Potassium pyrosulfite (CAS: 16731-55-8) - Role: UNK
@@ -16264,7 +15922,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - Dichlorobis(triphenylphosphine)palladium (CAS: 283175-97-3)
-  - Cucurbit[6]uril
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
@@ -16272,8 +15929,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Cucurbit[6]uril
+**Ligands:** None
 
 **Reagents:**
   - Potassium pyrosulfite (CAS: 16731-55-8) - Role: UNK
@@ -16314,7 +15970,6 @@ European Journal of Medicinal Chemistry (2021), 224, 113725.
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - Dichlorobis(triphenylphosphine)palladium (CAS: 283175-97-3)
-  - Cucurbit[6]uril
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
@@ -16322,8 +15977,7 @@ European Journal of Medicinal Chemistry (2021), 224, 113725.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Cucurbit[6]uril
+**Ligands:** None
 
 **Reagents:**
   - Potassium pyrosulfite (CAS: 16731-55-8) - Role: UNK
@@ -16365,7 +16019,6 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - Copper bromide (CuBr2) (CAS: 7789-45-9)
   - Dichlorobis(triphenylphosphine)palladium (CAS: 283175-97-3)
-  - Cucurbit[6]uril
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
@@ -16374,8 +16027,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Generic Catalyst:** Cu, Pd
 
-**Ligands:**
-  - Cucurbit[6]uril
+**Ligands:** None
 
 **Reagents:**
   - Potassium pyrosulfite (CAS: 16731-55-8) - Role: UNK
@@ -16416,7 +16068,6 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - Dichlorobis(triphenylphosphine)palladium (CAS: 283175-97-3)
-  - Cucurbit[6]uril
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
@@ -16424,8 +16075,7 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Cucurbit[6]uril
+**Ligands:** None
 
 **Reagents:**
   - Potassium pyrosulfite (CAS: 16731-55-8) - Role: UNK
@@ -16465,7 +16115,7 @@ Journal of Organic Chemistry (2023), 88(7), 4101-4111.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -16473,7 +16123,7 @@ Journal of Organic Chemistry (2023), 88(7), 4101-4111.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -16570,24 +16220,22 @@ Organic Letters (2023), 25(30), 5597-5601.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Tripotassium phosphate - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16627,10 +16275,6 @@ Journal of Medicinal Chemistry (2023), 66(6), 4231-4252.
 10.1021/acs.jmedchem.3c00133
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-
 ---
 
 ## Reaction 31-614-CAS-24622892
@@ -16638,24 +16282,22 @@ Journal of Medicinal Chemistry (2023), 66(6), 4231-4252.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Catalyst Core:**
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
   - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Pd, Cu(I)
 
 **Ligands:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
   - K3PO4 (CAS: 7778-53-2) - Role: UNK (Registry: BASE)
-  - Sodium carbonate - Role: UNK
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4) - Role: SOLVENT
@@ -16696,10 +16338,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 10.1039/d1qo01064f
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'N,N′-Dimethylethylenediamine' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Ligands: Name mismatch: 'N,N′-Dimethylethylenediamine' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-
 ---
 
 ## Reaction 31-614-CAS-24622894
@@ -16707,24 +16345,22 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Tripotassium phosphate - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16763,10 +16399,6 @@ ACS Catalysis (2021), 11(16), 10429-10435.
 10.1021/acscatal.1c02627
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-
 ---
 
 ## Reaction 31-614-CAS-24622902
@@ -16774,24 +16406,22 @@ ACS Catalysis (2021), 11(16), 10429-10435.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Tripotassium phosphate - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16829,10 +16459,6 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 10.1002/chem.202202207
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-
 ---
 
 ## Reaction 31-614-CAS-24622905
@@ -16840,24 +16466,22 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Tripotassium phosphate - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16895,10 +16519,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 10.1002/anie.202108747
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-
 ---
 
 ## Reaction 31-614-CAS-24622914
@@ -16906,24 +16526,22 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Tripotassium phosphate - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16961,10 +16579,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 10.1002/anie.202402020
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-
 ---
 
 ## Reaction 31-614-CAS-24622918
@@ -16972,24 +16586,22 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) - Role: LIGAND
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
-  - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
+  - DMEDA (CAS: 110-70-3) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Tripotassium phosphate - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -17029,10 +16641,6 @@ Journal of the American Chemical Society (2021), 143(1), 126-131.
 10.1021/jacs.0c11911
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-
 ---
 
 ## Reaction 31-614-CAS-24691932
@@ -17040,10 +16648,10 @@ Journal of the American Chemical Society (2021), 143(1), 126-131.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17088,10 +16696,10 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17136,10 +16744,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17184,10 +16792,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17232,10 +16840,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17280,10 +16888,10 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17328,10 +16936,10 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(27), 3653-3656.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17378,10 +16986,10 @@ European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17428,10 +17036,10 @@ Journal of Medicinal Chemistry (2023), 66(14), 9418-9444.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17476,10 +17084,10 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17526,10 +17134,10 @@ Chemistry - A European Journal (2023), 29(5), e202202594.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17574,10 +17182,10 @@ Angewandte Chemie, International Edition (2021), 60(24), 13677-13681.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17624,10 +17232,10 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17672,10 +17280,10 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17720,10 +17328,10 @@ Organic Letters (2023), 25(27), 5027-5032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17768,10 +17376,10 @@ Advanced Synthesis & Catalysis (2024), 366(15), 3297-3302.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17819,10 +17427,10 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17867,10 +17475,10 @@ Chemistry - A European Journal (2021), 27(11), 3688-3693.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17918,10 +17526,10 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -17966,10 +17574,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18014,10 +17622,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18062,10 +17670,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18110,10 +17718,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18160,10 +17768,10 @@ Organic Letters (2022), 24(47), 8633-8638.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18210,10 +17818,10 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -18274,10 +17882,9 @@ European Journal of Medicinal Chemistry (2022), 243, 114764.
 **Reagents:**
   - Pyrrolidine (CAS: 123-75-1) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 105.0°C
@@ -18317,7 +17924,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -18326,11 +17932,9 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -18372,7 +17976,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -18381,11 +17984,9 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -18427,7 +18028,6 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -18436,11 +18036,9 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -18482,7 +18080,6 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -18491,11 +18088,9 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -18537,7 +18132,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(21), 2609-2612.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -18546,11 +18140,9 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(21), 2609-2612.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -18592,7 +18184,6 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -18601,11 +18192,9 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -18647,7 +18236,6 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -18656,11 +18244,9 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -18703,14 +18289,14 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18753,14 +18339,14 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18803,14 +18389,14 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18853,14 +18439,14 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18903,14 +18489,14 @@ Angewandte Chemie, International Edition (2023), 62(40), e202308367.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18953,14 +18539,14 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19003,14 +18589,14 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19054,14 +18640,14 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19104,14 +18690,14 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19154,14 +18740,14 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19204,14 +18790,14 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19254,14 +18840,14 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19304,14 +18890,14 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19354,14 +18940,14 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19408,14 +18994,14 @@ Chemistry - A European Journal (2022), 28(44), e202201517.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19458,14 +19044,14 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19508,14 +19094,14 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
-  - Palladium (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Cu, Pd, Cu(II)
+**Generic Catalyst:** Cu(II), Pd
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19558,20 +19144,21 @@ Journal of Medicinal Chemistry (2022), 65(5), 3923-3942.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -19613,7 +19200,6 @@ Organic Letters (2022), 24(10), 1929-1934.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -19622,7 +19208,6 @@ Organic Letters (2022), 24(10), 1929-1934.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -19671,7 +19256,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -19680,7 +19264,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -19725,11 +19308,9 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -19794,12 +19375,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -19854,10 +19434,9 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -20000,16 +19579,15 @@ Angewandte Chemie, International Edition (2023), 62(35), e202307118.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -20111,10 +19689,9 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -20164,10 +19741,9 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -20206,11 +19782,9 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(67), 9377-9380.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -20305,18 +19879,16 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -20459,21 +20031,20 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - Triphenyl phosphite (CAS: 101-02-0)
+  - Pd(OAc)2 (CAS: 101-02-0)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 101-02-0)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Triphenyl phosphite (CAS: 101-02-0)
+**Ligands:** None
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20525,10 +20096,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - Ac2O (CAS: 108-24-7) - Role: BASE (Registry: SOLVENT)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - p-MeO-Ph (CAS: 855-38-9) - Role: UNK (Registry: LIGAND)
   - Lithium chloride (CAS: 7447-41-8) - Role: UNK
-  - Tris(4-methoxyphenyl)phosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -20570,7 +20140,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -20579,7 +20148,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -20628,7 +20196,6 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -20637,7 +20204,6 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -20686,7 +20252,6 @@ Journal of the American Chemical Society (2021), 143(17), 6498-6504.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -20695,12 +20260,10 @@ Journal of the American Chemical Society (2021), 143(17), 6498-6504.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -20743,7 +20306,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -20752,7 +20314,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -20864,10 +20425,9 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -20907,22 +20467,22 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 105.0°C
@@ -20961,7 +20521,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -20970,11 +20529,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21064,22 +20621,19 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21123,8 +20677,6 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Phosphoric acid (CAS: 58856-12-5)
-  - 2,2-dichloroethenyl dimethyl ester
-  - mixt. with 1,2,4-trichloro-5-[(4-chlorophenyl)thio]benzene
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -21133,8 +20685,6 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 
 **Ligands:**
   - Phosphoric acid (CAS: 58856-12-5)
-  - 2,2-dichloroethenyl dimethyl ester
-  - mixt. with 1,2,4-trichloro-5-[(4-chlorophenyl)thio]benzene
 
 **Reagents:**
   - Biphenyl (CAS: 92-52-4) - Role: UNK
@@ -21195,7 +20745,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Biphenyl (CAS: 92-52-4) - Role: UNK
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - 2-Methyl-2-butanol (CAS: 75-85-4) - Role: SOLVENT
@@ -21240,18 +20789,16 @@ Organic Letters (2023), 25(9), 1420-1424.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -21294,18 +20841,16 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -21358,7 +20903,6 @@ Organic Letters (2021), 23(9), 3729-3734.
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21400,16 +20944,18 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -21506,22 +21052,19 @@ Journal of Medicinal Chemistry (2022), 65(12), 8345-8379.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -21574,7 +21117,6 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21672,20 +21214,19 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21725,20 +21266,19 @@ Journal of Organic Chemistry (2022), 87(16), 11148-11164.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -21790,8 +21330,6 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
   - NaH (CAS: 7646-69-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
-  - Sodium hydride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21852,8 +21390,6 @@ Organic Letters (2023), 25(9), 1392-1396.
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
   - NaH (CAS: 7646-69-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
-  - Sodium hydride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21901,11 +21437,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -21952,11 +21488,11 @@ Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22003,11 +21539,11 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22054,11 +21590,11 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22105,11 +21641,11 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22311,11 +21847,11 @@ European Journal of Medicinal Chemistry (2023), 253, 115305.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22364,11 +21900,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22416,11 +21952,11 @@ Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22468,11 +22004,11 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22520,11 +22056,11 @@ Angewandte Chemie, International Edition (2022), 61(35), e202203908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22624,26 +22160,23 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 5-[2-(diphenylphosphino)-1-naphthalenyl]-1,4-diphenyl- (CAS: 2768502-03-8)
-  - (5S)-
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 2768502-03-8)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 2768502-03-8)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 5-[2-(diphenylphosphino)-1-naphthalenyl]-1,4-diphenyl- (CAS: 2768502-03-8)
-  - (5S)-
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -22691,9 +22224,8 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - CuI (CAS: 7681-65-4) - Role: UNK (Registry: CATALYST_CORE)
-  - Cuprous iodide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -22750,7 +22282,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22791,11 +22322,11 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -22845,23 +22376,20 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -22955,24 +22483,19 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -23014,8 +22537,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cs2CO3 (CAS: 98327-87-8)
-  - Cs2CO3 (CAS: 534-15-6) - Role: BASE
+  - Cesium carbonate (CAS: 98327-87-8)
   - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
@@ -23025,8 +22547,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Ligands:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cs2CO3 (CAS: 98327-87-8)
-  - Cs2CO3 (CAS: 534-15-6) - Role: BASE
+  - Cesium carbonate (CAS: 98327-87-8)
   - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Solvents:**
@@ -23069,20 +22590,19 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23193,7 +22713,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(62), 8698-8701.
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -23247,12 +22767,11 @@ Journal of Medicinal Chemistry (2024), 67(14), 11868-11884.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -23398,20 +22917,16 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23456,20 +22971,16 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23514,11 +23025,9 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - Dichlorobis(triphenylphosphine)palladium
 
 **Catalyst Core:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2) - Role: CATALYST_CORE
-  - Dichlorobis(triphenylphosphine)palladium
 
 **Generic Catalyst:** Pd
 
@@ -23526,7 +23035,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -23566,18 +23075,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23624,7 +23131,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -23633,7 +23139,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23678,18 +23183,16 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23732,18 +23235,16 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23786,22 +23287,16 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23844,22 +23339,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23902,22 +23391,16 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23962,11 +23445,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -23975,9 +23456,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: BASE (Registry: LIGAND)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 4-(Dimethylamino)pyridine - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - Anisole (CAS: 100-66-3)
@@ -24019,7 +23498,6 @@ Nature Communications (2024), 15(1), 3968.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -24028,15 +23506,13 @@ Nature Communications (2024), 15(1), 3968.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -24127,11 +23603,9 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -24192,10 +23666,9 @@ Journal of Organic Chemistry (2023), 88(20), 14797-14802.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24245,10 +23718,9 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24298,10 +23770,9 @@ Organic Letters (2022), 24(47), 8651-8656.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24351,10 +23822,9 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24404,10 +23874,9 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24457,10 +23926,9 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24510,10 +23978,9 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24563,10 +24030,9 @@ Organic Letters (2022), 24(49), 8969-8974.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24619,10 +24085,9 @@ Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24672,10 +24137,9 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24725,10 +24189,9 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24778,10 +24241,9 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24833,10 +24295,9 @@ Journal of Medicinal Chemistry (2024), 67(15), 12485-12520.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24886,10 +24347,9 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24939,10 +24399,9 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -24992,10 +24451,9 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -25032,22 +24490,19 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -25239,11 +24694,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25252,10 +24707,9 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -25305,7 +24759,6 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - Et2O (CAS: 60-29-7) - Role: SOLVENT
@@ -25359,7 +24812,6 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - Et2O (CAS: 60-29-7) - Role: SOLVENT
@@ -25400,11 +24852,11 @@ Angewandte Chemie, International Edition (2022), 61(39), e202209365.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -25465,7 +24917,6 @@ Journal of Medicinal Chemistry (2021), 64(6), 3392-3426.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -25520,7 +24971,6 @@ Journal of the American Chemical Society (2021), 143(47), 19769-19777.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0) - Role: SOLVENT
@@ -25569,7 +25019,6 @@ Nature Communications (2024), 15(1), 3968.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -25611,23 +25060,20 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -25680,7 +25126,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Biphenyl (CAS: 92-52-4) - Role: WORKUP
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -25732,7 +25177,6 @@ Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -25775,20 +25219,19 @@ Organic Letters (2022), 24(25), 4580-4585.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -25830,7 +25273,6 @@ Chemistry - A European Journal (2022), 28(37), e202200510.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -25839,7 +25281,6 @@ Chemistry - A European Journal (2022), 28(37), e202200510.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -25884,7 +25325,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -25893,7 +25333,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -25941,7 +25380,6 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -25950,7 +25388,6 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -25995,7 +25432,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -26004,7 +25440,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -26060,10 +25495,9 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 125.0°C
@@ -26101,21 +25535,20 @@ Angewandte Chemie, International Edition (2021), 60(11), 6036-6041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26156,20 +25589,21 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26209,22 +25643,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26264,22 +25695,19 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26332,10 +25760,9 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -26372,11 +25799,11 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26427,11 +25854,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -26479,20 +25906,21 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26547,7 +25975,6 @@ Chemistry - A European Journal (2023), 29(1), e202202636.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26607,8 +26034,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Ac2O (CAS: 108-24-7) - Role: UNK (Registry: SOLVENT)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -26653,7 +26079,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(37), 5614-5617.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -26662,11 +26087,9 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(37), 5614-5617.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -26708,7 +26131,6 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -26717,11 +26139,9 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -26763,7 +26183,6 @@ Journal of the American Chemical Society (2024), 146(33), 22993-23003.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -26772,11 +26191,9 @@ Journal of the American Chemical Society (2024), 146(33), 22993-23003.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -26818,7 +26235,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -26827,11 +26243,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -26872,7 +26286,7 @@ Journal of Organic Chemistry (2021), 86(8), 5922-5932.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -26880,7 +26294,7 @@ Journal of Organic Chemistry (2021), 86(8), 5922-5932.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -26980,20 +26394,19 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27034,7 +26447,7 @@ ACS Catalysis (2023), 13(9), 6416-6429.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -27042,11 +26455,10 @@ ACS Catalysis (2023), 13(9), 6416-6429.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27095,7 +26507,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27144,7 +26555,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27193,7 +26603,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27234,7 +26643,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -27242,7 +26651,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -27300,11 +26709,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 7988-8010.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -27361,11 +26769,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -27419,11 +26826,10 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -27477,11 +26883,10 @@ Organic Letters (2021), 23(9), 3546-3551.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -27679,7 +27084,6 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -27688,7 +27092,6 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -27731,11 +27134,11 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27786,7 +27189,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -27795,7 +27197,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -27840,7 +27241,6 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -27849,7 +27249,6 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -27890,11 +27289,11 @@ Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -27944,7 +27343,6 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -27953,11 +27351,9 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -27998,7 +27394,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -28007,11 +27402,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -28052,7 +27445,6 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -28061,11 +27453,9 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -28108,7 +27498,6 @@ Advanced Synthesis & Catalysis (2023), 365(13), 2248-2254.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -28117,11 +27506,9 @@ Advanced Synthesis & Catalysis (2023), 365(13), 2248-2254.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28160,20 +27547,19 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28213,22 +27599,19 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -28268,12 +27651,12 @@ Journal of the American Chemical Society (2024), 146(45), 31230-31239.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29022,10 +28405,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -29065,11 +28447,11 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29117,18 +28499,16 @@ Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -29171,18 +28551,16 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -29226,11 +28604,11 @@ Angewandte Chemie, International Edition (2023), 62(49), e202315108.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29330,20 +28708,16 @@ Journal of the American Chemical Society (2022), 144(1), 106-112.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -29386,20 +28760,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -29442,20 +28812,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - Phosphine (CAS: 12095-42-0)
-  - triphenyl-
-  - tetrafluoroborate(1-) (1:1)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 12095-42-0)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 12095-42-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Phosphine (CAS: 12095-42-0)
-  - triphenyl-
-  - tetrafluoroborate(1-) (1:1)
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -29500,22 +28866,16 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -29560,22 +28920,19 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29616,22 +28973,19 @@ Angewandte Chemie, International Edition (2024), 63(41), e202409366.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29671,22 +29025,19 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29727,22 +29078,19 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29782,22 +29130,16 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -29842,24 +29184,21 @@ Journal of Organic Chemistry (2022), 87(9), 5744-5759.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Titanium tetrachloride (CAS: 7550-45-0) - Role: UNK
   - Py (CAS: 110-86-1) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29905,11 +29244,11 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -29919,8 +29258,6 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Potassium hydroxide - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -29972,7 +29309,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -30020,7 +29357,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -30057,20 +29394,19 @@ Angewandte Chemie, International Edition (2022), 61(2), e202111291.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30111,20 +29447,19 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(44), 5462-5465.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30166,20 +29501,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30220,20 +29554,19 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30274,20 +29607,19 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30328,20 +29660,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30382,20 +29713,19 @@ Journal of the American Chemical Society (2021), 143(49), 21066-21076.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30437,20 +29767,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30491,20 +29820,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30545,20 +29873,19 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(6), 720-723.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30599,20 +29926,19 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30653,20 +29979,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30708,20 +30033,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30763,20 +30087,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30817,20 +30140,19 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30871,20 +30193,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30926,20 +30247,19 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30982,20 +30302,19 @@ Organic Process Research & Development (2024), 28(2), 559-576.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31036,20 +30355,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31090,20 +30408,19 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31144,20 +30461,19 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31198,20 +30514,19 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31253,20 +30568,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31307,20 +30621,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31361,20 +30674,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31415,20 +30727,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31469,20 +30780,19 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31523,20 +30833,19 @@ Journal of Medicinal Chemistry (2023), 66(11), 7421-7437.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31577,20 +30886,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31634,20 +30942,19 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31691,20 +30998,19 @@ Organic Process Research & Development (2024), 28(6), 2343-2354.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31745,20 +31051,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31799,20 +31104,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31853,20 +31157,19 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31907,20 +31210,19 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -31961,20 +31263,19 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32015,20 +31316,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32069,20 +31369,19 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32123,20 +31422,19 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32177,20 +31475,19 @@ Organic Letters (2023), 25(19), 3386-3390.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 210169-40-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32231,20 +31528,21 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32283,22 +31581,19 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32392,11 +31687,11 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -32444,11 +31739,11 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -32498,7 +31793,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -32507,7 +31801,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32551,16 +31844,16 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32608,16 +31901,16 @@ Journal of Organic Chemistry (2022), 87(21), 13763-13789.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32663,7 +31956,6 @@ Organic Letters (2023), 25(9), 1470-1475.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -32672,7 +31964,6 @@ Organic Letters (2023), 25(9), 1470-1475.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32729,7 +32020,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32769,20 +32059,21 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -32822,11 +32113,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -32932,7 +32223,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -32941,12 +32231,10 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -32989,20 +32277,19 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -33057,7 +32344,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -33097,8 +32384,6 @@ Advanced Synthesis & Catalysis (2023), 365(18), 3101-3106.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PtBu3 (CAS: 16872-11-0)
-  - Tri-tert-butylphosphine
-  - Tetrafluoroboric acid
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -33108,8 +32393,6 @@ Advanced Synthesis & Catalysis (2023), 365(18), 3101-3106.
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PtBu3 (CAS: 16872-11-0)
-  - Tri-tert-butylphosphine
-  - Tetrafluoroboric acid
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -33155,8 +32438,6 @@ Organic Letters (2024), 26(15), 2949-2954.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PtBu3 (CAS: 16872-11-0)
-  - Tri-tert-butylphosphine
-  - Tetrafluoroboric acid
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -33166,8 +32447,6 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PtBu3 (CAS: 16872-11-0)
-  - Tri-tert-butylphosphine
-  - Tetrafluoroboric acid
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -33210,11 +32489,11 @@ Organic Letters (2024), 26(9), 1840-1844.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33266,12 +32545,10 @@ Organic Letters (2021), 23(4), 1239-1242.
   - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
   - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
-
-**Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
 
 **Reagents:**
   - DIPA (CAS: 108-18-9) - Role: NUC (Registry: BASE)
@@ -33330,11 +32607,9 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - THF (CAS: 109-99-9) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -33377,11 +32652,11 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33391,11 +32666,9 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
   - MeOH (CAS: 67-56-1) - Role: SOLVENT
 
@@ -33440,11 +32713,11 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -33453,10 +32726,9 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -33506,10 +32778,9 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -33559,10 +32830,9 @@ Angewandte Chemie, International Edition (2023), 62(14), e202217512.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -33612,7 +32882,6 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - 1,3-Dioxolane (CAS: 646-06-0)
@@ -33652,7 +32921,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -33660,11 +32929,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0) - Role: SOLVENT
@@ -33704,20 +32972,21 @@ Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -33922,12 +33191,10 @@ Chemistry - A European Journal (2024), 30(55), e202402470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - dppf (CAS: 12150-46-8) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
@@ -33937,10 +33204,9 @@ Chemistry - A European Journal (2024), 30(55), e202402470.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -33988,11 +33254,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - 258278-25-0 (CAS: 258278-25-0) - Role: UNK
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro- - Role: UNK
-  - chloride (1:1) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -34044,11 +33308,9 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - 258278-25-0 (CAS: 258278-25-0) - Role: UNK
-  - 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro- - Role: UNK
-  - chloride (1:1) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -34100,10 +33362,9 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 50.0°C
@@ -34150,11 +33411,9 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - CuI (CAS: 7681-65-4) - Role: UNK (Registry: CATALYST_CORE)
-  - Cesium carbonate - Role: UNK
-  - Cuprous iodide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 200.0°C
@@ -34193,7 +33452,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -34202,12 +33460,10 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -34301,18 +33557,16 @@ Angewandte Chemie, International Edition (2021), 60(22), 12376-12380.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34355,18 +33609,16 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34406,18 +33658,16 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34457,18 +33707,16 @@ Journal of the American Chemical Society (2022), 144(13), 6100-6106.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34509,18 +33757,16 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34560,18 +33806,16 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34611,18 +33855,16 @@ Organometallics (2021), 40(2), 156-165.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34663,18 +33905,16 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34714,18 +33954,16 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34765,18 +34003,16 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34816,18 +34052,16 @@ Chemistry - A European Journal (2021), 27(26), 7356-7361.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34867,18 +34101,16 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34918,18 +34150,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -34971,18 +34201,16 @@ European Journal of Organic Chemistry (2021), 2021(36), 5073-5079.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35022,18 +34250,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35073,18 +34299,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35124,18 +34348,16 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35177,18 +34399,16 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35228,18 +34448,16 @@ European Journal of Organic Chemistry (2021), 2021(18), 2655-2664.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35280,18 +34498,16 @@ ACS Catalysis (2023), 13(11), 7680-7690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -35340,7 +34556,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35390,11 +34605,9 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - CuI (CAS: 7681-65-4) - Role: UNK (Registry: CATALYST_CORE)
-  - Cesium carbonate - Role: UNK
-  - Cuprous iodide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -35432,18 +34645,16 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -35487,21 +34698,18 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
-  - Bis(dibenzylideneacetone)palladium
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - p-Xylene (CAS: 106-42-3) - Role: SOLVENT
@@ -35541,20 +34749,16 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - RuPhos (CAS: 7440-05-3)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 7440-05-3)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -35597,20 +34801,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - RuPhos (CAS: 7440-05-3)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 7440-05-3)
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -35857,18 +35057,14 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -35911,18 +35107,14 @@ Journal of Medicinal Chemistry (2022), 65(23), 15805-15818.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -35965,18 +35157,14 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -36019,18 +35207,14 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -36083,10 +35267,9 @@ Journal of Medicinal Chemistry (2021), 64(11), 7691-7701.
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - Phenol (CAS: 108-95-2) - Role: UNK
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -36137,7 +35320,7 @@ ACS Catalysis (2023), 13(19), 12803-12809.
   - Potassium phenoxide (CAS: 100-67-4) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -36183,7 +35366,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36540,7 +35722,6 @@ Advanced Synthesis & Catalysis (2024), 366(7), 1538-1544.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -36549,14 +35730,12 @@ Advanced Synthesis & Catalysis (2024), 366(7), 1538-1544.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -36592,7 +35771,6 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -36601,11 +35779,9 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36647,7 +35823,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -36656,11 +35831,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36700,20 +35873,19 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - Dicyclohexyl[3,6-dimethoxy-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 1070663-78-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 1070663-78-3)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 1070663-78-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Dicyclohexyl[3,6-dimethoxy-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 1070663-78-3)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8) - Role: SOLVENT
@@ -36756,18 +35928,16 @@ Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -36810,18 +35980,16 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -36865,7 +36033,7 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -36873,7 +36041,7 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -36917,7 +36085,7 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -36925,7 +36093,7 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -36969,8 +36137,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -36978,8 +36145,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37023,7 +36189,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -37031,7 +36197,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37075,8 +36241,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -37084,8 +36249,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37133,8 +36297,7 @@ Journal of the American Chemical Society (2021), 143(12), 4809-4816.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -37142,14 +36305,13 @@ Journal of the American Chemical Society (2021), 143(12), 4809-4816.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - THF (CAS: 109-99-9) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -37192,8 +36354,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -37201,8 +36362,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
@@ -37246,7 +36406,7 @@ Organic Letters (2022), 24(23), 4129-4134.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -37254,7 +36414,7 @@ Organic Letters (2022), 24(23), 4129-4134.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37299,11 +36459,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -37350,23 +36510,21 @@ Angewandte Chemie, International Edition (2023), 62(49), e202311445.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (+)-BINAP (CAS: 76189-55-4)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-55-4)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (+)-BINAP (CAS: 76189-55-4)
+**Ligands:** None
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -37412,11 +36570,11 @@ Organic Letters (2022), 24(21), 3797-3801.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -37463,22 +36621,23 @@ Nature Communications (2023), 14(1), 2901.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - LiAlH4 (CAS: 16853-85-3) - Role: WORKUP (Registry: REDUCTANT)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37522,11 +36681,11 @@ Organic Letters (2021), 23(12), 4588-4592.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -37576,7 +36735,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -37585,13 +36743,12 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -37630,7 +36787,6 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -37639,14 +36795,12 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -37696,7 +36850,6 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37738,22 +36891,19 @@ Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - DPEPhos (CAS: 166330-10-5) - Role: LIGAND
-  - Bis[2-(diphenylphosphino)phenyl] ether
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - DPEPhos (CAS: 166330-10-5) - Role: LIGAND
-  - Bis[2-(diphenylphosphino)phenyl] ether
 
 **Reagents:**
   - NaH (CAS: 7646-69-7) - Role: UNK (Registry: BASE)
-  - Sodium hydride - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -37805,7 +36955,6 @@ Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37859,7 +37008,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37912,7 +37060,6 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -37965,7 +37112,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38018,7 +37164,6 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38071,7 +37216,6 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38163,20 +37307,21 @@ Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38218,7 +37363,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
   - Palladium (CAS: 7647-10-1) - Role: CATALYST_CORE
@@ -38227,11 +37371,9 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Ligands:**
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -38323,22 +37465,19 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38378,24 +37517,22 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
-  - Cu (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Cu(OAc)2 (CAS: 142-71-2) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
-**Generic Catalyst:** Pd, Cu, Cu(II)
+**Generic Catalyst:** Pd, Cu(II)
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38431,6 +37568,10 @@ By: Warsitz, Michael; et al
 European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
 ```
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Name mismatch: 'Cupric acetate' vs registry 'Cu(OAc)2' (abbrev: 'Cu(OAc)2') for CAS 142-71-2
+  - ⚠️ Catalyst Core: Name mismatch: 'Cupric acetate' vs registry 'Cu(OAc)2' (abbrev: 'Cu(OAc)2') for CAS 142-71-2
 
 ---
 
@@ -38491,11 +37632,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38543,11 +37684,11 @@ Organic Letters (2023), 25(19), 3386-3390.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38595,11 +37736,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38649,11 +37790,9 @@ Chemistry - A European Journal (2022), 28(12), e202104214.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -38662,7 +37801,6 @@ Chemistry - A European Journal (2022), 28(12), e202104214.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -38701,18 +37839,16 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -38768,10 +37904,9 @@ Angewandte Chemie, International Edition (2021), 60(11), 5673-5678.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -38811,11 +37946,11 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38863,11 +37998,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -38918,7 +38053,7 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -38926,7 +38061,7 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -39082,7 +38217,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - DavePhos (CAS: 213697-53-1) - Role: NUC (Registry: LIGAND)
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39125,20 +38259,21 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39178,20 +38313,21 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39231,20 +38367,21 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39284,20 +38421,21 @@ Organic Letters (2022), 24(30), 5624-5628.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39337,20 +38475,21 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39406,7 +38545,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: UNK (Registry: BASE)
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39459,7 +38597,6 @@ Organic Chemistry Frontiers (2023), 10(2), 524-530.
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: UNK (Registry: BASE)
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39512,7 +38649,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: UNK (Registry: BASE)
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39565,7 +38701,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: UNK (Registry: BASE)
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39618,7 +38753,6 @@ European Journal of Medicinal Chemistry (2022), 229, 113995.
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: UNK (Registry: BASE)
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39658,17 +38792,16 @@ Nature Communications (2023), 14(1), 1678.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39710,17 +38843,16 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2739-2742.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39762,17 +38894,16 @@ Organic Letters (2024), 26(18), 3951-3956.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39820,7 +38951,6 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39870,7 +39000,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39920,7 +39049,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -39971,7 +39099,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40023,7 +39150,6 @@ Organic Letters (2024), 26(38), 8171-8176.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40073,7 +39199,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40125,7 +39250,6 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40175,7 +39299,6 @@ Organic Letters (2022), 24(6), 1318-1322.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40229,7 +39352,6 @@ Journal of the American Chemical Society (2021), 143(12), 4809-4816.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40279,7 +39401,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40329,7 +39450,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40380,7 +39500,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40430,7 +39549,6 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40481,7 +39599,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40533,7 +39650,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40583,7 +39699,6 @@ Journal of Medicinal Chemistry (2022), 65(13), 9096-9125.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40633,7 +39748,6 @@ Angewandte Chemie, International Edition (2022), 61(28), e202201240.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40683,7 +39797,6 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40734,7 +39847,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40785,7 +39897,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40835,7 +39946,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40888,7 +39998,6 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40938,7 +40047,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -40988,7 +40096,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(32), 5001-5004.
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41032,7 +40139,6 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -41041,13 +40147,12 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -41085,20 +40190,16 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -41161,9 +40262,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Cesium carbonate - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41210,18 +40309,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -41263,25 +40360,20 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4) - Role: SOLVENT
@@ -41323,20 +40415,16 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -41381,24 +40469,22 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -41437,18 +40523,16 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: UNK (Registry: LIGAND)
-  - Potassium tert-butoxide - Role: UNK
-  - Tri-tert-butylphosphine - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -41489,7 +40573,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -41497,14 +40581,13 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Time: 12.0 hours
@@ -41695,7 +40778,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -41703,11 +40786,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41759,7 +40841,7 @@ Organic Letters (2023), 25(48), 8756-8760.
   - BINAP (CAS: 98327-87-8)
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -41795,16 +40877,16 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -41860,7 +40942,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -41900,20 +40981,16 @@ Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -41958,7 +41035,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -41967,7 +41043,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42011,18 +41086,16 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42177,7 +41250,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -42230,7 +41302,6 @@ Chemistry - A European Journal (2022), 28(16), e202104411.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42425,7 +41496,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -42434,7 +41504,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42477,23 +41546,24 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 170.0°C
@@ -42530,11 +41600,11 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42543,7 +41613,6 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42582,11 +41651,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42595,7 +41664,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -42636,7 +41704,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -42645,7 +41712,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42694,7 +41760,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(44), 6457-6460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -42703,7 +41768,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(44), 6457-6460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42751,7 +41815,6 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -42760,7 +41823,6 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42806,7 +41868,6 @@ ACS Catalysis (2024), 14(16), 12173-12180.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -42815,7 +41876,6 @@ ACS Catalysis (2024), 14(16), 12173-12180.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42861,7 +41921,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -42870,7 +41929,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42916,7 +41974,6 @@ Journal of Medicinal Chemistry (2023), 66(24), 17044-17058.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -42925,11 +41982,9 @@ Journal of Medicinal Chemistry (2023), 66(24), 17044-17058.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42969,11 +42024,11 @@ Angewandte Chemie, International Edition (2021), 60(35), 19364-19373.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -42981,7 +42036,7 @@ Angewandte Chemie, International Edition (2021), 60(35), 19364-19373.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCOOH (CAS: 64-18-6) - Role: UNK (Registry: ACID)
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
 
@@ -43024,11 +42079,11 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43036,7 +42091,7 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCOOH (CAS: 64-18-6) - Role: UNK (Registry: ACID)
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
 
@@ -43079,11 +42134,11 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43091,7 +42146,7 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCOOH (CAS: 64-18-6) - Role: UNK (Registry: ACID)
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
 
@@ -43134,11 +42189,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43146,7 +42201,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCOOH (CAS: 64-18-6) - Role: UNK (Registry: ACID)
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
 
@@ -43189,11 +42244,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43201,7 +42256,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCOOH (CAS: 64-18-6) - Role: UNK (Registry: ACID)
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
 
@@ -43244,11 +42299,11 @@ Organic Letters (2024), 26(1), 292-297.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43256,7 +42311,7 @@ Organic Letters (2024), 26(1), 292-297.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCOOH (CAS: 64-18-6) - Role: UNK (Registry: ACID)
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
 
@@ -43299,11 +42354,11 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -43311,7 +42366,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCOOH (CAS: 64-18-6) - Role: UNK (Registry: ACID)
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
 
@@ -43357,18 +42412,16 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -43465,7 +42518,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -43473,15 +42526,14 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -43523,11 +42575,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -43577,11 +42627,9 @@ Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -43631,11 +42679,9 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -43683,18 +42729,16 @@ Organic Letters (2021), 23(9), 3552-3556.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -43739,7 +42783,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -43748,7 +42791,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -43796,7 +42838,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -43805,7 +42846,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -43853,7 +42893,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -43862,7 +42901,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -43910,7 +42948,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -43919,7 +42956,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -43967,7 +43003,6 @@ Journal of the American Chemical Society (2022), 144(14), 6200-6207.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -43976,7 +43011,6 @@ Journal of the American Chemical Society (2022), 144(14), 6200-6207.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44024,7 +43058,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44033,7 +43066,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44081,7 +43113,6 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44090,7 +43121,6 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44138,7 +43168,6 @@ Organic Letters (2024), 26(4), 939-944.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44147,7 +43176,6 @@ Organic Letters (2024), 26(4), 939-944.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44195,7 +43223,6 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44204,7 +43231,6 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44252,7 +43278,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44261,7 +43286,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44309,7 +43333,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44318,7 +43341,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44367,7 +43389,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44376,7 +43397,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44424,7 +43444,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44433,7 +43452,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44481,7 +43499,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44490,7 +43507,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44538,7 +43554,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44547,7 +43562,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44595,7 +43609,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44604,7 +43617,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44652,7 +43664,6 @@ Journal of the American Chemical Society (2024), 146(51), 35377-35389.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44661,7 +43672,6 @@ Journal of the American Chemical Society (2024), 146(51), 35377-35389.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44709,7 +43719,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44718,7 +43727,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44766,7 +43774,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44775,7 +43782,6 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44823,7 +43829,6 @@ Chemistry - A European Journal (2022), 28(21), e202104292.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44832,7 +43837,6 @@ Chemistry - A European Journal (2022), 28(21), e202104292.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44879,7 +43883,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -44887,13 +43891,13 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -44930,24 +43934,19 @@ Journal of Organic Chemistry (2023), 88(5), 2735-2741.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0) - Role: SOLVENT
@@ -44989,24 +43988,19 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0) - Role: SOLVENT
@@ -45046,15 +44040,11 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - Lithium bis(trimethylsilyl)amide
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
@@ -45062,16 +44052,13 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 **Ligands:**
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - Lithium bis(trimethylsilyl)amide
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -45114,7 +44101,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - p-tol (CAS: 1038-95-5) - Role: LIGAND
-  - Tri-p-tolylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -45123,13 +44109,12 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Ligands:**
   - p-tol (CAS: 1038-95-5) - Role: LIGAND
-  - Tri-p-tolylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -45179,10 +44164,9 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -45220,20 +44204,16 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45276,20 +44256,16 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45331,20 +44307,16 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45389,7 +44361,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Bis(dibenzylideneacetone)palladium (CAS: 73183-34-3)
-  - Bis(pinacolato)diborane
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
@@ -45397,12 +44368,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Bis(pinacolato)diborane
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -45496,7 +44465,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -45505,7 +44473,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45550,7 +44517,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -45559,7 +44525,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45604,7 +44569,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -45613,7 +44577,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45815,7 +44778,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -45824,7 +44786,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45870,7 +44831,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -45879,7 +44839,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45922,11 +44881,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -45974,22 +44933,19 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -46093,7 +45049,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -46185,26 +45141,25 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 1121-22-8)
   - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
+  - Palladium (CAS: 1121-22-8)
   - trans-1,2-Diaminocyclohexane (CAS: 7440-05-3)
 
 **Catalyst Core:**
+  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
   - Palladium (CAS: 1121-22-8)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - CuI (CAS: 7681-65-4) - Role: CATALYST_CORE
   - trans-1,2-Diaminocyclohexane (CAS: 7440-05-3)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -46249,20 +45204,19 @@ Chemistry - A European Journal (2021), 27(11), 3861-3868.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46303,20 +45257,19 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46356,20 +45309,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46409,20 +45361,19 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46462,20 +45413,19 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46515,20 +45465,19 @@ Organic Letters (2023), 25(30), 5597-5601.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46568,20 +45517,19 @@ Organic Chemistry Frontiers (2023), 10(5), 1289-1295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46621,20 +45569,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46674,20 +45621,19 @@ Journal of Medicinal Chemistry (2023), 66(15), 10746-10760.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46727,20 +45673,19 @@ ACS Catalysis (2024), 14(16), 12173-12180.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46780,20 +45725,19 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46837,20 +45781,19 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46894,20 +45837,19 @@ Journal of Organic Chemistry (2022), 87(21), 13763-13789.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -46947,20 +45889,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47000,20 +45941,19 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47053,20 +45993,19 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47106,20 +46045,19 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47159,20 +46097,19 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47213,20 +46150,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47266,20 +46202,19 @@ Angewandte Chemie, International Edition (2021), 60(38), 20728-20733.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47319,20 +46254,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -47372,22 +46306,19 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -47428,22 +46359,19 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -47484,22 +46412,19 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -47540,22 +46465,19 @@ Journal of the American Chemical Society (2023), 145(3), 1505-1511.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -47596,22 +46518,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -47652,22 +46571,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -47708,22 +46624,19 @@ European Journal of Medicinal Chemistry (2024), 269, 116344.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -47765,11 +46678,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -47819,18 +46732,16 @@ Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -47873,11 +46784,11 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -47925,11 +46836,11 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -47977,16 +46888,16 @@ Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -48029,20 +46940,16 @@ Organic Letters (2022), 24(37), 6869-6873.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - Phosphine (CAS: 58656-04-5)
-  - tricyclohexyl-
-  - tetrafluoroborate(1-) (1:1)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 58656-04-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 58656-04-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Phosphine (CAS: 58656-04-5)
-  - tricyclohexyl-
-  - tetrafluoroborate(1-) (1:1)
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -48096,11 +47003,9 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium carbonate - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -48159,11 +47064,9 @@ Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
   - Citric acid (CAS: 77-92-9) - Role: UNK
-  - Sodium carbonate - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
   - THF (CAS: 96-47-9) - Role: SOLVENT
 
@@ -48419,7 +47322,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Aluminum (CAS: 7429-90-5) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - MeOH (CAS: 67-56-1) - Role: SOLVENT
@@ -48472,7 +47374,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Aluminum (CAS: 7429-90-5) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - MeOH (CAS: 67-56-1) - Role: SOLVENT
@@ -48515,20 +47416,16 @@ ACS Catalysis (2021), 11(16), 10429-10435.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 76189-56-5)
-  - (-)-BINAP
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -48571,11 +47468,11 @@ Journal of Organic Chemistry (2024), 89(11), 7455-7471.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -48585,7 +47482,6 @@ Journal of Organic Chemistry (2024), 89(11), 7455-7471.
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48681,20 +47577,21 @@ Organometallics (2021), 40(2), 156-165.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48736,7 +47633,6 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -48745,11 +47641,9 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -48792,7 +47686,6 @@ European Journal of Medicinal Chemistry (2022), 228, 114022.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -48802,7 +47695,6 @@ European Journal of Medicinal Chemistry (2022), 228, 114022.
 **Ligands:**
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -48847,7 +47739,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -48857,7 +47748,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Ligands:**
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -48902,7 +47792,6 @@ Chemistry - A European Journal (2023), 29(52), e202301971.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -48912,7 +47801,6 @@ Chemistry - A European Journal (2023), 29(52), e202301971.
 **Ligands:**
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -48957,7 +47845,6 @@ European Journal of Medicinal Chemistry (2023), 245(Part_1), 114905.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -48967,7 +47854,6 @@ European Journal of Medicinal Chemistry (2023), 245(Part_1), 114905.
 **Ligands:**
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -49012,7 +47898,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -49022,7 +47907,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Ligands:**
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -49067,7 +47951,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -49077,7 +47960,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 **Ligands:**
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -49122,7 +48004,6 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -49132,7 +48013,6 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Ligands:**
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
   - XantPhos (CAS: 838-85-7)
-  - Diphenyl phosphate
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -49176,7 +48056,6 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -49185,7 +48064,6 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49229,7 +48107,6 @@ ChemCatChem (2022), 14(16), e202200734.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -49238,7 +48115,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49282,7 +48158,6 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -49291,7 +48166,6 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49333,26 +48207,23 @@ Journal of the American Chemical Society (2023), 145(18), 10431-10440.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - NaOtBu (CAS: 865-48-5) - Role: BASE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - PCy3 (CAS: 2622-14-2) - Role: UNK (Registry: LIGAND)
-  - Tricyclohexylphosphine - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49392,16 +48263,15 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49409,7 +48279,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49452,16 +48321,15 @@ Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49469,7 +48337,6 @@ Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49512,16 +48379,15 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49529,7 +48395,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49573,16 +48438,15 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49590,7 +48454,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - PCy3 (CAS: 2622-14-2) - Role: LIGAND
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
   - PCy3 (CAS: 102851-06-9) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49636,18 +48499,16 @@ Organic Process Research & Development (2023), 27(3), 530-538.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -49746,11 +48607,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -49760,10 +48621,9 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -49811,10 +48671,9 @@ Journal of the American Chemical Society (2021), 143(49), 21066-21076.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -49863,10 +48722,9 @@ Journal of Medicinal Chemistry (2022), 65(10), 7278-7295.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -49919,7 +48777,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -49959,23 +48816,21 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -50065,11 +48920,11 @@ Journal of Organic Chemistry (2023), 88(3), 1742-1748.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50078,7 +48933,6 @@ Journal of Organic Chemistry (2023), 88(3), 1742-1748.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50118,11 +48972,11 @@ Nature Communications (2021), 12(1), 2706.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50131,7 +48985,6 @@ Nature Communications (2021), 12(1), 2706.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50172,11 +49025,11 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50185,7 +49038,6 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50225,11 +49077,11 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50238,7 +49090,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50278,11 +49129,11 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50291,7 +49142,6 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50331,11 +49181,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50344,7 +49194,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50384,11 +49233,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50397,7 +49246,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50437,11 +49285,11 @@ Nature Communications (2023), 14(1), 7220.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50450,7 +49298,6 @@ Nature Communications (2023), 14(1), 7220.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50490,11 +49337,11 @@ Organic Letters (2021), 23(13), 5203-5207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50503,7 +49350,6 @@ Organic Letters (2021), 23(13), 5203-5207.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50547,11 +49393,11 @@ Angewandte Chemie, International Edition (2022), 61(20), e202202814.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50560,7 +49406,6 @@ Angewandte Chemie, International Edition (2022), 61(20), e202202814.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50601,11 +49446,11 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50614,7 +49459,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50654,11 +49498,11 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50667,7 +49511,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50707,11 +49550,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50720,7 +49563,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50763,11 +49605,11 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50776,7 +49618,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50816,11 +49657,11 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50829,7 +49670,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50869,11 +49709,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50882,7 +49722,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50922,11 +49761,11 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50935,7 +49774,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -50977,11 +49815,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -50990,7 +49828,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51030,11 +49867,11 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51043,7 +49880,6 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51085,11 +49921,11 @@ European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51098,7 +49934,6 @@ European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51138,11 +49973,11 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51151,7 +49986,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51191,11 +50025,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51204,7 +50038,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51244,11 +50077,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51257,7 +50090,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51297,11 +50129,11 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51310,7 +50142,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51350,11 +50181,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51363,7 +50194,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51403,11 +50233,11 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51416,7 +50246,6 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51456,11 +50285,11 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51469,7 +50298,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51509,11 +50337,11 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51522,7 +50350,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51562,11 +50389,11 @@ Nature Communications (2022), 13(1), 6056.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51575,7 +50402,6 @@ Nature Communications (2022), 13(1), 6056.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51615,11 +50441,11 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51628,7 +50454,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51668,11 +50493,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppp (CAS: 6737-42-4) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51681,7 +50506,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51723,7 +50547,6 @@ ChemCatChem (2022), 14(17), e202200485.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -51732,14 +50555,13 @@ ChemCatChem (2022), 14(17), e202200485.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -51779,11 +50601,11 @@ Journal of Medicinal Chemistry (2024), 67(2), 1262-1313.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -51843,7 +50665,6 @@ Angewandte Chemie, International Edition (2021), 60(51), 26769-26776.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -51883,18 +50704,16 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -51940,7 +50759,6 @@ Organic Letters (2024), 26(49), 10523-10528.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -51949,13 +50767,11 @@ Organic Letters (2024), 26(49), 10523-10528.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - n-BuLi (CAS: 109-72-8) - Role: BASE
   - Magnesium bromide (CAS: 7789-48-2) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
-  - Butyllithium - Role: UNK
 
 **Solvents:**
   - Et2O (CAS: 60-29-7) - Role: SOLVENT
@@ -52008,7 +50824,6 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -52017,13 +50832,11 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - n-BuLi (CAS: 109-72-8) - Role: BASE
   - Magnesium bromide (CAS: 7789-48-2) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: UNK (Registry: BASE)
-  - Butyllithium - Role: UNK
 
 **Solvents:**
   - Et2O (CAS: 60-29-7) - Role: SOLVENT
@@ -52073,7 +50886,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -52081,14 +50894,13 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -52127,16 +50939,18 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -52179,16 +50993,18 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -52231,16 +51047,18 @@ ACS Catalysis (2022), 12(12), 7269-7277.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -52286,20 +51104,21 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -52339,18 +51158,16 @@ Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -52393,18 +51210,16 @@ Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PtBu3 (CAS: 13716-12-6) - Role: LIGAND
-  - Tri-tert-butylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -52461,7 +51276,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52514,7 +51328,6 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52567,7 +51380,6 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52620,7 +51432,6 @@ ACS Catalysis (2022), 12(6), 3291-3301.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52673,7 +51484,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52726,7 +51536,6 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52779,7 +51588,6 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52832,7 +51640,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52885,7 +51692,6 @@ Angewandte Chemie, International Edition (2021), 60(22), 12376-12380.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52938,7 +51744,6 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -52992,7 +51797,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53045,7 +51849,6 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53098,7 +51901,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53151,7 +51953,6 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53204,7 +52005,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53257,7 +52057,6 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53310,7 +52109,6 @@ Organic Letters (2023), 25(9), 1470-1475.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53363,7 +52161,6 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53416,7 +52213,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53469,7 +52265,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53510,7 +52305,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53518,12 +52313,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53567,7 +52361,7 @@ Journal of the American Chemical Society (2021), 143(33), 13342-13349.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53575,12 +52369,11 @@ Journal of the American Chemical Society (2021), 143(33), 13342-13349.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53624,7 +52417,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53632,12 +52425,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53681,7 +52473,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53689,12 +52481,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53738,7 +52529,7 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53746,12 +52537,11 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53795,7 +52585,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53803,12 +52593,11 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53852,7 +52641,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53860,12 +52649,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53909,7 +52697,7 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53917,12 +52705,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -53968,7 +52755,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -53976,12 +52763,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -54025,7 +52811,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -54033,12 +52819,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -54081,20 +52866,19 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 312959-24-3)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 312959-24-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
+**Ligands:** None
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -54134,18 +52918,16 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -54190,25 +52972,20 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tBuXPhos (CAS: 564483-19-8) - Role: LIGAND
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine
+  - XPhos (CAS: 564483-19-8) - Role: LIGAND
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -54359,11 +53136,9 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -54413,11 +53188,9 @@ Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -54466,7 +53239,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -54474,14 +53247,13 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -54519,7 +53291,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -54527,14 +53299,13 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -54572,7 +53343,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -54580,14 +53351,13 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -54625,7 +53395,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -54633,14 +53403,13 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -54678,7 +53447,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -54686,14 +53455,13 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -54731,11 +53499,11 @@ ACS Catalysis (2023), 13(11), 7680-7690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54744,7 +53512,6 @@ ACS Catalysis (2023), 13(11), 7680-7690.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -54784,11 +53551,11 @@ Chemistry - A European Journal (2022), 28(9), e202104107.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54797,7 +53564,6 @@ Chemistry - A European Journal (2022), 28(9), e202104107.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -54837,11 +53603,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -54888,18 +53654,16 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -54946,18 +53710,16 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -55002,18 +53764,16 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -55058,18 +53818,16 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -55114,18 +53872,16 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -55175,18 +53931,16 @@ Journal of the American Chemical Society (2022), 144(49), 22689-22697.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -55244,7 +53998,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55283,11 +54036,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -55348,10 +54101,9 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -55388,12 +54140,10 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - dppf (CAS: 12150-46-8) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
@@ -55442,16 +54192,18 @@ Nature Communications (2022), 13(1), 115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -55703,7 +54455,6 @@ Angewandte Chemie, International Edition (2021), 60(14), 7643-7648.
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -55756,7 +54507,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -55796,24 +54546,23 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -55854,7 +54603,7 @@ Angewandte Chemie, International Edition (2023), 62(18), e202300178.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -55862,7 +54611,7 @@ Angewandte Chemie, International Edition (2023), 62(18), e202300178.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -55909,7 +54658,6 @@ ACS Catalysis (2022), 12(20), 12860-12868.
 **Full Catalytic System:**
   - Palladium (CAS: 7440-05-3)
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
-  - 4-(Dimethylamino)pyridine
 
 **Catalyst Core:**
   - Palladium (CAS: 7440-05-3)
@@ -55918,13 +54666,11 @@ ACS Catalysis (2022), 12(20), 12860-12868.
 
 **Ligands:**
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
-  - 4-(Dimethylamino)pyridine
 
 **Reagents:**
   - Hydrogen (CAS: 1333-74-0) - Role: WORKUP
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -56316,10 +55062,9 @@ Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -56357,7 +55102,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -56365,14 +55110,13 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Time: 16.0 hours
@@ -56458,7 +55202,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -56467,11 +55210,9 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -56520,10 +55261,9 @@ Nature Communications (2022), 13(1), 2869.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -56562,7 +55302,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -56571,14 +55310,12 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -56617,7 +55354,6 @@ Journal of Medicinal Chemistry (2022), 65(22), 15140-15164.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -56626,14 +55362,12 @@ Journal of Medicinal Chemistry (2022), 65(22), 15140-15164.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -56674,7 +55408,6 @@ Journal of Medicinal Chemistry (2021), 64(6), 3234-3248.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -56683,14 +55416,12 @@ Journal of Medicinal Chemistry (2021), 64(6), 3234-3248.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -56740,7 +55471,6 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -56780,26 +55510,19 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -56839,16 +55562,18 @@ Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -56893,16 +55618,18 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -56947,26 +55674,19 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -57006,26 +55726,19 @@ Organic Letters (2024), 26(17), 3617-3621.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - XantPhos (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -57078,10 +55791,9 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -57127,7 +55839,6 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57176,7 +55887,6 @@ Journal of the American Chemical Society (2022), 144(18), 8306-8316.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57225,7 +55935,6 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57274,7 +55983,6 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57323,7 +56031,6 @@ Journal of Medicinal Chemistry (2023), 66(18), 13280-13303.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57372,7 +56079,6 @@ Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57421,7 +56127,6 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57470,7 +56175,6 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57519,7 +56223,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -57559,20 +56262,19 @@ Organic Process Research & Development (2022), 26(9), 2756-2760.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -57614,20 +56316,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -57671,26 +56372,24 @@ European Journal of Medicinal Chemistry (2022), 243, 114764.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - (-)-BINAP (CAS: 76189-56-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 76189-56-5)
+**Ligands:** None
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 40.0°C
@@ -57727,13 +56426,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 98327-87-8)
   - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 98327-87-8)
 
@@ -57788,7 +56485,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -57797,7 +56493,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -57836,24 +56531,19 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -57896,7 +56586,7 @@ Journal of the American Chemical Society (2022), 144(4), 1748-1757.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -57904,14 +56594,13 @@ Journal of the American Chemical Society (2022), 144(4), 1748-1757.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -57949,7 +56638,7 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -57957,14 +56646,13 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -58002,7 +56690,7 @@ Journal of the American Chemical Society (2022), 144(29), 13032-13038.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -58010,14 +56698,13 @@ Journal of the American Chemical Society (2022), 144(29), 13032-13038.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -58057,7 +56744,7 @@ ACS Catalysis (2022), 12(20), 12860-12868.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -58065,14 +56752,13 @@ ACS Catalysis (2022), 12(20), 12860-12868.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -58110,7 +56796,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -58118,14 +56804,13 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -58163,7 +56848,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -58171,14 +56856,13 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -58228,10 +56912,9 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -58270,7 +56953,6 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -58279,11 +56961,9 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -58325,7 +57005,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -58334,11 +57013,9 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -58379,7 +57056,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -58387,7 +57064,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -58430,11 +57107,11 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -58482,20 +57159,16 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 76189-56-5)
-  - (-)-BINAP
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 76189-56-5)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -58548,9 +57221,8 @@ Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -58654,7 +57326,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -58707,7 +57378,6 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -58760,11 +57430,10 @@ Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -58814,11 +57483,10 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -58868,11 +57536,10 @@ Journal of Organic Chemistry (2022), 87(21), 13965-13979.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -58922,11 +57589,10 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -58976,11 +57642,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -59030,7 +57695,6 @@ ChemCatChem (2023), 15(3), e202201311.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -59080,11 +57744,10 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - (+)-BINAP (CAS: 76189-55-4) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -59131,11 +57794,10 @@ Angewandte Chemie, International Edition (2023), 62(12), e202218195.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - (+)-BINAP (CAS: 76189-55-4) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -59183,11 +57845,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - (+)-BINAP (CAS: 76189-55-4) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -59224,21 +57885,20 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(14), 2003-2006.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Methanesulfonic acid (CAS: 75-75-2) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK (Registry: BASE)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -59279,20 +57939,21 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59332,20 +57993,21 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59385,20 +58047,21 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59438,20 +58101,21 @@ Nature Communications (2022), 13(1), 115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59491,20 +58155,21 @@ Journal of Medicinal Chemistry (2023), 66(20), 14133-14149.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59544,20 +58209,21 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59597,27 +58263,22 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -59654,11 +58315,11 @@ Journal of Medicinal Chemistry (2022), 65(1), 838-856.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -59667,10 +58328,9 @@ Journal of Medicinal Chemistry (2022), 65(1), 838-856.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -59709,25 +58369,20 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Triphenylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59768,25 +58423,20 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Triphenylphosphine
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - PPh3 (CAS: 603-35-0) - Role: LIGAND
-  - Triphenylphosphine
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -59889,7 +58539,6 @@ Chemistry - A European Journal (2021), 27(71), 17880-17888.
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -59986,22 +58635,16 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -60045,22 +58688,16 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -60103,22 +58740,16 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -60164,22 +58795,16 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -60222,22 +58847,16 @@ Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -60280,22 +58899,16 @@ Organic Letters (2024), 26(18), 3855-3860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -60338,22 +58951,19 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - DPPE (CAS: 1663-45-2) - Role: LIGAND
-  - 1,2-Bis(diphenylphosphino)ethane
+  - dppf (CAS: 1663-45-2) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - DPPE (CAS: 1663-45-2) - Role: LIGAND
-  - 1,2-Bis(diphenylphosphino)ethane
+  - dppf (CAS: 1663-45-2) - Role: LIGAND
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -60394,22 +59004,19 @@ Angewandte Chemie, International Edition (2023), 62(35), e202307118.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - DPPE (CAS: 1663-45-2) - Role: LIGAND
-  - 1,2-Bis(diphenylphosphino)ethane
+  - dppf (CAS: 1663-45-2) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - DPPE (CAS: 1663-45-2) - Role: LIGAND
-  - 1,2-Bis(diphenylphosphino)ethane
+  - dppf (CAS: 1663-45-2) - Role: LIGAND
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -60447,22 +59054,19 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - DPPE (CAS: 1663-45-2) - Role: LIGAND
-  - 1,2-Bis(diphenylphosphino)ethane
+  - dppf (CAS: 1663-45-2) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - DPPE (CAS: 1663-45-2) - Role: LIGAND
-  - 1,2-Bis(diphenylphosphino)ethane
+  - dppf (CAS: 1663-45-2) - Role: LIGAND
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -60502,20 +59106,21 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60555,27 +59160,22 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -60612,24 +59212,19 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(43), 6556-6559.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60683,7 +59278,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60723,27 +59317,22 @@ Journal of Medicinal Chemistry (2024), 67(6), 4819-4832.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60792,27 +59381,22 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60861,24 +59445,19 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -60918,24 +59497,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -61029,11 +59603,11 @@ Chemistry - A European Journal (2021), 27(53), 13390-13398.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61095,11 +59669,10 @@ Angewandte Chemie, International Edition (2023), 62(27), e202304461.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61150,11 +59723,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61204,11 +59776,10 @@ Angewandte Chemie, International Edition (2022), 61(12), e202113909.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61259,11 +59830,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61314,11 +59884,10 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61368,11 +59937,10 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61423,11 +59991,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -61479,11 +60046,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61534,11 +60100,10 @@ Angewandte Chemie, International Edition (2022), 61(52), e202213697.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -61576,11 +60141,11 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61589,7 +60154,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -61642,7 +60206,7 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -61690,7 +60254,7 @@ European Journal of Medicinal Chemistry (2022), 244, 114858.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -61738,7 +60302,7 @@ Nature Communications (2024), 15(1), 3968.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -61788,10 +60352,9 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -61828,11 +60391,11 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - dppf (CAS: 12150-46-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -61886,7 +60449,6 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -61895,14 +60457,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -61949,7 +60508,6 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -61958,14 +60516,11 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Lithium bis(trimethylsilyl)amide - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -62019,10 +60574,9 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -62073,7 +60627,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62123,7 +60676,6 @@ Nature Communications (2024), 15(1), 9611.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - BINAP (CAS: 98327-87-8) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62176,10 +60728,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -62226,7 +60777,6 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - BINAP (CAS: 98327-87-8) - Role: UNK
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62279,7 +60829,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62332,7 +60881,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62385,7 +60933,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
-  - Potassium tert-butoxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62521,12 +61068,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - Silver nitrite (CAS: 7783-99-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 7783-99-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
-  - Silver nitrite (CAS: 7783-99-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Palladium diacetate (CAS: 7783-99-5)
 
 **Generic Catalyst:** Pd
 
@@ -62574,7 +61121,6 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -62583,11 +61129,9 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -62627,24 +61171,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -62684,24 +61223,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -62743,24 +61277,19 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -62800,24 +61329,19 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -62857,24 +61381,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -62914,24 +61433,19 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -62971,24 +61485,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63028,24 +61537,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63085,24 +61589,19 @@ Organic Chemistry Frontiers (2023), 10(12), 2955-2962.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63142,24 +61641,19 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -63199,24 +61693,19 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63256,24 +61745,19 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63313,24 +61797,19 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63370,24 +61849,19 @@ European Journal of Medicinal Chemistry (2024), 268, 116285.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63430,24 +61904,19 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63487,24 +61956,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63544,24 +62008,19 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63601,24 +62060,19 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63658,24 +62112,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63715,24 +62164,19 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63772,24 +62216,19 @@ European Journal of Medicinal Chemistry (2022), 242, 114638.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63829,24 +62268,19 @@ Organic Letters (2021), 23(9), 3546-3551.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63886,24 +62320,19 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -63945,24 +62374,19 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64002,24 +62426,19 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64060,24 +62479,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64117,24 +62531,19 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64174,24 +62583,19 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64231,24 +62635,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64290,24 +62689,19 @@ Journal of Medicinal Chemistry (2023), 66(6), 4253-4270.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64347,24 +62741,19 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64404,24 +62793,19 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64461,24 +62845,19 @@ Nature Communications (2022), 13(1), 2869.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64518,24 +62897,19 @@ Angewandte Chemie, International Edition (2023), 62(4), e202216838.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64575,24 +62949,19 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64632,24 +63001,19 @@ Organic Letters (2024), 26(4), 939-944.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -64689,24 +63053,19 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - tBuOMe (CAS: 1634-04-4) - Role: SOLVENT
@@ -64746,24 +63105,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -64803,24 +63157,19 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -64860,24 +63209,19 @@ Organic Chemistry Frontiers (2022), 9(21), 5845-5850.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -64920,24 +63264,19 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -64977,24 +63316,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65034,24 +63368,19 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65091,24 +63420,19 @@ Nature Communications (2024), 15(1), 6791.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65148,24 +63472,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65205,24 +63524,19 @@ Journal of Medicinal Chemistry (2022), 65(23), 15805-15818.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65262,24 +63576,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65319,24 +63628,19 @@ Organic Letters (2022), 24(31), 5787-5790.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65376,24 +63680,19 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65433,24 +63732,19 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65490,24 +63784,19 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65547,24 +63836,19 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65604,24 +63888,19 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 950982-66-8)
-  - (2R)-1-[(1S)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-[bis[4-(trifluoromethyl)phenyl]phosphino]ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 950982-66-8)
-  - (2R)-1-[(1S)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-[bis[4-(trifluoromethyl)phenyl]phosphino]ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65661,24 +63940,19 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65718,24 +63992,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65775,24 +64044,19 @@ Chemistry - A European Journal (2021), 27(69), 17412-17419.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65832,24 +64096,19 @@ Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65889,24 +64148,19 @@ ChemCatChem (2022), 14(17), e202200485.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -65946,24 +64200,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66003,24 +64252,19 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 406680-94-2)
-  - (1R)-1-(Diphenylphosphino)-2-[(1R)-1-[(diphenylphosphino)methylamino]ethyl]ferrocene
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Pd(dba)2 (CAS: 406680-94-2)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (1R)-1-(Diphenylphosphino)-2-[(1R)-1-[(diphenylphosphino)methylamino]ethyl]ferrocene
+**Ligands:** None
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66065,7 +64309,6 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Bis(dibenzylideneacetone)palladium (CAS: 364732-88-7)
-  - (R)-Phanephos
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
@@ -66073,12 +64316,10 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (R)-Phanephos
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -66120,7 +64361,6 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66129,7 +64369,6 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66174,7 +64413,6 @@ Organic Letters (2022), 24(5), 1201-1206.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66183,7 +64421,6 @@ Organic Letters (2022), 24(5), 1201-1206.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66228,7 +64465,6 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66237,7 +64473,6 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66280,16 +64515,16 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+**Ligands:** None
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66335,7 +64570,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66344,7 +64578,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66390,7 +64623,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66399,7 +64631,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66444,7 +64675,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66453,7 +64683,6 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66498,7 +64727,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66507,7 +64735,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -66550,23 +64777,22 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -66721,10 +64947,9 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -66761,26 +64986,22 @@ Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
   - RuPhos (CAS: 1445085-77-7)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -66834,10 +65055,9 @@ Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -66875,7 +65095,7 @@ Organic Letters (2021), 23(18), 7094-7099.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -66883,13 +65103,13 @@ Organic Letters (2021), 23(18), 7094-7099.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 85.0°C
@@ -67034,18 +65254,18 @@ Organic Letters (2023), 25(30), 5597-5601.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 4-Nitrobenzoic acid (CAS: 62-23-7)
-  - Hexamethyldisilane (CAS: 1450-14-2)
+  - CAS: 62-23-7
+  - CAS: 1450-14-2
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 4-Nitrobenzoic acid (CAS: 62-23-7)
-  - Hexamethyldisilane (CAS: 1450-14-2)
+  - CAS: 62-23-7
+  - CAS: 1450-14-2
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -67135,22 +65355,16 @@ Angewandte Chemie, International Edition (2024), 63(36), e202407279.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -67194,22 +65408,16 @@ Organic Letters (2023), 25(15), 2701-2706.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -67676,7 +65884,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -67684,7 +65892,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68147,7 +66355,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68155,7 +66363,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68200,7 +66408,6 @@ ChemCatChem (2022), 14(16), e202200734.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68209,7 +66416,6 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68254,7 +66460,6 @@ Angewandte Chemie, International Edition (2023), 62(14), e202300199.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68263,7 +66468,6 @@ Angewandte Chemie, International Edition (2023), 62(14), e202300199.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68311,7 +66515,6 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68320,7 +66523,6 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68365,7 +66567,6 @@ Journal of Organic Chemistry (2022), 87(15), 9977-9987.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68374,7 +66575,6 @@ Journal of Organic Chemistry (2022), 87(15), 9977-9987.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68419,7 +66619,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68428,7 +66627,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68473,7 +66671,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68482,7 +66679,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68527,7 +66723,6 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68536,7 +66731,6 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68581,7 +66775,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68590,7 +66783,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68635,7 +66827,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68644,7 +66835,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68689,7 +66879,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68698,7 +66887,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68743,7 +66931,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68752,7 +66939,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68797,7 +66983,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68806,7 +66991,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68851,7 +67035,6 @@ ACS Catalysis (2022), 12(13), 8048-8054.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68860,7 +67043,6 @@ ACS Catalysis (2022), 12(13), 8048-8054.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68905,7 +67087,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68914,7 +67095,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -68962,7 +67142,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -68971,7 +67150,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69016,7 +67194,6 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69025,7 +67202,6 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69070,7 +67246,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69079,7 +67254,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69124,7 +67298,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69133,7 +67306,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69178,7 +67350,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69187,7 +67358,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69232,7 +67402,6 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69241,7 +67410,6 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69286,7 +67454,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69295,7 +67462,6 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69497,7 +67663,6 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69507,7 +67672,6 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
   - SPhos (CAS: 657408-07-6) - Role: LIGAND
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69602,11 +67766,11 @@ Organometallics (2021), 40(2), 156-165.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69654,11 +67818,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69706,11 +67870,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - XantPhos (CAS: 161265-03-8) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69719,7 +67883,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -69759,23 +67922,22 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -69814,26 +67976,18 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - P(2-furyl)3 (CAS: 3059934-92-5)
-  - Tris(2-furyl)phosphine
-  - Bicyclo[2.2.1]hept-2-ene-2-carboxylic acid
-  - methyl ester
-  - (1R,4R)-
+  - Pd(OAc)2 (CAS: 3059934-92-5)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 3059934-92-5)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - P(2-furyl)3 (CAS: 3059934-92-5)
-  - Tris(2-furyl)phosphine
-  - Bicyclo[2.2.1]hept-2-ene-2-carboxylic acid
-  - methyl ester
-  - (1R,4R)-
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -69930,10 +68084,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
@@ -69981,7 +68135,6 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -69990,14 +68143,13 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 
 **Ligands:**
   - DavePhos (CAS: 213697-53-1) - Role: LIGAND
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -70037,18 +68189,14 @@ ACS Catalysis (2024), 14(3), 2014-2021.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -70091,18 +68239,14 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -70146,18 +68290,14 @@ Journal of Organic Chemistry (2022), 87(12), 8059-8070.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -70202,7 +68342,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202401117.
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
   - Pd2(dba)3 (CAS: 51364-51-3) - Role: CATALYST_CORE
@@ -70211,7 +68350,6 @@ Angewandte Chemie, International Edition (2024), 63(14), e202401117.
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -70254,23 +68392,24 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(75), 9582-9585.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -70307,23 +68446,24 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 98327-87-8)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3) - Role: LIGAND
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 90.0°C
@@ -70728,20 +68868,19 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - Pd(OAc)2 (CAS: 224311-51-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+**Ligands:** None
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
-  - Tripotassium phosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -71031,19 +69170,19 @@ European Journal of Medicinal Chemistry (2023), 255, 115370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - XPhos (CAS: 564483-18-7) - Role: LIGAND
+  - SPhos (CAS: 564483-18-7) - Role: LIGAND
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -71079,22 +69218,16 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -71137,22 +69270,16 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
+**Catalyst Core:** None
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tBu3P·HBF4 (CAS: 52522-40-4)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -71195,25 +69322,22 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71250,25 +69374,22 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71305,25 +69426,22 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71360,25 +69478,22 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71417,25 +69532,22 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71472,25 +69584,22 @@ Journal of Organic Chemistry (2021), 86(1), 429-445.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71527,25 +69636,22 @@ Organic Letters (2023), 25(40), 7428-7433.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71583,25 +69689,22 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71638,25 +69741,22 @@ Angewandte Chemie, International Edition (2024), 63(44), e202407990.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71693,25 +69793,22 @@ Journal of the American Chemical Society (2024), 146(45), 30733-30740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - RuPhos (CAS: 787618-22-8) - Role: LIGAND
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Cesium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -71750,11 +69847,9 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - Bis(dibenzylideneacetone)palladium
 
 **Catalyst Core:**
   - Pd (CAS: 32005-36-0) - Role: CATALYST_CORE
-  - Bis(dibenzylideneacetone)palladium
 
 **Generic Catalyst:** Pd
 
@@ -71910,29 +70005,24 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -71971,29 +70061,24 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72030,29 +70115,24 @@ Journal of Medicinal Chemistry (2022), 65(4), 3343-3358.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72089,29 +70169,24 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72148,29 +70223,24 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72207,29 +70277,24 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72266,29 +70331,24 @@ Organic Letters (2022), 24(23), 4129-4134.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72325,29 +70385,24 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72384,29 +70439,24 @@ Journal of Medicinal Chemistry (2022), 65(19), 13052-13073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72443,29 +70493,24 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72502,29 +70547,24 @@ Nature Communications (2022), 13(1), 115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72561,29 +70601,24 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72620,29 +70655,24 @@ Chemistry - A European Journal (2021), 27(20), 6274-6282.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
-  - P(2-furyl)3 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 701-15-5)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - P(2-furyl)3 (CAS: 701-15-5)
   - P(2-furyl)3 (CAS: 5518-52-5) - Role: LIGAND
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate
-  - Tris(2-furyl)phosphine
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -72681,11 +70711,11 @@ Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Palladium (CAS: 3375-31-3)
+  - Pd(OAc)2 (CAS: 3375-31-3) - Role: CATALYST_CORE
 
 **Generic Catalyst:** Pd
 

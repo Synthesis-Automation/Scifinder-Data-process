@@ -1,7 +1,7 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-30 15:13:35
-**Source Folder:** C:/Git-ChemRobox/Scifinder-Data-process/dataset/Amide formation/2021-2024
+**Generated:** 2025-08-30 21:55:47
+**Source Folder:** C:/Git-softwares/Scifinder-Data-process/dataset/Amide formation/2021-2024
 **Total Reactions:** 1000
 
 ## Summary
@@ -36,7 +36,6 @@
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -78,7 +77,6 @@ Journal of Medicinal Chemistry (2023), 66(15), 10528-10557.
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
-  - Potassium hydroxide - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -129,7 +127,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -176,9 +174,8 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -229,7 +226,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -274,15 +271,13 @@ Journal of Medicinal Chemistry (2023), 66(7), 5041-5060.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - MeOH (CAS: 67-56-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DMF (CAS: 68-12-2) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -323,11 +318,9 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -371,10 +364,8 @@ European Journal of Medicinal Chemistry (2022), 244, 114830.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -415,10 +406,8 @@ Organic Process Research & Development (2022), 26(4), 1327-1335.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -466,8 +455,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -561,7 +549,7 @@ Journal of Medicinal Chemistry (2024), 67(6), 4641-4654.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -610,7 +598,7 @@ Bioorganic & Medicinal Chemistry (2020), 28(24), 115818.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -659,7 +647,7 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -708,7 +696,7 @@ Journal of Medicinal Chemistry (2022), 65(2), 1206-1224.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -757,7 +745,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -806,7 +794,7 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -855,7 +843,7 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -904,7 +892,7 @@ Journal of Medicinal Chemistry (2023), 66(14), 10060-10079.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -956,7 +944,7 @@ ChemMedChem (2023), 18(6), e202200632.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1005,7 +993,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1054,7 +1042,7 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1103,7 +1091,7 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1152,7 +1140,7 @@ Journal of Medicinal Chemistry (2022), 65(10), 7246-7261.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1201,7 +1189,7 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1252,7 +1240,7 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1305,7 +1293,7 @@ Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1354,7 +1342,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
   - P(OEt)3 (CAS: 122-52-1) - Role: REDUCTANT
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1396,7 +1384,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -1441,9 +1428,7 @@ Journal of Medicinal Chemistry (2020), 63(9), 4790-4810.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1482,12 +1467,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -1611,10 +1594,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -1656,10 +1637,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -1701,10 +1680,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -1747,10 +1724,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -1801,7 +1776,6 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - Xylene (CAS: 1330-20-7) - Role: SOLVENT
@@ -1852,7 +1826,6 @@ Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - N-Methylmorpholine (CAS: 109-02-4) - Role: AMIDE_BASE
-  - 4-Methylmorpholine
 
 **Reaction Conditions:**
   - Time: 16.0 hours
@@ -1892,7 +1865,6 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1286-1294.
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - N-Methylmorpholine (CAS: 109-02-4) - Role: AMIDE_BASE
-  - 4-Methylmorpholine
 
 **Reaction Conditions:**
   - Time: 16.0 hours
@@ -1932,7 +1904,6 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - N-Methylmorpholine (CAS: 109-02-4) - Role: AMIDE_BASE
-  - 4-Methylmorpholine
 
 **Reaction Conditions:**
   - Time: 16.0 hours
@@ -1967,7 +1938,7 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
 
@@ -2024,9 +1995,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -2071,10 +2041,9 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2117,10 +2086,9 @@ Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2166,10 +2134,9 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2223,10 +2190,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2274,7 +2239,7 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -2317,9 +2282,7 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2361,11 +2324,9 @@ Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2406,11 +2367,9 @@ Journal of Medicinal Chemistry (2022), 65(24), 16372-16391.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - NMP (CAS: 872-50-4) - Role: SOLVENT
@@ -2450,10 +2409,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -2493,10 +2451,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115054.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -2536,10 +2493,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2578,8 +2533,7 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -2623,7 +2577,6 @@ European Journal of Medicinal Chemistry (2023), 259, 115716.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 330645-87-9) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2667,7 +2620,6 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 330645-87-9) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2713,7 +2665,7 @@ ACS Medicinal Chemistry Letters (2020), 11(10), 1829-1836.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
 
 **Solvents:**
@@ -2764,7 +2716,7 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
 
 **Solvents:**
@@ -2815,7 +2767,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
 
 **Solvents:**
@@ -2861,9 +2813,7 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: BASE (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2902,11 +2852,9 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2948,10 +2896,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: BASE (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -2993,10 +2939,9 @@ ACS Medicinal Chemistry Letters (2023), 14(11), 1544-1550.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: BASE (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: BASE (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -3039,10 +2984,9 @@ Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: BASE (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: BASE (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -3134,8 +3078,7 @@ Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -3177,8 +3120,7 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -3223,7 +3165,7 @@ ChemMedChem (2020), 15(15), 1429-1438.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3262,10 +3204,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -3308,9 +3248,8 @@ Bioorganic & Medicinal Chemistry Letters (2023), 96, 129530.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3352,9 +3291,8 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3393,9 +3331,8 @@ Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3432,9 +3369,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3472,9 +3408,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3511,9 +3446,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3553,9 +3487,8 @@ ACS Medicinal Chemistry Letters (2022), 13(6), 949-954.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3592,9 +3525,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3633,9 +3565,8 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3675,9 +3606,8 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3714,9 +3644,8 @@ Organic Process Research & Development (2020), 24(6), 1157-1163.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3754,9 +3683,8 @@ European Journal of Medicinal Chemistry (2020), 201, 112443.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3793,9 +3721,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3832,9 +3759,8 @@ Bioorganic & Medicinal Chemistry (2023), 84, 117259.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3871,9 +3797,8 @@ European Journal of Medicinal Chemistry (2020), 188, 111920.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3910,9 +3835,8 @@ European Journal of Medicinal Chemistry (2020), 205, 112662.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3954,9 +3878,8 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -3994,9 +3917,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -4037,9 +3959,8 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -4076,9 +3997,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -4125,9 +4045,8 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -4168,10 +4087,8 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4223,8 +4140,7 @@ ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
@@ -4267,10 +4183,8 @@ Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4310,10 +4224,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4351,11 +4263,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: WORKUP (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
@@ -4395,11 +4306,10 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: WORKUP (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
@@ -4442,11 +4352,10 @@ ACS Medicinal Chemistry Letters (2024), 15(5), 631-639.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: WORKUP (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
@@ -4486,11 +4395,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: WORKUP (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
@@ -4532,10 +4440,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4575,9 +4481,7 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: BASE (Registry: LIGAND)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 4-(Dimethylamino)pyridine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3) - Role: SOLVENT
@@ -4620,10 +4524,8 @@ ACS Medicinal Chemistry Letters (2020), 11(3), 371-378.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4661,8 +4563,7 @@ Journal of Medicinal Chemistry (2021), 64(14), 10167-10184.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - MeOH (CAS: 67-56-1) - Role: SOLVENT
@@ -4704,7 +4605,6 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
 **Reagents:**
   - Megestrol acetate (CAS: 595-33-5) - Role: UNK
   - BOP (CAS: 56602-33-6) - Role: UNK (Registry: ACTIVATOR)
-  - BOP reagent - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -4747,10 +4647,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4793,10 +4691,8 @@ European Journal of Medicinal Chemistry (2020), 207, 112715.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4838,8 +4734,7 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -4880,9 +4775,8 @@ Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4924,8 +4818,7 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -4966,8 +4859,7 @@ Organic Process Research & Development (2020), 24(6), 1024-1031.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -5007,13 +4899,13 @@ ChemMedChem (2020), 15(1), 50-67.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
-  - Isopropanol (CAS: 67-63-0) - Role: SOLVENT
+  - iPrOH (CAS: 67-63-0) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -5059,8 +4951,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -5104,11 +4995,9 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -5147,11 +5036,9 @@ Journal of Medicinal Chemistry (2023), 66(15), 10639-10657.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -5191,9 +5078,8 @@ European Journal of Medicinal Chemistry (2024), 265, 116038.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -5232,9 +5118,8 @@ Journal of Medicinal Chemistry (2020), 63(13), 6941-6958.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -5275,9 +5160,8 @@ European Journal of Medicinal Chemistry (2024), 271, 116400.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -5318,9 +5202,8 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -5365,8 +5248,7 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5416,8 +5298,7 @@ ChemMedChem (2021), 16(6), 942-948.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5462,8 +5343,7 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5508,8 +5388,7 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5554,8 +5433,7 @@ Bioorganic & Medicinal Chemistry Letters (2021), 39, 127853.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5595,8 +5473,7 @@ European Journal of Medicinal Chemistry (2021), 216, 113291.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - Py (CAS: 110-86-1) - Role: BASE
@@ -5635,9 +5512,8 @@ ACS Medicinal Chemistry Letters (2021), 12(4), 572-578.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5676,9 +5552,8 @@ ACS Medicinal Chemistry Letters (2021), 12(7), 1166-1172.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5717,9 +5592,8 @@ Journal of Medicinal Chemistry (2021), 64(15), 11460-11471.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - NMP (CAS: 872-50-4) - Role: SOLVENT
@@ -5757,10 +5631,9 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5802,9 +5675,8 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5845,10 +5717,8 @@ European Journal of Medicinal Chemistry (2020), 186, 111900.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5891,7 +5761,7 @@ European Journal of Medicinal Chemistry (2021), 224, 113687.
 
 **Reagents:**
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5931,10 +5801,8 @@ European Journal of Medicinal Chemistry (2020), 188, 111920.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -5975,7 +5843,7 @@ ACS Medicinal Chemistry Letters (2021), 12(4), 647-652.
 
 **Reagents:**
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -6063,10 +5931,8 @@ Organic Process Research & Development (2024), 28(2), 492-499.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3) - Role: SOLVENT
@@ -6108,10 +5974,8 @@ European Journal of Medicinal Chemistry (2022), 230, 114120.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6154,10 +6018,8 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6198,10 +6060,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 952-970.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6244,8 +6104,6 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Dimethyl carbonate (CAS: 616-38-6) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -6294,13 +6152,11 @@ Journal of Medicinal Chemistry (2024), 67(16), 14466-14477.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: NUC (Registry: AMIDE_ADDITIVE)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
   - Copper sulfate (CAS: 7758-98-7) - Role: UNK
   - Ethylenediaminetetraacetic acid (CAS: 60-00-4) - Role: UNK
-  - Diisopropylcarbodiimide - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - Me2CO (CAS: 67-64-1) - Role: SOLVENT
@@ -6347,11 +6203,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylcarbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -6392,10 +6246,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19342-19364.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6437,12 +6289,10 @@ Journal of Medicinal Chemistry (2023), 66(19), 13516-13529.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -6487,10 +6337,8 @@ Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - BOP (CAS: 56602-33-6) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - BOP reagent - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -6530,10 +6378,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6575,10 +6421,8 @@ Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6620,10 +6464,8 @@ Journal of Medicinal Chemistry (2022), 65(22), 15312-15326.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6662,10 +6504,8 @@ Journal of Medicinal Chemistry (2021), 64(7), 3794-3812.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6708,9 +6548,8 @@ Organic Process Research & Development (2023), 27(12), 2355-2364.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6751,9 +6590,8 @@ ACS Medicinal Chemistry Letters (2023), 14(7), 943-948.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -6792,10 +6630,8 @@ Organic Process Research & Development (2024), 28(8), 3143-3151.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6834,10 +6670,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -6877,15 +6711,13 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - Ammonia (CAS: 7664-41-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -6927,13 +6759,11 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Ac2O (CAS: 108-24-7) - Role: UNK (Registry: SOLVENT)
   - Piperidine (CAS: 110-89-4) - Role: UNK (Registry: BASE)
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -6998,14 +6828,12 @@ Journal of Medicinal Chemistry (2022), 65(5), 4291-4317.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Ac2O (CAS: 108-24-7) - Role: UNK (Registry: SOLVENT)
   - Piperidine (CAS: 110-89-4) - Role: UNK (Registry: BASE)
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
   - i-PrOH (CAS: 920-66-1) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7103,11 +6931,9 @@ Organic Process Research & Development (2023), 27(12), 2223-2239.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylcarbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -7152,13 +6978,11 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -7195,9 +7019,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7240,11 +7063,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7287,8 +7109,6 @@ ChemMedChem (2021), 16(15), 2366-2374.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - DBU (CAS: 6674-22-2) - Role: UNK (Registry: BASE)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -7334,10 +7154,8 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7473,10 +7291,8 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -7568,10 +7384,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -7615,10 +7429,9 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -7658,10 +7471,9 @@ Journal of Medicinal Chemistry (2022), 65(19), 13094-13111.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -7701,9 +7513,8 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -7743,9 +7554,8 @@ Bioorganic & Medicinal Chemistry (2023), 80, 117172.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -7868,9 +7678,8 @@ Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -7912,9 +7721,8 @@ Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -7954,9 +7762,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -7998,10 +7805,8 @@ European Journal of Medicinal Chemistry (2021), 216, 113333.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8041,9 +7846,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11574-11606.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -8082,7 +7886,7 @@ European Journal of Medicinal Chemistry (2024), 268, 116236.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -8124,8 +7928,6 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8171,9 +7973,8 @@ Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -8218,10 +8019,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8260,9 +8059,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -8307,7 +8105,7 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -8349,10 +8147,8 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -8391,10 +8187,8 @@ Journal of Medicinal Chemistry (2020), 63(6), 2814-2832.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -8438,10 +8232,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -8477,9 +8269,8 @@ ACS Medicinal Chemistry Letters (2023), 14(4), 417-424.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8520,9 +8311,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8563,9 +8353,8 @@ ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -8608,9 +8397,8 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -8652,9 +8440,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -8697,11 +8484,9 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8745,7 +8530,6 @@ Bioorganic & Medicinal Chemistry (2020), 28(20), 115698.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8790,7 +8574,6 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8835,7 +8618,6 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8886,8 +8668,6 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8942,9 +8722,7 @@ Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -8986,10 +8764,8 @@ Journal of Medicinal Chemistry (2021), 64(20), 15262-15279.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -9040,7 +8816,6 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
 **Reagents:**
   - Py (CAS: 110-86-1) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -9091,13 +8866,12 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: WORKUP (Registry: ACID)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - MeOH (CAS: 67-56-1) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DMF (CAS: 68-12-2) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -9138,9 +8912,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112869.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -9179,10 +8952,8 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -9223,9 +8994,7 @@ Journal of Medicinal Chemistry (2021), 64(7), 3720-3746.
 **Reagents:**
   - HOAt (CAS: 39968-33-7) - Role: BASE (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -9267,7 +9036,6 @@ Journal of Medicinal Chemistry (2023), 66(14), 9592-9606.
   - N,N-Dimethylaniline (CAS: 121-69-7) - Role: NUC
   - Phosphorus oxychloride (CAS: 10025-87-3) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -9313,10 +9081,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 8988-9027.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -9396,11 +9162,9 @@ European Journal of Medicinal Chemistry (2020), 208, 112778.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -9443,13 +9207,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -9493,10 +9254,8 @@ Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -9609,10 +9368,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 105, 129752.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -9695,7 +9452,6 @@ Journal of Medicinal Chemistry (2023), 66(17), 11815-11830.
 **Reagents:**
   - Py (CAS: 110-86-1) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -9743,7 +9499,6 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Reagents:**
   - Py (CAS: 110-86-1) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -9791,7 +9546,6 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Reagents:**
   - Py (CAS: 110-86-1) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -9834,10 +9588,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -9874,10 +9626,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -9925,8 +9675,7 @@ Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -9968,9 +9717,8 @@ Journal of Medicinal Chemistry (2023), 66(4), 2506-2523.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -10012,9 +9760,8 @@ ACS Medicinal Chemistry Letters (2020), 11(8), 1581-1587.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10056,10 +9803,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10101,7 +9846,6 @@ ChemMedChem (2021), 16(15), 2366-2374.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10146,7 +9890,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14773-14792.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10189,7 +9932,6 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10232,7 +9974,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 9662-9685.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10278,7 +10019,6 @@ ChemMedChem (2023), 18(6), e202200632.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10321,7 +10061,6 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10368,7 +10107,6 @@ Journal of Medicinal Chemistry (2020), 63(2), 784-803.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10411,7 +10149,6 @@ ChemMedChem (2020), 15(7), 643-658.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10454,7 +10191,6 @@ Journal of Medicinal Chemistry (2023), 66(23), 16388-16409.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -10772,10 +10508,8 @@ Organic Process Research & Development (2024), 28(7), 2646-2658.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -10822,10 +10556,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -10865,7 +10597,6 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -10905,10 +10636,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -10950,9 +10679,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115497.
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: BASE (Registry: LIGAND)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 4-(Dimethylamino)pyridine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3) - Role: SOLVENT
@@ -10995,9 +10722,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: BASE (Registry: LIGAND)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 4-(Dimethylamino)pyridine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3) - Role: SOLVENT
@@ -11039,7 +10764,6 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - 1,3-Dimethyl-2-imidazolidinone (CAS: 80-73-9)
@@ -11084,9 +10808,7 @@ Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11129,9 +10851,7 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11175,9 +10895,7 @@ Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11219,10 +10937,8 @@ Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -11260,10 +10976,8 @@ Journal of Medicinal Chemistry (2022), 65(8), 6001-6016.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -11301,11 +11015,9 @@ European Journal of Medicinal Chemistry (2022), 238, 114469.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -11350,11 +11062,9 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -11396,11 +11106,9 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -11444,9 +11152,8 @@ Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -11485,10 +11192,8 @@ Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11532,10 +11237,8 @@ European Journal of Medicinal Chemistry (2024), 266, 116113.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11581,10 +11284,8 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11626,10 +11327,8 @@ ChemMedChem (2021), 16(18), 2895-2906.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11671,10 +11370,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11718,10 +11415,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11765,10 +11460,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11812,10 +11505,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11859,10 +11550,8 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11906,10 +11595,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11951,10 +11638,8 @@ Journal of Medicinal Chemistry (2022), 65(14), 9955-9973.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -11996,10 +11681,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12043,10 +11726,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12090,10 +11771,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12135,10 +11814,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12180,10 +11857,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12225,10 +11900,8 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12270,10 +11943,8 @@ European Journal of Medicinal Chemistry (2020), 208, 112778.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12318,10 +11989,8 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12363,10 +12032,8 @@ European Journal of Medicinal Chemistry (2024), 265, 116052.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12410,10 +12077,8 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12455,10 +12120,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12500,10 +12163,8 @@ European Journal of Medicinal Chemistry (2022), 229, 113998.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12547,10 +12208,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12592,10 +12251,8 @@ European Journal of Medicinal Chemistry (2021), 224, 113666.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12637,7 +12294,7 @@ European Journal of Medicinal Chemistry (2020), 191, 112148pp..
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Reaction Conditions:**
   - Time: 5.5 hours
@@ -12674,7 +12331,7 @@ ACS Medicinal Chemistry Letters (2024), 15(3), 388-395.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Reaction Conditions:**
   - Time: 13.5 hours
@@ -12710,7 +12367,7 @@ Organic Process Research & Development (2024), 28(8), 3143-3151.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Reaction Conditions:**
   - Temperature: 11.0°C
@@ -12746,11 +12403,9 @@ Journal of Medicinal Chemistry (2021), 64(16), 12003-12021.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -12790,11 +12445,9 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12841,11 +12494,9 @@ Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12890,11 +12541,9 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12939,11 +12588,9 @@ Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -12991,10 +12638,8 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13034,10 +12679,8 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13078,9 +12721,8 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13123,9 +12765,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13165,9 +12806,8 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13208,9 +12848,8 @@ Organic Process Research & Development (2023), 27(8), 1517-1532.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13253,8 +12892,7 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13293,9 +12931,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13338,9 +12975,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13379,9 +13015,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113663.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13424,9 +13059,8 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13466,7 +13100,6 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -13509,10 +13142,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 76, 129020.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13552,10 +13183,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13595,10 +13224,8 @@ European Journal of Medicinal Chemistry (2021), 225, 113777.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13638,10 +13265,8 @@ European Journal of Medicinal Chemistry (2021), 215, 113289.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13681,10 +13306,8 @@ European Journal of Medicinal Chemistry (2020), 202, 112416.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13730,8 +13353,7 @@ European Journal of Medicinal Chemistry (2023), 250, 115170.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13780,8 +13402,7 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13830,8 +13451,7 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13878,8 +13498,7 @@ Bioorganic & Medicinal Chemistry Letters (2023), 92, 129389.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13926,8 +13545,7 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -13976,8 +13594,7 @@ ChemMedChem (2023), 18(8), e202200615.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14026,8 +13643,7 @@ Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14078,8 +13694,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14128,8 +13743,7 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14181,8 +13795,7 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14231,8 +13844,7 @@ Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14281,8 +13893,7 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117468.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14333,8 +13944,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14383,8 +13993,7 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14428,11 +14037,9 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -14478,10 +14085,8 @@ Journal of Medicinal Chemistry (2022), 65(2), 1418-1444.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14521,12 +14126,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14600,8 +14203,7 @@ Journal of Medicinal Chemistry (2024), 67(7), 5662-5682.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -14650,8 +14252,7 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117478.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -14693,9 +14294,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14740,8 +14340,7 @@ Journal of Medicinal Chemistry (2020), 63(21), 13124-13139.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14780,8 +14379,7 @@ Journal of Medicinal Chemistry (2023), 66(21), 14724-14734.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14820,8 +14418,7 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14864,8 +14461,7 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -14954,9 +14550,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115635.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15000,9 +14595,8 @@ ChemMedChem (2021), 16(6), 942-948.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15092,8 +14686,6 @@ Journal of Medicinal Chemistry (2023), 66(13), 9161-9173.
   - HOAt (CAS: 39968-33-7) - Role: BASE (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: NUC (Registry: ACTIVATOR)
   - N-Methylmorpholine (CAS: 109-02-4) - Role: UNK (Registry: AMIDE_BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15133,9 +14725,8 @@ Journal of Medicinal Chemistry (2023), 66(19), 13428-13451.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -15177,10 +14768,9 @@ Journal of Medicinal Chemistry (2020), 63(24), 15564-15590.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -15226,8 +14816,6 @@ Journal of Medicinal Chemistry (2023), 66(16), 11216-11236.
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
   - MeOH (CAS: 67-56-1) - Role: UNK (Registry: SOLVENT)
   - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15273,8 +14861,7 @@ ChemMedChem (2020), 15(15), 1429-1438.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15315,8 +14902,7 @@ European Journal of Medicinal Chemistry (2020), 202, 112495.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15360,8 +14946,7 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15404,8 +14989,7 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15448,8 +15032,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15522,9 +15105,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15564,9 +15146,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15613,7 +15194,7 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129046.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -15660,9 +15241,8 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129066.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15704,9 +15284,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112920.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15748,10 +15327,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15790,10 +15367,8 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15839,8 +15414,7 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -15915,11 +15489,9 @@ European Journal of Medicinal Chemistry (2020), 208, 112865.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -15958,10 +15530,8 @@ ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16000,10 +15570,8 @@ Organic Process Research & Development (2022), 26(2), 365-379.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16046,9 +15614,8 @@ Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - BOP (CAS: 56602-33-6) - Role: UNK (Registry: ACTIVATOR)
-  - BOP reagent - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -16088,11 +15655,9 @@ ACS Medicinal Chemistry Letters (2024), 15(11), 2019-2031.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16135,9 +15700,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16225,8 +15789,7 @@ European Journal of Medicinal Chemistry (2024), 268, 116263.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -16271,12 +15834,11 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -16321,7 +15883,6 @@ European Journal of Medicinal Chemistry (2021), 213, 113185.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - AcOH (CAS: 64-19-7) - Role: UNK (Registry: SOLVENT)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -16369,7 +15930,6 @@ Bioorganic & Medicinal Chemistry Letters (2024), 109, 129814.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - AcOH (CAS: 64-19-7) - Role: UNK (Registry: SOLVENT)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -16493,16 +16053,15 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
 **Type:** Other
 
 **Full Catalytic System:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
 
 **Catalyst Core:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
 
 **Generic Catalyst:** N-Diisopropylethylamine
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16548,7 +16107,7 @@ ACS Medicinal Chemistry Letters (2020), 11(4), 485-490.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -16595,10 +16154,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16641,10 +16198,8 @@ ACS Medicinal Chemistry Letters (2021), 12(9), 1380-1388.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16683,10 +16238,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16726,8 +16280,7 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16773,8 +16326,7 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -16817,8 +16369,7 @@ Journal of Medicinal Chemistry (2020), 63(22), 13669-13679.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -16862,10 +16413,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16905,10 +16454,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128577.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -16949,18 +16496,15 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Full Catalytic System:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
-  - 4-(Dimethylamino)pyridine
 
 **Catalyst Core:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
-  - 4-(Dimethylamino)pyridine
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -17004,18 +16548,15 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Full Catalytic System:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
-  - 4-(Dimethylamino)pyridine
 
 **Catalyst Core:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
-  - 4-(Dimethylamino)pyridine
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -17059,7 +16600,6 @@ Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -17107,7 +16647,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17156,7 +16696,7 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129034.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17198,10 +16738,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17246,10 +16784,8 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -17288,8 +16824,7 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17329,8 +16864,7 @@ Journal of Medicinal Chemistry (2020), 63(1), 295-308.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17373,8 +16907,7 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17414,10 +16947,8 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17458,10 +16989,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 100, 129629.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17504,10 +17033,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -17549,13 +17076,8 @@ European Journal of Medicinal Chemistry (2022), 227, 113929.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - PyBOP (CAS: 132705-51-2) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - Phosphorus(1+) - Role: UNK
-  - bromotri-1-pyrrolidinyl- - Role: UNK
-  - (T-4)- - Role: UNK
-  - hexafluorophosphate(1-) (1:1) - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -17601,8 +17123,7 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17642,11 +17163,9 @@ European Journal of Medicinal Chemistry (2023), 259, 115716.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -17686,10 +17205,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -17736,10 +17253,9 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127106.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -17787,10 +17303,9 @@ ChemMedChem (2023), 18(15), e202300160.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -17879,8 +17394,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -17927,8 +17441,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -17975,8 +17488,7 @@ Journal of Medicinal Chemistry (2024), 67(3), 1914-1931.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18028,8 +17540,7 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18076,8 +17587,7 @@ Journal of Medicinal Chemistry (2023), 66(23), 15750-15760.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18127,8 +17637,7 @@ Journal of Medicinal Chemistry (2023), 66(7), 4768-4783.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18175,8 +17684,7 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18227,8 +17735,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18278,8 +17785,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18329,8 +17835,7 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18377,8 +17882,7 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18425,8 +17929,7 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129083.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18475,8 +17978,7 @@ Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18525,8 +18027,7 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18566,9 +18067,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18607,10 +18107,8 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18655,10 +18153,8 @@ Journal of Medicinal Chemistry (2022), 65(22), 15473-15486.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18702,10 +18198,8 @@ Organic Process Research & Development (2022), 26(10), 2811-2822.
 
 **Reagents:**
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -18786,7 +18280,6 @@ Bioorganic & Medicinal Chemistry (2021), 46, 116351.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -18833,9 +18326,8 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -18877,10 +18369,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18923,10 +18413,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -18969,9 +18457,8 @@ Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -19015,12 +18502,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -19065,11 +18550,9 @@ Journal of Medicinal Chemistry (2020), 63(8), 3956-3975.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -19119,10 +18602,8 @@ ChemMedChem (2023), 18(8), e202200615.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19175,10 +18656,8 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19225,10 +18704,8 @@ ACS Medicinal Chemistry Letters (2021), 12(2), 217-227.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19269,14 +18746,9 @@ Bioorganic & Medicinal Chemistry (2022), 72, 116995.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - PyBOP (CAS: 132705-51-2) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - Phosphorus(1+) - Role: UNK
-  - bromotri-1-pyrrolidinyl- - Role: UNK
-  - (T-4)- - Role: UNK
-  - hexafluorophosphate(1-) (1:1) - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19317,11 +18789,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: BASE (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: BASE (Registry: ACTIVATOR)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19449,8 +18918,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14358-14376.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -19498,10 +18966,8 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19544,9 +19010,7 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: BASE (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19587,10 +19051,8 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19637,7 +19099,7 @@ Bioorganic & Medicinal Chemistry (2021), 46, 116351.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -19682,10 +19144,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19729,7 +19189,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
 **Reagents:**
   - 2,6-Lutidine (CAS: 108-48-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19773,10 +19232,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -19818,10 +19275,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -19867,9 +19322,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -19915,11 +19369,9 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -19961,10 +19413,9 @@ Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -20006,8 +19457,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20046,9 +19496,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
 
 **Reagents:**
   - Proton sponge (CAS: 20734-58-1) - Role: UNK
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -20090,9 +19539,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 
 **Reagents:**
   - Proton sponge (CAS: 20734-58-1) - Role: UNK
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -20218,7 +19666,7 @@ Organic Process Research & Development (2024), 28(2), 559-576.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20261,10 +19709,8 @@ ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20321,10 +19767,9 @@ Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -20380,9 +19825,7 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20433,9 +19876,7 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20488,9 +19929,7 @@ European Journal of Medicinal Chemistry (2021), 213, 113172.
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20533,7 +19972,6 @@ Journal of Medicinal Chemistry (2022), 65(16), 11126-11149.
 
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Py (CAS: 110-86-1) - Role: BASE
@@ -20576,7 +20014,6 @@ Journal of Medicinal Chemistry (2022), 65(4), 3388-3403.
 
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -20618,12 +20055,11 @@ Journal of Medicinal Chemistry (2022), 65(3), 1770-1785.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
   - Triisopropylsilane (CAS: 6485-79-6) - Role: UNK
   - 2,2′-(Ethylenedioxy)diethanethiol (CAS: 14970-87-7) - Role: UNK
-  - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -20733,10 +20169,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20776,10 +20210,8 @@ Journal of Medicinal Chemistry (2023), 66(2), 1221-1238.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -20818,13 +20250,11 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Piperidine (CAS: 110-89-4) - Role: UNK (Registry: BASE)
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
   - i-PrOH (CAS: 920-66-1) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -20872,12 +20302,9 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -20964,11 +20391,9 @@ Bioorganic & Medicinal Chemistry (2024), 100, 117618.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: WORKUP (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -21011,10 +20436,8 @@ Bioorganic & Medicinal Chemistry (2023), 93, 117462.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -21056,10 +20479,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21100,8 +20521,7 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21142,8 +20562,7 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21184,8 +20603,7 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21225,10 +20643,9 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21269,10 +20686,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21352,7 +20767,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -21397,10 +20812,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8053-8075.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -21443,10 +20856,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21486,7 +20897,7 @@ Journal of Medicinal Chemistry (2020), 63(9), 4716-4731.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21527,7 +20938,7 @@ European Journal of Medicinal Chemistry (2020), 190, 112086pp..
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21568,7 +20979,7 @@ Organic Process Research & Development (2020), 24(6), 1157-1163.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21609,7 +21020,7 @@ Organic Process Research & Development (2022), 26(9), 2739-2748.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21653,7 +21064,7 @@ Organic Process Research & Development (2024), 28(4), 1253-1259.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21694,7 +21105,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21735,7 +21146,7 @@ Journal of Medicinal Chemistry (2024), 67(20), 18549-18575.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21776,7 +21187,7 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -21817,8 +21228,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21862,10 +21272,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21904,10 +21312,8 @@ Journal of Medicinal Chemistry (2023), 66(1), 220-234.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -21946,9 +21352,8 @@ European Journal of Medicinal Chemistry (2023), 256, 115459.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -21991,14 +21396,12 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DMF (CAS: 68-12-2) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -22042,8 +21445,6 @@ Journal of Medicinal Chemistry (2020), 63(19), 11034-11044.
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 4-Methylmorpholine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -22082,10 +21483,8 @@ Journal of Medicinal Chemistry (2022), 65(9), 6940-6952.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -22127,10 +21526,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -22173,10 +21570,8 @@ Organic Process Research & Development (2022), 26(4), 1078-1093.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -22218,10 +21613,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -22263,10 +21656,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -22308,11 +21699,9 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Ammonia (CAS: 7664-41-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -22356,10 +21745,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115578.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -22402,7 +21789,7 @@ Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22447,7 +21834,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22492,7 +21879,7 @@ ACS Medicinal Chemistry Letters (2023), 14(12), 1760-1766.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22539,7 +21926,7 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22587,7 +21974,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22635,7 +22022,7 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22680,7 +22067,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22728,7 +22115,7 @@ Organic Process Research & Development (2022), 26(2), 365-379.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22773,7 +22160,7 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22818,7 +22205,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22863,7 +22250,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22911,7 +22298,7 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -22958,7 +22345,7 @@ Organic Process Research & Development (2024), 28(6), 2103-2116.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23011,7 +22398,7 @@ Organic Process Research & Development (2021), 25(12), 2754-2771.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23056,7 +22443,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23104,7 +22491,7 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23153,7 +22540,7 @@ ChemMedChem (2020), 15(20), 1932-1939.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23198,7 +22585,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23245,7 +22632,7 @@ Organic Process Research & Development (2024), 28(6), 2103-2116.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23290,7 +22677,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -23338,7 +22725,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8988-9027.
 **Reagents:**
   - N-Methylimidazole (CAS: 616-47-7) - Role: BASE (Registry: AMIDE_CATALYST)
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Methylimidazole - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -23379,11 +22765,9 @@ Journal of Medicinal Chemistry (2023), 66(12), 8310-8323.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - 2-Hydroxypyridine N-oxide (CAS: 13161-30-3) - Role: UNK
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - Methyl (CAS: 78-93-3) - Role: SOLVENT
@@ -23427,7 +22811,6 @@ Journal of Medicinal Chemistry (2023), 66(6), 4150-4166.
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -23468,10 +22851,8 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -23520,8 +22901,7 @@ Journal of Medicinal Chemistry (2021), 64(7), 4117-4129.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -23571,8 +22951,7 @@ Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -23621,8 +23000,7 @@ Organic Process Research & Development (2021), 25(8), 1898-1910.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -23669,8 +23047,7 @@ Journal of Medicinal Chemistry (2022), 65(6), 4818-4831.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -23717,8 +23094,7 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -23761,9 +23137,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 
 **Reagents:**
   - EtOAc (CAS: 141-78-6) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -23803,9 +23178,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 
 **Reagents:**
   - EtOAc (CAS: 141-78-6) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -23845,9 +23219,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 
 **Reagents:**
   - EtOAc (CAS: 141-78-6) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -23891,9 +23264,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 
 **Reagents:**
   - EtOAc (CAS: 141-78-6) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -23939,7 +23311,6 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -23981,7 +23352,6 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -24023,7 +23393,6 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -24064,10 +23433,8 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24106,10 +23473,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24148,10 +23513,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24190,10 +23553,8 @@ Bioorganic & Medicinal Chemistry (2023), 80, 117173.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24233,10 +23594,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -24277,10 +23636,8 @@ European Journal of Medicinal Chemistry (2022), 241, 114620.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -24322,9 +23679,8 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116455.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -24366,10 +23722,9 @@ Journal of Medicinal Chemistry (2021), 64(21), 15787-15798.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -24410,10 +23765,9 @@ Journal of Medicinal Chemistry (2024), 67(13), 10710-10742.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -24454,10 +23808,8 @@ Journal of Medicinal Chemistry (2022), 65(1), 409-423.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24498,8 +23850,7 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24544,9 +23895,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24588,10 +23938,9 @@ ChemMedChem (2020), 15(14), 1294-1309.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -24641,8 +23990,7 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -24689,8 +24037,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115473.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -24732,12 +24079,9 @@ ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24779,8 +24123,7 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
 
 **Reagents:**
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24819,10 +24162,8 @@ Organic Process Research & Development (2022), 26(12), 3303-3311.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24863,11 +24204,9 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24918,8 +24257,7 @@ ACS Medicinal Chemistry Letters (2022), 13(1), 76-83.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -24970,8 +24308,7 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25018,8 +24355,7 @@ Journal of Medicinal Chemistry (2022), 65(24), 16829-16859.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25068,8 +24404,7 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25116,8 +24451,7 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25160,7 +24494,6 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Isobutyl chloroformate (CAS: 543-27-1) - Role: UNK
   - Potassium bisulfate (CAS: 7646-93-7) - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25210,7 +24543,6 @@ Journal of Medicinal Chemistry (2020), 63(24), 15564-15590.
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Isobutyl chloroformate (CAS: 543-27-1) - Role: UNK
   - Potassium bisulfate (CAS: 7646-93-7) - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -25256,8 +24588,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127425.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25299,10 +24630,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113653.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25342,10 +24671,8 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25387,10 +24714,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 9599-9612.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25434,7 +24759,6 @@ ChemMedChem (2023), 18(15), e202300160.
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -25517,10 +24841,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25561,10 +24883,8 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -25604,10 +24924,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -25651,10 +24969,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -25697,10 +25013,8 @@ Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -25744,10 +25058,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -25790,8 +25102,7 @@ Journal of Medicinal Chemistry (2023), 66(23), 16426-16440.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25832,8 +25143,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25874,8 +25184,7 @@ ACS Medicinal Chemistry Letters (2020), 11(11), 2195-2203.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -25919,7 +25228,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8791-8816.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -25965,7 +25274,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26011,7 +25320,7 @@ Bioorganic & Medicinal Chemistry (2022), 73, 117035.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26057,7 +25366,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26103,7 +25412,7 @@ Journal of Medicinal Chemistry (2023), 66(7), 4849-4867.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26152,7 +25461,7 @@ Journal of Medicinal Chemistry (2024), 67(16), 13550-13571.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26198,7 +25507,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26246,7 +25555,7 @@ Journal of Medicinal Chemistry (2024), 67(12), 10306-10320.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26296,7 +25605,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26345,7 +25654,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26391,7 +25700,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26441,7 +25750,7 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26487,7 +25796,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26536,7 +25845,7 @@ Journal of Medicinal Chemistry (2020), 63(1), 349-368.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26582,7 +25891,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26632,7 +25941,7 @@ Journal of Medicinal Chemistry (2021), 64(15), 10934-10950.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26678,7 +25987,7 @@ Journal of Medicinal Chemistry (2021), 64(4), 1835-1843.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26724,7 +26033,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26774,7 +26083,7 @@ Journal of Medicinal Chemistry (2024), 67(4), 2369-2378.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26820,7 +26129,7 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -26866,10 +26175,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 11066-11083.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -26909,7 +26216,6 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -26954,9 +26260,8 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -26999,9 +26304,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27044,9 +26348,8 @@ ACS Medicinal Chemistry Letters (2022), 13(5), 779-785.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27087,9 +26390,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27130,9 +26432,8 @@ Journal of Medicinal Chemistry (2023), 66(4), 2457-2476.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27173,9 +26474,8 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27216,9 +26516,8 @@ European Journal of Medicinal Chemistry (2020), 191, 112148pp..
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27263,10 +26562,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -27304,9 +26601,8 @@ Journal of Medicinal Chemistry (2021), 64(10), 6670-6695.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27348,10 +26644,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(22), 127547.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27390,10 +26684,9 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Reaction Conditions:**
   - Time: 26.0 hours
@@ -27428,10 +26721,9 @@ European Journal of Medicinal Chemistry (2021), 220, 113482.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Reaction Conditions:**
   - Time: 25.0 hours
@@ -27466,10 +26758,9 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Reaction Conditions:**
   - Time: 25.0 hours
@@ -27504,10 +26795,9 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Reaction Conditions:**
   - Time: 26.0 hours
@@ -27542,10 +26832,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27589,10 +26877,8 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27633,7 +26919,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -27672,7 +26958,7 @@ European Journal of Medicinal Chemistry (2024), 272, 116473.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
 
@@ -27722,7 +27008,7 @@ Organic Process Research & Development (2023), 27(4), 788-797.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2) - Role: SOLVENT
@@ -27771,7 +27057,7 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116211.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -27814,9 +27100,7 @@ Journal of Medicinal Chemistry (2021), 64(21), 15772-15786.
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: BASE (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27859,7 +27143,6 @@ Journal of Medicinal Chemistry (2022), 65(22), 15000-15013.
 **Reagents:**
   - 2,6-Lutidine (CAS: 108-48-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -27900,10 +27183,8 @@ Organic Process Research & Development (2023), 27(7), 1317-1329.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -27943,9 +27224,7 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
@@ -27987,12 +27266,9 @@ Bioorganic & Medicinal Chemistry Letters (2023), 96, 129492.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Na2CO3 (CAS: 497-19-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium carbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28034,9 +27310,8 @@ Journal of Medicinal Chemistry (2024), 67(4), 2849-2863.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28079,14 +27354,12 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
   - N-Methylmorpholine (CAS: 109-02-4) - Role: AMIDE_BASE
-  - 4-Methylmorpholine
 
 **Reaction Conditions:**
   - Time: 8.167 hours
@@ -28128,8 +27401,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28174,8 +27446,7 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28220,8 +27491,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28266,8 +27536,7 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28318,8 +27587,7 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28362,10 +27630,9 @@ ChemMedChem (2024), 19(14), e202300727.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28404,7 +27671,7 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - Pivaloyl chloride (CAS: 3282-30-2) - Role: UNK
 
 **Solvents:**
@@ -28448,7 +27715,7 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - Pivaloyl chloride (CAS: 3282-30-2) - Role: UNK
 
 **Solvents:**
@@ -28496,10 +27763,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -28571,10 +27836,8 @@ ChemMedChem (2020), 15(7), 643-658.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28617,10 +27880,8 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28663,10 +27924,8 @@ European Journal of Medicinal Chemistry (2023), 254, 115342.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28711,7 +27970,6 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - Py (CAS: 110-86-1) - Role: UNK (Registry: BASE)
   - DMAP (CAS: 1122-58-3) - Role: UNK (Registry: LIGAND)
-  - 4-(Dimethylamino)pyridine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -28755,11 +28013,9 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - TFA (CAS: 76-05-1) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -28920,10 +28176,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -28966,12 +28220,9 @@ Journal of Medicinal Chemistry (2022), 65(4), 3473-3517.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -29014,12 +28265,9 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -29064,12 +28312,9 @@ Journal of Medicinal Chemistry (2023), 66(1), 460-472.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -29112,10 +28357,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29156,9 +28399,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: UNK (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
-  - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29239,10 +28481,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -29281,7 +28521,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -29324,10 +28564,8 @@ Journal of Medicinal Chemistry (2020), 63(5), 2688-2704.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -29370,7 +28608,7 @@ Organic Process Research & Development (2024), 28(12), 4374-4379.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -29414,10 +28652,9 @@ Journal of Medicinal Chemistry (2021), 64(16), 11972-11989.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29458,9 +28695,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -29500,10 +28736,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -29543,10 +28777,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -29589,16 +28821,15 @@ European Journal of Medicinal Chemistry (2022), 244, 114830.
 **Type:** Other
 
 **Full Catalytic System:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
 
 **Catalyst Core:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
 
 **Generic Catalyst:** N-Diisopropylethylamine
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -29637,7 +28868,7 @@ European Journal of Medicinal Chemistry (2023), 261, 115871.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
@@ -29686,10 +28917,8 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29728,10 +28957,9 @@ ChemMedChem (2023), 18(16), e202300097.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29770,12 +28998,9 @@ Journal of Medicinal Chemistry (2022), 65(4), 3266-3305.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29819,9 +29044,8 @@ Journal of Medicinal Chemistry (2021), 64(6), 3006-3025.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29864,10 +29088,8 @@ Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29906,10 +29128,8 @@ European Journal of Medicinal Chemistry (2020), 208, 112756.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29948,9 +29168,8 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -29994,9 +29213,8 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
 
 **Reagents:**
   - HBTU (CAS: 94790-37-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -30111,10 +29329,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 4-Methylmorpholine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -30195,7 +29411,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -30244,9 +29460,8 @@ Bioorganic & Medicinal Chemistry (2024), 104, 117712.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: WORKUP (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: WORKUP (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30291,12 +29506,11 @@ ACS Medicinal Chemistry Letters (2020), 11(5), 857-861.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -30336,10 +29550,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -30384,10 +29596,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
 
 **Reagents:**
   - Cbz-Cl (CAS: 1609-47-8) - Role: BASE (Registry: PROTECTING_GROUP)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diethyl dicarbonate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -30554,10 +29764,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -30598,10 +29806,8 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30644,10 +29850,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30689,10 +29893,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30734,10 +29936,8 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30776,10 +29976,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30821,10 +30019,8 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30863,10 +30059,8 @@ Journal of Medicinal Chemistry (2021), 64(24), 17753-17776.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -30906,10 +30100,8 @@ Journal of Medicinal Chemistry (2024), 67(1), 643-673.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -30957,7 +30149,7 @@ Journal of Medicinal Chemistry (2021), 64(15), 11637-11650.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -31007,8 +30199,6 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
   - DMAP (CAS: 1122-58-3) - Role: BASE (Registry: LIGAND)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaBH4 (CAS: 16940-66-2) - Role: UNK (Registry: REDUCTANT)
-  - 4-(Dimethylamino)pyridine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -31050,9 +30240,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31091,7 +30280,7 @@ Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
 
 **Solvents:**
@@ -31133,8 +30322,7 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31174,10 +30362,8 @@ European Journal of Medicinal Chemistry (2021), 226, 113835.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -31216,10 +30402,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -31262,10 +30446,8 @@ Organic Process Research & Development (2022), 26(10), 2811-2822.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -31316,13 +30498,12 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(11), 127138.
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP (Registry: BASE)
   - Fe (CAS: 7439-89-6) - Role: UNK (Registry: REDUCTANT)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -31379,13 +30560,12 @@ Organic Process Research & Development (2024), 28(8), 3382-3395.
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP (Registry: BASE)
   - Fe (CAS: 7439-89-6) - Role: UNK (Registry: REDUCTANT)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -31439,13 +30619,12 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP (Registry: BASE)
   - Fe (CAS: 7439-89-6) - Role: UNK (Registry: REDUCTANT)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -31501,13 +30680,12 @@ Organic Process Research & Development (2024), 28(11), 4099-4113.
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP (Registry: BASE)
   - Fe (CAS: 7439-89-6) - Role: UNK (Registry: REDUCTANT)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -31563,13 +30741,12 @@ Organic Process Research & Development (2022), 26(3), 804-816.
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP (Registry: BASE)
   - Fe (CAS: 7439-89-6) - Role: UNK (Registry: REDUCTANT)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -31623,13 +30800,12 @@ European Journal of Medicinal Chemistry (2021), 226, 113895.
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP (Registry: BASE)
   - Fe (CAS: 7439-89-6) - Role: UNK (Registry: REDUCTANT)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -31673,10 +30849,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31721,8 +30895,7 @@ Journal of Medicinal Chemistry (2022), 65(24), 16902-16917.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31770,8 +30943,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31817,8 +30989,7 @@ Bioorganic & Medicinal Chemistry Letters (2024), 108, 129799.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31866,8 +31037,7 @@ Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31913,8 +31083,7 @@ Bioorganic & Medicinal Chemistry Letters (2021), 40, 127911.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -31963,8 +31132,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(17), 127402.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -32005,8 +31173,7 @@ Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32047,8 +31214,7 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32089,8 +31255,7 @@ Journal of Medicinal Chemistry (2021), 64(1), 343-353.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32131,8 +31296,7 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32173,8 +31337,7 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32217,8 +31380,7 @@ Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32297,9 +31459,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: WORKUP (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32343,7 +31504,6 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127433.
   - N-Methylimidazole (CAS: 616-47-7) - Role: BASE (Registry: AMIDE_CATALYST)
   - Piperidine (CAS: 110-89-4) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1-Methylimidazole - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -32393,7 +31553,6 @@ ChemMedChem (2024), 19(2), e202300606.
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - (+)-Tartaric acid (CAS: 87-69-4) - Role: UNK
   - Ammonia (CAS: 7664-41-7) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -32436,10 +31595,9 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32480,11 +31638,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Reaction Conditions:**
   - Temperature: 25.0°C
@@ -32522,9 +31679,8 @@ Journal of Medicinal Chemistry (2024), 67(4), 2466-2486.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -32565,11 +31721,9 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32611,9 +31765,8 @@ Journal of Medicinal Chemistry (2021), 64(17), 12453-12468.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32654,9 +31807,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32696,7 +31848,6 @@ Journal of Medicinal Chemistry (2024), 67(13), 10710-10742.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -32740,7 +31891,6 @@ Organic Process Research & Development (2024), 28(6), 2090-2102.
 **Reagents:**
   - N-Methylimidazole (CAS: 616-47-7) - Role: BASE (Registry: AMIDE_CATALYST)
   - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 94790-35-9) - Role: UNK
-  - 1-Methylimidazole - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -32781,11 +31931,9 @@ Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -32834,13 +31982,11 @@ ChemMedChem (2023), 18(16), e202300097.
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
-  - Isopropanol (CAS: 67-63-0) - Role: SOLVENT
+  - iPrOH (CAS: 67-63-0) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 10.0°C
@@ -32974,11 +32120,8 @@ ACS Medicinal Chemistry Letters (2023), 14(12), 1656-1663.
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: BASE (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33021,10 +32164,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33066,8 +32207,7 @@ Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33107,11 +32247,9 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33154,11 +32292,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16991-17025.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -33204,11 +32339,10 @@ European Journal of Medicinal Chemistry (2021), 216, 113313.
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
-  - Isopropanol (CAS: 67-63-0) - Role: SOLVENT
+  - iPrOH (CAS: 67-63-0) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -33258,8 +32392,7 @@ European Journal of Medicinal Chemistry (2023), 258, 115587.
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -33343,10 +32476,8 @@ Journal of Medicinal Chemistry (2020), 63(17), 9045-9069.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33508,8 +32639,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33553,11 +32683,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
+  - DIC (CAS: 693-13-0) - Role: BASE (Registry: N'-DIISOPROPYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylcarbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33598,7 +32726,6 @@ Journal of Medicinal Chemistry (2021), 64(15), 10806-10833.
   - Water (CAS: 7732-18-5) - Role: WORKUP (Registry: SOLVENT)
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -33641,10 +32768,9 @@ European Journal of Medicinal Chemistry (2022), 241, 114620.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -33683,10 +32809,9 @@ Journal of Medicinal Chemistry (2023), 66(23), 16388-16409.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -33725,10 +32850,9 @@ European Journal of Medicinal Chemistry (2020), 208, 112769.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -33771,10 +32895,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -33817,11 +32939,9 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - TEA (CAS: 121-44-8) - Role: BASE
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - DMAP (CAS: 1122-58-3) - Role: UNK (Registry: LIGAND)
-  - Dicyclohexylcarbodiimide - Role: UNK
-  - 4-(Dimethylamino)pyridine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -33860,10 +32980,8 @@ Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33902,10 +33020,8 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33948,10 +33064,8 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -33990,10 +33104,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34032,10 +33144,8 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34076,10 +33186,8 @@ ACS Medicinal Chemistry Letters (2020), 11(2), 188-194.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34120,10 +33228,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34162,10 +33268,8 @@ Bioorganic & Medicinal Chemistry (2023), 90, 117379.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34204,10 +33308,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34246,10 +33348,8 @@ Bioorganic & Medicinal Chemistry (2021), 42, 116245.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34288,10 +33388,8 @@ Journal of Medicinal Chemistry (2021), 64(6), 3249-3281.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34330,10 +33428,9 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Anisole (CAS: 100-66-3)
@@ -34380,9 +33477,7 @@ Journal of Medicinal Chemistry (2020), 63(3), 1313-1327.
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - Pivaloyl chloride (CAS: 3282-30-2) - Role: UNK
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 96-47-9) - Role: SOLVENT
@@ -34430,10 +33525,8 @@ Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34475,15 +33568,13 @@ Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Time: 6.0 hours
@@ -34520,10 +33611,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34562,10 +33651,8 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34604,10 +33691,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34646,10 +33731,8 @@ Journal of Medicinal Chemistry (2022), 65(18), 12095-12123.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34688,10 +33771,8 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34733,10 +33814,8 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34822,12 +33901,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
   - Calcium chloride (CAS: 10043-52-4) - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -34869,9 +33946,8 @@ Journal of Medicinal Chemistry (2023), 66(22), 15288-15308.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
@@ -34917,9 +33993,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -34960,9 +34035,8 @@ Journal of Medicinal Chemistry (2022), 65(14), 9662-9677.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -35005,10 +34079,8 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35048,7 +34120,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -35089,7 +34161,7 @@ Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -35136,9 +34208,8 @@ Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35179,10 +34250,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 101, 129655.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -35221,9 +34290,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35272,7 +34340,6 @@ European Journal of Medicinal Chemistry (2021), 224, 113687.
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: UNK (Registry: BASE)
-  - Potassium carbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -35316,12 +34383,11 @@ Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
-  - Isopropanol (CAS: 67-63-0) - Role: SOLVENT
+  - iPrOH (CAS: 67-63-0) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 20.0°C
@@ -35363,10 +34429,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14740-14760.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35405,10 +34469,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35453,10 +34515,8 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35498,10 +34558,9 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35544,10 +34603,8 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35589,10 +34646,8 @@ ACS Medicinal Chemistry Letters (2020), 11(10), 1886-1892.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35635,10 +34690,8 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35680,9 +34733,7 @@ Organic Process Research & Development (2021), 25(4), 799-809.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -35727,10 +34778,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35784,11 +34833,9 @@ Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35840,11 +34887,9 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -35891,10 +34936,8 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -35940,10 +34983,8 @@ European Journal of Medicinal Chemistry (2020), 208, 112781.
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -35989,10 +35030,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36032,10 +35071,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36130,7 +35167,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127053.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - PhMe (CAS: 108-88-3) - Role: SOLVENT
@@ -36180,9 +35217,7 @@ Journal of Medicinal Chemistry (2023), 66(14), 9894-9915.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - 2-Hydroxypyridine N-oxide (CAS: 13161-30-3) - Role: UNK
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Sodium hydroxide - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
@@ -36225,10 +35260,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36266,10 +35299,8 @@ Journal of Medicinal Chemistry (2024), 67(13), 11086-11102.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36309,10 +35340,9 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36360,10 +35390,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -36404,9 +35432,8 @@ Journal of Medicinal Chemistry (2022), 65(24), 16622-16639.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: WORKUP (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -36449,9 +35476,8 @@ ACS Medicinal Chemistry Letters (2022), 13(10), 1568-1573.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36492,10 +35518,9 @@ ChemMedChem (2023), 18(16), e202300097.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36543,11 +35568,9 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116211.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36589,8 +35612,7 @@ ChemMedChem (2020), 15(14), 1294-1309.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36630,8 +35652,7 @@ Journal of Medicinal Chemistry (2022), 65(23), 15770-15788.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36673,8 +35694,7 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36714,8 +35734,7 @@ Journal of Medicinal Chemistry (2022), 65(15), 10481-10505.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36755,8 +35774,7 @@ Journal of Medicinal Chemistry (2023), 66(1), 460-472.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36800,8 +35818,7 @@ Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36841,8 +35858,7 @@ European Journal of Medicinal Chemistry (2020), 197, 112314.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36884,8 +35900,7 @@ ChemMedChem (2023), 18(15), e202300160.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36925,8 +35940,7 @@ European Journal of Medicinal Chemistry (2023), 246, 114925.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -36965,10 +35979,8 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37007,10 +36019,8 @@ Bioorganic & Medicinal Chemistry Letters (2023), 91, 129352.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37050,10 +36060,8 @@ Journal of Medicinal Chemistry (2020), 63(9), 4468-4483.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37095,7 +36103,7 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 
 **Solvents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
-  - Isopropanol (CAS: 67-63-0) - Role: SOLVENT
+  - iPrOH (CAS: 67-63-0) - Role: SOLVENT
 
 **Reaction Conditions:**
   - Temperature: 100.0°C
@@ -37221,7 +36229,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - Propylphosphonic acid (CAS: 4672-38-2) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
 
@@ -37267,7 +36275,6 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
   - HOAt (CAS: 39968-33-7) - Role: UNK (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -37311,10 +36318,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37358,10 +36363,8 @@ European Journal of Medicinal Chemistry (2024), 278, 116792.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37439,10 +36442,8 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116216.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37487,10 +36488,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8354-8383.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -37535,7 +36534,7 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
   - HATU (CAS: 148893-10-1) - Role: ACTIVATOR
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -37579,8 +36578,7 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37622,10 +36620,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37665,10 +36661,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37709,10 +36703,8 @@ ChemMedChem (2023), 18(10), e202300030.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37751,10 +36743,9 @@ European Journal of Medicinal Chemistry (2023), 256, 115446.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37793,11 +36784,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37840,10 +36829,8 @@ Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37881,11 +36868,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Pyridinium p-toluenesulfonate (CAS: 24057-28-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -37931,10 +36916,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 4-Methylmorpholine - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -37973,9 +36956,7 @@ European Journal of Medicinal Chemistry (2020), 208, 112769.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -38016,7 +36997,6 @@ Journal of Medicinal Chemistry (2022), 65(19), 13343-13364.
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38065,10 +37045,8 @@ Journal of Medicinal Chemistry (2023), 66(12), 8288-8309.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -38112,8 +37090,7 @@ Journal of Medicinal Chemistry (2023), 66(14), 9418-9444.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38153,10 +37130,9 @@ Journal of Medicinal Chemistry (2023), 66(4), 3106-3133.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: BASE (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
+  - DCC (CAS: 538-75-0) - Role: BASE (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
   - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -38198,10 +37174,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38243,8 +37217,7 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 
 **Reagents:**
   - HBTU (CAS: 94790-37-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38285,10 +37258,8 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38328,10 +37299,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38377,10 +37346,8 @@ Organic Process Research & Development (2020), 24(3), 363-370.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38424,8 +37391,6 @@ European Journal of Medicinal Chemistry (2023), 249, 115141.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38466,10 +37431,8 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117468.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38511,8 +37474,6 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38553,7 +37514,6 @@ Journal of Medicinal Chemistry (2021), 64(18), 13451-13474.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -38594,7 +37554,6 @@ Journal of Medicinal Chemistry (2022), 65(4), 3173-3192.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38637,10 +37596,8 @@ Journal of Medicinal Chemistry (2020), 63(22), 13878-13898.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38824,10 +37781,8 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -38927,7 +37882,6 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Ac2O (CAS: 108-24-7) - Role: BASE (Registry: SOLVENT)
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -38976,7 +37930,6 @@ Journal of Medicinal Chemistry (2022), 65(3), 2208-2224.
 
 **Reagents:**
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -39065,7 +38018,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
 
 **Solvents:**
@@ -39107,8 +38060,7 @@ Bioorganic & Medicinal Chemistry (2020), 28(20), 115700.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -39154,8 +38106,7 @@ ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -39200,10 +38151,9 @@ ChemMedChem (2021), 16(20), 3177-3180.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -39298,9 +38248,7 @@ Organic Process Research & Development (2021), 25(6), 1440-1453.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMSO (CAS: 67-68-5) - Role: SOLVENT
@@ -39342,8 +38290,7 @@ Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39388,7 +38335,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -39432,10 +38378,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -39476,9 +38420,8 @@ Journal of Medicinal Chemistry (2024), 67(9), 7068-7087.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39517,9 +38460,8 @@ ChemMedChem (2023), 18(16), e202300097.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39560,9 +38502,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39601,9 +38542,8 @@ Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39644,9 +38584,8 @@ Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39688,9 +38627,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39731,9 +38669,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39778,8 +38715,6 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Isobutyl chloroformate (CAS: 543-27-1) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK (Registry: BASE)
-  - 4-Methylmorpholine - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39823,7 +38758,6 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129034.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Isobutyl chloroformate (CAS: 543-27-1) - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39865,7 +38799,6 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - Isobutyl chloroformate (CAS: 543-27-1) - Role: UNK
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39908,9 +38841,8 @@ Organic Process Research & Development (2022), 26(8), 2124-2137.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39949,9 +38881,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3667-3683.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -39993,10 +38924,8 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -40039,10 +38968,8 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -40084,10 +39011,8 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -40127,10 +39052,8 @@ ChemMedChem (2024), 19(7), e202300548.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -40170,11 +39093,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
 
 **Reagents:**
   - Py (CAS: 110-86-1) - Role: BASE
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - Trimethyl borate (CAS: 121-43-7) - Role: UNK
   - Lithium diisopropylamide (CAS: 4111-54-0) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -40218,10 +39140,8 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -40269,8 +39189,7 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40316,8 +39235,7 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40364,8 +39282,7 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40411,8 +39328,7 @@ European Journal of Medicinal Chemistry (2021), 223, 113663.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40458,8 +39374,7 @@ Organic Process Research & Development (2021), 25(4), 817-830.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40505,7 +39420,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -40547,7 +39461,6 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -40594,8 +39507,7 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40638,13 +39550,11 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - MeCN (CAS: 75-05-8) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -40689,10 +39599,8 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -40734,10 +39642,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11855-11868.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40779,8 +39685,7 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40822,8 +39727,7 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40865,8 +39769,7 @@ ACS Medicinal Chemistry Letters (2022), 13(7), 1137-1143.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -40908,11 +39811,9 @@ Journal of Medicinal Chemistry (2022), 65(21), 14391-14408.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - 6-Chloro-1-hydroxybenzotriazole (CAS: 26198-19-6) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -40955,9 +39856,8 @@ European Journal of Medicinal Chemistry (2022), 227, 113918.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -40997,10 +39897,8 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41039,10 +39937,8 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41083,10 +39979,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41131,8 +40025,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41173,9 +40066,7 @@ Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
 
 **Reagents:**
   - CDI (CAS: 530-62-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1,1′-Carbonyldiimidazole - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41222,7 +40113,7 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
 
 **Reagents:**
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
 
 **Solvents:**
@@ -41270,9 +40161,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41311,9 +40201,8 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41360,9 +40249,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41404,9 +40292,8 @@ Journal of Medicinal Chemistry (2021), 64(17), 12670-12679.
 
 **Reagents:**
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41449,10 +40336,8 @@ Bioorganic & Medicinal Chemistry (2020), 28(19), 115683.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41501,11 +40386,9 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41559,11 +40442,9 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 632-640.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41616,11 +40497,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - EDC (CAS: 1892-57-5) - Role: UNK (Registry: ACTIVATOR)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -41667,10 +40546,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41712,10 +40589,8 @@ ACS Medicinal Chemistry Letters (2020), 11(5), 933-939.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41754,9 +40629,8 @@ ACS Medicinal Chemistry Letters (2021), 12(10), 1539-1545.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41798,10 +40672,8 @@ Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41840,10 +40712,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41882,10 +40752,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41933,10 +40801,8 @@ Bioorganic & Medicinal Chemistry (2023), 84, 117257.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -41981,7 +40847,6 @@ European Journal of Medicinal Chemistry (2020), 193, 112204.
 **Reagents:**
   - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42027,7 +40892,6 @@ Journal of Medicinal Chemistry (2022), 65(7), 5334-5354.
 **Reagents:**
   - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42071,7 +40935,6 @@ European Journal of Medicinal Chemistry (2024), 265, 116038.
 **Reagents:**
   - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42116,10 +40979,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42159,9 +41020,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14728-14744.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42204,9 +41064,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 112, 129942.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42246,9 +41105,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -42286,11 +41144,9 @@ Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
   - 7647-14-5 (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Sodium chloride - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -42332,11 +41188,9 @@ European Journal of Medicinal Chemistry (2021), 225, 113777.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
   - 7647-14-5 (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Sodium chloride - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -42380,9 +41234,7 @@ Journal of Medicinal Chemistry (2021), 64(15), 11302-11329.
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -42425,10 +41277,8 @@ Journal of Medicinal Chemistry (2024), 67(14), 11885-11916.
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42474,13 +41324,11 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DMF (CAS: 68-12-2) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -42519,9 +41367,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42563,8 +41410,7 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -42608,8 +41454,7 @@ Journal of Medicinal Chemistry (2020), 63(1), 349-368.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -42649,9 +41494,8 @@ Bioorganic & Medicinal Chemistry (2023), 77, 117115.
 **Type:** Other
 
 **Reagents:**
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -42697,7 +41541,6 @@ Bioorganic & Medicinal Chemistry (2023), 85, 117241.
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42741,7 +41584,7 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
@@ -42782,10 +41625,8 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -42828,12 +41669,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
-  - Dioxane (CAS: 123-91-1) - Role: SOLVENT
+  - dioxane (CAS: 123-91-1) - Role: SOLVENT
   - DCM (CAS: 75-09-2) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -42914,7 +41753,7 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1730-1738.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Et3N (CAS: 121-44-8) - Role: UNK (Registry: BASE)
+  - TEA (CAS: 121-44-8) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -43040,8 +41879,6 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -43082,13 +41919,8 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - 156311-85-2 (CAS: 156311-85-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Phosphorus(1+) - Role: UNK
-  - [3-(hydroxy-κO)-1,2,3-triazolo[4,5-b]pyridinato]tris(N-methylmethanaminato)- - Role: UNK
-  - (T-4)- - Role: UNK
-  - hexafluorophosphate(1-) (1:1) - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43164,11 +41996,8 @@ Bioorganic & Medicinal Chemistry Letters (2023), 80, 129104.
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43213,9 +42042,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9816-9841.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43258,9 +42086,8 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
   - HCl (CAS: 7647-01-0) - Role: UNK (Registry: ACID)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43304,7 +42131,6 @@ Bioorganic & Medicinal Chemistry (2022), 72, 116995.
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: NUC (Registry: AMIDE_BASE)
   - HBTU (CAS: 94790-37-1) - Role: UNK (Registry: ACTIVATOR)
-  - 4-Methylmorpholine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43348,9 +42174,8 @@ Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43391,10 +42216,9 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43434,10 +42258,8 @@ Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -43481,10 +42303,8 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -43526,10 +42346,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -43577,11 +42395,9 @@ ChemMedChem (2024), 19(14), e202300727.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -43625,11 +42441,9 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: BASE (Registry: ACID)
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -43672,9 +42486,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43718,9 +42531,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -43762,9 +42574,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - HATU (CAS: 148893-10-1) - Role: BASE (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43806,11 +42616,10 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 **Reagents:**
   - N-Methylimidazole (CAS: 616-47-7) - Role: BASE (Registry: AMIDE_CATALYST)
   - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 94790-35-9) - Role: UNK
-  - 1-Methylimidazole - Role: UNK
 
 **Solvents:**
   - DMAc (CAS: 127-19-5) - Role: SOLVENT
-  - Isopropanol (CAS: 67-63-0) - Role: SOLVENT
+  - iPrOH (CAS: 67-63-0) - Role: SOLVENT
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Reaction Conditions:**
@@ -43851,9 +42660,8 @@ Journal of Medicinal Chemistry (2024), 67(9), 7385-7405.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -43892,12 +42700,10 @@ Organic Process Research & Development (2024), 28(7), 2777-2788.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - Piperidine (CAS: 110-89-4) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - i-PrOH (CAS: 920-66-1) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -43964,11 +42770,9 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -44013,11 +42817,9 @@ Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -44061,11 +42863,9 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -44110,11 +42910,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -44410,8 +43208,7 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
   - DMAP (CAS: 1122-58-3) - Role: LIGAND
 
 **Reagents:**
-  - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - DCC (CAS: 538-75-0) - Role: UNK (Registry: N'-DICYCLOHEXYLCARBODIIMIDE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -44457,10 +43254,8 @@ Journal of Medicinal Chemistry (2021), 64(18), 13793-13806.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: BASE (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - THF (CAS: 109-99-9) - Role: SOLVENT
@@ -44505,10 +43300,8 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -44555,9 +43348,8 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -44594,8 +43386,7 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -44635,10 +43426,9 @@ European Journal of Medicinal Chemistry (2023), 258, 115619.
 **Type:** Other
 
 **Reagents:**
-  - Et3N (CAS: 121-44-8) - Role: BASE
+  - TEA (CAS: 121-44-8) - Role: BASE
   - HOBt (CAS: 2592-95-2) - Role: UNK (Registry: AMIDE_ADDITIVE)
-  - EDC-HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - EDC·HCl (CAS: 25952-53-8) - Role: UNK (Registry: ACTIVATOR)
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -44681,11 +43471,9 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - DIPEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: WORKUP (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - MeOH (CAS: 67-56-1) - Role: SOLVENT
@@ -44728,10 +43516,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -44774,10 +43560,9 @@ Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
 **Type:** Other
 
 **Reagents:**
-  - DIPEA (CAS: 7087-68-5) - Role: BASE
+  - DIEA (CAS: 7087-68-5) - Role: BASE
   - HBTU (CAS: 94790-37-1) - Role: WORKUP (Registry: ACTIVATOR)
   - Water (CAS: 7732-18-5) - Role: UNK (Registry: SOLVENT)
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - DMF (CAS: 68-12-2) - Role: SOLVENT
@@ -44821,12 +43606,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -44877,12 +43659,9 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -44930,11 +43709,9 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Potassium bisulfate (CAS: 7646-93-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -44980,12 +43757,9 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -45034,12 +43808,9 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -45088,12 +43859,9 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -45144,12 +43912,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -45197,12 +43962,9 @@ Journal of Medicinal Chemistry (2020), 63(17), 9127-9135.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -45250,12 +44012,9 @@ ACS Medicinal Chemistry Letters (2021), 12(3), 420-425.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -45306,12 +44065,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - NaHCO3 (CAS: 144-55-8) - Role: UNK (Registry: BASE)
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT
@@ -45362,11 +44118,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: BASE (Registry: SOLVENT)
-  - DIPEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
+  - DIEA (CAS: 7087-68-5) - Role: UNK (Registry: BASE)
   - HATU (CAS: 148893-10-1) - Role: UNK (Registry: ACTIVATOR)
   - Potassium bisulfate (CAS: 7646-93-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
   - DCM (CAS: 75-09-2) - Role: SOLVENT

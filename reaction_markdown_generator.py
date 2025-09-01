@@ -561,7 +561,6 @@ class ReactionMarkdownGenerator:
                         if resolved and (self.canonicalize_cas(resolved) == self.canonicalize_cas(corrected_cas)):
                             continue  # suppress benign alias mismatch
                     self.validation_warnings.append(f"{title}: {warning}")
-<<<<<<< HEAD
 
                 # Canonicalize CAS by name alias resolution when possible
                 canonical_cas = self.resolve_name_to_cas(corrected_name)
@@ -587,35 +586,6 @@ class ReactionMarkdownGenerator:
                         lines.append(f"  - {reg_name} (CAS: {corrected_cas})")
                     else:
                         lines.append(f"  - CAS: {corrected_cas}")
-=======
-                
-                # Get compound type for role annotation
-                compound_type = self.cas_registry.get_compound_type(corrected_cas) if corrected_cas else None
-                
-                if corrected_name and corrected_cas:
-                    # Use corrected values with abbreviation preference
-                    display_name = self.cas_registry.get_display_name(corrected_name, corrected_cas)
-                    
-                    if display_name != corrected_cas:  # Don't show CAS twice if name is just the CAS
-                        result += f"  - {display_name} (CAS: {corrected_cas})"
-                        if compound_type:
-                            result += f" - Role: {compound_type.upper()}"
-                    else:
-                        result += f"  - CAS: {corrected_cas}"
-                        if compound_type:
-                            result += f" - Role: {compound_type.upper()}"
-                    result += "\n"
-                elif corrected_name:
-                    result += f"  - {corrected_name}"
-                    if compound_type:
-                        result += f" - Role: {compound_type.upper()}"
-                    result += "\n"
-                elif corrected_cas:
-                    result += f"  - CAS: {corrected_cas}"
-                    if compound_type:
-                        result += f" - Role: {compound_type.upper()}"
-                    result += "\n"
->>>>>>> 865c8903e7a6051edcd14a1afb5498921ff9b391
             else:
                 # Name-only; try resolve to CAS
                 name = compound

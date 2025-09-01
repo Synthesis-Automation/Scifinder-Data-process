@@ -522,16 +522,12 @@ class ReactionMarkdownGenerator:
         return None
     
     def format_compound_list(self, compound_list: List[str], title: str) -> str:
-<<<<<<< HEAD
         """Format a list of compounds for markdown output with CAS validation and de-duplication.
         Rules:
         - Prefer entries with CAS over name-only duplicates.
         - Resolve name-only entries to CAS using registry/aliases when possible.
         - De-duplicate by CAS; if no CAS, de-duplicate by normalized name.
         """
-=======
-        """Format a list of compounds for markdown output with CAS validation and abbreviations."""
->>>>>>> 865c8903e7a6051edcd14a1afb5498921ff9b391
         if not compound_list:
             return f"**{title}:** None\n"
 
@@ -855,47 +851,7 @@ class ReactionMarkdownGenerator:
         
         # Format reagents with roles and validation
         if reagents:
-<<<<<<< HEAD
             markdown += self.format_reagents(reagents, reagent_roles)
-=======
-            markdown += "**Reagents:**\n"
-            for i, reagent in enumerate(reagents):
-                role = reagent_roles[i] if i < len(reagent_roles) else "UNK"
-                if '|' in reagent:
-                    name, cas = reagent.split('|', 1)
-                    name = name.strip()
-                    cas = cas.strip()
-                    
-                    # Validate reagent using updated registry
-                    corrected_name, corrected_cas, warnings = self.cas_registry.validate_compound_pair(name, cas)
-                    for warning in warnings:
-                        self.validation_warnings.append(f"Reagent: {warning}")
-                    
-                    # Get the best display name with abbreviation preference
-                    display_name = self.cas_registry.get_display_name(corrected_name, corrected_cas)
-                    
-                    # Get compound type from registry for additional context
-                    compound_type = self.cas_registry.get_compound_type(corrected_cas) if corrected_cas else None
-                    
-                    if display_name and corrected_cas:
-                        display_text = f"{display_name} (CAS: {corrected_cas})"
-                    elif display_name:
-                        display_text = display_name
-                    elif corrected_cas:
-                        display_text = f"CAS: {corrected_cas}"
-                    else:
-                        display_text = reagent
-                    
-                    # Show both the role from the data and compound type from registry if different
-                    role_text = f" - Role: {role}"
-                    if compound_type and compound_type.upper() != role.upper():
-                        role_text += f" (Registry: {compound_type.upper()})"
-                    
-                    markdown += f"  - {display_text}{role_text}\n"
-                else:
-                    markdown += f"  - {reagent} - Role: {role}\n"
-            markdown += "\n"
->>>>>>> 865c8903e7a6051edcd14a1afb5498921ff9b391
         
         if solvents:
             markdown += self.format_compound_list(solvents, "Solvents")

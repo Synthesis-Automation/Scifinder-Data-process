@@ -79,16 +79,29 @@ def _make_fake_txt(tmp_path):
 
 
 def _make_fake_map(tmp_path):
-    csv = textwrap.dedent(
-        """
-        CAS,Name,GenericCore,Role,CategoryHint,Token
-        64-17-5,Ethanol,,SOL,,EtOH
-        497-19-8,Sodium carbonate,,BASE,,Na2CO3
-        """
-    ).strip()
-    p = tmp_path / "map.csv"
-    p.write_text(csv, encoding="utf-8")
-    return str(p)
+  # JSONL mapping aligning with load_cas_maps JSONL-only support
+  # Fields: cas, name, generic_core, role, category_hint, token
+  jsonl = "\n".join([
+    json.dumps({
+      "cas": "64-17-5",
+      "name": "Ethanol",
+      "generic_core": "",
+      "role": "SOL",
+      "category_hint": "",
+      "token": "EtOH",
+    }),
+    json.dumps({
+      "cas": "497-19-8",
+      "name": "Sodium carbonate",
+      "generic_core": "",
+      "role": "BASE",
+      "category_hint": "",
+      "token": "Na2CO3",
+    }),
+  ])
+  p = tmp_path / "map.jsonl"
+  p.write_text(jsonl, encoding="utf-8")
+  return str(p)
 
 
 def test_smiles_and_normalization(tmp_path):

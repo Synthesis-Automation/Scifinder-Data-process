@@ -242,6 +242,116 @@ class ReactionMarkdownGenerator:
         self.cas_map = {}
         self.cas_registry = CASRegistry()
         self.validation_warnings = []
+        # Reverse indices for lookups and de-duplication
+        self.name_to_cas = {}
+        self.token_to_cas = {}
+        self.alias_to_cas = {}
+        # Direct CAS-to-CAS alias map for canonicalization (e.g., precatalyst CAS -> ligand CAS)
+        self.cas_alias_to_cas = {}
+
+    @staticmethod
+    def _norm(s: str) -> str:
+        """Normalize names for matching: lowercase, strip, collapse spaces, remove certain punctuation."""
+        if not s:
+            return ""
+        import re
+        s2 = s.lower().strip()
+        # Replace unicode primes and quotes with nothing
+        s2 = s2.replace("′", "").replace("’", "").replace("'", "")
+        # Remove brackets and commas
+        s2 = re.sub(r"[\[\]\(\),]", " ", s2)
+        # Collapse hyphens to spaces
+        s2 = s2.replace("-", " ")
+        # Collapse multiple spaces
+        s2 = re.sub(r"\s+", " ", s2)
+        return s2
+
+    def _build_reverse_indices(self):
+        """Build reverse indices from the loaded CAS map and manual aliases."""
+        self.name_to_cas.clear()
+        self.token_to_cas.clear()
+        self.alias_to_cas.clear()
+        self.cas_alias_to_cas.clear()
+
+        # From CAS map
+        for cas, data in (self.cas_map or {}).items():
+            name = (data.get('Name') or '').strip()
+            token = (data.get('Token') or '').strip()
+            if name:
+                self.name_to_cas[self._norm(name)] = cas
+            if token:
+                self.token_to_cas[self._norm(token)] = cas
+
+        # Manual aliases (common synonyms/expanded names)
+        manual = {
+            # Bases and salts
+            "sodium tert butoxide": "865-48-5",  # NaOtBu
+            "sodium t butoxide": "865-48-5",
+            "naotbu": "865-48-5",
+            # Cu(I) iodide common token
+            "cui": "7681-65-4",
+            # Potassium tert-butoxide
+            "potassium tert butoxide": "865-47-4",  # KOtBu
+            "potassium t butoxide": "865-47-4",
+            "kotbu": "865-47-4",
+            "sodium hydroxide": "1310-73-2",   # NaOH
+            "naoh": "1310-73-2",
+            "ammonium chloride": "12125-02-9",
+            "triethylamine": "121-44-8",
+            "diisopropylethylamine": "7087-68-5",  # DIPEA
+            "n n diisopropylethylamine": "7087-68-5",
+            "dicyclohexylcarbodiimide": "538-75-0",  # DCC / DIC? (DCC is 538-75-0)
+            "edc": "1892-57-5",  # EDCI free base
+            "edci": "25952-53-8", # EDCI·HCl
+            # Tripotassium phosphate
+            "k3po4": "7778-53-2",
+            "tripotassium phosphate": "7778-53-2",
+
+            # Biaryl phosphines (common systematic spellings -> abbreviations)
+            # RuPhos
+            "[2,6 bis 1 methylethoxy 1,1 biphenyl 2 yl]dicyclohexylphosphine": "787618-22-8",
+            "2 6 bis 1 methylethoxy 1 1 biphenyl 2 yl dicyclohexylphosphine": "787618-22-8",
+            "ruphos": "787618-22-8",
+            # Occasionally the palladium precatalyst CAS appears where the ligand is intended; canonicalize to RuPhos
+            "1445085-77-7": "787618-22-8",
+            # XPhos, SPhos, tBuXPhos and BrettPhos common forms
+            "xphos": "564483-18-7",
+            "sphos": "657408-07-6",
+            "tbu xphos": "564483-19-8",
+            "brettphos": "1028206-60-1",
+        }
+
+        # Normalize keys into alias_to_cas
+        for k, v in manual.items():
+            self.alias_to_cas[self._norm(k)] = v
+
+        # CAS-to-CAS canonicalization (ensure report uses canonical ligand CAS)
+        # RuPhos Pd-precatalyst CAS -> RuPhos ligand CAS
+        self.cas_alias_to_cas["1445085-77-7"] = "787618-22-8"
+
+    def canonicalize_cas(self, cas: Optional[str]) -> Optional[str]:
+        """Return canonical CAS if an alias mapping exists; otherwise return the input."""
+        if not cas:
+            return cas
+        return self.cas_alias_to_cas.get(cas, cas)
+
+    @staticmethod
+    def _norm_role(role: str) -> str:
+        """Normalize reagent role labels; keep only clean tokens like BASE, CAT_LIG, etc."""
+        if not role:
+            return "UNK"
+        import re
+        r = str(role).strip().upper()
+        # unify separators to underscore
+        r = re.sub(r"[^A-Z0-9]+", "_", r)
+        r = r.strip("_")
+        # allow only letters, digits and underscores; otherwise UNK
+        if not re.match(r"^[A-Z0-9_]{2,}$", r):
+            return "UNK"
+        # common normalizations
+        if r in {"CATLIG", "CAT-LIG", "CAT__LIG"}:
+            r = "CAT_LIG"
+        return r
     def find_rdf_txt_pairs(self, folder_path: str) -> List[Tuple[str, str]]:
         """Find matching RDF/TXT pairs in the specified folder."""
         if not os.path.isdir(folder_path):
@@ -287,42 +397,116 @@ class ReactionMarkdownGenerator:
                 if os.path.exists(path):
                     cas_map_paths.append(path)
         
-        return load_cas_maps(cas_map_paths) if cas_map_paths else {}
+        self.cas_map = load_cas_maps(cas_map_paths) if cas_map_paths else {}
+        # Rebuild reverse indices for name resolution and de-duplication
+        self._build_reverse_indices()
+        return self.cas_map
+
+    def resolve_name_to_cas(self, name: str) -> Optional[str]:
+        """Resolve a plain compound name to a CAS using registry and aliases."""
+        if not name:
+            return None
+        n = self._norm(name)
+        # Direct name match from registry
+        cas = self.name_to_cas.get(n)
+        if cas:
+            return cas
+        # Token/abbreviation match
+        cas = self.token_to_cas.get(n)
+        if cas:
+            return cas
+        # Manual alias match
+        cas = self.alias_to_cas.get(n)
+        if cas:
+            return cas
+        return None
     
     def format_compound_list(self, compound_list: List[str], title: str) -> str:
-        """Format a list of compounds for markdown output with CAS validation."""
+        """Format a list of compounds for markdown output with CAS validation and de-duplication.
+        Rules:
+        - Prefer entries with CAS over name-only duplicates.
+        - Resolve name-only entries to CAS using registry/aliases when possible.
+        - De-duplicate by CAS; if no CAS, de-duplicate by normalized name.
+        """
         if not compound_list:
             return f"**{title}:** None\n"
-        
-        result = f"**{title}:**\n"
+
+        seen_cas: set[str] = set()
+        seen_names: set[str] = set()
+        lines: List[str] = []
+
         for compound in compound_list:
+            compound = compound.strip()
+            if not compound:
+                continue
+
             if '|' in compound:
+                # Explicit name|CAS entry
                 name, cas = compound.split('|', 1)
                 name = name.strip()
                 cas = cas.strip()
-                
-                # Validate and correct the compound pair
+
                 corrected_name, corrected_cas, warnings = self.cas_registry.validate_compound_pair(name, cas)
-                
-                # Collect warnings for later reporting
+                # Filter out name-mismatch warnings when the provided name is a known alias for the same CAS
                 for warning in warnings:
+                    if "Name mismatch:" in warning:
+                        try:
+                            resolved = self.resolve_name_to_cas(name)
+                        except Exception:
+                            resolved = None
+                        if resolved and (self.canonicalize_cas(resolved) == self.canonicalize_cas(corrected_cas)):
+                            continue  # suppress benign alias mismatch
                     self.validation_warnings.append(f"{title}: {warning}")
-                
-                if corrected_name and corrected_cas:
-                    # Use corrected values
-                    if corrected_name != cas:  # Don't show CAS twice if name is just the CAS
-                        result += f"  - {corrected_name} (CAS: {corrected_cas})"
+
+                # Canonicalize CAS by name alias resolution when possible
+                canonical_cas = self.resolve_name_to_cas(corrected_name)
+                if canonical_cas:
+                    corrected_cas = canonical_cas
+
+                # Also canonicalize by direct CAS alias mapping
+                corrected_cas = self.canonicalize_cas(corrected_cas)
+
+                # If still missing or invalid CAS, drop this entry (enforce CAS-only policy)
+                if (not corrected_cas) or (not self.cas_registry.validate_cas_format(corrected_cas)):
+                    continue
+
+                norm_name = self._norm(corrected_name)
+                if corrected_cas:
+                    if corrected_cas in seen_cas:
+                        continue  # duplicate by CAS
+                    seen_cas.add(corrected_cas)
+                    # Prefer registry canonical display name when available
+                    reg_name = (self.cas_map.get(corrected_cas, {}) or {}).get('Name') or corrected_name
+                    seen_names.add(self._norm(reg_name))
+                    if reg_name != corrected_cas:
+                        lines.append(f"  - {reg_name} (CAS: {corrected_cas})")
                     else:
-                        result += f"  - CAS: {corrected_cas}"
-                    result += "\n"
-                elif corrected_name:
-                    result += f"  - {corrected_name}\n"
-                elif corrected_cas:
-                    result += f"  - CAS: {corrected_cas}\n"
+                        lines.append(f"  - CAS: {corrected_cas}")
             else:
-                result += f"  - {compound}\n"
-        
-        return result + "\n"
+                # Name-only; try resolve to CAS
+                name = compound
+                norm_name = self._norm(name)
+                cas_resolved = self.resolve_name_to_cas(name)
+                if cas_resolved:
+                    # Prefer the canonical registry name if available
+                    cas_resolved = self.canonicalize_cas(cas_resolved) or cas_resolved
+                    if not self.cas_registry.validate_cas_format(cas_resolved):
+                        continue
+                    reg_name = (self.cas_map.get(cas_resolved, {}) or {}).get('Name') or name
+                    norm_reg_name = self._norm(reg_name)
+                    if cas_resolved in seen_cas or norm_reg_name in seen_names:
+                        continue
+                    seen_cas.add(cas_resolved)
+                    seen_names.add(norm_reg_name)
+                    lines.append(f"  - {reg_name} (CAS: {cas_resolved})")
+                else:
+                    # Cannot resolve to CAS; drop per CAS-only policy
+                    continue
+
+        if not lines:
+            return f"**{title}:** None\n"
+        result = f"**{title}:**\n" + "\n".join(lines) + "\n\n"
+        return result
     
     def format_reaction_conditions(self, row: Dict[str, Any]) -> str:
         """Format reaction conditions for markdown output."""
@@ -359,6 +543,85 @@ class ReactionMarkdownGenerator:
             result += f"  - Products: `{product_smiles}`\n"
         
         return result + "\n"
+
+    def format_reagents(self, reagents: List[str], reagent_roles: List[str]) -> str:
+        """Format reagents with roles using CAS/alias resolution and de-duplication.
+        - Resolve names to CAS when possible
+        - Deduplicate by CAS first; otherwise by normalized name
+        - Merge roles for duplicates (sorted, unique)
+        """
+        if not reagents:
+            return ""
+
+        # Maps and sets for dedup
+        cas_to_entry: Dict[str, Dict[str, Any]] = {}
+        name_to_entry: Dict[str, Dict[str, Any]] = {}
+
+        for i, reagent in enumerate(reagents):
+            role = self._norm_role(reagent_roles[i] if i < len(reagent_roles) else "UNK")
+            name: str = reagent
+            cas: Optional[str] = None
+            if '|' in reagent:
+                n, c = reagent.split('|', 1)
+                name = n.strip()
+                cas = c.strip()
+
+            # Try to resolve CAS if missing or invalid
+            if not cas or not self.cas_registry.validate_cas_format(cas):
+                resolved = self.resolve_name_to_cas(name)
+                cas = resolved or cas or ""
+
+            # Canonicalize CAS using name alias even if CAS present
+            if name:
+                canonical = self.resolve_name_to_cas(name)
+                if canonical:
+                    cas = canonical
+
+            # Canonicalize CAS using direct CAS alias mapping
+            cas = self.canonicalize_cas(cas) or cas
+
+            # If we have a CAS, prefer the registry-declared role to fix misalignment issues
+            reg_role = ""
+            if cas and cas in self.cas_map:
+                reg_role = (self.cas_map[cas].get('Role') or '').strip()
+            # Normalize and choose role: prefer registry role when available
+            if reg_role:
+                role = self._norm_role(reg_role)
+
+            # Prefer registry canonical name if CAS known
+            display_name = name
+            if cas and cas in self.cas_map:
+                display_name = (self.cas_map[cas].get('Name') or name).strip()
+
+            # Deduplicate by CAS if we have it
+            if cas:
+                entry = cas_to_entry.get(cas)
+                if not entry:
+                    entry = {"name": display_name, "cas": cas, "roles": set()}
+                    cas_to_entry[cas] = entry
+                entry["roles"].add(role)
+                continue
+
+            # Otherwise deduplicate by normalized name
+            key = self._norm(display_name)
+            entry = name_to_entry.get(key)
+            if not entry:
+                entry = {"name": display_name, "cas": "", "roles": set()}
+                name_to_entry[key] = entry
+            entry["roles"].add(role)
+
+        # Build lines
+        lines: List[str] = ["**Reagents:**"]
+        # Emit only CAS-specified entries; drop name-only reagents (no CAS)
+        for cas, entry in sorted(cas_to_entry.items()):
+            # Normalize roles for stable output; drop UNK if we also have a specific one
+            norm_roles = sorted(self._norm_role(r) for r in entry["roles"])
+            if any(r != "UNK" for r in norm_roles):
+                norm_roles = [r for r in norm_roles if r != "UNK"]
+            roles = ", ".join(norm_roles)
+            lines.append(f"  - {entry['name']} (CAS: {entry['cas']}) - Role: {roles}")
+        # Intentionally skip name-only entries to avoid duplicates and unmapped reagents
+        return "\n".join(lines) + "\n\n"
     
     def format_reference(self, row: Dict[str, Any]) -> str:
         """Format reference information for markdown output."""
@@ -488,32 +751,7 @@ class ReactionMarkdownGenerator:
         
         # Format reagents with roles and validation
         if reagents:
-            markdown += "**Reagents:**\n"
-            for i, reagent in enumerate(reagents):
-                role = reagent_roles[i] if i < len(reagent_roles) else "UNK"
-                if '|' in reagent:
-                    name, cas = reagent.split('|', 1)
-                    name = name.strip()
-                    cas = cas.strip()
-                    
-                    # Validate reagent
-                    corrected_name, corrected_cas, warnings = self.cas_registry.validate_compound_pair(name, cas)
-                    for warning in warnings:
-                        self.validation_warnings.append(f"Reagent: {warning}")
-                    
-                    if corrected_name and corrected_cas:
-                        display_text = f"{corrected_name} (CAS: {corrected_cas})"
-                    elif corrected_name:
-                        display_text = corrected_name
-                    elif corrected_cas:
-                        display_text = f"CAS: {corrected_cas}"
-                    else:
-                        display_text = reagent
-                    
-                    markdown += f"  - {display_text} - Role: {role}\n"
-                else:
-                    markdown += f"  - {reagent} - Role: {role}\n"
-            markdown += "\n"
+            markdown += self.format_reagents(reagents, reagent_roles)
         
         if solvents:
             markdown += self.format_compound_list(solvents, "Solvents")

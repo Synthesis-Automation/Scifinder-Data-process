@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-29 22:28:48
+**Generated:** 2025-09-01 23:27:23
 **Source Folder:** C:/Git-softwares/Scifinder-Data-process/dataset/Amide formation/2021-2024
 **Total Reactions:** 1000
 
@@ -28,15 +28,14 @@
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -127,10 +126,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -178,15 +177,14 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -235,10 +233,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -289,10 +287,9 @@ Journal of Medicinal Chemistry (2023), 66(7), 5041-5060.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -339,11 +336,9 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -387,10 +382,8 @@ European Journal of Medicinal Chemistry (2022), 244, 114830.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -431,9 +424,8 @@ Organic Process Research & Development (2022), 26(4), 1327-1335.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -475,15 +467,14 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -1460,10 +1451,9 @@ Journal of Medicinal Chemistry (2020), 63(9), 4790-4810.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -1503,10 +1493,9 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -1548,7 +1537,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14358-14376.
 **Type:** Other
 
 **Reagents:**
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -1590,7 +1579,7 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -1631,10 +1620,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -1676,10 +1663,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -1721,10 +1706,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -1767,10 +1750,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -1819,8 +1800,8 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
   - Sodium carbonate - Role: UNK
 
 **Solvents:**
@@ -1860,9 +1841,6 @@ By: Zhang, Hao; et al
 Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
 10.1021/acs.jmedchem.2c00611
 ```
-
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'Na2CO3' vs expected 'Sodium carbonate' for CAS 497-19-8
 
 ---
 
@@ -1992,8 +1970,8 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -2047,10 +2025,9 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -2095,10 +2072,9 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -2141,10 +2117,9 @@ Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -2190,10 +2165,9 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -2247,9 +2221,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -2297,8 +2270,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -2340,10 +2313,9 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -2385,10 +2357,9 @@ Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -2430,10 +2401,9 @@ Journal of Medicinal Chemistry (2022), 65(24), 16372-16391.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -2477,7 +2447,6 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -2520,7 +2489,6 @@ European Journal of Medicinal Chemistry (2023), 248, 115054.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -2560,9 +2528,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -2603,7 +2570,6 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -2736,8 +2702,8 @@ ACS Medicinal Chemistry Letters (2020), 11(10), 1829-1836.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -2787,8 +2753,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -2838,8 +2804,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -2886,8 +2852,6 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -2926,10 +2890,9 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -2974,8 +2937,6 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -3017,10 +2978,9 @@ ACS Medicinal Chemistry Letters (2023), 14(11), 1544-1550.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Ethyl Acetate (CAS: 141-78-6)
@@ -3063,10 +3023,9 @@ Journal of Medicinal Chemistry (2022), 65(12), 8456-8477.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Ethyl Acetate (CAS: 141-78-6)
@@ -3159,7 +3118,6 @@ Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -3202,7 +3160,6 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -3246,8 +3203,8 @@ ChemMedChem (2020), 15(15), 1429-1438.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -3286,9 +3243,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3333,7 +3289,7 @@ Bioorganic & Medicinal Chemistry Letters (2023), 96, 129530.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3377,7 +3333,7 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3418,7 +3374,7 @@ Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3457,7 +3413,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3497,7 +3453,7 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3536,7 +3492,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8836-8861.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3578,7 +3534,7 @@ ACS Medicinal Chemistry Letters (2022), 13(6), 949-954.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3617,7 +3573,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3658,7 +3614,7 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3700,7 +3656,7 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3739,7 +3695,7 @@ Organic Process Research & Development (2020), 24(6), 1157-1163.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3779,7 +3735,7 @@ European Journal of Medicinal Chemistry (2020), 201, 112443.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3818,7 +3774,7 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3857,7 +3813,7 @@ Bioorganic & Medicinal Chemistry (2023), 84, 117259.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3896,7 +3852,7 @@ European Journal of Medicinal Chemistry (2020), 188, 111920.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3935,7 +3891,7 @@ European Journal of Medicinal Chemistry (2020), 205, 112662.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -3979,7 +3935,7 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4019,7 +3975,7 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4062,7 +4018,7 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4101,7 +4057,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4143,15 +4099,14 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -4196,9 +4151,8 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4245,14 +4199,13 @@ ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -4299,9 +4252,8 @@ Journal of Medicinal Chemistry (2022), 65(13), 9350-9375.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4342,9 +4294,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4387,7 +4338,6 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -4431,7 +4381,6 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -4478,7 +4427,6 @@ ACS Medicinal Chemistry Letters (2024), 15(5), 631-639.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -4522,7 +4470,6 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -4564,9 +4511,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4606,10 +4552,9 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-(Dimethylamino)pyridine - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3)
@@ -4645,9 +4590,6 @@ ACS Medicinal Chemistry Letters (2020), 11(3), 371-378.
 10.1021/acsmedchemlett.9b00445
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: '4-Dimethylaminopyridine' vs expected '4-(Dimethylamino)pyridine' for CAS 1122-58-3
-
 ---
 
 ## Reaction 31-367-CAS-23413494
@@ -4655,9 +4597,8 @@ ACS Medicinal Chemistry Letters (2020), 11(3), 371-378.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -4697,7 +4638,6 @@ Journal of Medicinal Chemistry (2021), 64(14), 10167-10184.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
@@ -4737,8 +4677,8 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
 **Type:** Other
 
 **Reagents:**
-  - Megestrol acetate (CAS: 595-33-5) - Role: UNK
   - BOP reagent (CAS: 56602-33-6) - Role: UNK
+  - Megestrol acetate (CAS: 595-33-5) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -4781,10 +4721,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -4827,10 +4765,8 @@ European Journal of Medicinal Chemistry (2020), 207, 112715.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -4871,9 +4807,8 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -4916,7 +4851,6 @@ Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -4959,7 +4893,6 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -5001,7 +4934,6 @@ Organic Process Research & Development (2020), 24(6), 1024-1031.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -5092,9 +5024,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -5138,10 +5069,9 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5181,10 +5111,9 @@ Journal of Medicinal Chemistry (2023), 66(15), 10639-10657.
 **Type:** Other
 
 **Reagents:**
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5226,7 +5155,7 @@ European Journal of Medicinal Chemistry (2024), 265, 116038.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5267,7 +5196,7 @@ Journal of Medicinal Chemistry (2020), 63(13), 6941-6958.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5310,7 +5239,7 @@ European Journal of Medicinal Chemistry (2024), 271, 116400.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5353,7 +5282,7 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5393,14 +5322,13 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5448,14 +5376,13 @@ ChemMedChem (2021), 16(6), 942-948.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5498,14 +5425,13 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5548,14 +5474,13 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5598,14 +5523,13 @@ Bioorganic & Medicinal Chemistry Letters (2021), 39, 127853.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5650,7 +5574,6 @@ European Journal of Medicinal Chemistry (2021), 216, 113291.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Pyridine (CAS: 110-86-1)
@@ -5689,9 +5612,8 @@ ACS Medicinal Chemistry Letters (2021), 12(4), 572-578.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5730,9 +5652,8 @@ ACS Medicinal Chemistry Letters (2021), 12(7), 1166-1172.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5772,7 +5693,7 @@ Journal of Medicinal Chemistry (2021), 64(15), 11460-11471.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5811,10 +5732,9 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5857,7 +5777,7 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5899,9 +5819,8 @@ European Journal of Medicinal Chemistry (2020), 186, 111900.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -5944,8 +5863,8 @@ European Journal of Medicinal Chemistry (2021), 224, 113687.
 **Type:** Other
 
 **Reagents:**
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -5985,9 +5904,8 @@ European Journal of Medicinal Chemistry (2020), 188, 111920.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6028,8 +5946,8 @@ ACS Medicinal Chemistry Letters (2021), 12(4), 647-652.
 **Type:** Other
 
 **Reagents:**
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6117,9 +6035,8 @@ Organic Process Research & Development (2024), 28(2), 492-499.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6162,9 +6079,8 @@ European Journal of Medicinal Chemistry (2022), 230, 114120.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6208,9 +6124,8 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6252,9 +6167,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 952-970.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6294,11 +6208,10 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
+  - NaOH (CAS: 1310-73-2) - Role: UNK
   - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - Dimethyl carbonate (CAS: 616-38-6) - Role: UNK
-  - NaOH (CAS: 1310-73-2) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6347,11 +6260,11 @@ Journal of Medicinal Chemistry (2024), 67(16), 14466-14477.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: ADDITIVE
-  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: NUC
-  - Copper sulfate (CAS: 7758-98-7) - Role: UNK
   - Ethylenediaminetetraacetic acid (CAS: 60-00-4) - Role: UNK
+  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: ADDITIVE
+  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: ADDITIVE
+  - Copper sulfate (CAS: 7758-98-7) - Role: UNK
   - Diisopropylcarbodiimide - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -6400,11 +6313,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
+  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: ADDITIVE
   - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: ADDITIVE
-  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Diisopropylcarbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -6445,9 +6357,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19342-19364.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6491,10 +6402,9 @@ Journal of Medicinal Chemistry (2023), 66(19), 13516-13529.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -6540,9 +6450,8 @@ Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - BOP reagent (CAS: 56602-33-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6582,10 +6491,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -6627,10 +6534,8 @@ Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
 **Type:** Other
 
 **Reagents:**
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -6672,10 +6577,8 @@ Journal of Medicinal Chemistry (2022), 65(22), 15312-15326.
 **Type:** Other
 
 **Reagents:**
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -6714,10 +6617,8 @@ Journal of Medicinal Chemistry (2021), 64(7), 3794-3812.
 **Type:** Other
 
 **Reagents:**
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -6761,7 +6662,7 @@ Organic Process Research & Development (2023), 27(12), 2355-2364.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6803,9 +6704,8 @@ ACS Medicinal Chemistry Letters (2023), 14(7), 943-948.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -6844,9 +6744,8 @@ Organic Process Research & Development (2024), 28(8), 3143-3151.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6886,9 +6785,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -6928,13 +6826,11 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ADDITIVE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
   - Ammonia (CAS: 7664-41-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -6979,12 +6875,11 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Acetic anhydride (CAS: 108-24-7) - Role: UNK
   - Piperidine (CAS: 110-89-4) - Role: UNK
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
   - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
@@ -7050,13 +6945,12 @@ Journal of Medicinal Chemistry (2022), 65(5), 4291-4317.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Acetic anhydride (CAS: 108-24-7) - Role: UNK
   - Piperidine (CAS: 110-89-4) - Role: UNK
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
   - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
+  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - 1,1,1,3,3,3-Hexafluoro-2-propanol (CAS: 920-66-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
@@ -7155,11 +7049,10 @@ Organic Process Research & Development (2023), 27(12), 2223-2239.
 **Type:** Other
 
 **Reagents:**
+  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: ADDITIVE
   - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: ADDITIVE
-  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Diisopropylcarbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -7203,11 +7096,9 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -7248,7 +7139,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -7293,10 +7184,9 @@ Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -7385,9 +7275,8 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -7524,9 +7413,8 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -7619,9 +7507,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -7666,10 +7553,9 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Ethyl Acetate (CAS: 141-78-6)
@@ -7709,10 +7595,9 @@ Journal of Medicinal Chemistry (2022), 65(19), 13094-13111.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Ethyl Acetate (CAS: 141-78-6)
@@ -7753,7 +7638,7 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -7795,7 +7680,7 @@ Bioorganic & Medicinal Chemistry (2023), 80, 117172.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -7836,7 +7721,7 @@ ACS Medicinal Chemistry Letters (2020), 11(8), 1548-1554.
 
 **Reagents:**
   - Diisopropylamine (CAS: 108-18-9) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: NUC
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -7876,7 +7761,7 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 
 **Reagents:**
   - Diisopropylamine (CAS: 108-18-9) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: NUC
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -7918,10 +7803,9 @@ Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -7962,10 +7846,9 @@ Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -8004,10 +7887,9 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -8049,9 +7931,8 @@ European Journal of Medicinal Chemistry (2021), 216, 113333.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -8091,10 +7972,9 @@ Journal of Medicinal Chemistry (2022), 65(17), 11574-11606.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -8134,7 +8014,7 @@ European Journal of Medicinal Chemistry (2024), 268, 116236.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -8174,7 +8054,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 4-Methylmorpholine - Role: NUC
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
@@ -8221,9 +8101,9 @@ Journal of Medicinal Chemistry (2021), 64(6), 3299-3319.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -8269,9 +8149,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -8311,9 +8190,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -8357,8 +8235,8 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -8400,9 +8278,8 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Reaction Conditions:**
@@ -8442,9 +8319,8 @@ Journal of Medicinal Chemistry (2020), 63(6), 2814-2832.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Reaction Conditions:**
@@ -8489,9 +8365,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Reaction Conditions:**
@@ -8529,7 +8404,7 @@ ACS Medicinal Chemistry Letters (2023), 14(4), 417-424.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -8572,7 +8447,7 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -8614,9 +8489,8 @@ ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -8659,9 +8533,8 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -8703,9 +8576,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -8748,10 +8620,9 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -8794,8 +8665,8 @@ Bioorganic & Medicinal Chemistry (2020), 28(20), 115698.
 **Type:** Other
 
 **Reagents:**
-  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -8838,8 +8709,8 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 **Type:** Other
 
 **Reagents:**
-  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -8882,8 +8753,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
 **Type:** Other
 
 **Reagents:**
-  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -8930,11 +8801,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - NaOH (CAS: 1310-73-2) - Role: UNK
+  - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -8991,7 +8861,6 @@ Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-Methylmorpholine - Role: NUC
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -9033,9 +8902,8 @@ Journal of Medicinal Chemistry (2021), 64(20), 15262-15279.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -9087,7 +8955,6 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -9131,16 +8998,15 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
@@ -9189,9 +9055,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112869.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -9230,9 +9095,8 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -9272,11 +9136,10 @@ Journal of Medicinal Chemistry (2021), 64(7), 3720-3746.
 **Type:** Other
 
 **Reagents:**
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -9315,8 +9178,8 @@ Journal of Medicinal Chemistry (2023), 66(14), 9592-9606.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Dimethylaniline (CAS: 121-69-7) - Role: NUC
   - Phosphorus oxychloride (CAS: 10025-87-3) - Role: BASE
+  - N,N-Dimethylaniline (CAS: 121-69-7) - Role: NUC
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -9363,11 +9226,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8988-9027.
 **Type:** Other
 
 **Reagents:**
+  - NaOH (CAS: 1310-73-2) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - NaOH (CAS: 1310-73-2) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -9447,11 +9308,9 @@ European Journal of Medicinal Chemistry (2020), 208, 112778.
 **Type:** Other
 
 **Reagents:**
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -9494,12 +9353,10 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -9544,9 +9401,8 @@ Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -9660,9 +9516,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 105, 129752.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -9746,7 +9601,6 @@ Journal of Medicinal Chemistry (2023), 66(17), 11815-11830.
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -9794,7 +9648,6 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -9842,7 +9695,6 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -9885,9 +9737,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -9925,9 +9776,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -9975,9 +9825,8 @@ Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -10020,7 +9869,7 @@ Journal of Medicinal Chemistry (2023), 66(4), 2506-2523.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -10063,9 +9912,8 @@ ACS Medicinal Chemistry Letters (2020), 11(8), 1581-1587.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -10107,9 +9955,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -10538,8 +10385,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1742-1760.
 **Type:** Other
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - 1-Chloro-N,N-2-trimethylpropenylamine (CAS: 26189-59-3) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: NUC
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -10579,8 +10426,8 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - 1-Chloro-N,N-2-trimethylpropenylamine (CAS: 26189-59-3) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: NUC
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -10622,9 +10469,9 @@ Bioorganic & Medicinal Chemistry (2024), 108, 117773.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: WORKUP
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3)
@@ -10670,9 +10517,9 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: WORKUP
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3)
@@ -10716,9 +10563,9 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: WORKUP
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3)
@@ -10765,9 +10612,9 @@ Journal of Medicinal Chemistry (2021), 64(16), 12286-12303.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: WORKUP
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3)
@@ -10816,8 +10663,6 @@ Organic Process Research & Development (2024), 28(7), 2646-2658.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -10858,16 +10703,14 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -10949,10 +10792,9 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 **Type:** Other
 
 **Reagents:**
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -10994,10 +10836,9 @@ European Journal of Medicinal Chemistry (2023), 257, 115497.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-(Dimethylamino)pyridine - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3)
@@ -11032,9 +10873,6 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 10.1016/j.bmc.2021.116182
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: '4-Dimethylaminopyridine' vs expected '4-(Dimethylamino)pyridine' for CAS 1122-58-3
-
 ---
 
 ## Reaction 31-614-CAS-31490959
@@ -11042,10 +10880,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-(Dimethylamino)pyridine - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Chloroform (CAS: 67-66-3)
@@ -11078,9 +10915,6 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 10.1016/j.bmc.2020.115952
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: '4-Dimethylaminopyridine' vs expected '4-(Dimethylamino)pyridine' for CAS 1122-58-3
-
 ---
 
 ## Reaction 31-614-CAS-31495546
@@ -11088,9 +10922,8 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK
-  - Sodium hydroxide - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - 1,3-Dimethyl-2-imidazolidinone (CAS: 80-73-9)
@@ -11134,10 +10967,9 @@ Journal of Medicinal Chemistry (2021), 64(21), 16242-16270.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11179,10 +11011,9 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11225,10 +11056,9 @@ Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11270,9 +11100,8 @@ Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -11311,9 +11140,8 @@ Journal of Medicinal Chemistry (2022), 65(8), 6001-6016.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -11352,10 +11180,9 @@ European Journal of Medicinal Chemistry (2022), 238, 114469.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -11401,10 +11228,9 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -11447,10 +11273,9 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -11496,7 +11321,7 @@ Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -11538,8 +11363,6 @@ Journal of Medicinal Chemistry (2022), 65(15), 10534-10553.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11585,8 +11408,6 @@ European Journal of Medicinal Chemistry (2024), 266, 116113.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11634,8 +11455,6 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11679,8 +11498,6 @@ ChemMedChem (2021), 16(18), 2895-2906.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11724,8 +11541,6 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11771,8 +11586,6 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11818,8 +11631,6 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11865,8 +11676,6 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11912,8 +11721,6 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -11959,8 +11766,6 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12004,8 +11809,6 @@ Journal of Medicinal Chemistry (2022), 65(14), 9955-9973.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12049,8 +11852,6 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12096,8 +11897,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12143,8 +11942,6 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12188,8 +11985,6 @@ European Journal of Medicinal Chemistry (2023), 255, 115352.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12233,8 +12028,6 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12278,8 +12071,6 @@ European Journal of Medicinal Chemistry (2024), 275, 116598.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12323,8 +12114,6 @@ European Journal of Medicinal Chemistry (2020), 208, 112778.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12371,8 +12160,6 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12416,8 +12203,6 @@ European Journal of Medicinal Chemistry (2024), 265, 116052.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12463,8 +12248,6 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12508,8 +12291,6 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12553,8 +12334,6 @@ European Journal of Medicinal Chemistry (2022), 229, 113998.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12600,8 +12379,6 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12645,8 +12422,6 @@ European Journal of Medicinal Chemistry (2021), 224, 113666.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -12687,8 +12462,8 @@ European Journal of Medicinal Chemistry (2020), 191, 112148pp..
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Reaction Conditions:**
   - Time: 5.5 hours
@@ -12724,8 +12499,8 @@ ACS Medicinal Chemistry Letters (2024), 15(3), 388-395.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Reaction Conditions:**
   - Time: 13.5 hours
@@ -12760,8 +12535,8 @@ Organic Process Research & Development (2024), 28(8), 3143-3151.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Reaction Conditions:**
   - Temperature: 11.0°C
@@ -12797,10 +12572,9 @@ Journal of Medicinal Chemistry (2021), 64(16), 12003-12021.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -12840,11 +12614,10 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: WORKUP
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -12891,11 +12664,10 @@ Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: WORKUP
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -12940,11 +12712,10 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: WORKUP
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -12989,11 +12760,10 @@ Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: WORKUP
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -13042,9 +12812,8 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -13085,9 +12854,8 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -13128,10 +12896,9 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13173,10 +12940,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13215,10 +12981,9 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13259,9 +13024,8 @@ Organic Process Research & Development (2023), 27(8), 1517-1532.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13305,7 +13069,6 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13344,9 +13107,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13389,9 +13151,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13430,9 +13191,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113663.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13475,9 +13235,8 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -13559,10 +13318,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 76, 129020.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13602,10 +13359,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13645,10 +13400,8 @@ European Journal of Medicinal Chemistry (2021), 225, 113777.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13688,10 +13441,8 @@ European Journal of Medicinal Chemistry (2021), 215, 113289.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13731,10 +13482,8 @@ European Journal of Medicinal Chemistry (2020), 202, 112416.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13773,15 +13522,14 @@ European Journal of Medicinal Chemistry (2023), 250, 115170.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13827,15 +13575,14 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13881,15 +13628,14 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13933,15 +13679,14 @@ Bioorganic & Medicinal Chemistry Letters (2023), 92, 129389.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -13985,15 +13730,14 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14039,15 +13783,14 @@ ChemMedChem (2023), 18(8), e202200615.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14093,15 +13836,14 @@ Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14149,15 +13891,14 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14203,15 +13944,14 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14260,15 +14000,14 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14314,15 +14053,14 @@ Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14368,15 +14106,14 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117468.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14424,15 +14161,14 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14478,15 +14214,14 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14534,11 +14269,9 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Sodium hydroxide - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -14584,9 +14317,8 @@ Journal of Medicinal Chemistry (2022), 65(2), 1418-1444.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -14628,10 +14360,9 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
-  - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -14707,7 +14438,6 @@ Journal of Medicinal Chemistry (2024), 67(7), 5662-5682.
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -14750,14 +14480,13 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117478.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -14805,7 +14534,6 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14851,7 +14579,6 @@ Journal of Medicinal Chemistry (2020), 63(21), 13124-13139.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14891,7 +14618,6 @@ Journal of Medicinal Chemistry (2023), 66(21), 14724-14734.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14931,7 +14657,6 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -14975,7 +14700,6 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15064,9 +14788,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115635.
 **Type:** Other
 
 **Reagents:**
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15109,10 +14832,9 @@ ChemMedChem (2021), 16(6), 942-948.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15199,11 +14921,11 @@ Journal of Medicinal Chemistry (2023), 66(13), 9161-9173.
 **Type:** Other
 
 **Reagents:**
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: NUC
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - 4-Methylmorpholine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: NUC
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15244,7 +14966,7 @@ Journal of Medicinal Chemistry (2023), 66(19), 13428-13451.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -15288,8 +15010,8 @@ Journal of Medicinal Chemistry (2020), 63(24), 15564-15590.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -15333,7 +15055,7 @@ Journal of Medicinal Chemistry (2023), 66(16), 11216-11236.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - Methanol (CAS: 67-56-1) - Role: NUC
   - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
   - 4-Methylmorpholine - Role: UNK
@@ -15384,7 +15106,6 @@ ChemMedChem (2020), 15(15), 1429-1438.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15426,7 +15147,6 @@ European Journal of Medicinal Chemistry (2020), 202, 112495.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15471,7 +15191,6 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15515,7 +15234,6 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15559,7 +15277,6 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15632,9 +15349,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15674,9 +15390,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113648.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15722,8 +15437,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129046.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -15764,15 +15479,14 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129066.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15818,9 +15532,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112920.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -15862,9 +15575,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -15904,9 +15616,8 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -15952,9 +15663,8 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -16029,10 +15739,9 @@ European Journal of Medicinal Chemistry (2020), 208, 112865.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -16072,9 +15781,8 @@ ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -16114,9 +15822,8 @@ Organic Process Research & Development (2022), 26(2), 365-379.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -16201,10 +15908,9 @@ ACS Medicinal Chemistry Letters (2024), 15(11), 2019-2031.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Sodium carbonate - Role: UNK
 
 **Solvents:**
@@ -16241,9 +15947,6 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
 10.1021/acs.jmedchem.1c01853
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'Na2CO3' vs expected 'Sodium carbonate' for CAS 497-19-8
-
 ---
 
 ## Reaction 31-614-CAS-32438839
@@ -16251,9 +15954,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -16335,14 +16037,13 @@ European Journal of Medicinal Chemistry (2024), 268, 116263.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -16390,10 +16091,9 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -16441,7 +16141,6 @@ European Journal of Medicinal Chemistry (2021), 213, 113185.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Acetic Acid (CAS: 64-19-7) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -16489,7 +16188,6 @@ Bioorganic & Medicinal Chemistry Letters (2024), 109, 129814.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Acetic Acid (CAS: 64-19-7) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -16621,7 +16319,7 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
 **Generic Catalyst:** N-Diisopropylethylamine
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: BASE
 
 **Solvents:**
@@ -16667,9 +16365,9 @@ ACS Medicinal Chemistry Letters (2020), 11(4), 485-490.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -16715,9 +16413,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -16761,9 +16458,8 @@ ACS Medicinal Chemistry Letters (2021), 12(9), 1380-1388.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -16804,8 +16500,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -16847,7 +16543,6 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -16892,9 +16587,8 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16938,7 +16632,6 @@ Journal of Medicinal Chemistry (2020), 63(22), 13669-13679.
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -16982,9 +16675,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17025,10 +16717,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128577.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -17067,22 +16757,21 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
   - Dimethylformamide (CAS: 68-12-2)
   - 4-(Dimethylamino)pyridine
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Ligands:**
   - Dimethylformamide (CAS: 68-12-2)
   - 4-(Dimethylamino)pyridine
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: WORKUP
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -17128,22 +16817,21 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
   - Dimethylformamide (CAS: 68-12-2)
   - 4-(Dimethylamino)pyridine
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Ligands:**
   - Dimethylformamide (CAS: 68-12-2)
   - 4-(Dimethylamino)pyridine
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: WORKUP
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -17238,8 +16926,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -17287,8 +16975,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 78, 129034.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -17330,9 +17018,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17378,9 +17065,8 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17421,7 +17107,6 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -17462,7 +17147,6 @@ Journal of Medicinal Chemistry (2020), 63(1), 295-308.
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -17506,7 +17190,6 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -17546,9 +17229,8 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17590,9 +17272,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 100, 129629.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17636,9 +17317,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17681,13 +17361,12 @@ European Journal of Medicinal Chemistry (2022), 227, 113929.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - 132705-51-2 (CAS: 132705-51-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Phosphorus(1+) - Role: UNK
-  - bromotri-1-pyrrolidinyl- - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - (T-4)- - Role: UNK
+  - bromotri-1-pyrrolidinyl- - Role: UNK
   - hexafluorophosphate(1-) (1:1) - Role: UNK
+  - Phosphorus(1+) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -17727,14 +17406,13 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -17778,10 +17456,9 @@ European Journal of Medicinal Chemistry (2023), 259, 115716.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17822,9 +17499,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -17866,16 +17542,15 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127106.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Ethyl Acetate (CAS: 141-78-6)
@@ -17921,16 +17596,15 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Ethyl Acetate (CAS: 141-78-6)
@@ -18016,15 +17690,14 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(15), 127283.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18068,15 +17741,14 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18120,15 +17792,14 @@ Journal of Medicinal Chemistry (2024), 67(3), 1914-1931.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18177,15 +17848,14 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18229,15 +17899,14 @@ Journal of Medicinal Chemistry (2023), 66(23), 15750-15760.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18284,15 +17953,14 @@ Journal of Medicinal Chemistry (2023), 66(7), 4768-4783.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18336,15 +18004,14 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18392,15 +18059,14 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18447,15 +18113,14 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18502,15 +18167,14 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18554,15 +18218,14 @@ Journal of Medicinal Chemistry (2021), 64(20), 15313-15333.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18606,15 +18269,14 @@ Bioorganic & Medicinal Chemistry Letters (2023), 79, 129083.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18660,15 +18322,14 @@ Journal of Medicinal Chemistry (2021), 64(18), 13487-13509.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18714,15 +18375,14 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18766,9 +18426,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10898-10919.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18807,9 +18466,8 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -18855,10 +18513,8 @@ Journal of Medicinal Chemistry (2022), 65(22), 15473-15486.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -18902,9 +18558,8 @@ Organic Process Research & Development (2022), 26(10), 2811-2822.
 
 **Reagents:**
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: BASE
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -18986,7 +18641,6 @@ Bioorganic & Medicinal Chemistry (2021), 46, 116351.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -19032,10 +18686,9 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -19077,9 +18730,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19123,9 +18775,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 10918-10933.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19171,7 +18822,6 @@ Journal of Medicinal Chemistry (2022), 65(13), 8828-8842.
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -19215,11 +18865,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Water (CAS: 7732-18-5) - Role: WORKUP
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Water (CAS: 7732-18-5) - Role: WORKUP
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19265,11 +18914,9 @@ Journal of Medicinal Chemistry (2020), 63(8), 3956-3975.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -19313,15 +18960,14 @@ ChemMedChem (2023), 18(8), e202200615.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19373,15 +19019,14 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19427,15 +19072,14 @@ ACS Medicinal Chemistry Letters (2021), 12(2), 217-227.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19481,14 +19125,13 @@ Bioorganic & Medicinal Chemistry (2022), 72, 116995.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - 132705-51-2 (CAS: 132705-51-2) - Role: WORKUP
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Phosphorus(1+) - Role: UNK
-  - bromotri-1-pyrrolidinyl- - Role: UNK
   - (T-4)- - Role: UNK
+  - bromotri-1-pyrrolidinyl- - Role: UNK
   - hexafluorophosphate(1-) (1:1) - Role: UNK
+  - Phosphorus(1+) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -19529,10 +19172,9 @@ Journal of Medicinal Chemistry (2023), 66(17), 12203-12224.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - 4-Methylmorpholine - Role: NUC
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19660,9 +19302,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14358-14376.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -19710,9 +19351,8 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116462.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19757,8 +19397,6 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -19799,10 +19437,8 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -19848,8 +19484,8 @@ Bioorganic & Medicinal Chemistry (2021), 46, 116351.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -19894,10 +19530,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -19939,8 +19573,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
 **Type:** Other
 
 **Reagents:**
-  - 2,6-Lutidine (CAS: 108-48-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - 2,6-Lutidine (CAS: 108-48-5) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -19985,10 +19619,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -20029,10 +19661,9 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
+  - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - NaHCO3 (CAS: 144-55-8) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -20081,7 +19712,6 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -20126,11 +19756,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -20176,7 +19805,6 @@ Journal of Medicinal Chemistry (2021), 64(8), 4677-4696.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -20219,7 +19847,6 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -20258,9 +19885,8 @@ Bioorganic & Medicinal Chemistry Letters (2022), 59, 128572.
 
 **Reagents:**
   - Proton sponge (CAS: 20734-58-1) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -20302,9 +19928,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 
 **Reagents:**
   - Proton sponge (CAS: 20734-58-1) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -20429,8 +20054,8 @@ Organic Process Research & Development (2024), 28(2), 559-576.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -20472,10 +20097,9 @@ ACS Medicinal Chemistry Letters (2021), 12(11), 1802-1809.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -20532,10 +20156,10 @@ Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
   - Sodium carbonate - Role: UNK
 
 **Solvents:**
@@ -20576,9 +20200,6 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
 10.1016/j.ejmech.2023.115187
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'Na2CO3' vs expected 'Sodium carbonate' for CAS 497-19-8
-
 ---
 
 ## Reaction 31-614-CAS-34998057
@@ -20586,18 +20207,16 @@ European Journal of Medicinal Chemistry (2023), 250, 115187.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -20643,18 +20262,16 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -20702,18 +20319,16 @@ European Journal of Medicinal Chemistry (2021), 213, 113172.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -20760,7 +20375,6 @@ Journal of Medicinal Chemistry (2022), 65(16), 11126-11149.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Pyridine (CAS: 110-86-1)
@@ -20803,7 +20417,6 @@ Journal of Medicinal Chemistry (2022), 65(4), 3388-3403.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -20845,11 +20458,11 @@ Journal of Medicinal Chemistry (2022), 65(3), 1770-1785.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
-  - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
-  - Triisopropylsilane (CAS: 6485-79-6) - Role: UNK
   - 2,2′-(Ethylenedioxy)diethanethiol (CAS: 14970-87-7) - Role: UNK
+  - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
+  - Triisopropylsilane (CAS: 6485-79-6) - Role: UNK
+  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
@@ -20960,10 +20573,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21003,10 +20614,8 @@ Journal of Medicinal Chemistry (2023), 66(2), 1221-1238.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21045,12 +20654,11 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Piperidine (CAS: 110-89-4) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - 1,1,1,3,3,3-Hexafluoro-2-propanol (CAS: 920-66-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -21099,10 +20707,9 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -21194,8 +20801,6 @@ Bioorganic & Medicinal Chemistry (2024), 100, 117618.
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21238,10 +20843,8 @@ Bioorganic & Medicinal Chemistry (2023), 93, 117462.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21283,9 +20886,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -21328,7 +20930,6 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -21370,7 +20971,6 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -21412,7 +21012,6 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -21455,7 +21054,6 @@ Bioorganic & Medicinal Chemistry (2020), 28(23), 115791.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -21496,9 +21094,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -21578,9 +21175,9 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21624,9 +21221,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8053-8075.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -21670,10 +21266,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14142-14152.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -21714,7 +21308,7 @@ Journal of Medicinal Chemistry (2020), 63(9), 4716-4731.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21755,7 +21349,7 @@ European Journal of Medicinal Chemistry (2020), 190, 112086pp..
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21796,7 +21390,7 @@ Organic Process Research & Development (2020), 24(6), 1157-1163.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21837,7 +21431,7 @@ Organic Process Research & Development (2022), 26(9), 2739-2748.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21881,7 +21475,7 @@ Organic Process Research & Development (2024), 28(4), 1253-1259.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21922,7 +21516,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -21963,7 +21557,7 @@ Journal of Medicinal Chemistry (2024), 67(20), 18549-18575.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22004,7 +21598,7 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22045,7 +21639,6 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -22089,9 +21682,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22131,9 +21723,8 @@ Journal of Medicinal Chemistry (2023), 66(1), 220-234.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22174,7 +21765,7 @@ European Journal of Medicinal Chemistry (2023), 256, 115459.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22217,10 +21808,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22270,7 +21860,6 @@ Journal of Medicinal Chemistry (2020), 63(19), 11034-11044.
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - 4-Methylmorpholine - Role: NUC
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -22309,9 +21898,8 @@ Journal of Medicinal Chemistry (2022), 65(9), 6940-6952.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22354,9 +21942,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22400,9 +21987,8 @@ Organic Process Research & Development (2022), 26(4), 1078-1093.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22445,9 +22031,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22490,9 +22075,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22535,10 +22119,9 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Ammonia (CAS: 7664-41-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22583,9 +22166,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115578.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -22628,9 +22210,9 @@ Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22673,9 +22255,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22718,9 +22300,9 @@ ACS Medicinal Chemistry Letters (2023), 14(12), 1760-1766.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22765,9 +22347,9 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22813,9 +22395,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22861,9 +22443,9 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22906,9 +22488,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22954,9 +22536,9 @@ Organic Process Research & Development (2022), 26(2), 365-379.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -22999,9 +22581,9 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23044,9 +22626,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23089,9 +22671,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23137,9 +22719,9 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23184,9 +22766,9 @@ Organic Process Research & Development (2024), 28(6), 2103-2116.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23237,9 +22819,9 @@ Organic Process Research & Development (2021), 25(12), 2754-2771.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23282,9 +22864,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23330,9 +22912,9 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23379,9 +22961,9 @@ ChemMedChem (2020), 15(20), 1932-1939.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23424,9 +23006,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23471,9 +23053,9 @@ Organic Process Research & Development (2024), 28(6), 2103-2116.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23516,9 +23098,9 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23606,11 +23188,9 @@ Journal of Medicinal Chemistry (2023), 66(12), 8310-8323.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
   - 2-Hydroxypyridine N-oxide (CAS: 13161-30-3) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
 
 **Solvents:**
   - Methyl Ethyl Ketone (CAS: 78-93-3)
@@ -23654,7 +23234,6 @@ Journal of Medicinal Chemistry (2023), 66(6), 4150-4166.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -23695,9 +23274,8 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -23748,7 +23326,6 @@ Journal of Medicinal Chemistry (2021), 64(7), 4117-4129.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23799,7 +23376,6 @@ Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23849,7 +23425,6 @@ Organic Process Research & Development (2021), 25(8), 1898-1910.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23897,7 +23472,6 @@ Journal of Medicinal Chemistry (2022), 65(6), 4818-4831.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23943,9 +23517,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -23988,9 +23561,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 
 **Reagents:**
   - Ethyl Acetate (CAS: 141-78-6) - Role: ACTIVATOR
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -24030,9 +23602,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 
 **Reagents:**
   - Ethyl Acetate (CAS: 141-78-6) - Role: ACTIVATOR
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -24072,9 +23643,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 
 **Reagents:**
   - Ethyl Acetate (CAS: 141-78-6) - Role: ACTIVATOR
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -24118,9 +23688,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 
 **Reagents:**
   - Ethyl Acetate (CAS: 141-78-6) - Role: ACTIVATOR
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -24288,9 +23857,8 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -24330,9 +23898,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -24372,9 +23939,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -24414,9 +23980,8 @@ Bioorganic & Medicinal Chemistry (2023), 80, 117173.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -24457,10 +24022,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -24501,10 +24064,8 @@ European Journal of Medicinal Chemistry (2022), 241, 114620.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -24546,9 +24107,8 @@ Bioorganic & Medicinal Chemistry (2021), 50, 116455.
 **Type:** Other
 
 **Reagents:**
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -24591,8 +24151,8 @@ Journal of Medicinal Chemistry (2021), 64(21), 15787-15798.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -24635,8 +24195,8 @@ Journal of Medicinal Chemistry (2024), 67(13), 10710-10742.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -24678,9 +24238,8 @@ Journal of Medicinal Chemistry (2022), 65(1), 409-423.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -24721,9 +24280,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -24768,9 +24326,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -24810,8 +24367,8 @@ ChemMedChem (2020), 15(14), 1294-1309.
 **Type:** Other
 
 **Reagents:**
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24858,14 +24415,13 @@ Journal of Medicinal Chemistry (2022), 65(3), 1915-1932.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -24910,14 +24466,13 @@ European Journal of Medicinal Chemistry (2023), 257, 115473.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -24962,12 +24517,10 @@ ACS Medicinal Chemistry Letters (2021), 12(5), 791-797.
 **Type:** Other
 
 **Reagents:**
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -25011,7 +24564,6 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
 **Reagents:**
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25050,9 +24602,8 @@ Organic Process Research & Development (2022), 26(12), 3303-3311.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25094,10 +24645,9 @@ ACS Medicinal Chemistry Letters (2023), 14(3), 285-290.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25142,15 +24692,14 @@ ACS Medicinal Chemistry Letters (2022), 13(1), 76-83.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25198,15 +24747,14 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25250,15 +24798,14 @@ Journal of Medicinal Chemistry (2022), 65(24), 16829-16859.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25304,15 +24851,14 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25356,15 +24902,14 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25508,7 +25053,6 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127425.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25550,10 +25094,8 @@ European Journal of Medicinal Chemistry (2021), 223, 113653.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -25593,9 +25135,8 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25638,9 +25179,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 9599-9612.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25683,8 +25223,8 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -25768,9 +25308,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 2169-2193.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25812,9 +25351,8 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25855,9 +25393,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25902,9 +25439,8 @@ Journal of Medicinal Chemistry (2024), 67(21), 19623-19667.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25948,9 +25484,8 @@ Journal of Medicinal Chemistry (2020), 63(19), 11012-11033.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -25995,9 +25530,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 2794-2808.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -26042,7 +25576,6 @@ Journal of Medicinal Chemistry (2023), 66(23), 16426-16440.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -26084,7 +25617,6 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -26126,7 +25658,6 @@ ACS Medicinal Chemistry Letters (2020), 11(11), 2195-2203.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -26169,9 +25700,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8791-8816.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26215,9 +25746,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26261,9 +25792,9 @@ Bioorganic & Medicinal Chemistry (2022), 73, 117035.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26307,9 +25838,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26353,9 +25884,9 @@ Journal of Medicinal Chemistry (2023), 66(7), 4849-4867.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26402,9 +25933,9 @@ Journal of Medicinal Chemistry (2024), 67(16), 13550-13571.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26448,9 +25979,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26496,9 +26027,9 @@ Journal of Medicinal Chemistry (2024), 67(12), 10306-10320.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26546,9 +26077,9 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26595,9 +26126,9 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26641,9 +26172,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26691,9 +26222,9 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26737,9 +26268,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26786,9 +26317,9 @@ Journal of Medicinal Chemistry (2020), 63(1), 349-368.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26832,9 +26363,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26882,9 +26413,9 @@ Journal of Medicinal Chemistry (2021), 64(15), 10934-10950.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26928,9 +26459,9 @@ Journal of Medicinal Chemistry (2021), 64(4), 1835-1843.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -26974,9 +26505,9 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -27024,9 +26555,9 @@ Journal of Medicinal Chemistry (2024), 67(4), 2369-2378.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -27070,9 +26601,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -27117,10 +26648,8 @@ Journal of Medicinal Chemistry (2022), 65(16), 11066-11083.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27203,10 +26732,9 @@ Journal of Medicinal Chemistry (2021), 64(9), 6209-6220.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27248,10 +26776,9 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27293,10 +26820,9 @@ ACS Medicinal Chemistry Letters (2022), 13(5), 779-785.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27336,10 +26862,9 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27379,10 +26904,9 @@ Journal of Medicinal Chemistry (2023), 66(4), 2457-2476.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27422,10 +26946,9 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27465,10 +26988,9 @@ European Journal of Medicinal Chemistry (2020), 191, 112148pp..
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27513,9 +27035,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3306-3331.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -27554,9 +27075,8 @@ Journal of Medicinal Chemistry (2021), 64(10), 6670-6695.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -27598,9 +27118,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(22), 127547.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -27643,7 +27162,6 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Reaction Conditions:**
   - Time: 26.0 hours
@@ -27681,7 +27199,6 @@ European Journal of Medicinal Chemistry (2021), 220, 113482.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Reaction Conditions:**
   - Time: 25.0 hours
@@ -27719,7 +27236,6 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Reaction Conditions:**
   - Time: 25.0 hours
@@ -27757,7 +27273,6 @@ Journal of Medicinal Chemistry (2023), 66(5), 3540-3565.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Reaction Conditions:**
   - Time: 26.0 hours
@@ -27792,9 +27307,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -27839,9 +27353,8 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -27882,8 +27395,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -27971,8 +27484,8 @@ Organic Process Research & Development (2023), 27(4), 788-797.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -28020,8 +27533,8 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116211.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -28065,8 +27578,6 @@ Journal of Medicinal Chemistry (2021), 64(21), 15772-15786.
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -28107,8 +27618,8 @@ Journal of Medicinal Chemistry (2022), 65(22), 15000-15013.
 **Type:** Other
 
 **Reagents:**
-  - 2,6-Lutidine (CAS: 108-48-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - 2,6-Lutidine (CAS: 108-48-5) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -28150,9 +27661,8 @@ Organic Process Research & Development (2023), 27(7), 1317-1329.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -28192,10 +27702,9 @@ Journal of Medicinal Chemistry (2022), 65(19), 13365-13384.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -28237,10 +27746,9 @@ Bioorganic & Medicinal Chemistry Letters (2023), 96, 129492.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium carbonate - Role: UNK
 
@@ -28277,9 +27785,6 @@ Journal of Medicinal Chemistry (2024), 67(4), 2849-2863.
 10.1021/acs.jmedchem.3c01976
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'Na2CO3' vs expected 'Sodium carbonate' for CAS 497-19-8
-
 ---
 
 ## Reaction 31-614-CAS-37264191
@@ -28288,7 +27793,7 @@ Journal of Medicinal Chemistry (2024), 67(4), 2849-2863.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -28332,9 +27837,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Type:** Other
 
 **Reagents:**
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -28375,14 +27879,13 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -28425,14 +27928,13 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -28475,14 +27977,13 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -28525,14 +28026,13 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -28581,14 +28081,13 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -28638,7 +28137,6 @@ ChemMedChem (2024), 19(14), e202300727.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -28769,9 +28267,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(9), 127074.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -28843,10 +28340,9 @@ ChemMedChem (2020), 15(7), 643-658.
 **Type:** Other
 
 **Reagents:**
+  - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - NaHCO3 (CAS: 144-55-8) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -28889,10 +28385,9 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
 **Type:** Other
 
 **Reagents:**
+  - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - NaHCO3 (CAS: 144-55-8) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -28935,10 +28430,9 @@ European Journal of Medicinal Chemistry (2023), 254, 115342.
 **Type:** Other
 
 **Reagents:**
+  - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - NaHCO3 (CAS: 144-55-8) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -28981,9 +28475,9 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 **Type:** Other
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: CATALYST
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: UNK
   - 4-(Dimethylamino)pyridine - Role: UNK
 
 **Solvents:**
@@ -29021,9 +28515,6 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
 10.1016/j.ejmech.2020.112503
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: '4-Dimethylaminopyridine' vs expected '4-(Dimethylamino)pyridine' for CAS 1122-58-3
-
 ---
 
 ## Reaction 31-614-CAS-37428756
@@ -29031,10 +28522,9 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -29196,10 +28686,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -29242,10 +28730,9 @@ Journal of Medicinal Chemistry (2022), 65(4), 3473-3517.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -29290,10 +28777,9 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -29340,10 +28826,9 @@ Journal of Medicinal Chemistry (2023), 66(1), 460-472.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -29388,9 +28873,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -29432,8 +28916,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
   - Ethyl 2-cyano-2-(hydroxyimino)acetate (CAS: 3849-21-6) - Role: UNK
+  - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: UNK
   - Diisopropylcarbodiimide - Role: UNK
 
 **Solvents:**
@@ -29515,10 +28999,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -29558,7 +29040,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1481-1499.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -29600,10 +29082,8 @@ Journal of Medicinal Chemistry (2020), 63(5), 2688-2704.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -29645,8 +29125,8 @@ Organic Process Research & Development (2024), 28(12), 4374-4379.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -29693,7 +29173,6 @@ Journal of Medicinal Chemistry (2021), 64(16), 11972-11989.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -29734,9 +29213,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -29776,9 +29254,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -29819,9 +29296,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -29873,7 +29349,7 @@ European Journal of Medicinal Chemistry (2022), 244, 114830.
 **Generic Catalyst:** N-Diisopropylethylamine
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: BASE
 
 **Solvents:**
@@ -29914,8 +29390,8 @@ European Journal of Medicinal Chemistry (2023), 261, 115871.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
   - 7647-01-0 (CAS: 7647-01-0) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - Hydrochloric acid - Role: UNK
 
 **Solvents:**
@@ -29963,9 +29439,8 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -30008,7 +29483,6 @@ ChemMedChem (2023), 18(16), e202300097.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -30047,10 +29521,9 @@ Journal of Medicinal Chemistry (2022), 65(4), 3266-3305.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -30096,9 +29569,8 @@ Journal of Medicinal Chemistry (2021), 64(6), 3006-3025.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -30141,9 +29613,8 @@ Journal of Medicinal Chemistry (2023), 66(21), 14700-14715.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -30183,9 +29654,8 @@ European Journal of Medicinal Chemistry (2020), 208, 112756.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -30225,9 +29695,8 @@ Journal of Medicinal Chemistry (2023), 66(11), 7629-7644.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -30270,10 +29739,9 @@ European Journal of Medicinal Chemistry (2023), 246, 114981.
 **Type:** Other
 
 **Reagents:**
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -30391,7 +29859,6 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
   - 4-Methylmorpholine - Role: NUC
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethyl Sulfoxide (CAS: 67-68-5)
@@ -30471,8 +29938,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30515,15 +29982,14 @@ Bioorganic & Medicinal Chemistry (2024), 104, 117712.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -30573,8 +30039,7 @@ ACS Medicinal Chemistry Letters (2020), 11(5), 857-861.
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: ADDITIVE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -30617,10 +30082,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -30667,7 +30130,6 @@ Journal of Medicinal Chemistry (2020), 63(23), 14805-14820.
   - Diethyl dicarbonate (CAS: 1609-47-8) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Ethyl Acetate (CAS: 141-78-6)
@@ -30834,9 +30296,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -30878,9 +30339,8 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -30924,9 +30384,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -30969,9 +30428,8 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31014,9 +30472,8 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31056,9 +30513,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31101,9 +30557,8 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31143,9 +30598,8 @@ Journal of Medicinal Chemistry (2021), 64(24), 17753-17776.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31186,10 +30640,8 @@ Journal of Medicinal Chemistry (2024), 67(1), 643-673.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -31236,8 +30688,8 @@ Journal of Medicinal Chemistry (2021), 64(15), 11637-11650.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -31284,8 +30736,8 @@ European Journal of Medicinal Chemistry (2021), 215, 113267.
 **Type:** Other
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: CATALYST
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - Sodium borohydride (CAS: 16940-66-2) - Role: BASE
   - 4-(Dimethylamino)pyridine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
@@ -31323,9 +30775,6 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 10.1016/j.ejmech.2020.112278
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: '4-Dimethylaminopyridine' vs expected '4-(Dimethylamino)pyridine' for CAS 1122-58-3
-
 ---
 
 ## Reaction 31-614-CAS-38275827
@@ -31333,9 +30782,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -31417,7 +30865,6 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -31457,9 +30904,8 @@ European Journal of Medicinal Chemistry (2021), 226, 113835.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31499,9 +30945,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31545,9 +30990,8 @@ Organic Process Research & Development (2022), 26(10), 2811-2822.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31595,10 +31039,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(11), 127138.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
+  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP
   - Iron (CAS: 7439-89-6) - Role: UNK
-  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -31658,10 +31102,10 @@ Organic Process Research & Development (2024), 28(8), 3382-3395.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
+  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP
   - Iron (CAS: 7439-89-6) - Role: UNK
-  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -31718,10 +31162,10 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
+  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP
   - Iron (CAS: 7439-89-6) - Role: UNK
-  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -31780,10 +31224,10 @@ Organic Process Research & Development (2024), 28(11), 4099-4113.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
+  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP
   - Iron (CAS: 7439-89-6) - Role: UNK
-  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -31842,10 +31286,10 @@ Organic Process Research & Development (2022), 26(3), 804-816.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
+  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP
   - Iron (CAS: 7439-89-6) - Role: UNK
-  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -31902,10 +31346,10 @@ European Journal of Medicinal Chemistry (2021), 226, 113895.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
+  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: WORKUP
   - Iron (CAS: 7439-89-6) - Role: UNK
-  - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -31956,9 +31400,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -31998,14 +31441,13 @@ Journal of Medicinal Chemistry (2022), 65(24), 16902-16917.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -32051,14 +31493,13 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -32102,14 +31543,13 @@ Bioorganic & Medicinal Chemistry Letters (2024), 108, 129799.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -32155,14 +31595,13 @@ Journal of Medicinal Chemistry (2020), 63(5), 2263-2281.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -32206,14 +31645,13 @@ Bioorganic & Medicinal Chemistry Letters (2021), 40, 127911.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -32260,14 +31698,13 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(17), 127402.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -32311,8 +31748,8 @@ Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32353,8 +31790,8 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32395,8 +31832,8 @@ Journal of Medicinal Chemistry (2021), 64(1), 343-353.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32437,8 +31874,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32479,8 +31916,8 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32523,8 +31960,8 @@ Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32606,7 +32043,6 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -32647,8 +32083,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(19), 127433.
 **Type:** Other
 
 **Reagents:**
-  - N-Methylimidazole (CAS: 616-47-7) - Role: CATALYST
   - Piperidine (CAS: 110-89-4) - Role: BASE
+  - N-Methylimidazole (CAS: 616-47-7) - Role: CATALYST
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - 1-Methylimidazole - Role: UNK
 
@@ -32698,9 +32134,8 @@ ChemMedChem (2024), 19(2), e202300606.
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
-  - (+)-Tartaric acid (CAS: 87-69-4) - Role: UNK
   - Ammonia (CAS: 7664-41-7) - Role: UNK
-  - Sodium hydroxide - Role: UNK
+  - (+)-Tartaric acid (CAS: 87-69-4) - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -32746,7 +32181,6 @@ Journal of Medicinal Chemistry (2023), 66(11), 7280-7303.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -32787,7 +32221,6 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -32830,7 +32263,7 @@ Journal of Medicinal Chemistry (2024), 67(4), 2466-2486.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32873,8 +32306,8 @@ Journal of Medicinal Chemistry (2020), 63(9), 4701-4715.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -32919,7 +32352,7 @@ Journal of Medicinal Chemistry (2021), 64(17), 12453-12468.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -32962,7 +32395,7 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -33044,8 +32477,8 @@ Organic Process Research & Development (2024), 28(6), 2090-2102.
 **Type:** Other
 
 **Reagents:**
+  - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 330645-87-9) - Role: ACTIVATOR
   - N-Methylimidazole (CAS: 616-47-7) - Role: CATALYST
-  - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 94790-35-9) - Role: BASE
   - 1-Methylimidazole - Role: UNK
 
 **Solvents:**
@@ -33087,11 +32520,9 @@ Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Sodium hydroxide - Role: UNK
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -33135,13 +32566,12 @@ ChemMedChem (2023), 18(16), e202300097.
 **Type:** Other
 
 **Reagents:**
-  - Potassium bisulfate (CAS: 7646-93-7) - Role: BASE
-  - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
+  - Potassium bisulfate (CAS: 7646-93-7) - Role: BASE
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
   - Potassium carbonate - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33185,9 +32615,6 @@ By: Behring, Lydia; et al
 Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 10.1021/acs.jmedchem.2c01360
 ```
-
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'K2CO3' vs expected 'Potassium carbonate' for CAS 584-08-7
 
 ---
 
@@ -33281,12 +32708,10 @@ ACS Medicinal Chemistry Letters (2023), 14(12), 1656-1663.
 **Type:** Other
 
 **Reagents:**
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
 **Solvents:**
@@ -33330,10 +32755,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -33376,7 +32799,6 @@ Journal of Medicinal Chemistry (2020), 63(20), 12100-12115.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -33416,11 +32838,9 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 546-553.
 **Type:** Other
 
 **Reagents:**
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -33462,11 +32882,9 @@ Journal of Medicinal Chemistry (2023), 66(24), 16991-17025.
 **Type:** Other
 
 **Reagents:**
+  - NaOH (CAS: 1310-73-2) - Role: UNK
   - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - NaOH (CAS: 1310-73-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -33566,7 +32984,6 @@ European Journal of Medicinal Chemistry (2023), 258, 115587.
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -33650,10 +33067,8 @@ Journal of Medicinal Chemistry (2020), 63(17), 9045-9069.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -33814,8 +33229,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -33860,11 +33275,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylcarbodiimide (CAS: 693-13-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Diisopropylcarbodiimide - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -33902,10 +33316,9 @@ Journal of Medicinal Chemistry (2021), 64(15), 10806-10833.
 **Type:** Other
 
 **Reagents:**
-  - Water (CAS: 7732-18-5) - Role: WORKUP
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium hydroxide - Role: UNK
+  - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -33951,7 +33364,6 @@ European Journal of Medicinal Chemistry (2022), 241, 114620.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -33993,7 +33405,6 @@ Journal of Medicinal Chemistry (2023), 66(23), 16388-16409.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -34035,7 +33446,6 @@ European Journal of Medicinal Chemistry (2020), 208, 112769.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -34078,9 +33488,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127039.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34124,10 +33533,9 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
 **Type:** Other
 
 **Reagents:**
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: CATALYST
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
   - 4-(Dimethylamino)pyridine - Role: UNK
 
 **Solvents:**
@@ -34160,9 +33568,6 @@ Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
 10.1021/acs.jmedchem.1c01161
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: '4-Dimethylaminopyridine' vs expected '4-(Dimethylamino)pyridine' for CAS 1122-58-3
-
 ---
 
 ## Reaction 31-614-CAS-39248683
@@ -34170,9 +33575,8 @@ Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34212,9 +33616,8 @@ Journal of Medicinal Chemistry (2024), 67(3), 2095-2117.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34258,9 +33661,8 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34300,9 +33702,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34342,9 +33743,8 @@ European Journal of Medicinal Chemistry (2022), 228, 114033.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34386,9 +33786,8 @@ ACS Medicinal Chemistry Letters (2020), 11(2), 188-194.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34430,9 +33829,8 @@ European Journal of Medicinal Chemistry (2023), 259, 115666.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34472,9 +33870,8 @@ Bioorganic & Medicinal Chemistry (2023), 90, 117379.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34514,9 +33911,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11726-11744.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34556,9 +33952,8 @@ Bioorganic & Medicinal Chemistry (2021), 42, 116245.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34598,9 +33993,8 @@ Journal of Medicinal Chemistry (2021), 64(6), 3249-3281.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34641,9 +34035,8 @@ European Journal of Medicinal Chemistry (2020), 195, 112278.
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
 
 **Solvents:**
   - Anisole (CAS: 100-66-3)
@@ -34687,12 +34080,11 @@ Journal of Medicinal Chemistry (2020), 63(3), 1313-1327.
 **Type:** Other
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
-  - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - Pivaloyl chloride (CAS: 3282-30-2) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - Potassium carbonate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 2-Methyltetrahydrofuran (CAS: 96-47-9)
@@ -34733,9 +34125,6 @@ Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
 10.1021/acs.jmedchem.4c00018
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'K2CO3' vs expected 'Potassium carbonate' for CAS 584-08-7
-
 ---
 
 ## Reaction 31-614-CAS-39325781
@@ -34743,9 +34132,8 @@ Journal of Medicinal Chemistry (2024), 67(8), 6585-6609.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34788,10 +34176,9 @@ Journal of Medicinal Chemistry (2021), 64(5), 2534-2575.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34833,9 +34220,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34875,9 +34261,8 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34917,9 +34302,8 @@ Journal of Medicinal Chemistry (2024), 67(12), 9869-9895.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -34959,9 +34343,8 @@ Journal of Medicinal Chemistry (2022), 65(18), 12095-12123.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35001,9 +34384,8 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35046,9 +34428,8 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35135,10 +34516,10 @@ Journal of Medicinal Chemistry (2020), 63(20), 12083-12099.
 **Type:** Other
 
 **Reagents:**
-  - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
-  - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - Calcium chloride (CAS: 10043-52-4) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -35182,9 +34563,8 @@ Journal of Medicinal Chemistry (2023), 66(22), 15288-15308.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -35230,9 +34610,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 **Type:** Other
 
 **Reagents:**
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -35272,10 +34651,9 @@ Journal of Medicinal Chemistry (2022), 65(14), 9662-9677.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -35318,9 +34696,8 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35403,7 +34780,7 @@ Journal of Medicinal Chemistry (2023), 66(4), 2622-2645.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -35443,15 +34820,14 @@ Journal of Medicinal Chemistry (2023), 66(13), 8876-8895.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -35496,10 +34872,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 101, 129655.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -35538,9 +34912,8 @@ Journal of Medicinal Chemistry (2023), 66(5), 3327-3347.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - N-[1-(Cyano-2-ethoxy-2-oxoethylideneaminooxy)dimethylamino(morpholino)uronium hexafluorophosphate (CAS: 1075198-30-9) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -35587,8 +34960,8 @@ European Journal of Medicinal Chemistry (2021), 224, 113687.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
   - Potassium carbonate - Role: UNK
 
 **Solvents:**
@@ -35625,9 +34998,6 @@ Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
 10.1016/j.bmcl.2023.129164
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'K2CO3' vs expected 'Potassium carbonate' for CAS 584-08-7
-
 ---
 
 ## Reaction 31-614-CAS-39824402
@@ -35635,8 +35005,8 @@ Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -35682,9 +35052,8 @@ Journal of Medicinal Chemistry (2020), 63(23), 14740-14760.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35724,9 +35093,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35772,9 +35140,8 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1745-1754.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35817,10 +35184,9 @@ European Journal of Medicinal Chemistry (2020), 202, 112503.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: WORKUP
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -35863,9 +35229,8 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35908,9 +35273,8 @@ ACS Medicinal Chemistry Letters (2020), 11(10), 1886-1892.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35954,9 +35318,8 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -35998,10 +35361,9 @@ Organic Process Research & Development (2021), 25(4), 799-809.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -36046,10 +35408,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36096,18 +35456,16 @@ Journal of Medicinal Chemistry (2022), 65(20), 13988-14014.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36156,18 +35514,16 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 828-836.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36216,12 +35572,10 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -36265,12 +35619,10 @@ European Journal of Medicinal Chemistry (2020), 208, 112781.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -36316,10 +35668,8 @@ European Journal of Medicinal Chemistry (2023), 255, 115389.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36359,10 +35709,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36407,8 +35755,8 @@ European Journal of Medicinal Chemistry (2020), 208, 112721.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -36456,8 +35804,8 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(8), 127053.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36507,9 +35855,7 @@ Journal of Medicinal Chemistry (2023), 66(14), 9894-9915.
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: ACTIVATOR
   - 2-Hydroxypyridine N-oxide (CAS: 13161-30-3) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
-  - Sodium hydroxide - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -36552,9 +35898,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4442-4462.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -36593,9 +35938,8 @@ Journal of Medicinal Chemistry (2024), 67(13), 11086-11102.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -36636,10 +35980,9 @@ Journal of Medicinal Chemistry (2023), 66(2), 1172-1185.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36681,15 +36024,14 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -36734,10 +36076,9 @@ Journal of Medicinal Chemistry (2022), 65(24), 16622-16639.
 **Type:** Other
 
 **Reagents:**
+  - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -36780,9 +36121,8 @@ ACS Medicinal Chemistry Letters (2022), 13(10), 1568-1573.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36826,7 +36166,6 @@ ChemMedChem (2023), 18(16), e202300097.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36867,18 +36206,16 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116211.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36925,7 +36262,6 @@ ChemMedChem (2020), 15(14), 1294-1309.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -36966,7 +36302,6 @@ Journal of Medicinal Chemistry (2022), 65(23), 15770-15788.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37009,7 +36344,6 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37050,7 +36384,6 @@ Journal of Medicinal Chemistry (2022), 65(15), 10481-10505.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37091,7 +36424,6 @@ Journal of Medicinal Chemistry (2023), 66(1), 460-472.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37136,7 +36468,6 @@ Journal of Medicinal Chemistry (2021), 64(16), 12397-12413.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37177,7 +36508,6 @@ European Journal of Medicinal Chemistry (2020), 197, 112314.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37220,7 +36550,6 @@ ChemMedChem (2023), 18(15), e202300160.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37261,7 +36590,6 @@ European Journal of Medicinal Chemistry (2023), 246, 114925.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37300,9 +36628,8 @@ Journal of Medicinal Chemistry (2020), 63(22), 13973-13993.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -37342,9 +36669,8 @@ Bioorganic & Medicinal Chemistry Letters (2023), 91, 129352.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -37385,10 +36711,8 @@ Journal of Medicinal Chemistry (2020), 63(9), 4468-4483.
 **Type:** Other
 
 **Reagents:**
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37598,10 +36922,10 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Type:** Other
 
 **Reagents:**
-  - Trimethylolpropane (CAS: 77-99-6) - Role: ADDITIVE
-  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - 1-Hydroxy-7-azabenzotriazole (CAS: 39968-33-7) - Role: ADDITIVE
+  - Trimethylolpropane (CAS: 77-99-6) - Role: ADDITIVE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -37646,9 +36970,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8161-8178.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -37693,9 +37016,8 @@ European Journal of Medicinal Chemistry (2024), 278, 116792.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -37774,9 +37096,8 @@ Bioorganic & Medicinal Chemistry (2021), 41, 116216.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -37822,9 +37143,8 @@ Journal of Medicinal Chemistry (2021), 64(12), 8354-8383.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -37917,7 +37237,6 @@ Journal of Medicinal Chemistry (2022), 65(22), 15085-15101.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -37959,9 +37278,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11703-11725.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -38002,10 +37320,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38046,9 +37362,8 @@ ChemMedChem (2023), 18(10), e202300030.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -38091,7 +37406,6 @@ European Journal of Medicinal Chemistry (2023), 256, 115446.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38130,10 +37444,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -38177,9 +37490,8 @@ Journal of Medicinal Chemistry (2020), 63(4), 1576-1596.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -38218,10 +37530,9 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - Pyridinium p-toluenesulfonate (CAS: 24057-28-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -38268,10 +37579,9 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: NUC
   - 4-Methylmorpholine - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -38309,10 +37619,9 @@ European Journal of Medicinal Chemistry (2020), 208, 112769.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -38353,7 +37662,6 @@ Journal of Medicinal Chemistry (2022), 65(19), 13343-13364.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
   - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: ADDITIVE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38402,10 +37710,8 @@ Journal of Medicinal Chemistry (2023), 66(12), 8288-8309.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -38450,7 +37756,6 @@ Journal of Medicinal Chemistry (2023), 66(14), 9418-9444.
 
 **Reagents:**
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38490,10 +37795,9 @@ Journal of Medicinal Chemistry (2023), 66(4), 3106-3133.
 **Type:** Other
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: ADDITIVE
-  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
+  - N-Hydroxysuccinimide (CAS: 6066-82-6) - Role: ADDITIVE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -38535,9 +37839,8 @@ Journal of Medicinal Chemistry (2022), 65(11), 7746-7769.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -38579,9 +37882,8 @@ Organic Process Research & Development (2021), 25(7), 1598-1611.
 **Type:** Other
 
 **Reagents:**
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38622,10 +37924,8 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38665,10 +37965,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38714,10 +38012,8 @@ Organic Process Research & Development (2020), 24(3), 363-370.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -38760,7 +38056,7 @@ European Journal of Medicinal Chemistry (2023), 249, 115141.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 4-Methylmorpholine - Role: NUC
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
@@ -38803,9 +38099,8 @@ Bioorganic & Medicinal Chemistry (2023), 94, 117468.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -38847,7 +38142,7 @@ European Journal of Medicinal Chemistry (2021), 221, 113512.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 4-Methylmorpholine - Role: NUC
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
@@ -38974,9 +38269,8 @@ Journal of Medicinal Chemistry (2020), 63(22), 13878-13898.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -39024,8 +38318,8 @@ Journal of Medicinal Chemistry (2021), 64(7), 4020-4033.
 **Type:** Other
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -39071,8 +38365,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -39119,8 +38413,8 @@ Journal of Medicinal Chemistry (2020), 63(17), 9856-9875.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -39161,9 +38455,8 @@ Journal of Medicinal Chemistry (2020), 63(10), 5585-5623.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -39214,8 +38507,8 @@ ACS Medicinal Chemistry Letters (2024), 15(4), 533-539.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Pyridine (CAS: 110-86-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -39264,7 +38557,6 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
   - Acetic anhydride (CAS: 108-24-7) - Role: BASE
   - NaOH (CAS: 1310-73-2) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -39306,14 +38598,13 @@ Journal of Medicinal Chemistry (2022), 65(3), 2208-2224.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -39449,7 +38740,6 @@ Bioorganic & Medicinal Chemistry (2020), 28(20), 115700.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -39496,7 +38786,6 @@ ACS Medicinal Chemistry Letters (2024), 15(2), 250-257.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -39542,7 +38831,7 @@ ChemMedChem (2021), 16(20), 3177-3180.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
@@ -39587,10 +38876,10 @@ Organic Process Research & Development (2024), 28(7), 2646-2658.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
@@ -39645,7 +38934,6 @@ Organic Process Research & Development (2021), 25(6), 1440-1453.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - 4-Methylmorpholine - Role: NUC
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethyl Sulfoxide (CAS: 67-68-5)
@@ -39688,7 +38976,6 @@ Journal of Medicinal Chemistry (2020), 63(24), 15864-15882.
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -39732,7 +39019,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - 4-Methylmorpholine - Role: NUC
 
 **Solvents:**
@@ -39777,9 +39064,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -39821,9 +39107,8 @@ Journal of Medicinal Chemistry (2024), 67(9), 7068-7087.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -39862,9 +39147,8 @@ ChemMedChem (2023), 18(16), e202300097.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -39905,9 +39189,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -39946,9 +39229,8 @@ Journal of Medicinal Chemistry (2024), 67(13), 10548-10566.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -39989,9 +39271,8 @@ Journal of Medicinal Chemistry (2022), 65(23), 15642-15662.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -40033,9 +39314,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11718-11731.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -40076,9 +39356,8 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -40121,10 +39400,9 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - Isobutyl chloroformate (CAS: 543-27-1) - Role: NUC
   - NaOH (CAS: 1310-73-2) - Role: UNK
+  - Isobutyl chloroformate (CAS: 543-27-1) - Role: NUC
   - 4-Methylmorpholine - Role: UNK
-  - Sodium hydroxide - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -40253,9 +39531,8 @@ Organic Process Research & Development (2022), 26(8), 2124-2137.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -40294,9 +39571,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3667-3683.
 **Type:** Other
 
 **Reagents:**
+  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -40338,10 +39614,8 @@ ACS Medicinal Chemistry Letters (2022), 13(8), 1270-1277.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -40384,10 +39658,8 @@ Journal of Medicinal Chemistry (2024), 67(4), 3039-3065.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -40429,10 +39701,8 @@ Journal of Medicinal Chemistry (2022), 65(21), 14481-14526.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -40472,10 +39742,8 @@ ChemMedChem (2024), 19(7), e202300548.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -40515,11 +39783,10 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(1), 126778.
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Trimethyl borate (CAS: 121-43-7) - Role: UNK
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Lithium diisopropylamide (CAS: 4111-54-0) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -40563,9 +39830,8 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -40608,14 +39874,13 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -40659,14 +39924,13 @@ Journal of Medicinal Chemistry (2023), 66(24), 16728-16761.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -40711,14 +39975,13 @@ Journal of Medicinal Chemistry (2023), 66(12), 7813-7833.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -40762,14 +40025,13 @@ European Journal of Medicinal Chemistry (2021), 223, 113663.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -40813,14 +40075,13 @@ Organic Process Research & Development (2021), 25(4), 817-830.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -40951,14 +40212,13 @@ Journal of Medicinal Chemistry (2022), 65(4), 2971-2987.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41004,11 +40264,9 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: ACTIVATOR
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -41054,12 +40312,11 @@ Journal of Medicinal Chemistry (2021), 64(16), 12322-12358.
 **Type:** Other
 
 **Reagents:**
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -41101,9 +40358,8 @@ Journal of Medicinal Chemistry (2023), 66(17), 11855-11868.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41147,7 +40403,6 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41190,7 +40445,6 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41233,7 +40487,6 @@ ACS Medicinal Chemistry Letters (2022), 13(7), 1137-1143.
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41275,10 +40528,9 @@ Journal of Medicinal Chemistry (2022), 65(21), 14391-14408.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - 6-Chloro-1-hydroxybenzotriazole (CAS: 26198-19-6) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - 6-Chloro-1-hydroxybenzotriazole (CAS: 26198-19-6) - Role: BASE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41322,9 +40574,8 @@ European Journal of Medicinal Chemistry (2022), 227, 113918.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -41364,9 +40615,8 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41406,9 +40656,8 @@ Journal of Medicinal Chemistry (2022), 65(2), 1225-1242.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41450,9 +40699,8 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41492,14 +40740,13 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41545,7 +40792,6 @@ Journal of Medicinal Chemistry (2021), 64(18), 13807-13829.
 **Reagents:**
   - 1,1′-Carbonyldiimidazole (CAS: 530-62-1) - Role: BASE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -41591,9 +40837,9 @@ Bioorganic & Medicinal Chemistry (2022), 53, 116531.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
-  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Oxalyl chloride (CAS: 79-37-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41641,7 +40887,7 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41682,7 +40928,7 @@ Bioorganic & Medicinal Chemistry Letters (2021), 46, 128167.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41724,15 +40970,14 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41777,10 +41022,9 @@ Journal of Medicinal Chemistry (2021), 64(17), 12670-12679.
 **Type:** Other
 
 **Reagents:**
+  - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41823,9 +41067,8 @@ Bioorganic & Medicinal Chemistry (2020), 28(19), 115683.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -41868,18 +41111,16 @@ Journal of Medicinal Chemistry (2021), 64(11), 7809-7838.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ADDITIVE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: BASE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41930,18 +41171,16 @@ ACS Medicinal Chemistry Letters (2022), 13(4), 632-640.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ADDITIVE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: BASE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41991,18 +41230,16 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ADDITIVE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide (CAS: 1892-57-5) - Role: BASE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ACTIVATOR
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -42053,10 +41290,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -42098,9 +41333,8 @@ ACS Medicinal Chemistry Letters (2020), 11(5), 933-939.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42140,9 +41374,8 @@ ACS Medicinal Chemistry Letters (2021), 12(10), 1539-1545.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -42184,9 +41417,8 @@ Journal of Medicinal Chemistry (2021), 64(15), 11090-11128.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42226,9 +41458,8 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42268,9 +41499,8 @@ European Journal of Medicinal Chemistry (2023), 248, 115055.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42312,17 +41542,15 @@ Bioorganic & Medicinal Chemistry (2023), 84, 117257.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -42369,8 +41597,8 @@ European Journal of Medicinal Chemistry (2020), 193, 112204.
 **Type:** Other
 
 **Reagents:**
-  - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42415,8 +41643,8 @@ Journal of Medicinal Chemistry (2022), 65(7), 5334-5354.
 **Type:** Other
 
 **Reagents:**
-  - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42459,8 +41687,8 @@ European Journal of Medicinal Chemistry (2024), 265, 116038.
 **Type:** Other
 
 **Reagents:**
-  - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - 2,4,6-Trimethylpyridine (CAS: 108-75-8) - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42506,10 +41734,8 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -42550,7 +41776,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14728-14744.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42594,9 +41820,8 @@ Bioorganic & Medicinal Chemistry Letters (2024), 112, 129942.
 **Type:** Other
 
 **Reagents:**
+  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: ACTIVATOR
-  - Propylphosphonic anhydride (CAS: 68957-94-8) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -42636,9 +41861,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -42676,10 +41900,9 @@ Journal of Medicinal Chemistry (2023), 66(5), 3431-3447.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - 7647-14-5 (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - Sodium chloride - Role: UNK
 
 **Solvents:**
@@ -42722,10 +41945,9 @@ European Journal of Medicinal Chemistry (2021), 225, 113777.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - 7647-14-5 (CAS: 7647-14-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - Sodium chloride - Role: UNK
 
 **Solvents:**
@@ -42768,11 +41990,10 @@ Journal of Medicinal Chemistry (2021), 64(15), 11302-11329.
 **Type:** Other
 
 **Reagents:**
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -42813,12 +42034,11 @@ Journal of Medicinal Chemistry (2024), 67(14), 11885-11916.
 **Type:** Other
 
 **Reagents:**
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -42862,12 +42082,10 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: ADDITIVE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -42910,7 +42128,7 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42952,8 +42170,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -42997,8 +42215,8 @@ Journal of Medicinal Chemistry (2020), 63(1), 349-368.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
   - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -43041,7 +42259,6 @@ Bioorganic & Medicinal Chemistry (2023), 77, 117115.
 **Reagents:**
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -43085,7 +42302,7 @@ Bioorganic & Medicinal Chemistry (2023), 85, 117241.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
@@ -43172,9 +42389,8 @@ European Journal of Medicinal Chemistry (2024), 263, 115939.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -43216,11 +42432,10 @@ Bioorganic & Medicinal Chemistry (2022), 64, 116760.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -43303,8 +42518,8 @@ ACS Medicinal Chemistry Letters (2022), 13(11), 1730-1738.
   - Dimethylformamide (CAS: 68-12-2)
 
 **Reagents:**
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Thionyl chloride (CAS: 7719-09-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -43429,7 +42644,7 @@ European Journal of Medicinal Chemistry (2024), 266, 116101.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - 4-Methylmorpholine - Role: NUC
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
@@ -43472,13 +42687,12 @@ ChemMedChem (2023), 18(15), e202300160.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - 156311-85-2 (CAS: 156311-85-2) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
-  - Phosphorus(1+) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - [3-(hydroxy-κO)-1,2,3-triazolo[4,5-b]pyridinato]tris(N-methylmethanaminato)- - Role: UNK
   - (T-4)- - Role: UNK
   - hexafluorophosphate(1-) (1:1) - Role: UNK
+  - Phosphorus(1+) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -43552,12 +42766,11 @@ Bioorganic & Medicinal Chemistry Letters (2023), 80, 129104.
 **Type:** Other
 
 **Reagents:**
-  - DBU (CAS: 6674-22-2) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - DBU (CAS: 6674-22-2) - Role: ADDITIVE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - 1,8-Diazabicyclo[5.4.0]undec-7-ene - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -43605,7 +42818,6 @@ Journal of Medicinal Chemistry (2024), 67(12), 9816-9841.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -43650,7 +42862,6 @@ Journal of Medicinal Chemistry (2020), 63(20), 11498-11521.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -43693,7 +42904,7 @@ Bioorganic & Medicinal Chemistry (2022), 72, 116995.
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: BASE
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: N'
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
   - 4-Methylmorpholine - Role: NUC
 
 **Solvents:**
@@ -43739,7 +42950,7 @@ Journal of Medicinal Chemistry (2020), 63(24), 15527-15540.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -43780,11 +42991,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 16680-16693.
 **Type:** Other
 
 **Reagents:**
+  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: WORKUP
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(Benzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium tetrafluoroborate (CAS: 125700-67-6) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -43823,10 +43033,9 @@ Bioorganic & Medicinal Chemistry Letters (2023), 82, 129164.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -43870,10 +43079,9 @@ Bioorganic & Medicinal Chemistry Letters (2021), 45, 128006.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -43915,10 +43123,9 @@ Journal of Medicinal Chemistry (2023), 66(8), 5550-5566.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -43966,11 +43173,10 @@ ChemMedChem (2024), 19(14), e202300727.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: WORKUP
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44014,11 +43220,10 @@ Bioorganic & Medicinal Chemistry (2021), 31, 115952.
 **Type:** Other
 
 **Reagents:**
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: WORKUP
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44063,7 +43268,7 @@ European Journal of Medicinal Chemistry (2023), 248, 115092.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44109,7 +43314,7 @@ Journal of Medicinal Chemistry (2024), 67(6), 4419-4441.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44151,10 +43356,9 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -44194,8 +43398,8 @@ Journal of Medicinal Chemistry (2023), 66(8), 5907-5936.
 **Type:** Other
 
 **Reagents:**
+  - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 330645-87-9) - Role: ACTIVATOR
   - N-Methylimidazole (CAS: 616-47-7) - Role: CATALYST
-  - Tetramethylchloroformamidinium hexafluorophosphate (CAS: 94790-35-9) - Role: BASE
   - 1-Methylimidazole - Role: UNK
 
 **Solvents:**
@@ -44242,7 +43446,7 @@ Journal of Medicinal Chemistry (2024), 67(9), 7385-7405.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44282,11 +43486,10 @@ Organic Process Research & Development (2024), 28(7), 2777-2788.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
   - Piperidine (CAS: 110-89-4) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - 1,1,1,3,3,3-Hexafluoro-2-propanol (CAS: 920-66-1) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44354,10 +43557,9 @@ Journal of Medicinal Chemistry (2023), 66(22), 15493-15510.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44403,10 +43605,9 @@ Journal of Medicinal Chemistry (2024), 67(5), 3935-3958.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44451,10 +43652,9 @@ Journal of Medicinal Chemistry (2020), 63(17), 9705-9730.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44500,10 +43700,9 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44794,14 +43993,13 @@ Bioorganic & Medicinal Chemistry Letters (2020), 30(2), 126846.
 **Type:** Other
 
 **Full Catalytic System:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Reagents:**
   - N,N-Dicyclohexylcarbodiimide (CAS: 538-75-0) - Role: UNK
-  - Dicyclohexylcarbodiimide - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -44853,8 +44051,6 @@ Journal of Medicinal Chemistry (2021), 64(18), 13793-13806.
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -44897,12 +44093,10 @@ Bioorganic & Medicinal Chemistry (2024), 98, 117553.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: BASE
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: ADDITIVE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -44950,7 +44144,7 @@ Organic Process Research & Development (2021), 25(8), 1960-1965.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -44989,7 +44183,6 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Reagents:**
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -45032,7 +44225,6 @@ European Journal of Medicinal Chemistry (2023), 258, 115619.
   - Triethylamine (CAS: 121-44-8) - Role: BASE
   - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
   - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride - Role: UNK
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -45074,11 +44266,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - Thionyl chloride (CAS: 7719-09-7) - Role: N'
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: WORKUP
+  - Thionyl chloride (CAS: 7719-09-7) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -45122,9 +44313,8 @@ European Journal of Medicinal Chemistry (2021), 211, 113004.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: BASE
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -45168,10 +44358,9 @@ Bioorganic & Medicinal Chemistry (2023), 88-89, 117296.
 **Type:** Other
 
 **Reagents:**
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: N'
-  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: BASE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: WORKUP
-  - Diisopropylethylamine - Role: UNK
+  - O-(1H-7-azabenzotriazol-1-yl)-N (CAS: 94790-37-1) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -45214,11 +44403,10 @@ Bioorganic & Medicinal Chemistry (2021), 40, 116182.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45270,11 +44458,10 @@ ACS Medicinal Chemistry Letters (2024), 15(6), 837-844.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45323,11 +44510,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - Potassium bisulfate (CAS: 7646-93-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**
@@ -45373,11 +44559,10 @@ Journal of Medicinal Chemistry (2024), 67(3), 2202-2219.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45427,11 +44612,10 @@ European Journal of Medicinal Chemistry (2022), 233, 114251.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45481,11 +44665,10 @@ Journal of Medicinal Chemistry (2023), 66(6), 3818-3851.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45537,11 +44720,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45590,11 +44772,10 @@ Journal of Medicinal Chemistry (2020), 63(17), 9127-9135.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45643,11 +44824,10 @@ ACS Medicinal Chemistry Letters (2021), 12(3), 420-425.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45699,11 +44879,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
-  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
+  - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
   - Sodium bicarbonate - Role: UNK
 
@@ -45755,11 +44934,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8757-8790.
 **Type:** Other
 
 **Reagents:**
-  - Trifluoroacetic acid (CAS: 76-05-1) - Role: N'
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - O-(7-Azabenzotriazol-1-yl)-N (CAS: 148893-10-1) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
   - Potassium bisulfate (CAS: 7646-93-7) - Role: UNK
-  - Diisopropylethylamine - Role: UNK
   - O-(7-Azabenzotriazol-1-yl)-N,N,N′,N′-tetramethyluronium hexafluorophosphate - Role: UNK
 
 **Solvents:**

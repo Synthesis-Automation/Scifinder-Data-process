@@ -1,7 +1,7 @@
 # Reaction Data Report
 
-**Generated:** 2025-08-27 13:01:34
-**Source Folder:** C:/Git-ChemRobox/Scifinder-Data-process/dataset/Buchwald/2021-2024
+**Generated:** 2025-09-01 23:46:49
+**Source Folder:** C:/Git-softwares/Scifinder-Data-process/dataset/Buchwald/2021-2024
 **Total Reactions:** 1343
 
 ## Summary
@@ -30,7 +30,7 @@
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -38,19 +38,19 @@
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOH (CAS: 1310-73-2) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
   - Water (CAS: 7732-18-5)
   - Acetone (CAS: 67-64-1)
-  - Ethyl acetate (CAS: 141-78-6)
+  - Ethyl Acetate (CAS: 141-78-6)
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -105,7 +105,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -157,7 +157,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -211,7 +211,7 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -264,7 +264,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -316,7 +316,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -368,11 +368,11 @@ Angewandte Chemie, International Edition (2023), 62(47), e202313084.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -425,11 +425,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -482,11 +482,11 @@ Journal of Organic Chemistry (2023), 88(13), 9475-9487.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -542,11 +542,11 @@ Angewandte Chemie, International Edition (2024), 63(20), e202402878.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -589,21 +589,18 @@ Journal of Medicinal Chemistry (2024), 67(13), 11168-11181.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -657,11 +654,11 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -714,11 +711,11 @@ Organic Letters (2021), 23(17), 6697-6702.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -762,21 +759,18 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -828,11 +822,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -886,11 +880,11 @@ ACS Catalysis (2022), 12(13), 7773-7780.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -945,11 +939,11 @@ Journal of Medicinal Chemistry (2024), 67(4), 2349-2368.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -990,21 +984,18 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -1056,11 +1047,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1115,11 +1106,11 @@ Journal of Medicinal Chemistry (2023), 66(1), 384-397.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1175,11 +1166,11 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1232,11 +1223,11 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1289,11 +1280,11 @@ Journal of Medicinal Chemistry (2021), 64(20), 15053-15068.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1337,21 +1328,18 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -1403,11 +1391,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1448,21 +1436,18 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -1515,11 +1500,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1560,21 +1545,18 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -1626,11 +1608,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1672,20 +1654,17 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -1718,10 +1697,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-172-CAS-23133505
@@ -1741,11 +1716,11 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 120.0°C
@@ -1789,7 +1764,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - Bis(1 (CAS: 742103-27-1)
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
-  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -1799,10 +1773,9 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Ligands:**
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
-  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -1845,7 +1818,6 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - Bis(1 (CAS: 742103-27-1)
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
-  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -1855,10 +1827,9 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 
 **Ligands:**
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
-  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -1901,7 +1872,6 @@ Journal of the American Chemical Society (2024), 146(27), 18331-18340.
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - Bis(1 (CAS: 742103-27-1)
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
-  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -1911,10 +1881,9 @@ Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 
 **Ligands:**
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
-  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
@@ -1954,19 +1923,16 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -2007,7 +1973,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2015,12 +1981,12 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium bicarbonate (CAS: 144-55-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -2079,7 +2045,7 @@ ACS Catalysis (2023), 13(9), 6445-6451.
 
 **Reagents:**
   - Tetrabutylammonium iodide (CAS: 311-28-4) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -2119,21 +2085,16 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -2176,25 +2137,16 @@ ACS Catalysis (2022), 12(10), 5949-5960.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2247,9 +2199,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - 19533-24-5 (CAS: 19533-24-5) - Role: UNK
-  - 1-Butanol - Role: UNK
-  - 3-methyl- - Role: UNK
-  - sodium salt (1:1) - Role: UNK
+  - 1-Butanol (CAS: 71-36-3) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2292,7 +2242,7 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -2300,10 +2250,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -2351,7 +2301,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2403,7 +2353,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2455,7 +2405,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2507,7 +2457,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
   - CAS: 2599846-83-8
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -2560,7 +2510,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
   - CAS: 2599846-83-8
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -2602,7 +2552,7 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2610,10 +2560,10 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2656,7 +2606,7 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2664,10 +2614,10 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2710,7 +2660,7 @@ Organic Letters (2023), 25(9), 1470-1475.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2718,10 +2668,10 @@ Organic Letters (2023), 25(9), 1470-1475.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2764,7 +2714,7 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2772,10 +2722,10 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2818,7 +2768,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2826,10 +2776,10 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2873,8 +2823,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2882,11 +2831,10 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2931,8 +2879,7 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2940,11 +2887,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -2987,7 +2933,7 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -2995,10 +2941,10 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3039,8 +2985,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(41), 5391-5394.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3048,11 +2993,10 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(41), 5391-5394.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3095,7 +3039,7 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3103,10 +3047,10 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3147,8 +3091,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3156,11 +3099,10 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3203,8 +3145,7 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3212,11 +3153,10 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3259,8 +3199,7 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3268,11 +3207,10 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3315,8 +3253,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3324,11 +3261,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3371,8 +3307,7 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3380,11 +3315,10 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3427,7 +3361,7 @@ Organic Letters (2021), 23(3), 876-880.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3435,10 +3369,10 @@ Organic Letters (2021), 23(3), 876-880.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3481,8 +3415,7 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3490,11 +3423,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3540,8 +3472,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3549,11 +3480,10 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3596,8 +3526,7 @@ European Journal of Medicinal Chemistry (2023), 249, 115178.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3605,11 +3534,10 @@ European Journal of Medicinal Chemistry (2023), 249, 115178.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3652,7 +3580,7 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3660,10 +3588,10 @@ Journal of Medicinal Chemistry (2021), 64(2), 1197-1219.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3704,8 +3632,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3713,11 +3640,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3760,7 +3686,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3768,10 +3694,10 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3812,8 +3738,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3821,11 +3746,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3868,7 +3792,7 @@ Organic Letters (2023), 25(19), 3386-3390.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3876,10 +3800,10 @@ Organic Letters (2023), 25(19), 3386-3390.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3920,8 +3844,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3929,11 +3852,10 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -3976,8 +3898,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -3985,11 +3906,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4032,7 +3952,7 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -4040,10 +3960,10 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4086,8 +4006,7 @@ Chemistry - A European Journal (2023), 29(5), e202202594.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -4095,11 +4014,10 @@ Chemistry - A European Journal (2023), 29(5), e202202594.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4142,8 +4060,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(44), 5707-5710.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -4151,11 +4068,10 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(44), 5707-5710.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 1836220-69-9)
-  - CAS: 787618-22-8
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4198,7 +4114,7 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -4206,10 +4122,10 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4248,23 +4164,18 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 224311-51-7)
-  - 2-(Di-tert-butylphosphino)biphenyl
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 224311-51-7)
-  - 2-(Di-tert-butylphosphino)biphenyl
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4317,7 +4228,7 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4369,7 +4280,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4421,7 +4332,7 @@ Journal of Medicinal Chemistry (2024), 67(4), 2321-2336.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4473,7 +4384,7 @@ Organic Process Research & Development (2024), 28(7), 2862-2874.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4516,24 +4427,20 @@ Journal of Medicinal Chemistry (2024), 67(10), 8077-8098.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
-  - Palladium
-  - 1,10-Phenanthroline (CAS: 66-71-7)
-  - CAS: 7440-05-3
+  - CuI (CAS: 7681-65-4)
+  - Phenanthroline (CAS: 66-71-7)
 
 **Catalyst Core:**
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
-  - Palladium
+  - CuI (CAS: 7681-65-4)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
-  - 1,10-Phenanthroline (CAS: 66-71-7)
-  - CAS: 7440-05-3
+  - Phenanthroline (CAS: 66-71-7)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4592,7 +4499,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -4633,7 +4540,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -4641,10 +4548,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4687,7 +4594,7 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -4695,10 +4602,10 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4739,7 +4646,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(33), 4011-4014.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -4747,10 +4654,10 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(33), 4011-4014.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4791,7 +4698,7 @@ Angewandte Chemie, International Edition (2024), 63(12), e202319089.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -4799,10 +4706,10 @@ Angewandte Chemie, International Edition (2024), 63(12), e202319089.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4854,7 +4761,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - Picolinic acid (CAS: 98-98-6)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -4895,7 +4802,7 @@ Angewandte Chemie, International Edition (2021), 60(1), 304-312.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -4903,10 +4810,10 @@ Angewandte Chemie, International Edition (2021), 60(1), 304-312.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4947,7 +4854,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -4955,10 +4862,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -4999,7 +4906,7 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -5007,10 +4914,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5050,21 +4957,16 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -5112,8 +5014,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
+  - RuPhos (CAS: 787618-22-8) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -5154,7 +5056,7 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -5162,10 +5064,10 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5206,7 +5108,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -5214,10 +5116,10 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5265,8 +5167,8 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5316,8 +5218,8 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5365,8 +5267,8 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5407,7 +5309,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -5415,10 +5317,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5459,7 +5361,7 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -5467,10 +5369,10 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5511,7 +5413,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -5519,10 +5421,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5565,7 +5467,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -5573,10 +5475,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5618,7 +5520,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -5626,10 +5528,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -5681,7 +5583,7 @@ ChemCatChem (2022), 14(16), e202200734.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5724,7 +5626,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -5732,10 +5634,10 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5776,7 +5678,7 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -5784,10 +5686,10 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5828,7 +5730,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -5836,10 +5738,10 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5880,20 +5782,17 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5945,7 +5844,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5997,7 +5896,7 @@ Journal of the American Chemical Society (2024), 146(45), 31230-31239.
   - 2-(Dicyclohexylphosphino)biphenyl (CAS: 247940-06-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -6049,7 +5948,7 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6092,7 +5991,7 @@ Angewandte Chemie, International Edition (2023), 62(26), e202302371.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -6100,11 +5999,11 @@ Angewandte Chemie, International Edition (2023), 62(26), e202302371.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6147,7 +6046,7 @@ Organometallics (2021), 40(2), 156-165.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -6155,11 +6054,11 @@ Organometallics (2021), 40(2), 156-165.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6209,9 +6108,8 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: 2-DIPHENYLCYCLOPROPYL)PHOSPHINE
-  - Bis(1 (CAS: 742103-27-1) - Role: BASE
-  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine - Role: UNK
+  - Bis(1 (CAS: 742103-27-1) - Role: 2_DIPHENYLCYCLOPROPYL_PHOSPHINE
+  - NaOtBu (CAS: 865-48-5) - Role: 2_DIPHENYLCYCLOPROPYL_PHOSPHINE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -6252,7 +6150,7 @@ Advanced Synthesis & Catalysis (2023), 365(3), 373-380.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -6260,10 +6158,10 @@ Advanced Synthesis & Catalysis (2023), 365(3), 373-380.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6317,7 +6215,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -6358,7 +6256,7 @@ ACS Catalysis (2023), 13(13), 9264-9273.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -6366,10 +6264,10 @@ ACS Catalysis (2023), 13(13), 9264-9273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -6421,7 +6319,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6461,19 +6359,16 @@ Organic Letters (2023), 25(15), 2701-2706.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -6522,7 +6417,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 161265-03-8 (CAS: 161265-03-8) - Role: UNK
+  - XantPhos (CAS: 161265-03-8) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6563,7 +6458,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -6571,10 +6466,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6615,7 +6510,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -6623,10 +6518,10 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6666,19 +6561,16 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6720,19 +6612,16 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6782,8 +6671,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6823,19 +6712,16 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6877,19 +6763,16 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6932,19 +6815,16 @@ ACS Catalysis (2023), 13(11), 7680-7690.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 247940-06-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 2-(Dicyclohexylphosphino)biphenyl (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -6987,7 +6867,7 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -6995,10 +6875,10 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7046,8 +6926,8 @@ Angewandte Chemie, International Edition (2021), 60(5), 2393-2397.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7087,11 +6967,11 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -7099,7 +6979,7 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7139,7 +7019,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -7147,10 +7027,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7323,21 +7203,18 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7380,7 +7257,7 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -7388,10 +7265,10 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7445,7 +7322,7 @@ Journal of Organic Chemistry (2024), 89(3), 2009-2013.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7498,7 +7375,7 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7552,7 +7429,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7605,7 +7482,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7658,7 +7535,7 @@ ChemCatChem (2022), 14(16), e202200734.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7713,7 +7590,7 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7766,7 +7643,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7819,7 +7696,7 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7872,7 +7749,7 @@ Organic Letters (2022), 24(20), 3736-3740.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7925,7 +7802,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7978,7 +7855,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -8031,7 +7908,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Dicyclohexyl(4′′-methoxy[1,1′:2′,1′′-terphenyl]-2-yl)phosphine (CAS: 2097737-81-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0)
@@ -8072,7 +7949,7 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -8080,10 +7957,10 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -8124,7 +8001,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -8132,11 +8009,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -8180,7 +8057,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -8188,12 +8065,12 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - p-Toluenesulfonic acid (CAS: 104-15-4) - Role: UNK
-  - Sodium bicarbonate (CAS: 144-55-8) - Role: UNK
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -8239,28 +8116,21 @@ Angewandte Chemie, International Edition (2022), 61(30), e202202227.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
-  - Triphenylphosphine (CAS: 603-35-0)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1)
+  - PPh3 (CAS: 603-35-0)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Silica (CAS: 7631-86-9) - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
-  - Ethyl acetate (CAS: 141-78-6)
+  - Ethyl Acetate (CAS: 141-78-6)
 
 **Reaction Conditions:**
   - Temperature: 60.0°C
@@ -8299,11 +8169,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8312,8 +8182,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8358,11 +8228,11 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8371,8 +8241,8 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8417,11 +8287,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8430,8 +8300,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8476,11 +8346,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8489,8 +8359,8 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8535,11 +8405,11 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8548,8 +8418,8 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8594,11 +8464,11 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8607,8 +8477,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8653,11 +8523,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8666,8 +8536,8 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8712,11 +8582,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8725,8 +8595,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8771,11 +8641,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8784,8 +8654,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8830,11 +8700,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8843,8 +8713,8 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8889,11 +8759,11 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8902,8 +8772,8 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -8948,11 +8818,11 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -8961,8 +8831,8 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -9007,11 +8877,11 @@ ChemCatChem (2022), 14(17), e202200485.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -9020,8 +8890,8 @@ ChemCatChem (2022), 14(17), e202200485.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -9066,11 +8936,11 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -9079,8 +8949,8 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -9125,11 +8995,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -9138,8 +9008,8 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -9184,11 +9054,11 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -9197,8 +9067,8 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -9243,11 +9113,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -9256,8 +9126,8 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Reagents:**
   - Cesium fluoride (CAS: 13400-13-0) - Role: BASE
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
   - Sodium thiosulfate (CAS: 7772-98-7) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -9310,7 +9180,7 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -9358,7 +9228,7 @@ Organic Letters (2022), 24(20), 3589-3593.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -10656,7 +10526,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -10664,10 +10534,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -10719,8 +10589,8 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -10772,8 +10642,8 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -10826,8 +10696,8 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -10879,8 +10749,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -10932,8 +10802,8 @@ ChemCatChem (2022), 14(16), e202200734.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -10985,8 +10855,8 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11038,8 +10908,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11091,8 +10961,8 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11145,8 +11015,8 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11198,8 +11068,8 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11252,8 +11122,8 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11305,8 +11175,8 @@ Journal of the American Chemical Society (2023), 145(3), 1505-1511.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11358,8 +11228,8 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11412,8 +11282,8 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11465,8 +11335,8 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11518,8 +11388,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11571,8 +11441,8 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11624,8 +11494,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11677,8 +11547,8 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11730,8 +11600,8 @@ Journal of Medicinal Chemistry (2024), 67(2), 1262-1313.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11783,8 +11653,8 @@ Journal of Organic Chemistry (2021), 86(15), 10829-10837.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11838,8 +11708,8 @@ Journal of Organic Chemistry (2022), 87(5), 2864-2872.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11891,8 +11761,8 @@ Organic Letters (2022), 24(20), 3736-3740.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11944,8 +11814,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -11997,8 +11867,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -12050,8 +11920,8 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -12103,8 +11973,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - CAS: 2183514-08-9
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Hantzsch ester (CAS: 1149-23-1) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12155,8 +12025,8 @@ Journal of the American Chemical Society (2021), 143(47), 19769-19777.
   - CAS: 2183514-08-9
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Hantzsch ester (CAS: 1149-23-1) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12207,8 +12077,8 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -12260,8 +12130,8 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
   - CAS: 2183514-08-9
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Hantzsch ester (CAS: 1149-23-1) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12312,8 +12182,8 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -12365,8 +12235,8 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - [S(R)]-N-[(S)-[3,5-Bis(1,1-dimethylethyl)-4-methoxyphenyl][2-(dicyclohexylphosphino)phenyl]methyl]-2-methyl-2-propanesulfinamide (CAS: 2241598-31-0)
 
 **Reagents:**
+  - K2CO3 (CAS: 584-08-7) - Role: UNK
   - Pivalic acid (CAS: 75-98-9) - Role: BASE
-  - Potassium carbonate (CAS: 584-08-7) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -12407,7 +12277,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -12415,10 +12285,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12459,7 +12329,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -12467,10 +12337,10 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12511,7 +12381,7 @@ Organic Letters (2021), 23(8), 3207-3210.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -12519,10 +12389,10 @@ Organic Letters (2021), 23(8), 3207-3210.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12563,7 +12433,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -12571,10 +12441,10 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12615,7 +12485,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -12623,10 +12493,10 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12667,7 +12537,7 @@ Angewandte Chemie, International Edition (2021), 60(5), 2455-2463.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -12675,10 +12545,10 @@ Angewandte Chemie, International Edition (2021), 60(5), 2455-2463.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12721,7 +12591,7 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -12729,10 +12599,10 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12784,7 +12654,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12841,7 +12711,7 @@ Organic Letters (2023), 25(29), 5498-5503.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12894,7 +12764,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -12947,7 +12817,7 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13000,7 +12870,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13053,7 +12923,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13106,7 +12976,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13159,7 +13029,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13212,7 +13082,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13265,7 +13135,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14477-14497.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13318,7 +13188,7 @@ Nature Communications (2022), 13(1), 2869.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13371,7 +13241,7 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13424,7 +13294,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317570.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13477,7 +13347,7 @@ Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13530,7 +13400,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13584,7 +13454,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13637,7 +13507,7 @@ Organic Letters (2022), 24(20), 3736-3740.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13690,7 +13560,7 @@ Angewandte Chemie, International Edition (2022), 61(19), e202115140.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13743,7 +13613,7 @@ Organic Letters (2022), 24(20), 3736-3740.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13796,7 +13666,7 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13849,7 +13719,7 @@ Organic Letters (2022), 24(20), 3736-3740.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13902,7 +13772,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -13955,7 +13825,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14009,7 +13879,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14062,7 +13932,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14115,7 +13985,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14168,7 +14038,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14221,7 +14091,7 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14274,7 +14144,7 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14327,7 +14197,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14380,7 +14250,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14433,7 +14303,7 @@ Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14486,7 +14356,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14539,7 +14409,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14592,7 +14462,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14645,7 +14515,7 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14698,7 +14568,7 @@ Chemistry - A European Journal (2022), 28(34), e202200326.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14751,7 +14621,7 @@ Organic Letters (2024), 26(15), 2949-2954.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14804,7 +14674,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(45), 6522-6525.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14857,7 +14727,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14911,7 +14781,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -14964,7 +14834,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -15017,7 +14887,7 @@ ACS Catalysis (2022), 12(8), 4688-4695.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -15070,7 +14940,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -15121,7 +14991,7 @@ Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15169,7 +15039,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15217,7 +15087,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15265,7 +15135,7 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15313,7 +15183,7 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15361,7 +15231,7 @@ Angewandte Chemie, International Edition (2023), 62(35), e202306890.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15409,7 +15279,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15457,7 +15327,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15505,7 +15375,7 @@ Organic Letters (2022), 24(15), 2889-2893.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15553,7 +15423,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15601,7 +15471,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15649,7 +15519,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15697,8 +15567,8 @@ Journal of Medicinal Chemistry (2022), 65(23), 15627-15641.
 **Generic Catalyst:** Pd
 
 **Reagents:**
+  - KOH (CAS: 1310-58-3) - Role: UNK
   - Tetrabutylammonium fluoride (CAS: 429-41-4) - Role: BASE
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -15746,8 +15616,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -15797,8 +15667,8 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16190,7 +16060,7 @@ Journal of Organic Chemistry (2023), 88(7), 4101-4111.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16284,22 +16154,22 @@ Organic Letters (2023), 25(30), 5597-5601.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16341,9 +16211,7 @@ Journal of Medicinal Chemistry (2023), 66(6), 4231-4252.
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
   - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
 
 ---
 
@@ -16353,21 +16221,21 @@ Journal of Medicinal Chemistry (2023), 66(6), 4231-4252.
 
 **Full Catalytic System:**
   - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: N,N′-Dimethylethylenediamine|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
 
 **Catalyst Core:**
   - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
 
 **Generic Catalyst:** Pd, Cu(I)
 
 **Ligands:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: N,N′-Dimethylethylenediamine|110-70-3]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -16410,8 +16278,6 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Name mismatch: 'N,N′-Dimethylethylenediamine' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'N,N′-Dimethylethylenediamine' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
 
 ---
@@ -16421,22 +16287,22 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16477,9 +16343,7 @@ ACS Catalysis (2021), 11(16), 10429-10435.
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
   - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
 
 ---
 
@@ -16488,22 +16352,22 @@ ACS Catalysis (2021), 11(16), 10429-10435.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16543,9 +16407,7 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
   - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
 
 ---
 
@@ -16554,22 +16416,22 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16609,9 +16471,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
   - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
 
 ---
 
@@ -16620,22 +16480,22 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16675,9 +16535,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
   - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
 
 ---
 
@@ -16686,22 +16544,22 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - N,N'-Dimethylethylenediamine (CAS: 110-70-3) *[Corrected from: Tetrakis(triphenylphosphine)palladium|110-70-3]*
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - N,N'-Dimethylethylenediamine (CAS: 110-70-3)
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
+  - CuI (CAS: 7681-65-4)
   - N,N′-Dimethylethylenediamine (CAS: 14221-01-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -16743,9 +16601,7 @@ Journal of the American Chemical Society (2021), 143(1), 126-131.
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
   - ⚠️ Catalyst Core: Name mismatch: 'Tetrakis(triphenylphosphine)palladium' vs expected 'N,N'-Dimethylethylenediamine' for CAS 110-70-3
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
 
 ---
 
@@ -16765,7 +16621,7 @@ Journal of the American Chemical Society (2021), 143(1), 126-131.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -16813,7 +16669,7 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -16861,7 +16717,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -16909,7 +16765,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -16957,7 +16813,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17005,7 +16861,7 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17053,7 +16909,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(27), 3653-3656.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17103,7 +16959,7 @@ European Journal of Organic Chemistry (2022), 2022(10), e202101421.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17153,7 +17009,7 @@ Journal of Medicinal Chemistry (2023), 66(14), 9418-9444.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17201,7 +17057,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17251,7 +17107,7 @@ Chemistry - A European Journal (2023), 29(5), e202202594.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17299,7 +17155,7 @@ Angewandte Chemie, International Edition (2021), 60(24), 13677-13681.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17349,7 +17205,7 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17397,7 +17253,7 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17445,7 +17301,7 @@ Organic Letters (2023), 25(27), 5027-5032.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17493,7 +17349,7 @@ Advanced Synthesis & Catalysis (2024), 366(15), 3297-3302.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17544,7 +17400,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17592,7 +17448,7 @@ Chemistry - A European Journal (2021), 27(11), 3688-3693.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17643,7 +17499,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17691,7 +17547,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17739,7 +17595,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17787,7 +17643,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17835,7 +17691,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17885,7 +17741,7 @@ Organic Letters (2022), 24(47), 8633-8638.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17935,7 +17791,7 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
   - Sodium acetate (CAS: 127-09-3) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -17987,7 +17843,7 @@ European Journal of Medicinal Chemistry (2022), 243, 114764.
 
 **Reagents:**
   - Pyrrolidine (CAS: 123-75-1) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -18029,7 +17885,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -18037,13 +17893,13 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -18081,7 +17937,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -18089,13 +17945,13 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -18133,7 +17989,7 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -18141,13 +17997,13 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -18185,7 +18041,7 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -18193,13 +18049,13 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -18237,7 +18093,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(21), 2609-2612.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -18245,13 +18101,13 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(21), 2609-2612.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -18289,7 +18145,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -18297,13 +18153,13 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -18341,7 +18197,7 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -18349,13 +18205,13 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -18396,11 +18252,11 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18438,10 +18294,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 10.1039/d3cc04864k
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846426
@@ -18450,11 +18302,11 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18492,10 +18344,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846431
@@ -18504,11 +18352,11 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18546,10 +18394,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846434
@@ -18558,11 +18402,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18600,10 +18444,6 @@ Angewandte Chemie, International Edition (2023), 62(40), e202308367.
 10.1002/anie.202308367
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846435
@@ -18612,11 +18452,11 @@ Angewandte Chemie, International Edition (2023), 62(40), e202308367.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18654,10 +18494,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846436
@@ -18666,11 +18502,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18708,10 +18544,6 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 10.1021/acs.jmedchem.4c02318
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846437
@@ -18720,17 +18552,17 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
 **Reagents:**
-  - Oxygen (CAS: 7782-44-7) - Role: OX
   - 5-Chloro-8-quinolinyl (3Z)-5-(2-methoxyphenyl)-3-penten-1-yl N-(4-methoxyphenyl)phosphoramidate (CAS: 2625446-11-7) - Role: UNK
+  - Oxygen (CAS: 7782-44-7) - Role: OX
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -18763,10 +18595,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846438
@@ -18775,11 +18603,11 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18817,10 +18645,6 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 10.1002/anie.202015274
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846440
@@ -18829,11 +18653,11 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18871,10 +18695,6 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 10.1021/jacs.2c13520
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846443
@@ -18883,11 +18703,11 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18925,10 +18745,6 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 10.1039/d3qo01879b
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846444
@@ -18937,11 +18753,11 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -18979,10 +18795,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 10.1039/d1cc01863a
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846445
@@ -18991,11 +18803,11 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -19033,10 +18845,6 @@ ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846447
@@ -19045,11 +18853,11 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -19087,10 +18895,6 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 10.1021/acs.joc.0c02149
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846449
@@ -19099,11 +18903,11 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -19145,10 +18949,6 @@ Chemistry - A European Journal (2022), 28(44), e202201517.
 10.1002/chem.202201517
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846452
@@ -19157,11 +18957,11 @@ Chemistry - A European Journal (2022), 28(44), e202201517.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -19199,10 +18999,6 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 10.1021/jacs.2c06838
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846455
@@ -19211,11 +19007,11 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -19253,10 +19049,6 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 10.1021/acs.jmedchem.2c00386
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24846465
@@ -19265,11 +19057,11 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: Palladium diacetate|142-71-2]*
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
@@ -19307,10 +19099,6 @@ Journal of Medicinal Chemistry (2022), 65(5), 3923-3942.
 10.1021/acs.jmedchem.1c01774
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Catalyst Core: Name mismatch: 'Palladium diacetate' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-24907820
@@ -19319,7 +19107,7 @@ Journal of Medicinal Chemistry (2022), 65(5), 3923-3942.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -19327,10 +19115,10 @@ Journal of Medicinal Chemistry (2022), 65(5), 3923-3942.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -19371,7 +19159,7 @@ Organic Letters (2022), 24(10), 1929-1934.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -19379,11 +19167,11 @@ Organic Letters (2022), 24(10), 1929-1934.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Tetrabutylammonium fluoride (CAS: 429-41-4) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -19427,7 +19215,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -19435,10 +19223,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -19478,11 +19266,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -19490,10 +19278,10 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -19532,7 +19320,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -19540,12 +19328,12 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Calcium carbonate (CAS: 471-34-1) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
+  - Calcium carbonate (CAS: 471-34-1) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -19593,21 +19381,18 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
-  - 1,3-Bis(diphenylphosphino)propane
 
 **Catalyst Core:**
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
 
 **Generic Catalyst:** 3-Bis(diphenylphosphino)propane, Pd
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -19640,10 +19425,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-25850704
@@ -19663,7 +19444,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -19717,7 +19498,7 @@ Journal of Medicinal Chemistry (2023), 66(13), 9130-9146.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -19765,7 +19546,7 @@ Angewandte Chemie, International Edition (2023), 62(35), e202307118.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -19854,21 +19635,18 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
-  - 1,3-Bis(diphenylphosphino)propane
 
 **Catalyst Core:**
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
 
 **Generic Catalyst:** 3-Bis(diphenylphosphino)propane, Pd
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -19901,10 +19679,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-29810286
@@ -19912,21 +19686,18 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
-  - 1,3-Bis(diphenylphosphino)propane
 
 **Catalyst Core:**
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
 
 **Generic Catalyst:** 3-Bis(diphenylphosphino)propane, Pd
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -19959,10 +19730,6 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(67), 9377-9380.
 10.1039/d2cc03347j
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-29956674
@@ -19970,18 +19737,16 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(67), 9377-9380.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -20072,7 +19837,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -20080,10 +19845,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20124,7 +19889,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20132,10 +19897,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20183,7 +19948,7 @@ Chemistry - A European Journal (2021), 27(6), 2212-2218.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20235,7 +20000,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Triphenyl phosphite (CAS: 101-02-0)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -20288,9 +20053,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - Acetic anhydride (CAS: 108-24-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
-  - Tris(4-methoxyphenyl)phosphine (CAS: 855-38-9) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
   - Lithium chloride (CAS: 7447-41-8) - Role: UNK
+  - P(p-MeO-Ph)3 (CAS: 855-38-9) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20331,7 +20096,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20339,11 +20104,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -20387,7 +20152,7 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20395,11 +20160,11 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -20443,7 +20208,7 @@ Journal of the American Chemical Society (2021), 143(17), 6498-6504.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20451,10 +20216,10 @@ Journal of the American Chemical Society (2021), 143(17), 6498-6504.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
@@ -20497,7 +20262,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20505,11 +20270,11 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -20553,7 +20318,7 @@ Nature Communications (2022), 13(1), 2869.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20561,10 +20326,10 @@ Nature Communications (2022), 13(1), 2869.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20605,7 +20370,7 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20613,10 +20378,10 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -20671,7 +20436,7 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -20712,7 +20477,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20720,10 +20485,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20773,7 +20538,7 @@ Journal of Organic Chemistry (2024), 89(3), 1880-1897.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20814,7 +20579,7 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -20822,10 +20587,10 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -20869,8 +20634,6 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
   - Phosphoric acid (CAS: 58856-12-5)
-  - 2,2-dichloroethenyl dimethyl ester
-  - mixt. with 1,2,4-trichloro-5-[(4-chlorophenyl)thio]benzene
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -20879,8 +20642,6 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 
 **Ligands:**
   - Phosphoric acid (CAS: 58856-12-5)
-  - 2,2-dichloroethenyl dimethyl ester
-  - mixt. with 1,2,4-trichloro-5-[(4-chlorophenyl)thio]benzene
 
 **Reagents:**
   - Biphenyl (CAS: 92-52-4) - Role: UNK
@@ -20939,7 +20700,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - CAS: 1239478-87-5
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Biphenyl (CAS: 92-52-4) - Role: UNK
 
 **Solvents:**
@@ -20986,7 +20747,7 @@ Organic Letters (2023), 25(9), 1420-1424.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -20994,10 +20755,10 @@ Organic Letters (2023), 25(9), 1420-1424.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21038,7 +20799,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -21046,10 +20807,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21097,8 +20858,8 @@ Organic Letters (2021), 23(9), 3729-3734.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21141,7 +20902,7 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -21149,10 +20910,10 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21193,7 +20954,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -21201,10 +20962,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21247,7 +21008,7 @@ Journal of Medicinal Chemistry (2022), 65(12), 8345-8379.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -21255,10 +21016,10 @@ Journal of Medicinal Chemistry (2022), 65(12), 8345-8379.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Reaction Conditions:**
   - Temperature: 110.0°C
@@ -21308,9 +21069,9 @@ European Journal of Medicinal Chemistry (2022), 229, 114059.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium carbonate (CAS: 497-19-8) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21367,7 +21128,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21420,7 +21181,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21472,7 +21233,7 @@ Journal of Organic Chemistry (2022), 87(16), 11148-11164.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21520,15 +21281,15 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
-  - Water (CAS: 7732-18-5) - Role: WORKUP
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
-  - Sodium hydride (CAS: 7646-69-7) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
+  - NaH (CAS: 7646-69-7) - Role: UNK
+  - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
-  - Diethyl ether (CAS: 60-29-7)
-  - Ethyl acetate (CAS: 141-78-6)
+  - Diethyl Ether (CAS: 60-29-7)
+  - Ethyl Acetate (CAS: 141-78-6)
 
 **Reaction Conditions:**
   - Temperature: 60.0°C
@@ -21580,15 +21341,15 @@ Organic Letters (2023), 25(9), 1392-1396.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
-  - Water (CAS: 7732-18-5) - Role: WORKUP
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
-  - Sodium hydride (CAS: 7646-69-7) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
+  - NaH (CAS: 7646-69-7) - Role: UNK
+  - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
-  - Diethyl ether (CAS: 60-29-7)
-  - Ethyl acetate (CAS: 141-78-6)
+  - Diethyl Ether (CAS: 60-29-7)
+  - Ethyl Acetate (CAS: 141-78-6)
 
 **Reaction Conditions:**
   - Temperature: 60.0°C
@@ -21643,7 +21404,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21694,7 +21455,7 @@ Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21745,7 +21506,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21796,7 +21557,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21847,7 +21608,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21898,7 +21659,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -21951,7 +21712,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22002,7 +21763,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22053,7 +21814,7 @@ European Journal of Medicinal Chemistry (2023), 253, 115305.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22106,7 +21867,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22158,7 +21919,7 @@ Journal of the American Chemical Society (2024), 146(48), 33035-33047.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22210,7 +21971,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22262,7 +22023,7 @@ Angewandte Chemie, International Edition (2022), 61(35), e202203908.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22310,8 +22071,8 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22356,7 +22117,6 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - 5-[2-(diphenylphosphino)-1-naphthalenyl]-1,4-diphenyl- (CAS: 2768502-03-8)
-  - (5S)-
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -22365,10 +22125,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Ligands:**
   - 5-[2-(diphenylphosphino)-1-naphthalenyl]-1,4-diphenyl- (CAS: 2768502-03-8)
-  - (5S)-
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
@@ -22412,11 +22171,8 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Full Catalytic System:**
   - CAS: 13965-03-2
   - CAS: 951776-24-2
-  - Dichlorobis(triphenylphosphine)palladium
 
-**Catalyst Core:**
-  - Dichlorobis(triphenylphosphine)palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
@@ -22425,7 +22181,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]* - Role: UNK
+  - CuI (CAS: 7681-65-4) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -22462,9 +22218,6 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
 10.1039/d3cc06031d
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-
 ---
 
 ## Reaction 31-614-CAS-31802212
@@ -22484,7 +22237,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22537,7 +22290,7 @@ ACS Catalysis (2024), 14(23), 18107-18115.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22580,7 +22333,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -22588,10 +22341,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
@@ -22646,7 +22399,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22686,19 +22439,16 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -22739,8 +22489,8 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Cesium carbonate (CAS: 534-17-8)
-  - BINAP (CAS: 98327-87-8)
+  - Cs2CO3 (CAS: 534-17-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -22748,8 +22498,8 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Cesium carbonate (CAS: 534-17-8)
-  - BINAP (CAS: 98327-87-8)
+  - Cs2CO3 (CAS: 534-17-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22803,7 +22553,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22844,7 +22594,7 @@ Angewandte Chemie, International Edition (2023), 62(7), e202216473.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -22852,11 +22602,11 @@ Angewandte Chemie, International Edition (2023), 62(7), e202216473.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22898,7 +22648,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(62), 8698-8701.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -22906,11 +22656,11 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(62), 8698-8701.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -22954,7 +22704,7 @@ Journal of Medicinal Chemistry (2024), 67(14), 11868-11884.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -22962,12 +22712,12 @@ Journal of Medicinal Chemistry (2024), 67(14), 11868-11884.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23015,7 +22765,7 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -23023,10 +22773,10 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23067,7 +22817,7 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -23075,10 +22825,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23118,19 +22868,19 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 564483-19-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 564483-19-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 32005-36-0)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23172,19 +22922,19 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 564483-19-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 564483-19-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 32005-36-0)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23224,18 +22974,16 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - CAS: 13965-03-2
-  - CAS: 161265-03-8
-  - Dichlorobis(triphenylphosphine)palladium
+  - Dichlorobis(triphenylphosphine)palladium (CAS: 13965-03-2)
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
-  - Dichlorobis(triphenylphosphine)palladium
+  - Dichlorobis(triphenylphosphine)palladium (CAS: 13965-03-2)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 13965-03-2
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
@@ -23279,7 +23027,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -23287,11 +23035,11 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23333,7 +23081,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -23341,10 +23089,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23387,7 +23135,7 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -23395,10 +23143,10 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23439,7 +23187,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -23447,10 +23195,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23490,25 +23238,16 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23548,25 +23287,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23606,25 +23336,16 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23664,22 +23385,20 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3) - Role: BASE
-  - Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Anisole (CAS: 100-66-3)
@@ -23720,7 +23439,7 @@ Nature Communications (2024), 15(1), 3968.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -23728,10 +23447,10 @@ Nature Communications (2024), 15(1), 3968.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23772,11 +23491,11 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 72287-26-4)
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
@@ -23784,7 +23503,7 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
   - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 72287-26-4)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23824,11 +23543,11 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -23836,7 +23555,7 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -23877,7 +23596,7 @@ Journal of Organic Chemistry (2023), 88(20), 14797-14802.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -23885,10 +23604,10 @@ Journal of Organic Chemistry (2023), 88(20), 14797-14802.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -23929,7 +23648,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -23937,10 +23656,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -23981,7 +23700,7 @@ Organic Letters (2022), 24(47), 8651-8656.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -23989,10 +23708,10 @@ Organic Letters (2022), 24(47), 8651-8656.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24033,7 +23752,7 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24041,10 +23760,10 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24085,7 +23804,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24093,10 +23812,10 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24137,7 +23856,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24145,10 +23864,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24189,7 +23908,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24197,10 +23916,10 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24241,7 +23960,7 @@ Organic Letters (2022), 24(49), 8969-8974.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24249,10 +23968,10 @@ Organic Letters (2022), 24(49), 8969-8974.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24296,7 +24015,7 @@ Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24304,10 +24023,10 @@ Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24348,7 +24067,7 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24356,10 +24075,10 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24400,7 +24119,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24408,10 +24127,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24452,7 +24171,7 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24460,10 +24179,10 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24506,7 +24225,7 @@ Journal of Medicinal Chemistry (2024), 67(15), 12485-12520.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24514,10 +24233,10 @@ Journal of Medicinal Chemistry (2024), 67(15), 12485-12520.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24558,7 +24277,7 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24566,10 +24285,10 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24610,7 +24329,7 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24618,10 +24337,10 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24662,7 +24381,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -24670,10 +24389,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24714,7 +24433,7 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -24722,10 +24441,10 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -24777,7 +24496,7 @@ Organometallics (2021), 40(23), 3871-3875.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -24829,7 +24548,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -24877,7 +24596,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -24918,20 +24637,17 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -24983,10 +24699,10 @@ Journal of Medicinal Chemistry (2023), 66(11), 7475-7496.
   - [4-(Dimethylamino)phenyl]diphenylphosphine (CAS: 739-58-2)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Cyclohexane (CAS: 110-82-7)
 
 **Reaction Conditions:**
@@ -25036,10 +24752,10 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
   - [4-(Dimethylamino)phenyl]diphenylphosphine (CAS: 739-58-2)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Cyclohexane (CAS: 110-82-7)
 
 **Reaction Conditions:**
@@ -25089,7 +24805,7 @@ Angewandte Chemie, International Edition (2022), 61(39), e202209365.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25141,7 +24857,7 @@ Journal of Medicinal Chemistry (2021), 64(6), 3392-3426.
   - Hexadecyltrimethylammonium bromide (CAS: 53199-31-8)
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25195,7 +24911,7 @@ Journal of the American Chemical Society (2021), 143(47), 19769-19777.
   - [3,6-Dimethoxy-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]bis(1,1-dimethylethyl)phosphine (CAS: 1160861-53-9)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0)
@@ -25242,8 +24958,8 @@ Nature Communications (2024), 15(1), 3968.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
 
 **Solvents:**
   - 2-Methyltetrahydrofuran (CAS: 96-47-9)
@@ -25286,7 +25002,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -25294,11 +25010,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25348,9 +25064,9 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Biphenyl (CAS: 92-52-4) - Role: WORKUP
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
+  - Biphenyl (CAS: 92-52-4) - Role: WORKUP
 
 **Solvents:**
   - 2-Methyltetrahydrofuran (CAS: 96-47-9)
@@ -25400,8 +25116,8 @@ Angewandte Chemie, International Edition (2023), 62(47), e202313084.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
   - Ammonium chloride (CAS: 12125-02-9) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
 
 **Solvents:**
   - 2-Methyltetrahydrofuran (CAS: 96-47-9)
@@ -25456,7 +25172,7 @@ Organic Letters (2022), 24(25), 4580-4585.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25497,7 +25213,7 @@ Chemistry - A European Journal (2022), 28(37), e202200510.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -25505,10 +25221,10 @@ Chemistry - A European Journal (2022), 28(37), e202200510.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25549,7 +25265,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -25557,10 +25273,10 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25604,7 +25320,7 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -25612,10 +25328,10 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25656,7 +25372,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -25664,10 +25380,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25707,21 +25423,19 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - CAS: 161265-03-8
-  - CAS: 14221-01-3
-  - Tetrakis(triphenylphosphine)palladium
+  - XantPhos (CAS: 161265-03-8)
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - Tetrakis(triphenylphosphine)palladium
+  - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
-  - CAS: 14221-01-3
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -25774,7 +25488,7 @@ Angewandte Chemie, International Edition (2021), 60(11), 6036-6041.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
@@ -25817,7 +25531,7 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -25825,10 +25539,10 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25869,7 +25583,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -25877,10 +25591,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25921,7 +25635,7 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -25929,10 +25643,10 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -25973,7 +25687,7 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -25981,10 +25695,10 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -26036,7 +25750,7 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26091,7 +25805,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26132,7 +25846,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -26140,10 +25854,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26183,23 +25897,20 @@ Chemistry - A European Journal (2023), 29(1), e202202636.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium bicarbonate (CAS: 144-55-8) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26246,22 +25957,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium chloride (CAS: 7647-10-1)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium chloride (CAS: 7647-10-1)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
   - Acetic anhydride (CAS: 108-24-7) - Role: UNK
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26305,7 +26013,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(37), 5614-5617.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -26313,13 +26021,13 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(37), 5614-5617.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -26357,7 +26065,7 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -26365,13 +26073,13 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -26409,7 +26117,7 @@ Journal of the American Chemical Society (2024), 146(33), 22993-23003.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -26417,13 +26125,13 @@ Journal of the American Chemical Society (2024), 146(33), 22993-23003.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -26461,7 +26169,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -26469,13 +26177,13 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 150.0°C
@@ -26524,7 +26232,7 @@ Journal of Organic Chemistry (2021), 86(8), 5922-5932.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26565,7 +26273,7 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -26573,15 +26281,15 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
-  - Ethyl acetate (CAS: 141-78-6)
+  - Ethyl Acetate (CAS: 141-78-6)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -26633,7 +26341,7 @@ ACS Catalysis (2024), 14(23), 18107-18115.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26685,7 +26393,7 @@ ACS Catalysis (2023), 13(9), 6416-6429.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26733,7 +26441,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26781,7 +26489,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26829,7 +26537,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -26881,7 +26589,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0)
@@ -26923,7 +26631,7 @@ Journal of Medicinal Chemistry (2023), 66(12), 7988-8010.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -26931,10 +26639,10 @@ Journal of Medicinal Chemistry (2023), 66(12), 7988-8010.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -26983,7 +26691,7 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -26991,10 +26699,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -27040,7 +26748,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27048,10 +26756,10 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -27097,7 +26805,7 @@ Organic Letters (2021), 23(9), 3546-3551.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27105,10 +26813,10 @@ Organic Letters (2021), 23(9), 3546-3551.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -27154,7 +26862,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27162,10 +26870,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27207,7 +26915,7 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27215,10 +26923,10 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27260,7 +26968,7 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27268,10 +26976,10 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27310,7 +27018,7 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27318,10 +27026,10 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27362,7 +27070,7 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -27370,10 +27078,10 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27415,7 +27123,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27423,10 +27131,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27467,7 +27175,7 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27475,7 +27183,7 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27517,7 +27225,7 @@ Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -27525,10 +27233,10 @@ Advanced Synthesis & Catalysis (2022), 364(9), 1587-1595.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27569,7 +27277,7 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27577,13 +27285,13 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Time: 24.0 hours
@@ -27620,7 +27328,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27628,13 +27336,13 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Time: 24.0 hours
@@ -27671,7 +27379,7 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27679,13 +27387,13 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Time: 24.0 hours
@@ -27724,7 +27432,7 @@ Advanced Synthesis & Catalysis (2023), 365(13), 2248-2254.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -27732,10 +27440,10 @@ Advanced Synthesis & Catalysis (2023), 365(13), 2248-2254.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27786,7 +27494,7 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27827,7 +27535,7 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -27835,10 +27543,10 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27888,8 +27596,8 @@ Journal of the American Chemical Society (2024), 146(45), 31230-31239.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
-  - BINAP (CAS: 98327-87-8) - Role: UNK
+  - BINAP (CAS: 2250-01-3) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27941,7 +27649,7 @@ Organic Letters (2022), 24(20), 3736-3740.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -27994,7 +27702,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28047,7 +27755,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28102,7 +27810,7 @@ ACS Catalysis (2021), 11(14), 8443-8448.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28155,7 +27863,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28208,7 +27916,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28261,7 +27969,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28317,7 +28025,7 @@ Angewandte Chemie, International Edition (2021), 60(12), 6425-6429.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28370,7 +28078,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28423,7 +28131,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28476,7 +28184,7 @@ Organic Letters (2024), 26(34), 7244-7248.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28529,7 +28237,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28582,7 +28290,7 @@ ACS Catalysis (2023), 13(11), 7339-7346.
   - 4,4-Dimethyl-1-[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-1-phospha-4-silacyclohexane (CAS: 2783952-04-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28623,15 +28331,15 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -28686,7 +28394,7 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28727,7 +28435,7 @@ Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -28735,10 +28443,10 @@ Angewandte Chemie, International Edition (2024), 63(11), e202316596.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28779,7 +28487,7 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -28787,10 +28495,10 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28843,7 +28551,7 @@ Angewandte Chemie, International Edition (2023), 62(49), e202315108.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28883,21 +28591,18 @@ Angewandte Chemie, International Edition (2021), 60(33), 17910-17914.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28937,19 +28642,19 @@ Journal of the American Chemical Society (2022), 144(1), 106-112.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -28989,19 +28694,19 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29043,8 +28748,6 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Phosphine (CAS: 12095-42-0)
-  - triphenyl-
-  - tetrafluoroborate(1-) (1:1)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -29053,11 +28756,9 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Ligands:**
   - Phosphine (CAS: 12095-42-0)
-  - triphenyl-
-  - tetrafluoroborate(1-) (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29099,25 +28800,16 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29160,7 +28852,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -29168,10 +28860,10 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29213,7 +28905,7 @@ Angewandte Chemie, International Edition (2024), 63(41), e202409366.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -29221,10 +28913,10 @@ Angewandte Chemie, International Edition (2024), 63(41), e202409366.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29265,7 +28957,7 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -29273,10 +28965,10 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29318,7 +29010,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -29326,10 +29018,10 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29369,25 +29061,16 @@ Angewandte Chemie, International Edition (2022), 61(50), e202213157.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29430,7 +29113,7 @@ Journal of Organic Chemistry (2022), 87(9), 5744-5759.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -29438,12 +29121,12 @@ Journal of Organic Chemistry (2022), 87(9), 5744-5759.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Pyridine (CAS: 110-86-1) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Titanium tetrachloride (CAS: 7550-45-0) - Role: UNK
-  - Pyridine (CAS: 110-86-1) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29490,21 +29173,18 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
+  - KOH (CAS: 1310-58-3) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29545,15 +29225,15 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -29593,15 +29273,15 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -29653,7 +29333,7 @@ Angewandte Chemie, International Edition (2022), 61(2), e202111291.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29706,7 +29386,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(44), 5462-5465.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29760,7 +29440,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29813,7 +29493,7 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29866,7 +29546,7 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29919,7 +29599,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -29972,7 +29652,7 @@ Journal of the American Chemical Society (2021), 143(49), 21066-21076.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30026,7 +29706,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30079,7 +29759,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30132,7 +29812,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(6), 720-723.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30185,7 +29865,7 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30238,7 +29918,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30292,7 +29972,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30346,7 +30026,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30399,7 +30079,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30452,7 +30132,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30506,7 +30186,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30561,7 +30241,7 @@ Organic Process Research & Development (2024), 28(2), 559-576.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30614,7 +30294,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30667,7 +30347,7 @@ Organic Letters (2024), 26(15), 2949-2954.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30720,7 +30400,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30773,7 +30453,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30827,7 +30507,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30880,7 +30560,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30933,7 +30613,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -30986,7 +30666,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31039,7 +30719,7 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31092,7 +30772,7 @@ Journal of Medicinal Chemistry (2023), 66(11), 7421-7437.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31145,7 +30825,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31201,7 +30881,7 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31257,7 +30937,7 @@ Organic Process Research & Development (2024), 28(6), 2343-2354.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31310,7 +30990,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31363,7 +31043,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31416,7 +31096,7 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31469,7 +31149,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31522,7 +31202,7 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31575,7 +31255,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31628,7 +31308,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31681,7 +31361,7 @@ ACS Catalysis (2024), 14(23), 18107-18115.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31734,7 +31414,7 @@ Organic Letters (2023), 25(19), 3386-3390.
   - 1,1′-(4S)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diylbis[1,1-bis[3,5-bis(1,1-dimethylethyl)-4-methoxyphenyl]phosphine] (CAS: 210169-40-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31776,7 +31456,7 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -31784,10 +31464,10 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31827,7 +31507,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -31835,10 +31515,10 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31881,7 +31561,7 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -31889,10 +31569,10 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31933,7 +31613,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -31941,10 +31621,10 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -31985,7 +31665,7 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -31993,10 +31673,10 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32037,7 +31717,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32045,10 +31725,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -32101,7 +31781,7 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32158,7 +31838,7 @@ Journal of Organic Chemistry (2022), 87(21), 13763-13789.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32200,7 +31880,7 @@ Organic Letters (2023), 25(9), 1470-1475.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32208,10 +31888,10 @@ Organic Letters (2023), 25(9), 1470-1475.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -32253,7 +31933,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32261,10 +31941,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -32305,7 +31985,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -32313,10 +31993,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32368,8 +32048,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32413,7 +32093,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32421,10 +32101,10 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32465,7 +32145,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32473,10 +32153,10 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
 
 **Solvents:**
@@ -32532,7 +32212,7 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32573,7 +32253,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32581,10 +32261,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -32625,8 +32305,7 @@ Advanced Synthesis & Catalysis (2023), 365(18), 3101-3106.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Tetrafluoroboric acid (CAS: 16872-11-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32634,11 +32313,10 @@ Advanced Synthesis & Catalysis (2023), 365(18), 3101-3106.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Tetrafluoroboric acid (CAS: 16872-11-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32679,8 +32357,7 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Tetrafluoroboric acid (CAS: 16872-11-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32688,11 +32365,10 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Tetrafluoroboric acid (CAS: 16872-11-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32744,7 +32420,7 @@ Organic Letters (2024), 26(9), 1840-1844.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -32784,14 +32460,16 @@ Organic Letters (2021), 23(4), 1239-1242.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - CuI (CAS: 7681-65-4)
   - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Catalyst Core:**
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
   - Tetrakis(triphenylphosphine)palladium (CAS: 14221-01-3)
 
 **Generic Catalyst:** Cu(I), Pd
+
+**Ligands:**
+  - CuI (CAS: 7681-65-4)
 
 **Reagents:**
   - Diisopropylamine (CAS: 108-18-9) - Role: NUC
@@ -32828,10 +32506,6 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 10.1002/anie.202212101
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-
 ---
 
 ## Reaction 31-614-CAS-34962631
@@ -32840,7 +32514,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -32848,12 +32522,12 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium bicarbonate (CAS: 144-55-8) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -32900,7 +32574,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -32908,11 +32582,11 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: UNK
+  - NaOH (CAS: 1310-73-2) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -32961,7 +32635,7 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -32969,10 +32643,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33013,7 +32687,7 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -33021,10 +32695,10 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33065,7 +32739,7 @@ Angewandte Chemie, International Edition (2023), 62(14), e202217512.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -33073,10 +32747,10 @@ Angewandte Chemie, International Edition (2023), 62(14), e202217512.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33117,7 +32791,7 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -33125,10 +32799,10 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,3-Dioxolane (CAS: 646-06-0)
@@ -33179,7 +32853,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0)
@@ -33220,7 +32894,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -33228,10 +32902,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33283,8 +32957,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33340,8 +33014,8 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33394,8 +33068,8 @@ Chemistry - A European Journal (2022), 28(68), e202202305.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33436,19 +33110,18 @@ Chemistry - A European Journal (2024), 30(55), e202402470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 32005-36-0)
+  - 1 (CAS: 6737-42-4)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33496,13 +33169,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 865-48-5 (CAS: 865-48-5) - Role: BASE
   - 258278-25-0 (CAS: 258278-25-0) - Role: UNK
-  - 76-05-1 (CAS: 76-05-1) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
-  - 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro- - Role: UNK
-  - chloride (1:1) - Role: UNK
-  - Trifluoroacetic acid - Role: UNK
+  - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33555,11 +33224,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 865-48-5 (CAS: 865-48-5) - Role: BASE
   - 258278-25-0 (CAS: 258278-25-0) - Role: UNK
-  - Sodium tert-butoxide - Role: UNK
-  - 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro- - Role: UNK
-  - chloride (1:1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33613,7 +33279,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - SL-J009-1 (CAS: 158923-11-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33661,8 +33327,8 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]* - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
+  - CuI (CAS: 7681-65-4) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -33695,9 +33361,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-
 ---
 
 ## Reaction 31-614-CAS-35113626
@@ -33706,7 +33369,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -33714,10 +33377,10 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -33773,7 +33436,7 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33820,8 +33483,8 @@ Angewandte Chemie, International Edition (2021), 60(22), 12376-12380.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33872,8 +33535,8 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33921,8 +33584,8 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -33970,8 +33633,8 @@ Journal of the American Chemical Society (2022), 144(13), 6100-6106.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34020,8 +33683,8 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34069,8 +33732,8 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34118,8 +33781,8 @@ Organometallics (2021), 40(2), 156-165.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34168,8 +33831,8 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34217,8 +33880,8 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34266,8 +33929,8 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34315,8 +33978,8 @@ Chemistry - A European Journal (2021), 27(26), 7356-7361.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34364,8 +34027,8 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34413,8 +34076,8 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34464,8 +34127,8 @@ European Journal of Organic Chemistry (2021), 2021(36), 5073-5079.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34513,8 +34176,8 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34562,8 +34225,8 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34611,8 +34274,8 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34662,8 +34325,8 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34711,8 +34374,8 @@ European Journal of Organic Chemistry (2021), 2021(18), 2655-2664.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34761,8 +34424,8 @@ ACS Catalysis (2023), 13(11), 7680-7690.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34810,7 +34473,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -34858,8 +34521,8 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]* - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
+  - CuI (CAS: 7681-65-4) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -34893,9 +34556,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Reagent: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-
 ---
 
 ## Reaction 31-614-CAS-35248780
@@ -34904,7 +34564,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -34912,10 +34572,10 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -34955,11 +34615,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - X-Phos (CAS: 564483-18-7)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -34967,7 +34627,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - p-Xylene (CAS: 106-42-3)
@@ -35007,22 +34667,19 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 7440-05-3)
-  - Palladium (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - Palladium (CAS: 787618-22-8)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 7440-05-3)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -35059,22 +34716,19 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 7440-05-3)
-  - Palladium (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - Palladium (CAS: 787618-22-8)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 7440-05-3)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -35123,7 +34777,7 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35170,8 +34824,8 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Bis(tri-tert-butylphosphine)palladium (CAS: 53199-31-8) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35223,7 +34877,7 @@ Chemistry - A European Journal (2023), 29(1), e202202636.
   - 2-[Di(tert-butyl)phosphino]-1,1′-binaphthyl (CAS: 255836-67-0)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35275,7 +34929,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35315,18 +34969,13 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -35369,18 +35018,13 @@ Journal of Medicinal Chemistry (2022), 65(23), 15805-15818.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -35423,18 +35067,13 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -35477,18 +35116,13 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -35531,16 +35165,16 @@ Journal of Medicinal Chemistry (2021), 64(11), 7691-7701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
   - Phenol (CAS: 108-95-2) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -35583,10 +35217,10 @@ ACS Catalysis (2023), 13(19), 12803-12809.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
@@ -35639,7 +35273,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -35691,7 +35325,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35743,7 +35377,7 @@ Organic Process Research & Development (2022), 26(9), 2756-2760.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35796,7 +35430,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35848,7 +35482,7 @@ Organometallics (2021), 40(2), 156-165.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35900,7 +35534,7 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35955,7 +35589,7 @@ Journal of Medicinal Chemistry (2023), 66(21), 14912-14927.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -35995,7 +35629,7 @@ Advanced Synthesis & Catalysis (2024), 366(7), 1538-1544.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -36003,10 +35637,10 @@ Advanced Synthesis & Catalysis (2024), 366(7), 1538-1544.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -36044,7 +35678,7 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -36052,10 +35686,10 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36096,7 +35730,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -36104,10 +35738,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36159,7 +35793,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
   - Dicyclohexyl[3,6-dimethoxy-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 1070663-78-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -36203,7 +35837,7 @@ Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -36211,10 +35845,10 @@ Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36255,7 +35889,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -36263,10 +35897,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Morpholine (CAS: 110-91-8)
@@ -36318,7 +35952,7 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36370,7 +36004,7 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36411,7 +36045,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -36419,10 +36053,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36474,7 +36108,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36515,7 +36149,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -36523,10 +36157,10 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36571,7 +36205,7 @@ Journal of the American Chemical Society (2021), 143(12), 4809-4816.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -36579,7 +36213,7 @@ Journal of the American Chemical Society (2021), 143(12), 4809-4816.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
   - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
@@ -36628,7 +36262,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -36636,7 +36270,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
   - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
@@ -36691,7 +36325,7 @@ Organic Letters (2022), 24(23), 4129-4134.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36745,7 +36379,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36796,9 +36430,9 @@ Angewandte Chemie, International Edition (2023), 62(49), e202311445.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: UNK
 
 **Solvents:**
   - 2-Methyltetrahydrofuran (CAS: 96-47-9)
@@ -36856,7 +36490,7 @@ Organic Letters (2022), 24(21), 3797-3801.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -36896,7 +36530,7 @@ Nature Communications (2023), 14(1), 2901.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -36904,11 +36538,11 @@ Nature Communications (2023), 14(1), 2901.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Lithium aluminum hydride (CAS: 16853-85-3) - Role: WORKUP
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -36954,7 +36588,7 @@ Organic Letters (2021), 23(12), 4588-4592.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -36962,10 +36596,10 @@ Organic Letters (2021), 23(12), 4588-4592.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -37006,7 +36640,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -37014,10 +36648,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -37058,7 +36692,7 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -37066,10 +36700,10 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -37110,7 +36744,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -37118,10 +36752,10 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37164,7 +36798,7 @@ Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Bis[2-(diphenylphosphino)phenyl] ether (CAS: 166330-10-5)
+  - DPEPhos (CAS: 166330-10-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -37172,10 +36806,10 @@ Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis[2-(diphenylphosphino)phenyl] ether (CAS: 166330-10-5)
+  - DPEPhos (CAS: 166330-10-5)
 
 **Reagents:**
-  - Sodium hydride (CAS: 7646-69-7) - Role: UNK
+  - NaH (CAS: 7646-69-7) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -37214,21 +36848,18 @@ Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37269,21 +36900,18 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37323,21 +36951,18 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37377,21 +37002,18 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37431,21 +37053,18 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37497,7 +37116,7 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37549,7 +37168,7 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37590,7 +37209,7 @@ Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -37598,10 +37217,10 @@ Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37642,7 +37261,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Palladium chloride (CAS: 7647-10-1)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium chloride (CAS: 7647-10-1)
@@ -37650,10 +37269,10 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -37705,7 +37324,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37746,7 +37365,7 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -37754,10 +37373,10 @@ Advanced Synthesis & Catalysis (2021), 363(5), 1417-1426.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37798,21 +37417,21 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: 142-71-2|142-71-2]*
+  - SPhos (CAS: 657408-07-6)
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
+  - Cu(OAc)2 (CAS: 142-71-2)
 
 **Generic Catalyst:** Pd, Cu(II)
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
-  - Copper(II) acetate (CAS: 142-71-2) *[Corrected from: 142-71-2|142-71-2]*
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: UNK
+  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37849,10 +37468,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '142-71-2' vs expected 'Copper(II) acetate' for CAS 142-71-2
-  - ⚠️ Ligands: Name mismatch: '142-71-2' vs expected 'Copper(II) acetate' for CAS 142-71-2
-
 ---
 
 ## Reaction 31-614-CAS-36137595
@@ -37872,7 +37487,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37924,7 +37539,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -37976,7 +37591,7 @@ Organic Letters (2023), 25(19), 3386-3390.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38028,7 +37643,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38068,11 +37683,11 @@ Chemistry - A European Journal (2022), 28(12), e202104214.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -38080,7 +37695,7 @@ Chemistry - A European Journal (2022), 28(12), e202104214.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38120,7 +37735,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -38128,10 +37743,10 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38172,7 +37787,7 @@ Angewandte Chemie, International Edition (2021), 60(11), 5673-5678.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -38180,10 +37795,10 @@ Angewandte Chemie, International Edition (2021), 60(11), 5673-5678.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -38238,7 +37853,7 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38290,7 +37905,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38344,7 +37959,7 @@ Angewandte Chemie, International Edition (2022), 61(1), e202110391.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - p-Xylene (CAS: 106-42-3)
@@ -38494,9 +38109,9 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1) - Role: NUC
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - DavePhos (CAS: 213697-53-1) - Role: NUC
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38540,7 +38155,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -38548,10 +38163,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38592,7 +38207,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -38600,10 +38215,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38644,7 +38259,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -38652,10 +38267,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38696,7 +38311,7 @@ Organic Letters (2022), 24(30), 5624-5628.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -38704,10 +38319,10 @@ Organic Letters (2022), 24(30), 5624-5628.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38748,7 +38363,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -38756,10 +38371,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38814,7 +38429,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - (2R,2′R)-1,1′-Bis[(4S)-4,5-dihydro-4-(1-methylethyl)-2-oxazolyl]-2,2′-bis(diphenylphosphino)ruthenocene (CAS: 918545-92-3)
 
 **Reagents:**
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene (CAS: 6674-22-2) - Role: UNK
+  - DBU (CAS: 6674-22-2) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -38866,7 +38481,7 @@ Organic Chemistry Frontiers (2023), 10(2), 524-530.
   - (2R,2′R)-1,1′-Bis[(4S)-4,5-dihydro-4-(1-methylethyl)-2-oxazolyl]-2,2′-bis(diphenylphosphino)ruthenocene (CAS: 918545-92-3)
 
 **Reagents:**
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene (CAS: 6674-22-2) - Role: UNK
+  - DBU (CAS: 6674-22-2) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -38918,7 +38533,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
   - (2R,2′R)-1,1′-Bis[(4S)-4,5-dihydro-4-(1-methylethyl)-2-oxazolyl]-2,2′-bis(diphenylphosphino)ruthenocene (CAS: 918545-92-3)
 
 **Reagents:**
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene (CAS: 6674-22-2) - Role: UNK
+  - DBU (CAS: 6674-22-2) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -38970,7 +38585,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - (2R,2′R)-1,1′-Bis[(4S)-4,5-dihydro-4-(1-methylethyl)-2-oxazolyl]-2,2′-bis(diphenylphosphino)ruthenocene (CAS: 918545-92-3)
 
 **Reagents:**
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene (CAS: 6674-22-2) - Role: UNK
+  - DBU (CAS: 6674-22-2) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -39022,7 +38637,7 @@ European Journal of Medicinal Chemistry (2022), 229, 113995.
   - (2R,2′R)-1,1′-Bis[(4S)-4,5-dihydro-4-(1-methylethyl)-2-oxazolyl]-2,2′-bis(diphenylphosphino)ruthenocene (CAS: 918545-92-3)
 
 **Reagents:**
-  - 1,8-Diazabicyclo[5.4.0]undec-7-ene (CAS: 6674-22-2) - Role: UNK
+  - DBU (CAS: 6674-22-2) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -39070,8 +38685,8 @@ Nature Communications (2023), 14(1), 1678.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -39121,8 +38736,8 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2739-2742.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -39172,8 +38787,8 @@ Organic Letters (2024), 26(18), 3951-3956.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -39219,7 +38834,7 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39268,7 +38883,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39317,7 +38932,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39367,7 +38982,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39418,7 +39033,7 @@ Organic Letters (2024), 26(38), 8171-8176.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39467,7 +39082,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39518,7 +39133,7 @@ Journal of Medicinal Chemistry (2022), 65(14), 9678-9690.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39567,7 +39182,7 @@ Organic Letters (2022), 24(6), 1318-1322.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39620,7 +39235,7 @@ Journal of the American Chemical Society (2021), 143(12), 4809-4816.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39669,7 +39284,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39718,7 +39333,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39768,7 +39383,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39817,7 +39432,7 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39867,7 +39482,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39918,7 +39533,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -39967,7 +39582,7 @@ Journal of Medicinal Chemistry (2022), 65(13), 9096-9125.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40016,7 +39631,7 @@ Angewandte Chemie, International Edition (2022), 61(28), e202201240.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40065,7 +39680,7 @@ Journal of Organic Chemistry (2022), 87(6), 4400-4414.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40115,7 +39730,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40165,7 +39780,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40214,7 +39829,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40266,7 +39881,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40315,7 +39930,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40364,7 +39979,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(32), 5001-5004.
   - CAS: 905459-27-0
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: WORKUP
+  - LiHMDS (CAS: 4039-32-1) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -40408,7 +40023,7 @@ Organic Letters (2024), 26(15), 2949-2954.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -40416,10 +40031,10 @@ Organic Letters (2024), 26(15), 2949-2954.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -40460,19 +40075,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -40516,25 +40131,23 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
-  - CAS: 7440-05-3
-  - Palladium
+  - XantPhos (CAS: 161265-03-8)
+  - Palladium (CAS: 7440-05-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Palladium
+  - Palladium (CAS: 7440-05-3)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
-  - CAS: 7440-05-3
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
-  - Hydrogen (CAS: 1333-74-0) - Role: UNK
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
+  - Hydrogen (CAS: 1333-74-0) - Role: ACTIVATOR
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - Cs2CO3 (CAS: 534-17-8) - Role: ADDITIVE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -40582,7 +40195,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -40590,10 +40203,10 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -40632,19 +40245,19 @@ European Journal of Medicinal Chemistry (2022), 241, 114647.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 787618-22-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 787618-22-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 32005-36-0)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
 
 **Solvents:**
@@ -40687,20 +40300,20 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 787618-22-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 787618-22-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 32005-36-0)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -40742,7 +40355,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -40750,10 +40363,10 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -40803,11 +40416,11 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
-  - Tri-tert-butylphosphine (CAS: 13716-12-6) - Role: UNK
+  - PtBu3 (CAS: 13716-12-6) - Role: UNK
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -40856,7 +40469,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -40896,7 +40509,7 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Sodium tert-butoxide (CAS: 865-48-5)
+  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
@@ -40905,7 +40518,7 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Sodium tert-butoxide (CAS: 865-48-5)
+  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Solvents:**
@@ -40947,7 +40560,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Sodium tert-butoxide (CAS: 865-48-5)
+  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
@@ -40956,7 +40569,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Sodium tert-butoxide (CAS: 865-48-5)
+  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Solvents:**
@@ -40998,7 +40611,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Sodium tert-butoxide (CAS: 865-48-5)
+  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
@@ -41007,7 +40620,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Sodium tert-butoxide (CAS: 865-48-5)
+  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Solvents:**
@@ -41061,7 +40674,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41102,7 +40715,7 @@ Organic Letters (2023), 25(48), 8756-8760.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -41110,7 +40723,7 @@ Organic Letters (2023), 25(48), 8756-8760.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -41161,7 +40774,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41202,7 +40815,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -41210,10 +40823,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41253,19 +40866,19 @@ Angewandte Chemie, International Edition (2024), 63(30), e202405412.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41306,7 +40919,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -41314,10 +40927,10 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(30), 3688-3691.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41359,7 +40972,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -41367,10 +40980,10 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41410,16 +41023,16 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -41470,7 +41083,7 @@ ACS Catalysis (2023), 13(9), 6445-6451.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -41521,7 +41134,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -41562,7 +41175,7 @@ Chemistry - A European Journal (2022), 28(16), e202104411.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -41570,10 +41183,10 @@ Chemistry - A European Journal (2022), 28(16), e202104411.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41624,7 +41237,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41675,7 +41288,7 @@ Angewandte Chemie, International Edition (2021), 60(6), 2882-2886.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41726,7 +41339,7 @@ Organic Letters (2021), 23(8), 3207-3210.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41767,7 +41380,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -41775,10 +41388,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41819,7 +41432,7 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -41827,10 +41440,10 @@ ChemCatChem (2022), 14(16), e202200734.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -41882,7 +41495,7 @@ ACS Catalysis (2021), 11(24), 14995-15003.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41933,7 +41546,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -41973,7 +41586,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -41981,11 +41594,11 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42029,7 +41642,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(44), 6457-6460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -42037,10 +41650,10 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(44), 6457-6460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42084,7 +41697,7 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -42092,10 +41705,10 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42137,7 +41750,7 @@ ACS Catalysis (2024), 14(16), 12173-12180.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -42145,10 +41758,10 @@ ACS Catalysis (2024), 14(16), 12173-12180.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42190,7 +41803,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -42198,10 +41811,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42243,7 +41856,7 @@ Journal of Medicinal Chemistry (2023), 66(24), 17044-17058.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -42251,10 +41864,10 @@ Journal of Medicinal Chemistry (2023), 66(24), 17044-17058.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -42295,7 +41908,7 @@ Angewandte Chemie, International Edition (2021), 60(35), 19364-19373.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42303,12 +41916,12 @@ Angewandte Chemie, International Edition (2021), 60(35), 19364-19373.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Formic acid (CAS: 64-18-6) - Role: UNK
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
+  - Formic acid (CAS: 64-18-6) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42350,7 +41963,7 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42358,12 +41971,12 @@ Chemistry - A European Journal (2022), 28(13), e202104408.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Formic acid (CAS: 64-18-6) - Role: UNK
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
+  - Formic acid (CAS: 64-18-6) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42405,7 +42018,7 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42413,12 +42026,12 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Formic acid (CAS: 64-18-6) - Role: UNK
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
+  - Formic acid (CAS: 64-18-6) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42460,7 +42073,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42468,12 +42081,12 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Formic acid (CAS: 64-18-6) - Role: UNK
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
+  - Formic acid (CAS: 64-18-6) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42515,7 +42128,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42523,12 +42136,12 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Formic acid (CAS: 64-18-6) - Role: UNK
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
+  - Formic acid (CAS: 64-18-6) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42570,7 +42183,7 @@ Organic Letters (2024), 26(1), 292-297.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42578,12 +42191,12 @@ Organic Letters (2024), 26(1), 292-297.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Formic acid (CAS: 64-18-6) - Role: UNK
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
+  - Formic acid (CAS: 64-18-6) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42625,7 +42238,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42633,12 +42246,12 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
   - Triethylamine (CAS: 121-44-8) - Role: BASE
-  - Formic acid (CAS: 64-18-6) - Role: UNK
   - Methanesulfonyl chloride (CAS: 124-63-0) - Role: UNK
+  - Formic acid (CAS: 64-18-6) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42683,7 +42296,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -42691,10 +42304,10 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42736,7 +42349,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -42744,10 +42357,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42799,7 +42412,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
 
 **Solvents:**
@@ -42843,21 +42456,19 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42897,21 +42508,19 @@ Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42951,21 +42560,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 32005-36-0
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43006,7 +42613,7 @@ Organic Letters (2021), 23(9), 3552-3556.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -43014,10 +42621,10 @@ Organic Letters (2021), 23(9), 3552-3556.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43058,7 +42665,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43066,11 +42673,11 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43113,7 +42720,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43121,11 +42728,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43168,7 +42775,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43176,11 +42783,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43223,7 +42830,7 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43231,11 +42838,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43278,7 +42885,7 @@ Journal of the American Chemical Society (2022), 144(14), 6200-6207.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43286,11 +42893,11 @@ Journal of the American Chemical Society (2022), 144(14), 6200-6207.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43333,7 +42940,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43341,11 +42948,11 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43388,7 +42995,7 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43396,11 +43003,11 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43443,7 +43050,7 @@ Organic Letters (2024), 26(4), 939-944.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43451,11 +43058,11 @@ Organic Letters (2024), 26(4), 939-944.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43498,7 +43105,7 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43506,11 +43113,11 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43553,7 +43160,7 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43561,11 +43168,11 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43608,7 +43215,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43616,11 +43223,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43664,7 +43271,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43672,11 +43279,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43719,7 +43326,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43727,11 +43334,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43774,7 +43381,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43782,11 +43389,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43829,7 +43436,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43837,11 +43444,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43884,7 +43491,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43892,11 +43499,11 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43939,7 +43546,7 @@ Journal of the American Chemical Society (2024), 146(51), 35377-35389.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -43947,11 +43554,11 @@ Journal of the American Chemical Society (2024), 146(51), 35377-35389.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -43994,7 +43601,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44002,11 +43609,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44049,7 +43656,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44057,11 +43664,11 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44104,7 +43711,7 @@ Chemistry - A European Journal (2022), 28(21), e202104292.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44112,11 +43719,11 @@ Chemistry - A European Journal (2022), 28(21), e202104292.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44170,7 +43777,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -44210,19 +43817,16 @@ Journal of Organic Chemistry (2023), 88(5), 2735-2741.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0)
@@ -44264,19 +43868,16 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0)
@@ -44316,22 +43917,22 @@ European Journal of Medicinal Chemistry (2022), 243, 114696.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 787618-22-8)
+  - LiHMDS (CAS: 4039-32-1)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 787618-22-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 32005-36-0)
+  - LiHMDS (CAS: 4039-32-1)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: BASE
-  - Sodium bicarbonate (CAS: 144-55-8) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -44376,7 +43977,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-p-tolylphosphine (CAS: 1038-95-5)
+  - P(p-tol)3 (CAS: 1038-95-5)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44384,10 +43985,10 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-p-tolylphosphine (CAS: 1038-95-5)
+  - P(p-tol)3 (CAS: 1038-95-5)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -44428,7 +44029,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44436,10 +44037,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -44480,19 +44081,19 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44532,19 +44133,19 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44583,19 +44184,19 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44635,19 +44236,18 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
-  - Bis(pinacolato)diborane (CAS: 73183-34-3)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - Bis(dibenzylideneacetone)palladium (CAS: 73183-34-3)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - Bis(dibenzylideneacetone)palladium (CAS: 73183-34-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - Bis(pinacolato)diborane (CAS: 73183-34-3)
-
+**Ligands:** None
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44699,7 +44299,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -44740,7 +44340,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44748,10 +44348,10 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -44792,7 +44392,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44800,10 +44400,10 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -44844,7 +44444,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44852,10 +44452,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -44907,7 +44507,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -44948,7 +44548,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -44956,10 +44556,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45001,7 +44601,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -45009,10 +44609,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45053,7 +44653,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -45061,10 +44661,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45106,7 +44706,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -45114,10 +44714,10 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45169,7 +44769,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45210,7 +44810,7 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -45218,13 +44818,13 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 564483-19-8)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Xylene (CAS: 1330-20-7)
+  - Xylene (mixed isomers) (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -45262,7 +44862,7 @@ Angewandte Chemie, International Edition (2021), 60(38), 20728-20733.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -45270,7 +44870,7 @@ Angewandte Chemie, International Edition (2021), 60(38), 20728-20733.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45310,7 +44910,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -45318,10 +44918,10 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 2-Methyltetrahydrofuran (CAS: 96-47-9)
@@ -45365,7 +44965,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
@@ -45373,10 +44973,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -45418,21 +45018,21 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 
 **Full Catalytic System:**
   - Palladium (CAS: 1121-22-8)
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
+  - CuI (CAS: 7681-65-4)
   - trans-1,2-Diaminocyclohexane (CAS: 7440-05-3)
 
 **Catalyst Core:**
   - Palladium (CAS: 1121-22-8)
-  - Copper(I) iodide (CAS: 7681-65-4) *[Corrected from: Cuprous iodide|7681-65-4]*
 
 **Generic Catalyst:** Cu(I), Pd
 
 **Ligands:**
+  - CuI (CAS: 7681-65-4)
   - trans-1,2-Diaminocyclohexane (CAS: 7440-05-3)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -45473,10 +45073,6 @@ Chemistry - A European Journal (2021), 27(11), 3861-3868.
 10.1002/chem.202004930
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-
 ---
 
 ## Reaction 31-614-CAS-38208181
@@ -45496,7 +45092,7 @@ Chemistry - A European Journal (2021), 27(11), 3861-3868.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45549,7 +45145,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45601,7 +45197,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45653,7 +45249,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45705,7 +45301,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45757,7 +45353,7 @@ Organic Letters (2023), 25(30), 5597-5601.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45809,7 +45405,7 @@ Organic Chemistry Frontiers (2023), 10(5), 1289-1295.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45861,7 +45457,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45913,7 +45509,7 @@ Journal of Medicinal Chemistry (2023), 66(15), 10746-10760.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -45965,7 +45561,7 @@ ACS Catalysis (2024), 14(16), 12173-12180.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46017,7 +45613,7 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46073,7 +45669,7 @@ Journal of Medicinal Chemistry (2021), 64(9), 6329-6357.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46129,7 +45725,7 @@ Journal of Organic Chemistry (2022), 87(21), 13763-13789.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46181,7 +45777,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46233,7 +45829,7 @@ Organic Letters (2022), 24(20), 3736-3740.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46285,7 +45881,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46337,7 +45933,7 @@ ACS Catalysis (2024), 14(23), 18107-18115.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46389,7 +45985,7 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46442,7 +46038,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46494,7 +46090,7 @@ Angewandte Chemie, International Edition (2021), 60(38), 20728-20733.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46546,7 +46142,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -46587,7 +46183,7 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -46595,10 +46191,10 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -46640,7 +46236,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -46648,10 +46244,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -46693,7 +46289,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -46701,10 +46297,10 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -46746,7 +46342,7 @@ Journal of the American Chemical Society (2023), 145(3), 1505-1511.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -46754,10 +46350,10 @@ Journal of the American Chemical Society (2023), 145(3), 1505-1511.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -46799,7 +46395,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -46807,10 +46403,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -46852,7 +46448,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -46860,10 +46456,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -46905,7 +46501,7 @@ European Journal of Medicinal Chemistry (2024), 269, 116344.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -46913,10 +46509,10 @@ European Journal of Medicinal Chemistry (2024), 269, 116344.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -46959,20 +46555,17 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47015,7 +46608,7 @@ Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -47023,10 +46616,10 @@ Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47067,20 +46660,17 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47121,20 +46711,17 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47186,7 +46773,7 @@ Angewandte Chemie, International Edition (2024), 63(11), e202316596.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47228,8 +46815,6 @@ Organic Letters (2022), 24(37), 6869-6873.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Phosphine (CAS: 58656-04-5)
-  - tricyclohexyl-
-  - tetrafluoroborate(1-) (1:1)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -47238,11 +46823,9 @@ Organic Letters (2022), 24(37), 6869-6873.
 
 **Ligands:**
   - Phosphine (CAS: 58656-04-5)
-  - tricyclohexyl-
-  - tetrafluoroborate(1-) (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47290,14 +46873,14 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: UNK
+  - NaOH (CAS: 1310-73-2) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
   - Water (CAS: 7732-18-5)
-  - Ethyl acetate (CAS: 141-78-6)
+  - Ethyl Acetate (CAS: 141-78-6)
   - Dichloromethane (CAS: 75-09-2)
   - Heptane (CAS: 142-82-5)
 
@@ -47351,8 +46934,8 @@ Journal of Medicinal Chemistry (2023), 66(9), 6354-6371.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: UNK
+  - NaOH (CAS: 1310-73-2) - Role: UNK
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
   - Citric acid (CAS: 77-92-9) - Role: UNK
 
 **Solvents:**
@@ -47408,8 +46991,8 @@ ChemCatChem (2022), 14(16), e202200734.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47457,8 +47040,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47506,8 +47089,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47559,12 +47142,12 @@ Journal of the American Chemical Society (2022), 144(9), 3793-3803.
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
 **Reagents:**
-  - Zinc chloride (CAS: 7646-85-7) - Role: WORKUP
   - Cesium fluoride (CAS: 13400-13-0) - Role: UNK
+  - Zinc chloride (CAS: 7646-85-7) - Role: WORKUP
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
-  - Dimethyl sulfoxide (CAS: 67-68-5)
+  - Dimethyl Sulfoxide (CAS: 67-68-5)
 
 **Reaction Conditions:**
   - Temperature: 80.0°C
@@ -47610,7 +47193,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
   - Aluminum (CAS: 7429-90-5) - Role: UNK
 
 **Solvents:**
@@ -47662,7 +47245,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
   - Aluminum (CAS: 7429-90-5) - Role: UNK
 
 **Solvents:**
@@ -47706,19 +47289,16 @@ ACS Catalysis (2021), 11(16), 10429-10435.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - (-)-BINAP (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 76189-56-5)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 76189-56-5)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47759,7 +47339,7 @@ Journal of Organic Chemistry (2024), 89(11), 7455-7471.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -47767,10 +47347,10 @@ Journal of Organic Chemistry (2024), 89(11), 7455-7471.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
@@ -47816,7 +47396,7 @@ Organic Letters (2021), 23(3), 792-796.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -47824,10 +47404,10 @@ Organic Letters (2021), 23(3), 792-796.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47868,7 +47448,7 @@ Organometallics (2021), 40(2), 156-165.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -47876,10 +47456,10 @@ Organometallics (2021), 40(2), 156-165.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47920,7 +47500,7 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -47928,10 +47508,10 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47972,8 +47552,7 @@ European Journal of Medicinal Chemistry (2022), 228, 114022.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -47981,8 +47560,7 @@ European Journal of Medicinal Chemistry (2022), 228, 114022.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -48025,8 +47603,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48034,8 +47611,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -48078,8 +47654,7 @@ Chemistry - A European Journal (2023), 29(52), e202301971.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48087,8 +47662,7 @@ Chemistry - A European Journal (2023), 29(52), e202301971.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -48131,8 +47705,7 @@ European Journal of Medicinal Chemistry (2023), 245(Part_1), 114905.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48140,8 +47713,7 @@ European Journal of Medicinal Chemistry (2023), 245(Part_1), 114905.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -48184,8 +47756,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48193,8 +47764,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -48237,8 +47807,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48246,8 +47815,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -48290,8 +47858,7 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48299,8 +47866,7 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Diphenyl phosphate (CAS: 161265-03-8)
-  - CAS: 838-85-7
+  - XantPhos (CAS: 161265-03-8)
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -48343,7 +47909,7 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48351,10 +47917,10 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48394,7 +47960,7 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48402,10 +47968,10 @@ ChemCatChem (2022), 14(16), e202200734.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48445,7 +48011,7 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48453,10 +48019,10 @@ Angewandte Chemie, International Edition (2021), 60(6), 2969-2973.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48497,8 +48063,8 @@ Journal of the American Chemical Society (2023), 145(18), 10431-10440.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Sodium tert-butoxide (CAS: 865-48-5)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - NaOtBu (CAS: 865-48-5)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -48507,11 +48073,11 @@ Journal of the American Chemical Society (2023), 145(18), 10431-10440.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Sodium tert-butoxide (CAS: 865-48-5)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - NaOtBu (CAS: 865-48-5)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Tricyclohexylphosphine (CAS: 2622-14-2) - Role: UNK
+  - PCy3 (CAS: 2622-14-2) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48553,8 +48119,8 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -48563,11 +48129,11 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48609,8 +48175,8 @@ Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -48619,11 +48185,11 @@ Angewandte Chemie, International Edition (2021), 60(20), 11227-11230.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48665,8 +48231,8 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -48675,11 +48241,11 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48722,8 +48288,8 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -48732,11 +48298,11 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tricyclohexylphosphine (CAS: 2622-14-2)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PCy3 (CAS: 2622-14-2)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48780,7 +48346,7 @@ Organic Process Research & Development (2023), 27(3), 530-538.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -48788,11 +48354,11 @@ Organic Process Research & Development (2023), 27(3), 530-538.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48834,7 +48400,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -48842,11 +48408,11 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48888,7 +48454,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -48896,10 +48462,10 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
 
 **Solvents:**
@@ -48941,16 +48507,16 @@ Journal of the American Chemical Society (2021), 143(49), 21066-21076.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -48993,15 +48559,15 @@ Journal of Medicinal Chemistry (2022), 65(10), 7278-7295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -49045,7 +48611,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -49053,10 +48619,10 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49108,9 +48674,9 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -49201,20 +48767,17 @@ Journal of Organic Chemistry (2023), 88(3), 1742-1748.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49247,10 +48810,6 @@ Nature Communications (2021), 12(1), 2706.
 10.1038/s41467-021-23067-2
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947661
@@ -49259,20 +48818,17 @@ Nature Communications (2021), 12(1), 2706.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49306,10 +48862,6 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 10.1021/acs.jmedchem.2c01732
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947662
@@ -49318,20 +48870,17 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49364,10 +48913,6 @@ ChemCatChem (2022), 14(16), e202200734.
 10.1002/cctc.202200734
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947663
@@ -49376,20 +48921,17 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49422,10 +48964,6 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 10.1021/acs.joc.0c02149
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947664
@@ -49434,20 +48972,17 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49480,10 +49015,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947665
@@ -49492,20 +49023,17 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49538,10 +49066,6 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 10.1002/anie.202214908
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947666
@@ -49550,20 +49074,17 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49596,10 +49117,6 @@ Nature Communications (2023), 14(1), 7220.
 10.1038/s41467-023-43014-7
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947667
@@ -49608,20 +49125,17 @@ Nature Communications (2023), 14(1), 7220.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49654,10 +49168,6 @@ Organic Letters (2021), 23(13), 5203-5207.
 10.1021/acs.orglett.1c01736
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947668
@@ -49666,20 +49176,17 @@ Organic Letters (2021), 23(13), 5203-5207.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49716,10 +49223,6 @@ Angewandte Chemie, International Edition (2022), 61(20), e202202814.
 10.1002/anie.202202814
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947669
@@ -49728,20 +49231,17 @@ Angewandte Chemie, International Edition (2022), 61(20), e202202814.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49775,10 +49275,6 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 10.1002/ejoc.202100188
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947670
@@ -49787,20 +49283,17 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49833,10 +49326,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947671
@@ -49845,20 +49334,17 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49891,10 +49377,6 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 10.1002/ejoc.202001523
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947672
@@ -49903,20 +49385,17 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -49952,10 +49431,6 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 10.1021/acs.joc.1c01483
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947673
@@ -49964,20 +49439,17 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50010,10 +49482,6 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 10.1016/j.ejmech.2020.112916
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947674
@@ -50022,20 +49490,17 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50068,10 +49533,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 10.1039/d1cc03215a
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947675
@@ -50080,20 +49541,17 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50126,10 +49584,6 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 10.1002/anie.202110221
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947676
@@ -50138,20 +49592,17 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50186,10 +49637,6 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 10.1002/anie.202303271
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947677
@@ -50198,20 +49645,17 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50244,10 +49688,6 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 10.1002/adsc.202200537
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947678
@@ -50256,20 +49696,17 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50304,10 +49741,6 @@ European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 10.1002/ejoc.202101421
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947679
@@ -50316,20 +49749,17 @@ European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50362,10 +49792,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947680
@@ -50374,20 +49800,17 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50420,10 +49843,6 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 10.1021/jacs.4c03342
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947683
@@ -50432,20 +49851,17 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50478,10 +49894,6 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 10.1039/d1cc03224k
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947684
@@ -50490,20 +49902,17 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50536,10 +49945,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947685
@@ -50548,20 +49953,17 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50594,10 +49996,6 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 10.1021/acs.joc.3c02176
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947686
@@ -50606,20 +50004,17 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50652,10 +50047,6 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 10.1002/chem.202201435
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947687
@@ -50664,20 +50055,17 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50710,10 +50098,6 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 10.1021/acs.joc.0c01923
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947688
@@ -50722,20 +50106,17 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50768,10 +50149,6 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 10.1021/acs.jmedchem.1c00904
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947689
@@ -50780,20 +50157,17 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50826,10 +50200,6 @@ Nature Communications (2022), 13(1), 6056.
 10.1038/s41467-022-33827-3
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947690
@@ -50838,20 +50208,17 @@ Nature Communications (2022), 13(1), 6056.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50884,10 +50251,6 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 10.1002/adsc.202100860
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947691
@@ -50896,20 +50259,17 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -50942,10 +50302,6 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 10.1002/ejoc.202100659
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38947692
@@ -50954,20 +50310,17 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
-  - 1,3-Bis(diphenylphosphino)propane
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4) *[Corrected from: 1|6737-42-4]*
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
 
-**Ligands:**
-  - 1,3-Bis(diphenylphosphino)propane
-
+**Ligands:** None
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51000,10 +50353,6 @@ ChemCatChem (2022), 14(17), e202200485.
 10.1002/cctc.202200485
 ```
 
-**Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-  - ⚠️ Catalyst Core: Name mismatch: '1' vs expected '1,3-Bis(diphenylphosphino)propane' for CAS 6737-42-4
-
 ---
 
 ## Reaction 31-614-CAS-38966807
@@ -51012,7 +50361,7 @@ ChemCatChem (2022), 14(17), e202200485.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -51020,11 +50369,11 @@ ChemCatChem (2022), 14(17), e202200485.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -51079,7 +50428,7 @@ Journal of Medicinal Chemistry (2024), 67(2), 1262-1313.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51119,7 +50468,7 @@ Angewandte Chemie, International Edition (2021), 60(51), 26769-26776.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -51127,10 +50476,10 @@ Angewandte Chemie, International Edition (2021), 60(51), 26769-26776.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51171,7 +50520,7 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -51179,10 +50528,10 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51224,7 +50573,7 @@ Organic Letters (2024), 26(49), 10523-10528.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -51232,15 +50581,15 @@ Organic Letters (2024), 26(49), 10523-10528.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Butyllithium (CAS: 109-72-8) - Role: BASE
+  - n-BuLi (CAS: 109-72-8) - Role: BASE
   - Magnesium bromide (CAS: 7789-48-2) - Role: UNK
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Tetrahydrofuran (CAS: 109-99-9)
   - Hexane (CAS: 110-54-3)
   - Toluene (CAS: 108-88-3)
@@ -51289,7 +50638,7 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -51297,15 +50646,15 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Butyllithium (CAS: 109-72-8) - Role: BASE
+  - n-BuLi (CAS: 109-72-8) - Role: BASE
   - Magnesium bromide (CAS: 7789-48-2) - Role: UNK
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: UNK
 
 **Solvents:**
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Tetrahydrofuran (CAS: 109-99-9)
   - Hexane (CAS: 110-54-3)
   - Toluene (CAS: 108-88-3)
@@ -51363,7 +50712,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -51406,7 +50755,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -51414,10 +50763,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51458,7 +50807,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -51466,10 +50815,10 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51510,7 +50859,7 @@ ACS Catalysis (2022), 12(12), 7269-7277.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -51518,10 +50867,10 @@ ACS Catalysis (2022), 12(12), 7269-7277.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51565,7 +50914,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -51573,10 +50922,10 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51617,7 +50966,7 @@ Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -51625,10 +50974,10 @@ Journal of the American Chemical Society (2024), 146(48), 33035-33047.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51669,7 +51018,7 @@ Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -51677,10 +51026,10 @@ Journal of Organic Chemistry (2024), 89(6), 3970-3976.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tri-tert-butylphosphine (CAS: 13716-12-6)
+  - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -51733,7 +51082,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -51785,7 +51134,7 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -51837,7 +51186,7 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -51889,7 +51238,7 @@ ACS Catalysis (2022), 12(6), 3291-3301.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -51941,7 +51290,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(14), 1888-1891.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -51993,7 +51342,7 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52045,7 +51394,7 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52097,7 +51446,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52149,7 +51498,7 @@ Angewandte Chemie, International Edition (2021), 60(22), 12376-12380.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52201,7 +51550,7 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52254,7 +51603,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52306,7 +51655,7 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52358,7 +51707,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52410,7 +51759,7 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52462,7 +51811,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52514,7 +51863,7 @@ Chemistry - A European Journal (2021), 27(9), 3151-3158.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52566,7 +51915,7 @@ Organic Letters (2023), 25(9), 1470-1475.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52618,7 +51967,7 @@ Angewandte Chemie, International Edition (2023), 62(52), e202315156.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52670,7 +52019,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52722,7 +52071,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: BASE
+  - NaOH (CAS: 1310-73-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52774,8 +52123,8 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52830,8 +52179,8 @@ Journal of the American Chemical Society (2021), 143(33), 13342-13349.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52886,8 +52235,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52942,8 +52291,8 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -52998,8 +52347,8 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -53054,8 +52403,8 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -53110,8 +52459,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -53166,8 +52515,8 @@ Organic Letters (2022), 24(20), 3736-3740.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -53224,8 +52573,8 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 486-489.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -53280,8 +52629,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Monosodium phosphate (CAS: 7558-80-7) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -53336,7 +52685,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(52), 7269-7272.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Potassium hydroxide (CAS: 1310-58-3) - Role: BASE
+  - KOH (CAS: 1310-58-3) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -53377,7 +52726,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -53385,11 +52734,11 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(23), 3775-3778.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -53430,20 +52779,20 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 564483-19-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 564483-19-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Bis(1,1-dimethylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine (CAS: 32005-36-0)
+  - tBuXPhos (CAS: 564483-19-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - 2-Methyltetrahydrofuran (CAS: 96-47-9)
@@ -53488,7 +52837,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -53496,10 +52845,10 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -53547,8 +52896,8 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -53592,11 +52941,11 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -53604,7 +52953,7 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -53644,11 +52993,11 @@ Angewandte Chemie, International Edition (2023), 62(11), e202219107.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -53656,7 +53005,7 @@ Angewandte Chemie, International Edition (2023), 62(11), e202219107.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -53708,7 +53057,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -53760,7 +53109,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -53812,7 +53161,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -53864,7 +53213,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -53916,7 +53265,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -53969,7 +53318,7 @@ ACS Catalysis (2023), 13(11), 7680-7690.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54021,7 +53370,7 @@ Chemistry - A European Journal (2022), 28(9), e202104107.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54073,7 +53422,7 @@ Organic Letters (2022), 24(20), 3736-3740.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54113,7 +53462,7 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -54121,11 +53470,11 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54169,7 +53518,7 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -54177,11 +53526,11 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54223,7 +53572,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -54231,11 +53580,11 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54277,7 +53626,7 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -54285,11 +53634,11 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54331,7 +53680,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -54339,11 +53688,11 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54390,7 +53739,7 @@ Journal of the American Chemical Society (2022), 144(49), 22689-22697.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -54398,11 +53747,11 @@ Journal of the American Chemical Society (2022), 144(49), 22689-22697.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl (CAS: 657408-07-6)
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54443,21 +53792,18 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 1,1-Bis(diphenylphosphino)ferrocene
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54508,7 +53854,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54549,7 +53895,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -54557,10 +53903,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -54600,19 +53946,18 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 32005-36-0)
+  - 1 (CAS: 6737-42-4)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54653,7 +53998,7 @@ Nature Communications (2022), 13(1), 115.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -54661,10 +54006,10 @@ Nature Communications (2022), 13(1), 115.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54712,7 +54057,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54760,7 +54105,7 @@ Angewandte Chemie, International Edition (2022), 61(20), e202200612.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54808,7 +54153,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14498-14512.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54849,7 +54194,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -54857,10 +54202,10 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -54900,7 +54245,7 @@ Angewandte Chemie, International Edition (2021), 60(14), 7643-7648.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - BINAP (CAS: 14221-01-3)
+  - BINAP (CAS: 2250-01-3)
   - Tetrakis(triphenylphosphine)palladium (CAS: 98327-87-8)
 
 **Catalyst Core:**
@@ -54909,10 +54254,10 @@ Angewandte Chemie, International Edition (2021), 60(14), 7643-7648.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 14221-01-3)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Acetonitrile (CAS: 75-05-8)
@@ -54964,7 +54309,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -55016,8 +54361,8 @@ Advanced Synthesis & Catalysis (2022), 364(19), 3384-3388.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -55072,7 +54417,7 @@ Angewandte Chemie, International Edition (2023), 62(18), e202300178.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - tert-Butanol (CAS: 75-65-0)
@@ -55114,24 +54459,23 @@ ACS Catalysis (2022), 12(20), 12860-12868.
 **Type:** Buchwald
 
 **Full Catalytic System:**
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
   - Palladium (CAS: 7440-05-3)
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
   - Palladium (CAS: 7440-05-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - 4-(Dimethylamino)pyridine (CAS: 1122-58-3)
-
+**Ligands:** None
 **Reagents:**
-  - Hydrogen (CAS: 1333-74-0) - Role: WORKUP
-  - 1-Ethyl-3-(3′-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
+  - Hydrogen (CAS: 1333-74-0) - Role: ACTIVATOR
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
-  - Ethyl acetate (CAS: 141-78-6)
+  - Ethyl Acetate (CAS: 141-78-6)
   - Dichloromethane (CAS: 75-09-2)
 
 **Reaction Conditions:**
@@ -55187,7 +54531,7 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -55242,7 +54586,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -55297,7 +54641,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(16), 2021-2024.
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -55352,7 +54696,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -55407,7 +54751,7 @@ Journal of the American Chemical Society (2022), 144(50), 22976-22984.
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -55462,7 +54806,7 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Solvents:**
   - Methanol (CAS: 67-56-1)
-  - Diethyl ether (CAS: 60-29-7)
+  - Diethyl Ether (CAS: 60-29-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -55508,7 +54852,7 @@ Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -55516,10 +54860,10 @@ Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -55571,7 +54915,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -55610,15 +54954,15 @@ Journal of Medicinal Chemistry (2024), 67(13), 10831-10847.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -55659,7 +55003,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -55667,10 +55011,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -55710,15 +55054,15 @@ Nature Communications (2022), 13(1), 2869.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -55759,7 +55103,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -55767,10 +55111,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -55811,7 +55155,7 @@ Journal of Medicinal Chemistry (2022), 65(22), 15140-15164.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -55819,10 +55163,10 @@ Journal of Medicinal Chemistry (2022), 65(22), 15140-15164.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -55865,7 +55209,7 @@ Journal of Medicinal Chemistry (2021), 64(6), 3234-3248.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -55873,10 +55217,10 @@ Journal of Medicinal Chemistry (2021), 64(6), 3234-3248.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -55917,7 +55261,7 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -55925,10 +55269,10 @@ Angewandte Chemie, International Edition (2021), 60(7), 3493-3497.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -55968,21 +55312,16 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -56023,7 +55362,7 @@ Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -56031,11 +55370,11 @@ Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -56077,7 +55416,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -56085,11 +55424,11 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -56130,21 +55469,16 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -56184,21 +55518,16 @@ Organic Letters (2024), 26(17), 3617-3621.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
-  - compd. with trichloromethane (1:1) (CAS: 161265-03-8)
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -56239,7 +55568,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -56247,10 +55576,10 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -56298,7 +55627,7 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56346,7 +55675,7 @@ Journal of the American Chemical Society (2022), 144(18), 8306-8316.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56394,7 +55723,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56442,7 +55771,7 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56490,7 +55819,7 @@ Journal of Medicinal Chemistry (2023), 66(18), 13280-13303.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56538,7 +55867,7 @@ Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56586,7 +55915,7 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56634,7 +55963,7 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56682,7 +56011,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -56734,7 +56063,7 @@ Organic Process Research & Development (2022), 26(9), 2756-2760.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -56788,7 +56117,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -56844,8 +56173,8 @@ European Journal of Medicinal Chemistry (2022), 243, 114764.
   - (-)-BINAP (CAS: 76189-56-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
-  - Sodium hydroxide (CAS: 1310-73-2) - Role: UNK
+  - NaOH (CAS: 1310-73-2) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -56886,19 +56215,19 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - BINAP (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 98327-87-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 98327-87-8)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 32005-36-0)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -56942,7 +56271,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -56950,7 +56279,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -56989,19 +56318,16 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -57055,7 +56381,7 @@ Journal of the American Chemical Society (2022), 144(4), 1748-1757.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -57107,7 +56433,7 @@ Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -57159,7 +56485,7 @@ Journal of the American Chemical Society (2022), 144(29), 13032-13038.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -57213,7 +56539,7 @@ ACS Catalysis (2022), 12(20), 12860-12868.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -57265,7 +56591,7 @@ Journal of Medicinal Chemistry (2021), 64(13), 9010-9041.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -57317,7 +56643,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -57358,7 +56684,7 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -57366,10 +56692,10 @@ Journal of the American Chemical Society (2023), 145(42), 23000-23013.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -57410,7 +56736,7 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -57418,10 +56744,10 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57462,7 +56788,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -57470,10 +56796,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57525,7 +56851,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57566,7 +56892,7 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -57574,10 +56900,10 @@ Angewandte Chemie, International Edition (2022), 61(27), e202202614.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57617,19 +56943,16 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - (-)-BINAP (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 76189-56-5)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 76189-56-5)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (-)-BINAP (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57679,8 +57002,8 @@ Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
 
 **Solvents:**
   - Dichloromethane (CAS: 75-09-2)
@@ -57731,7 +57054,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57772,7 +57095,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -57780,10 +57103,10 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57824,7 +57147,7 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -57832,10 +57155,10 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57887,7 +57210,7 @@ Angewandte Chemie, International Edition (2022), 61(19), e202115140.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -57940,7 +57263,7 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -57993,7 +57316,7 @@ Journal of Organic Chemistry (2022), 87(21), 13965-13979.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58046,7 +57369,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58099,7 +57422,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58152,7 +57475,7 @@ ChemCatChem (2023), 15(3), e202201311.
   - (+)-BINAP (CAS: 76189-55-4)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -58200,7 +57523,7 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - (+)-BINAP (CAS: 76189-55-4) - Role: UNK
 
 **Solvents:**
@@ -58250,7 +57573,7 @@ Angewandte Chemie, International Edition (2023), 62(12), e202218195.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - (+)-BINAP (CAS: 76189-55-4) - Role: UNK
 
 **Solvents:**
@@ -58301,7 +57624,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - (+)-BINAP (CAS: 76189-55-4) - Role: UNK
 
 **Solvents:**
@@ -58355,8 +57678,8 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(14), 2003-2006.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
+  - Cs2CO3 (CAS: 534-17-8) - Role: UNK
   - Methanesulfonic acid (CAS: 75-75-2) - Role: BASE
-  - Cesium carbonate (CAS: 534-17-8) - Role: UNK
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -58398,7 +57721,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -58406,10 +57729,10 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58450,7 +57773,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -58458,10 +57781,10 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58502,7 +57825,7 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -58510,10 +57833,10 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(100), 14968-14971
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58554,7 +57877,7 @@ Nature Communications (2022), 13(1), 115.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -58562,10 +57885,10 @@ Nature Communications (2022), 13(1), 115.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58606,7 +57929,7 @@ Journal of Medicinal Chemistry (2023), 66(20), 14133-14149.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -58614,10 +57937,10 @@ Journal of Medicinal Chemistry (2023), 66(20), 14133-14149.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58658,7 +57981,7 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -58666,10 +57989,10 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58709,19 +58032,16 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -58762,7 +58082,7 @@ Journal of Medicinal Chemistry (2022), 65(1), 838-856.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -58770,10 +58090,10 @@ Journal of Medicinal Chemistry (2022), 65(1), 838-856.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -58815,20 +58135,20 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Triphenylphosphine (CAS: 603-35-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PPh3 (CAS: 603-35-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58869,20 +58189,20 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Triphenylphosphine (CAS: 603-35-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - PPh3 (CAS: 603-35-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Triphenylphosphine (CAS: 603-35-0)
+  - PPh3 (CAS: 603-35-0)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58924,7 +58244,7 @@ Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -58932,10 +58252,10 @@ Journal of Medicinal Chemistry (2021), 64(17), 12808-12830.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -58983,8 +58303,8 @@ Chemistry - A European Journal (2021), 27(71), 17880-17888.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
   - Hydrogen (CAS: 1333-74-0) - Role: UNK
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -59028,7 +58348,7 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -59036,10 +58356,10 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59081,25 +58401,16 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59140,25 +58451,16 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59198,25 +58500,16 @@ Journal of Organic Chemistry (2023), 88(9), 5852-5860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59259,25 +58552,16 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59317,25 +58601,16 @@ Journal of Medicinal Chemistry (2021), 64(23), 17146-17183.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59375,25 +58650,16 @@ Organic Letters (2024), 26(18), 3855-3860.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59434,7 +58700,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,2-Bis(diphenylphosphino)ethane (CAS: 1663-45-2)
+  - DPPE (CAS: 1663-45-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -59442,10 +58708,10 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 1,2-Bis(diphenylphosphino)ethane (CAS: 1663-45-2)
+  - DPPE (CAS: 1663-45-2)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -59487,7 +58753,7 @@ Angewandte Chemie, International Edition (2023), 62(35), e202307118.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,2-Bis(diphenylphosphino)ethane (CAS: 1663-45-2)
+  - DPPE (CAS: 1663-45-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -59495,10 +58761,10 @@ Angewandte Chemie, International Edition (2023), 62(35), e202307118.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 1,2-Bis(diphenylphosphino)ethane (CAS: 1663-45-2)
+  - DPPE (CAS: 1663-45-2)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -59537,7 +58803,7 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1,2-Bis(diphenylphosphino)ethane (CAS: 1663-45-2)
+  - DPPE (CAS: 1663-45-2)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -59545,10 +58811,10 @@ Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 1,2-Bis(diphenylphosphino)ethane (CAS: 1663-45-2)
+  - DPPE (CAS: 1663-45-2)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - Dimethylformamide (CAS: 68-12-2)
@@ -59589,7 +58855,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -59597,10 +58863,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(97), 14467-14470.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59640,19 +58906,16 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -59692,19 +58955,16 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(43), 6556-6559.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59746,7 +59006,7 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -59754,10 +59014,10 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59797,22 +59057,19 @@ Journal of Medicinal Chemistry (2024), 67(6), 4819-4832.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59861,22 +59118,19 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
   - Lithium hydroxide (CAS: 1310-65-2) - Role: UNK
-  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Trifluoroacetic acid (CAS: 76-05-1) - Role: UNK
+  - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59925,19 +59179,16 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -59977,19 +59228,16 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60041,8 +59289,8 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(50), 6395-6398.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60084,7 +59332,7 @@ Chemistry - A European Journal (2021), 27(53), 13390-13398.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -60092,11 +59340,11 @@ Chemistry - A European Journal (2021), 27(53), 13390-13398.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60148,7 +59396,7 @@ Angewandte Chemie, International Edition (2023), 62(27), e202304461.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60202,7 +59450,7 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60255,7 +59503,7 @@ Angewandte Chemie, International Edition (2022), 61(12), e202113909.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60309,7 +59557,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60363,7 +59611,7 @@ Journal of Organic Chemistry (2021), 86(23), 16259-16267.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60416,7 +59664,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60470,7 +59718,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60525,7 +59773,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60579,7 +59827,7 @@ Angewandte Chemie, International Edition (2022), 61(52), e202213697.
   - Di-tert-butyl(2′,4′,6′-triisopropyl-3,4,5,6-tetramethylbiphenyl-2-yl)phosphine (CAS: 857356-94-6)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60622,7 +59870,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -60630,10 +59878,10 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60675,15 +59923,15 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -60723,15 +59971,15 @@ European Journal of Medicinal Chemistry (2022), 244, 114858.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -60771,15 +60019,15 @@ Nature Communications (2024), 15(1), 3968.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -60820,7 +60068,7 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -60828,10 +60076,10 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -60872,21 +60120,18 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
-  - 1,1-Bis(diphenylphosphino)ferrocene
+  - 1 (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 12150-46-8)
+  - 1 (CAS: 6737-42-4)
 
 **Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
 
-**Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene
-
+**Ligands:** None
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -60930,7 +60175,7 @@ Organic Letters (2022), 24(20), 3736-3740.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -60938,12 +60183,12 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium bicarbonate (CAS: 144-55-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -60989,7 +60234,7 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -60997,12 +60242,12 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Lithium bis(trimethylsilyl)amide (CAS: 4039-32-1) - Role: BASE
+  - NaHCO3 (CAS: 144-55-8) - Role: UNK
+  - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
-  - Sodium bicarbonate (CAS: 144-55-8) - Role: UNK
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -61055,7 +60300,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium carbonate (CAS: 497-19-8) - Role: BASE
+  - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -61097,7 +60342,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -61105,10 +60350,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61156,8 +60401,8 @@ Nature Communications (2024), 15(1), 9611.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
-  - BINAP (CAS: 98327-87-8) - Role: UNK
+  - BINAP (CAS: 2250-01-3) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61198,7 +60443,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -61206,10 +60451,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -61257,8 +60502,8 @@ Journal of Medicinal Chemistry (2024), 67(6), 4707-4725.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
-  - BINAP (CAS: 98327-87-8) - Role: UNK
+  - BINAP (CAS: 2250-01-3) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61310,7 +60555,7 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61362,7 +60607,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - 1′-[Bis(1,1-dimethylethyl)phosphino]-1,2,3,4,5-pentaphenylferrocene (CAS: 312959-24-3)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61414,7 +60659,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Potassium tert-butoxide (CAS: 865-47-4) - Role: BASE
+  - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61462,7 +60707,7 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61510,7 +60755,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61560,7 +60805,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Acetic acid (CAS: 64-19-7) - Role: OX
+  - Acetic Acid (CAS: 64-19-7) - Role: OX
   - Oxygen (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
@@ -61602,7 +60847,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -61610,10 +60855,10 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -61653,23 +60898,18 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -61709,23 +60949,18 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -61767,23 +61002,18 @@ Journal of Medicinal Chemistry (2023), 66(18), 13205-13246.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -61823,23 +61053,18 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -61879,23 +61104,18 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -61935,23 +61155,18 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -61991,23 +61206,18 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62047,23 +61257,18 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62103,23 +61308,18 @@ Organic Chemistry Frontiers (2023), 10(12), 2955-2962.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62159,23 +61359,18 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -62215,23 +61410,18 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62271,23 +61461,18 @@ Chemistry - A European Journal (2021), 27(8), 2826-2836.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62327,23 +61512,18 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62383,23 +61563,18 @@ European Journal of Medicinal Chemistry (2024), 268, 116285.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62442,23 +61617,18 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62498,23 +61668,18 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62554,23 +61719,18 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62610,23 +61770,18 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62666,23 +61821,18 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62722,23 +61872,18 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62778,23 +61923,18 @@ European Journal of Medicinal Chemistry (2022), 242, 114638.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62834,23 +61974,18 @@ Organic Letters (2021), 23(9), 3546-3551.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62890,23 +62025,18 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -62948,23 +62078,18 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63004,23 +62129,18 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63061,23 +62181,18 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63117,23 +62232,18 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63173,23 +62283,18 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63229,23 +62334,18 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63287,23 +62387,18 @@ Journal of Medicinal Chemistry (2023), 66(6), 4253-4270.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63343,23 +62438,18 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63399,23 +62489,18 @@ Angewandte Chemie, International Edition (2023), 62(39), e202309295.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63455,23 +62540,18 @@ Nature Communications (2022), 13(1), 2869.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63511,23 +62591,18 @@ Angewandte Chemie, International Edition (2023), 62(4), e202216838.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63567,23 +62642,18 @@ Journal of Medicinal Chemistry (2023), 66(16), 11447-11463.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63623,23 +62693,18 @@ Organic Letters (2024), 26(4), 939-944.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -63679,23 +62744,18 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - tert-Butyl methyl ether (CAS: 1634-04-4)
@@ -63735,23 +62795,18 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -63791,23 +62846,18 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -63847,23 +62897,18 @@ Organic Chemistry Frontiers (2022), 9(21), 5845-5850.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -63906,23 +62951,18 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -63962,23 +63002,18 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64018,23 +63053,18 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64074,23 +63104,18 @@ Nature Communications (2024), 15(1), 6791.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64130,23 +63155,18 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64186,23 +63206,18 @@ Journal of Medicinal Chemistry (2022), 65(23), 15805-15818.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64242,23 +63257,18 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64298,23 +63308,18 @@ Organic Letters (2022), 24(31), 5787-5790.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64354,23 +63359,18 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64410,23 +63410,18 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64466,23 +63461,18 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64522,23 +63512,18 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64578,23 +63563,18 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 950982-66-8)
-  - (2R)-1-[(1S)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-[bis[4-(trifluoromethyl)phenyl]phosphino]ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 950982-66-8)
-  - (2R)-1-[(1S)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-[bis[4-(trifluoromethyl)phenyl]phosphino]ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64634,23 +63614,18 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64690,23 +63665,18 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64746,23 +63716,18 @@ Chemistry - A European Journal (2021), 27(69), 17412-17419.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64802,23 +63767,18 @@ Angewandte Chemie, International Edition (2022), 61(19), e202115140.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64858,23 +63818,18 @@ ChemCatChem (2022), 14(17), e202200485.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64914,23 +63869,18 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di- (CAS: 52522-40-4)
   - compd. with trichloromethane (1:1) (CAS: 849924-41-0)
-  - (2R)-1-[(1R)-1-[Bis(1,1-dimethylethyl)phosphino]ethyl]-2-(di-2-furanylphosphino)ferrocene
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -64970,19 +63920,16 @@ Organic Chemistry Frontiers (2022), 9(14), 3828-3833.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - (1R)-1-(Diphenylphosphino)-2-[(1R)-1-[(diphenylphosphino)methylamino]ethyl]ferrocene (CAS: 32005-36-0)
-  - Bis(dibenzylideneacetone)palladium (CAS: 406680-94-2)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 406680-94-2)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (1R)-1-(Diphenylphosphino)-2-[(1R)-1-[(diphenylphosphino)methylamino]ethyl]ferrocene (CAS: 32005-36-0)
-
+**Ligands:** None
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65025,19 +63972,18 @@ Organic Chemistry Frontiers (2023), 10(7), 1731-1737.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
-  - (R)-Phanephos (CAS: 364732-88-7)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - Bis(dibenzylideneacetone)palladium (CAS: 364732-88-7)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
+  - Bis(dibenzylideneacetone)palladium (CAS: 364732-88-7)
 
 **Generic Catalyst:** Pd
 
-**Ligands:**
-  - (R)-Phanephos (CAS: 364732-88-7)
-
+**Ligands:** None
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65078,7 +64024,7 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65086,10 +64032,10 @@ Angewandte Chemie, International Edition (2024), 63(24), e202405158.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65130,7 +64076,7 @@ Organic Letters (2022), 24(5), 1201-1206.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65138,10 +64084,10 @@ Organic Letters (2022), 24(5), 1201-1206.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65182,7 +64128,7 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65190,10 +64136,10 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65245,7 +64191,7 @@ Journal of Organic Chemistry (2023), 88(24), 17047-17061.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65287,7 +64233,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65295,10 +64241,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65340,7 +64286,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65348,10 +64294,10 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65392,7 +64338,7 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65400,10 +64346,10 @@ Journal of the American Chemical Society (2023), 145(21), 11504-11511.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65444,7 +64390,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65452,10 +64398,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65507,7 +64453,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -65549,7 +64495,7 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65557,10 +64503,10 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65601,7 +64547,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65609,10 +64555,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65664,7 +64610,7 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -65704,19 +64650,16 @@ Angewandte Chemie, International Edition (2023), 62(47), e202313084.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
+  - RuPhos (CAS: 787618-22-8)
 
-**Catalyst Core:**
-  - [2′-(Amino-κN)[1,1′-biphenyl]-2-yl-κC][[2′,6′-bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine-κP](methanesulfonato-κO)palladium (CAS: 1445085-77-7)
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -65772,7 +64715,7 @@ Journal of Medicinal Chemistry (2023), 66(23), 15960-15976.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -65824,7 +64767,7 @@ Organic Letters (2021), 23(18), 7094-7099.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -65865,7 +64808,7 @@ Organic Letters (2023), 25(49), 8912-8916.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -65873,11 +64816,11 @@ Organic Letters (2023), 25(49), 8912-8916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -65932,7 +64875,7 @@ Chemistry - A European Journal (2021), 27(53), 13390-13398.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66025,16 +64968,16 @@ Angewandte Chemie, International Edition (2024), 63(14), e202311250.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: CAT_LIG
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: BASE
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
+  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66073,25 +65016,16 @@ Angewandte Chemie, International Edition (2024), 63(36), e202407279.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66132,26 +65066,17 @@ Organic Letters (2023), 25(15), 2701-2706.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Ammonium chloride (CAS: 12125-02-9) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66206,7 +65131,7 @@ Journal of Medicinal Chemistry (2021), 64(6), 2937-2952.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66258,7 +65183,7 @@ Journal of Organic Chemistry (2024), 89(6), 3970-3976.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66310,7 +65235,7 @@ Advanced Synthesis & Catalysis (2021), 363(24), 5422-5428.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66362,7 +65287,7 @@ Angewandte Chemie, International Edition (2021), 60(23), 12835-12840.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66414,7 +65339,7 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66469,7 +65394,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66521,7 +65446,7 @@ Angewandte Chemie, International Edition (2022), 61(16), e202117580.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66573,7 +65498,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66625,7 +65550,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66677,7 +65602,7 @@ Journal of Medicinal Chemistry (2024), 67(14), 11732-11750.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66729,7 +65654,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(4), 438-441.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66781,7 +65706,7 @@ Chemistry - A European Journal (2021), 27(48), 12362-12370.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66833,7 +65758,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66885,7 +65810,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6089-6094.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66940,7 +65865,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -66992,7 +65917,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67044,7 +65969,7 @@ Angewandte Chemie, International Edition (2022), 61(51), e202213407.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67096,7 +66021,7 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67137,7 +66062,7 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67145,10 +66070,10 @@ ChemCatChem (2022), 14(16), e202200734.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67189,7 +66114,7 @@ Angewandte Chemie, International Edition (2023), 62(14), e202300199.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67197,10 +66122,10 @@ Angewandte Chemie, International Edition (2023), 62(14), e202300199.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67244,7 +66169,7 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67252,10 +66177,10 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67296,7 +66221,7 @@ Journal of Organic Chemistry (2022), 87(15), 9977-9987.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67304,10 +66229,10 @@ Journal of Organic Chemistry (2022), 87(15), 9977-9987.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67348,7 +66273,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67356,10 +66281,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67400,7 +66325,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67408,10 +66333,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67452,7 +66377,7 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67460,10 +66385,10 @@ Journal of Medicinal Chemistry (2024), 67(10), 7836-7858.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67504,7 +66429,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67512,10 +66437,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67556,7 +66481,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67564,10 +66489,10 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67608,7 +66533,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67616,10 +66541,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67660,7 +66585,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67668,10 +66593,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67712,7 +66637,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67720,10 +66645,10 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67764,7 +66689,7 @@ ACS Catalysis (2022), 12(13), 8048-8054.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67772,10 +66697,10 @@ ACS Catalysis (2022), 12(13), 8048-8054.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67816,7 +66741,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67824,10 +66749,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67871,7 +66796,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67879,10 +66804,10 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67923,7 +66848,7 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67931,10 +66856,10 @@ Journal of the American Chemical Society (2022), 144(49), 22451-22457.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -67975,7 +66900,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -67983,10 +66908,10 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68027,7 +66952,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -68035,10 +66960,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68079,7 +67004,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -68087,10 +67012,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68131,7 +67056,7 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -68139,10 +67064,10 @@ Chemistry - A European Journal (2022), 28(64), e202202207.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68183,7 +67108,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -68191,10 +67116,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68246,7 +67171,7 @@ Organic Letters (2021), 23(17), 6697-6702.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68298,7 +67223,7 @@ ChemCatChem (2021), 13(18), 3930-3933.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68350,7 +67275,7 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68392,8 +67317,7 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 657408-07-6)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -68402,11 +67326,10 @@ Angewandte Chemie, International Edition (2021), 60(49), 25878-25883.
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 657408-07-6)
-  - 2-Dicyclohexylphosphino-2′,6′-dimethoxybiphenyl
+  - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68458,7 +67381,7 @@ Journal of the American Chemical Society (2023), 145(3), 1607-1616.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68510,7 +67433,7 @@ Organometallics (2021), 40(2), 156-165.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68562,7 +67485,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68603,7 +67526,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -68611,10 +67534,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - CAS: 161265-03-8
+  - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68666,7 +67589,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
   - X-Phos (CAS: 564483-18-7)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -68709,10 +67632,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
-  - Bicyclo[2.2.1]hept-2-ene-2-carboxylic acid (CAS: 3059934-92-5)
-  - methyl ester
-  - (1R,4R)-
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -68720,13 +67640,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
-  - Bicyclo[2.2.1]hept-2-ene-2-carboxylic acid (CAS: 3059934-92-5)
-  - methyl ester
-  - (1R,4R)-
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68778,8 +67695,8 @@ Journal of Organic Chemistry (2021), 86(3), 2545-2555.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: WORKUP
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68828,8 +67745,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Potassium formate (CAS: 590-29-4) - Role: UNK
   - Tetrabutylammonium trifluoromethanesulfonate (CAS: 35895-70-6) - Role: UNK
+  - Potassium formate (CAS: 590-29-4) - Role: UNK
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -68870,7 +67787,7 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -68878,11 +67795,11 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - 2′-(Dicyclohexylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine (CAS: 213697-53-1)
+  - DavePhos (CAS: 213697-53-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -68925,18 +67842,13 @@ ACS Catalysis (2024), 14(3), 2014-2021.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -68979,18 +67891,13 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -69034,18 +67941,13 @@ Journal of Organic Chemistry (2022), 87(12), 8059-8070.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - bromo[dicyclohexyl[3-(1,1-dimethylethoxy)-6-methoxy-2′,6′-bis(1-methylethyl)[1,1′-biphenyl]-2-yl-κC1′]phosphine-κP][4-[[2-(trimethylsilyl)ethoxy]carbonyl]phenyl]- (CAS: 2489525-81-5)
-  - (SP-4-2)-
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: BASE
@@ -69089,7 +67991,7 @@ Angewandte Chemie, International Edition (2024), 63(14), e202401117.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69097,10 +67999,10 @@ Angewandte Chemie, International Edition (2024), 63(14), e202401117.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69141,7 +68043,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(75), 9582-9585.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -69149,10 +68051,10 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(75), 9582-9585.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -69193,7 +68095,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -69201,10 +68103,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -69249,7 +68151,7 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69257,10 +68159,10 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69301,7 +68203,7 @@ ACS Catalysis (2022), 12(8), 4688-4695.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69309,10 +68211,10 @@ ACS Catalysis (2022), 12(8), 4688-4695.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69353,7 +68255,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69361,10 +68263,10 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69405,7 +68307,7 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69413,10 +68315,10 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69457,7 +68359,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69465,10 +68367,10 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69509,7 +68411,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69517,10 +68419,10 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69561,7 +68463,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -69569,10 +68471,10 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - BINAP (CAS: 98327-87-8)
+  - BINAP (CAS: 2250-01-3)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69624,7 +68526,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
 **Reagents:**
-  - Tripotassium phosphate (CAS: 7778-53-2) - Role: BASE
+  - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
   - Tetrahydrofuran (CAS: 109-99-9)
@@ -69677,7 +68579,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69962,25 +68864,16 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -70020,25 +68913,16 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
-**Catalyst Core:**
-  - Palladium
-
+**Catalyst Core:** None
 **Generic Catalyst:** Pd
 
 **Ligands:**
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
-  - tBu3P·HBF4 (CAS: 52522-40-4)
-  - tris[μ-[(1,2-η:4,5-η)-(1E,4E)-1,5-diphenyl-1,4-pentadien-3-one]]di-
-  - compd. with trichloromethane (1:1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -70079,7 +68963,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70087,10 +68971,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70131,7 +69015,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70139,10 +69023,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70183,7 +69067,7 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70191,10 +69075,10 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70235,7 +69119,7 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70243,10 +69127,10 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70289,7 +69173,7 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70297,10 +69181,10 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70341,7 +69225,7 @@ Journal of Organic Chemistry (2021), 86(1), 429-445.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70349,10 +69233,10 @@ Journal of Organic Chemistry (2021), 86(1), 429-445.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70393,7 +69277,7 @@ Organic Letters (2023), 25(40), 7428-7433.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70401,10 +69285,10 @@ Organic Letters (2023), 25(40), 7428-7433.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70446,7 +69330,7 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70454,10 +69338,10 @@ Journal of Organic Chemistry (2021), 86(17), 11341-11353.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70498,7 +69382,7 @@ Angewandte Chemie, International Edition (2024), 63(44), e202407990.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70506,10 +69390,10 @@ Angewandte Chemie, International Edition (2024), 63(44), e202407990.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70550,7 +69434,7 @@ Journal of the American Chemical Society (2024), 146(45), 30733-30740.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70558,10 +69442,10 @@ Journal of the American Chemical Society (2024), 146(45), 30733-30740.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - [2′,6′-Bis(1-methylethoxy)[1,1′-biphenyl]-2-yl]dicyclohexylphosphine (CAS: 787618-22-8)
+  - RuPhos (CAS: 787618-22-8)
 
 **Reagents:**
-  - Cesium carbonate (CAS: 534-17-8) - Role: BASE
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70601,11 +69485,11 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Catalyst Core:**
-  - Bis(dibenzylideneacetone)palladium (CAS: 32005-36-0)
+  - Pd(dba)2 (CAS: 32005-36-0)
 
 **Generic Catalyst:** Pd
 
@@ -70613,7 +69497,7 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -70665,7 +69549,7 @@ Angewandte Chemie, International Edition (2022), 61(44), e202212101.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -70717,8 +69601,8 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -70762,8 +69646,7 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70771,11 +69654,10 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70818,8 +69700,7 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70827,11 +69708,10 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70872,8 +69752,7 @@ Journal of Medicinal Chemistry (2022), 65(4), 3343-3358.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70881,11 +69760,10 @@ Journal of Medicinal Chemistry (2022), 65(4), 3343-3358.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70926,8 +69804,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70935,11 +69812,10 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -70980,8 +69856,7 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -70989,11 +69864,10 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71034,8 +69908,7 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71043,11 +69916,10 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71088,8 +69960,7 @@ Organic Letters (2022), 24(23), 4129-4134.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71097,11 +69968,10 @@ Organic Letters (2022), 24(23), 4129-4134.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71142,8 +70012,7 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71151,11 +70020,10 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71196,8 +70064,7 @@ Journal of Medicinal Chemistry (2022), 65(19), 13052-13073.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71205,11 +70072,10 @@ Journal of Medicinal Chemistry (2022), 65(19), 13052-13073.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71250,8 +70116,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71259,11 +70124,10 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71304,8 +70168,7 @@ Nature Communications (2022), 13(1), 115.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71313,11 +70176,10 @@ Nature Communications (2022), 13(1), 115.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71358,8 +70220,7 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71367,11 +70228,10 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71412,8 +70272,7 @@ Chemistry - A European Journal (2021), 27(20), 6274-6282.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
@@ -71421,11 +70280,10 @@ Chemistry - A European Journal (2021), 27(20), 6274-6282.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - Methyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 701-15-5)
-  - Tris(2-furyl)phosphine (CAS: 5518-52-5)
+  - P(2-furyl)3 (CAS: 5518-52-5)
 
 **Reagents:**
-  - Potassium carbonate (CAS: 584-08-7) - Role: BASE
+  - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
   - 1,4-Dioxane (CAS: 123-91-1)
@@ -71479,7 +70337,7 @@ Journal of Medicinal Chemistry (2024), 67(11), 9173-9193.
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
 
 **Reagents:**
-  - Sodium tert-butoxide (CAS: 865-48-5) - Role: BASE
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)

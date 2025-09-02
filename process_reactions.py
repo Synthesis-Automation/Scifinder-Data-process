@@ -810,7 +810,8 @@ def load_cas_maps(paths: List[str]) -> Dict[str, Dict[str, str]]:
                         # Map JSONL fields to expected format
                         entry['Name'] = (entry_data.get('name') or '').strip()
                         entry['GenericCore'] = (entry_data.get('generic_core') or '').strip()
-                        entry['Role'] = (entry_data.get('role') or '').strip()
+                        # Accept both 'role' (lowercase, new JSONL) and 'Role' keys if present
+                        entry['Role'] = (entry_data.get('role') or entry_data.get('Role') or '').strip()
                         entry['CategoryHint'] = (entry_data.get('category_hint') or '').strip()
                         entry['Token'] = (entry_data.get('token') or '').strip()
                         

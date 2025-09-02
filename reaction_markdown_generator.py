@@ -419,6 +419,11 @@ class ReactionMarkdownGenerator:
             "sphos": "657408-07-6",
             "tbu xphos": "564483-19-8",
             "brettphos": "1028206-60-1",
+            # Oxidants/common reagents
+            "ddq": "84-58-2",
+            # Nickel sources
+            "ni(cod)2": "244261-66-3",
+            "ni cod 2": "244261-66-3",
         }
 
         # Normalize keys into alias_to_cas

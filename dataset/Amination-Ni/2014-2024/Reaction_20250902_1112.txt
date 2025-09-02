@@ -1,0 +1,3233 @@
+CAS SciFinder                                                   Task History
+	
+September 2, 2025, 11:12 AM
+	
+Initiating Search
+	
+Search:|Structure Search
+	
+
+	
+|
+	
+Filtered By:
+Structure Match: Substructure
+Yield: 90-100%, 80-89%, 70-79%, 50-69%
+Reaction Mapping: Mapping Data Available
+Catalyst: Dibromo[1,2-di(methoxy-κO)ethane]nickel, Nickel ferrite, Nickel acetate, Nickel dichloride, Dichloro[1,2-di(methoxy-κO)ethane]nickel, Nickel, Bis(1,5-cyclooctadiene)nickel, Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel
+Document Type: Journal
+Language: English, Chinese
+Publication Year: 2014 to 2024
+	
+Search Tasks
+	
+   1. Exported: Returned Reaction Results + Filters (1,131)   View Results
+	
+
+
+View in CAS SciFinder
+	
+Reactions (131)
+	
+1. Scheme 1 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 58%
+CAS Reaction Number: 31-614-CAS-40896395
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+2. Scheme 2 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Stable and Easily Accessible Functional Dyes: Dihydrotetraazaanthracenes as Versatile Precursors for Higher Acenes
+By: Gampe, Dominique Mario; et al
+Chemistry - A European Journal (2015), 21(20), 7571-7581.
+10.1002/chem.201500230
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 58%
+CAS Reaction Number: 31-032-CAS-3050295
+1.1|Reagents: Hydrazine|
+|Catalysts: Nickel|
+|Solvents: Ethanol, Water; rt; 1 h, reflux|
+1.2|Solvents: 1,4-Dioxane; 4 h, reflux|
+	
+	
+                                                                                                                              
+3. Scheme 3 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Unsymmetric N-heterocyclic carbene ligand enabled nickel-catalysed arylation of bulky primary and secondary amines
+By: Wang, Zi-Chao; et al
+Chemical Science (2023), 14(16), 4390-4396.
+10.1039/d3sc00492a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 58%
+CAS Reaction Number: 31-614-CAS-36703467
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 7H-Acenaphth[1,2-d]imidazolium, 9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Cyclohexane; 20 min, 30 °C|
+1.2|24 h, 80 °C|
+	
+	
+                                                                                                                              
+4. Scheme 4 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Construction of Tertiary Amides: NiII-Catalyzed N-Arylation of Secondary Acyclic Amides (2-Picolinamides) with Aryl Halides
+By: Sankar, Rathinam; et al
+Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
+10.1002/ajoc.201600596
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 58%
+CAS Reaction Number: 31-172-CAS-17232325
+1.1|Reagents: Sodium hydride|
+|Catalysts: Nickel dichloride|
+|Solvents: Dimethylformamide; 24 h, 150 °C|
+1.2|Reagents: Ethanol; rt; 5 min, rt|
+	
+	
+                                                                                                                              
+5. Scheme 5 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Amination of Aryl Chlorides and Sulfamates in 2-Methyl-THF
+By: Fine Nathel, Noah F.; et al
+ACS Catalysis (2014), 4(9), 3289-3293.
+10.1021/cs501045v
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 58%
+CAS Reaction Number: 31-172-CAS-11098495
+1.1|Reagents: Hexamethylbenzene, Sodium tert-butoxide, Phenylboronic acid pinacol ester|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro-, chloride (1:1)|
+|Solvents: 2-Methyltetrahydrofuran; 1 h, 23 °C; 3 h, 80 °C|
+	
+	
+                                                                                                                              
+6. Scheme 6 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Convergent synthesis of triarylamines via Ni-catalyzed dual C(sp2)-H amination from benzamides with benzohydroxamic acids
+By: Li, Wenwei; et al
+Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
+10.1039/d3cc00165b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-36091264
+1.1|Reagents: Silver phosphate, Tricyclo[3.3.1.13,7]decane-1-carboxylic acid, potassium salt (1:1)|
+|Catalysts: Nickel acetate, Bis(diphenylphosphino)methane|
+|Solvents: Dimethylacetamide; 15 h, 130 °C|
+	
+	
+                                                                                                                              
+7. Scheme 7 (1 Reaction)
+	
+
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+||
+	
+Construction of the N1-C3 Linkage Stereogenic Centers by Catalytic Asymmetric Amination Reaction of 3-Bromooxindoles with Indolines
+By: Zhang, Hailong; et al
+Organic Letters (2014), 16(9), 2394-2397.
+10.1021/ol5007423
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-031-CAS-10178990
+1.1|Reagents: Dabco|
+|Catalysts: Nickel acetate, (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]|
+|Solvents: tert-Butyl methyl ether; 24 h, rt|
+1.2|Reagents: 2,3-Dichloro-5,6-dicyano-1,4-benzoquinone|
+|Solvents: Dichloromethane; 10 min, rt|
+	
+	
+                                                                                                                              
+8. Scheme 8 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-40896355
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+9. Scheme 9 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Cross-Electrophile Coupling between C(sp2)-F and C(sp2)-Cl Bonds by the Reaction of ortho-Fluoro-Aromatic Amides with Aryl Chlorides
+By: Nohira, Itsuki; et al
+ACS Catalysis (2021), 11(8), 4644-4649.
+10.1021/acscatal.1c01102
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-172-CAS-23747413
+1.1|Reagents: Zinc, Lithium chloride, Zinc chloride|
+|Catalysts: Nickel dichloride, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Dimethylacetamide; 1 min, rt|
+1.2|Reagents: Lithium tert-butoxide|
+|Solvents: Dimethylacetamide; 5 min, rt; 14 h, 100 °C|
+	
+	
+                                                                                                                              
+10. Scheme 10 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General Method for the Amination of Aryl Halides with Primary and Secondary Alkyl Amines via Nickel Photocatalysis
+By: Song, Geyang; et al
+Journal of Organic Chemistry (2022), 87(15), 10285-10297.
+10.1021/acs.joc.2c01284
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-33432402
+1.1|Reagents: 1,8-Diazabicyclo[5.4.0]undec-7-ene|
+|Catalysts: Nickel acetate, 4,4′-Dimethyl-2,2′-bipyridine|
+|Solvents: Dimethyl sulfoxide, Tetrahydrofuran; 24 h, 85 °C|
+	
+	
+                                                                                                                              
+11. Scheme 11 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-40896341
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+12. Scheme 12 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General cross-coupling reactions with adaptive dynamic homogeneous catalysis
+By: Ghosh, Indrajit; et al
+Nature (London, United Kingdom) (2023), 619(7968), 87-93.
+10.1038/s41586-023-06087-4
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-36925491
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Acetonitrile; 44 h, 25 °C|
+	
+	
+                                                                                                                              
+13. Scheme 13 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Ni-photoredox-catalyzed amide arylation reaction using amidyl radical formation via PCET
+By: Nishino, Sodai; et al
+Chemistry Letters (2024), 53(5), upae088.
+10.1093/chemle/upae088
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-45292127
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine|
+|Catalysts: Tetrabutylammonium chloride, 4,4′-Dimethoxy-2,2′-bipyridine, Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: 1,4-Dioxane; 48 h, 40 °C|
+	
+	
+                                                                                                                              
+14. Scheme 14 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Ni-photoredox-catalyzed amide arylation reaction using amidyl radical formation via PCET
+By: Nishino, Sodai; et al
+Chemistry Letters (2024), 53(5), upae088.
+10.1093/chemle/upae088
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-45292115
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine|
+|Catalysts: Tetrabutylammonium chloride, 4,4′-Dimethoxy-2,2′-bipyridine, Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: 1,4-Dioxane; 48 h, 40 °C|
+	
+	
+                                                                                                                              
+15. Scheme 15 (1 Reaction)
+	
+
+|
+|
+||
+	
+Ligand-free access to benzisothiazolones and benzisoselenazolones through NiFe2O4 catalyzed concomitant annulation of 2-halobenzanilides with chalcogens and their late-stage transformations
+By: Dhara, Samiran; et al
+New Journal of Chemistry (2022), 46(40), 19501-19513.
+10.1039/d2nj04326b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 57%
+CAS Reaction Number: 31-614-CAS-34328677
+1.1|Reagents: 4-(Dimethylamino)pyridine, Selenium|
+|Catalysts: Nickel ferrite|
+|Solvents: Dimethyl sulfoxide; 11 h, 90 °C; 90 °C → rt|
+1.2|Reagents: Water; rt|
+	
+	
+                                                                                                                              
+16. Scheme 16 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Photocatalytic C-N cross-coupling mediated by heterogeneous nickel-coordinated carbon nitride
+By: Zhu, Qi; et al
+Organic & Biomolecular Chemistry (2023), 21(20), 4276-4281.
+10.1039/d3ob00388d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-36488767
+1.1|Reagents: Lithium chloride|
+|Catalysts: Nickel|
+|Solvents: Dimethylacetamide; 12 h, 40 °C|
+	
+	
+                                                                                                                              
+17. Scheme 17 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Sequential one-pot (het)arene thioetherification and amination with nickel and visible light
+By: Dueker, Jonas; et al
+ACS Catalysis (2023), 13(20), 13618-13625.
+10.1021/acscatal.3c03860
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-37924868
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethylacetamide; 3 h, 25 °C|
+1.2|5 h, 25 °C|
+	
+	
+                                                                                                                              
+18. Scheme 18 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Convergent synthesis of triarylamines via Ni-catalyzed dual C(sp2)-H amination from benzamides with benzohydroxamic acids
+By: Li, Wenwei; et al
+Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
+10.1039/d3cc00165b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-36091273
+1.1|Reagents: Silver phosphate, Tricyclo[3.3.1.13,7]decane-1-carboxylic acid, potassium salt (1:1)|
+|Catalysts: Nickel acetate, Bis(diphenylphosphino)methane|
+|Solvents: Dimethylacetamide; 15 h, 130 °C|
+	
+	
+                                                                                                                              
+19. Scheme 19 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Synthesis of α-cyano hydroxylamines via three-component reactions and its computational mechanistic study
+By: Ranjbari, Mohammad A.; et al
+Reaction Kinetics, Mechanisms and Catalysis (2020), 129(1), 349-369.
+10.1007/s11144-019-01688-5
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-346-CAS-21502336
+1.1|Catalysts: Nickel dichloride|
+|Solvents: Methanol; 3 h, rt|
+	
+	
+                                                                                                                              
+20. Scheme 20 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Sequential one-pot (het)arene thioetherification and amination with nickel and visible light
+By: Dueker, Jonas; et al
+ACS Catalysis (2023), 13(20), 13618-13625.
+10.1021/acscatal.3c03860
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-37924891
+1.1|Reagents: Dabco|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethylacetamide; 2.5 h, 25 °C|
+1.2|3.5 h, 60 °C|
+	
+	
+                                                                                                                              
+21. Scheme 21 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Oxidative C-H/N-H Carbonylation of Benzamide by Nickel Catalysis with CO as the Carbonyl Source
+By: Kang, Chen; et al
+Journal of Organic Chemistry (2022), 87(15), 10390-10397.
+10.1021/acs.joc.2c00673
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-33455874
+1.1|Reagents: Pivalic acid, Silver sulfate|
+|Catalysts: Nickel acetate|
+|Solvents: Xylene; 24 h, 1 atm, 110 °C; 110 °C → rt|
+1.2|Reagents: Water; rt|
+	
+	
+                                                                                                                              
+22. Scheme 22 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Oxidative Decarboxylative Annulation for the Synthesis of Heterocycle-Containing Phenanthridinones
+By: Honeycutt, Aaron P.; et al
+Organic Letters (2018), 20(22), 7216-7219.
+10.1021/acs.orglett.8b03144
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-172-CAS-19352963
+1.1|Reagents: Sodium carbonate, Silver nitrate|
+|Catalysts: Nickel acetate|
+|Solvents: Dimethylacetamide; 24 h, 170 °C|
+	
+	
+                                                                                                                              
+23. Scheme 23 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+The Catalytic Synthesis of N-Aryl Indoles Featuring an Alternative Disconnection. Hydroaminoalkylation for a Telescoped Reaction Sequence
+By: Zheng, Cameron H. M.; et al
+Organic Letters (2022), 24(36), 6571-6575.
+10.1021/acs.orglett.2c02510
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-33853457
+1.1|Catalysts: Urea, N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-, sodium salt (1:1), Tantalum, tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-, (OC-6-22)-|
+|Solvents: Toluene; 4 h, 110 °C|
+1.2|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1,1-Bis(diphenylphosphino)ferrocene|
+|Solvents: Toluene; 21.5 h, 100 °C|
+1.3|Reagents: tert-Butylperoxy 2-ethylhexyl carbonate|
+|Catalysts: Tetrakis(acetonitrile)copper(1+) tetrafluoroborate|
+|Solvents: Acetonitrile, Toluene; 45 °C; 16 h, 45 °C|
+1.4|Reagents: Sodium bisulfite|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+24. Scheme 24 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Construction of Tertiary Amides: NiII-Catalyzed N-Arylation of Secondary Acyclic Amides (2-Picolinamides) with Aryl Halides
+By: Sankar, Rathinam; et al
+Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
+10.1002/ajoc.201600596
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-172-CAS-17232333
+1.1|Reagents: Sodium hydride|
+|Catalysts: Nickel dichloride|
+|Solvents: Dimethylformamide; 24 h, 150 °C|
+1.2|Reagents: Ethanol; rt; 5 min, rt|
+	
+	
+                                                                                                                              
+25. Scheme 25 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Indole Nucleophile Triggers Mechanistic Divergence in Ni-Photoredox N-Arylation
+By: Liang, Kevin J.; et al
+Chemistry - A European Journal (2024), 30(67), e202402524.
+10.1002/chem.202402524
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-42506084
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylformamide; 24 h, 40 °C|
+	
+	
+                                                                                                                              
+26. Scheme 26 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Indole Nucleophile Triggers Mechanistic Divergence in Ni-Photoredox N-Arylation
+By: Liang, Kevin J.; et al
+Chemistry - A European Journal (2024), 30(67), e202402524.
+10.1002/chem.202402524
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-42506081
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylformamide; 2 h, 40 °C|
+	
+	
+                                                                                                                              
+27. Scheme 27 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Electrooxidative C-H Amination: Support for Nickel(IV)
+By: Zhang, Shou-Kun; et al
+Chemistry - A European Journal (2018), 24(72), 19166-19170.
+10.1002/chem.201805441
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-080-CAS-21060342
+1.1|Reagents: Tetrabutylammonium tetrafluoroborate, Propanoic acid, 2,2-dimethyl-, sodium salt (1:1)|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethylacetamide; 10 h, 120 °C|
+	
+	
+                                                                                                                              
+28. Scheme 28 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Ni-photoredox-catalyzed amide arylation reaction using amidyl radical formation via PCET
+By: Nishino, Sodai; et al
+Chemistry Letters (2024), 53(5), upae088.
+10.1093/chemle/upae088
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 56%
+CAS Reaction Number: 31-614-CAS-45292116
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine|
+|Catalysts: Tetrabutylammonium chloride, 4,4′-Dimethoxy-2,2′-bipyridine, Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: 1,4-Dioxane; 48 h, 40 °C|
+	
+	
+                                                                                                                              
+29. Scheme 29 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Unsymmetric N-heterocyclic carbene ligand enabled nickel-catalysed arylation of bulky primary and secondary amines
+By: Wang, Zi-Chao; et al
+Chemical Science (2023), 14(16), 4390-4396.
+10.1039/d3sc00492a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-614-CAS-36703444
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 7H-Acenaphth[1,2-d]imidazolium, 9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Cyclohexane; 20 min, 30 °C|
+1.2|24 h, 80 °C|
+	
+	
+                                                                                                                              
+30. Scheme 30 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Mizoroki-Heck/Amination Cascade Reactions of o-Dihaloarenes with Allylamines: Synthesis of Indoles
+By: Chen, Xu; et al
+Organic Letters (2020), 22(19), 7704-7708.
+10.1021/acs.orglett.0c02909
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-172-CAS-22782447
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Mesitylene; 24 h, 80 °C|
+	
+	
+                                                                                                                              
+31. Scheme 31 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Activation of Acyl C-O Bonds of Methyl Esters
+By: Hie, Liana; et al
+Angewandte Chemie, International Edition (2016), 55(8), 2810-2814.
+10.1002/anie.201511486
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-368-CAS-11580737
+1.1|Reagents: Aluminum tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1,3-Bis(2,6-diisopropylphenyl)imidazolidin-2-ylidene|
+|Solvents: Toluene; 12 h, 60 °C; 60 °C → 23 °C|
+	
+	
+                                                                                                                              
+32. Scheme 32 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-614-CAS-40896396
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+33. Scheme 33 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Mizoroki-Heck/Amination Cascade Reactions of o-Dihaloarenes with Allylamines: Synthesis of Indoles
+By: Chen, Xu; et al
+Organic Letters (2020), 22(19), 7704-7708.
+10.1021/acs.orglett.0c02909
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-172-CAS-22782451
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Mesitylene; 24 h, 80 °C|
+	
+	
+                                                                                                                              
+34. Scheme 34 (2 Reactions)
+	
+
+Absolute stereochemistry shown
+|
+|
+|
+|
+Absolute stereochemistry shown
+||
+	
+Chemistry Informer Libraries: Conception, Early Experience, and Role in the Future of Cheminformatics
+By: Dreher, Spencer D.; et al
+Accounts of Chemical Research (2021), 54(7), 1586-1596.
+10.1021/acs.accounts.0c00760
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-172-CAS-23610223
+1.1|Reagents: Dabco|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, fac-Tris(2-(2-pyridinyl)phenyl)iridium|
+|Solvents: Dimethyl sulfoxide; 16 h, 55 °C|
+1.2|Reagents: Acetic acid|
+|Solvents: Dimethyl sulfoxide|
+	
+	
+Mechanistic Analysis of Metallaphotoredox C-N Coupling: Photocatalysis Initiates and Perpetuates Ni(I)/Ni(III) Coupling Activity
+By: Till, Nicholas A.; et al
+Journal of the American Chemical Society (2020), 142(37), 15830-15841.
+10.1021/jacs.0c05901
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-172-CAS-22679882
+1.1|Reagents: Dabco|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), (5,5′-dimethyl[2,2′-bipyridine]-4,4′-diamine-κN1,κN1′)bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethyl sulfoxide; 36 h|
+	
+	
+                                                                                                                              
+35. Scheme 35 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Electrochemically Enabled, Nickel-Catalyzed Amination
+By: Li, Chao; et al
+Angewandte Chemie, International Edition (2017), 56(42), 13088-13093.
+10.1002/anie.201707906
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 55%
+CAS Reaction Number: 31-172-CAS-17836186
+1.1|Reagents: 1,8-Diazabicyclo[5.4.0]undec-7-ene, Lithium bromide|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Dimethylacetamide; 8 h, rt|
+	
+	
+                                                                                                                              
+36. Scheme 36 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Oxidative Decarboxylative Annulation for the Synthesis of Heterocycle-Containing Phenanthridinones
+By: Honeycutt, Aaron P.; et al
+Organic Letters (2018), 20(22), 7216-7219.
+10.1021/acs.orglett.8b03144
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-172-CAS-19352971
+1.1|Reagents: Sodium carbonate, Silver nitrate|
+|Catalysts: Nickel acetate|
+|Solvents: Dimethylacetamide; 24 h, 130 °C|
+	
+	
+                                                                                                                              
+37. Scheme 37 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General cross-coupling reactions with adaptive dynamic homogeneous catalysis
+By: Ghosh, Indrajit; et al
+Nature (London, United Kingdom) (2023), 619(7968), 87-93.
+10.1038/s41586-023-06087-4
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-36925664
+1.1|Reagents: Dabco|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethylacetamide; 17 h, 60 °C|
+	
+	
+                                                                                                                              
+38. Scheme 38 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-40896329
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+39. Scheme 39 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Oxidative Nickel-Catalyzed ortho-C-H Amination of (Iso)quinolines with Alicyclic Amines Directed by a Sacrificial N-Oxide Group
+By: Zhu, Weiqi; et al
+Organic Letters (2024), 26(4), 912-916.
+10.1021/acs.orglett.3c04193
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-39313360
+1.1|Reagents: Silver carbonate|
+|Catalysts: Nickel acetate, 1,1-Bis(diphenylphosphino)ferrocene|
+|Solvents: Benzene, Fluorobenzene; 5 min, rt; 24 h, 110 °C|
+	
+	
+                                                                                                                              
+40. Scheme 40 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General cross-coupling reactions with adaptive dynamic homogeneous catalysis
+By: Ghosh, Indrajit; et al
+Nature (London, United Kingdom) (2023), 619(7968), 87-93.
+10.1038/s41586-023-06087-4
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-36925606
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine, Tributylamine|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethylacetamide; 48 h, 80 °C|
+	
+	
+                                                                                                                              
+41. Scheme 41 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Photocatalytic C-N cross-coupling mediated by heterogeneous nickel-coordinated carbon nitride
+By: Zhu, Qi; et al
+Organic & Biomolecular Chemistry (2023), 21(20), 4276-4281.
+10.1039/d3ob00388d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-36488756
+1.1|Catalysts: Nickel|
+|Solvents: Dimethylacetamide; 12 h, 40 °C|
+	
+	
+                                                                                                                              
+42. Scheme 42 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General cross-coupling reactions with adaptive dynamic homogeneous catalysis
+By: Ghosh, Indrajit; et al
+Nature (London, United Kingdom) (2023), 619(7968), 87-93.
+10.1038/s41586-023-06087-4
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-36925486
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Acetonitrile; 30 h, 60 °C|
+	
+	
+                                                                                                                              
+43. Scheme 43 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Convergent synthesis of triarylamines via Ni-catalyzed dual C(sp2)-H amination from benzamides with benzohydroxamic acids
+By: Li, Wenwei; et al
+Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
+10.1039/d3cc00165b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-36091254
+1.1|Reagents: Silver phosphate, Tricyclo[3.3.1.13,7]decane-1-carboxylic acid, potassium salt (1:1)|
+|Catalysts: Nickel acetate, Bis(diphenylphosphino)methane|
+|Solvents: Dimethylacetamide; 15 h, 130 °C|
+	
+	
+                                                                                                                              
+44. Scheme 44 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General cross-coupling reactions with adaptive dynamic homogeneous catalysis
+By: Ghosh, Indrajit; et al
+Nature (London, United Kingdom) (2023), 619(7968), 87-93.
+10.1038/s41586-023-06087-4
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-36925659
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Acetonitrile; 64 h, 25 °C|
+	
+	
+                                                                                                                              
+45. Scheme 45 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Vacancy engineered polymeric carbon nitride nanosheets for enhanced photoredox catalytic efficiency
+By: Liu, Qiong; et al
+Cell Reports Physical Science (2021), 2(7), 100491.
+10.1016/j.xcrp.2021.100491
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 54%
+CAS Reaction Number: 31-614-CAS-31069331
+1.1|Reagents: Dabco|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Carbon nitride (C3N4)|
+|Solvents: Dimethylacetamide; 12 h, rt|
+	
+	
+                                                                                                                              
+46. Scheme 46 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General Paradigm in Photoredox Nickel-Catalyzed Cross-Coupling Allows for Light-Free Access to Reactivity
+By: Sun, Rui; et al
+Angewandte Chemie, International Edition (2020), 59(24), 9527-9533.
+10.1002/anie.201916398
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-172-CAS-21976146
+1.1|Reagents: Quinuclidine|
+|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethylacetamide; 18 h, rt|
+	
+	
+                                                                                                                              
+47. Scheme 47 (1 Reaction)
+	
+
+Absolute stereochemistry shown
+|
+|
+|
+|
+Absolute stereochemistry shown
+||
+	
+Mechanistic Analysis of Metallaphotoredox C-N Coupling: Photocatalysis Initiates and Perpetuates Ni(I)/Ni(III) Coupling Activity
+By: Till, Nicholas A.; et al
+Journal of the American Chemical Society (2020), 142(37), 15830-15841.
+10.1021/jacs.0c05901
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-172-CAS-22679885
+1.1|Reagents: Dabco|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethyl sulfoxide; 36 h|
+	
+	
+                                                                                                                              
+48. Scheme 48 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Indole Nucleophile Triggers Mechanistic Divergence in Ni-Photoredox N-Arylation
+By: Liang, Kevin J.; et al
+Chemistry - A European Journal (2024), 30(67), e202402524.
+10.1002/chem.202402524
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-614-CAS-42506102
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylformamide; 48 h, 40 °C|
+	
+	
+                                                                                                                              
+49. Scheme 49 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Electrochemically Enabled, Nickel-Catalyzed Amination
+By: Li, Chao; et al
+Angewandte Chemie, International Edition (2017), 56(42), 13088-13093.
+10.1002/anie.201707906
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-172-CAS-17836196
+1.1|Reagents: Lithium bromide|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Dimethylacetamide; 3 h, rt|
+	
+	
+                                                                                                                              
+50. Scheme 50 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Visible light-induced Ni-catalyzed C-heteroatom cross-coupling of aryl halides via LMCT with DBU to access a Ni(I)/Ni(III) cycle
+By: Li, Rui; et al
+Organic Chemistry Frontiers (2022), 9(14), 3847-3853.
+10.1039/d2qo00607c
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-614-CAS-32730737
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; 0.5 h, 50 °C|
+1.2|Reagents: 1,8-Diazabicyclo[5.4.0]undec-7-ene; 24 h, 35 °C|
+1.3|Reagents: Sodium chloride|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+51. Scheme 51 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Sequential one-pot (het)arene thioetherification and amination with nickel and visible light
+By: Dueker, Jonas; et al
+ACS Catalysis (2023), 13(20), 13618-13625.
+10.1021/acscatal.3c03860
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-614-CAS-37924881
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethylacetamide; 2 h, 60 °C|
+1.2|2 h, 25 °C|
+	
+	
+                                                                                                                              
+52. Scheme 52 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Reagent and Catalyst Capsules: A Chemical Delivery System for Reaction Screening and Parallel Synthesis
+By: Borlinghaus, Niginia; et al
+Journal of Organic Chemistry (2021), 86(2), 1357-1370.
+10.1021/acs.joc.0c02576
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-172-CAS-23159853
+1.1|Catalysts: Dabco, Dibromo[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylacetamide; 16 h, 55 °C|
+1.2|Reagents: Sodium sulfate|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+53. Scheme 53 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Mizoroki-Heck/Amination Cascade Reactions of o-Dihaloarenes with Allylamines: Synthesis of Indoles
+By: Chen, Xu; et al
+Organic Letters (2020), 22(19), 7704-7708.
+10.1021/acs.orglett.0c02909
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 53%
+CAS Reaction Number: 31-172-CAS-22782434
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Mesitylene; 24 h, 80 °C|
+	
+	
+                                                                                                                              
+54. Scheme 54 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Mechanistic Analysis of Metallaphotoredox C-N Coupling: Photocatalysis Initiates and Perpetuates Ni(I)/Ni(III) Coupling Activity
+By: Till, Nicholas A.; et al
+Journal of the American Chemical Society (2020), 142(37), 15830-15841.
+10.1021/jacs.0c05901
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-22679880
+1.1|Reagents: Dabco|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), (5,5′-dimethyl[2,2′-bipyridine]-4,4′-diamine-κN1,κN1′)bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethyl sulfoxide; 36 h|
+	
+	
+                                                                                                                              
+55. Scheme 55 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Reagent and Catalyst Capsules: A Chemical Delivery System for Reaction Screening and Parallel Synthesis
+By: Borlinghaus, Niginia; et al
+Journal of Organic Chemistry (2021), 86(2), 1357-1370.
+10.1021/acs.joc.0c02576
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-23162540
+1.1|Catalysts: Dabco, Dibromo[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylacetamide; 16 h, 55 °C|
+1.2|Reagents: Sodium sulfate|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+56. Scheme 56 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Construction of Tertiary Amides: NiII-Catalyzed N-Arylation of Secondary Acyclic Amides (2-Picolinamides) with Aryl Halides
+By: Sankar, Rathinam; et al
+Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
+10.1002/ajoc.201600596
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-17232327
+1.1|Reagents: Sodium hydride|
+|Catalysts: Nickel dichloride|
+|Solvents: Dimethylformamide; 24 h, 150 °C|
+1.2|Reagents: Ethanol; rt; 5 min, rt|
+	
+	
+                                                                                                                              
+57. Scheme 57 (1 Reaction)
+	
+
+|
+|
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+||
+	
+Nickel-Catalyzed Asymmetric Propargylic Amination of Propargylic Carbonates Bearing an Internal Alkyne Group
+By: Watanabe, Kouichi; et al
+Organic Letters (2018), 20(17), 5448-5451.
+10.1021/acs.orglett.8b02325
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-031-CAS-22132896
+1.1|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]|
+|Solvents: 2-Methyl-2-butanol; 48 h, 60 °C; 60 °C → rt|
+	
+	
+                                                                                                                              
+58. Scheme 58 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Mizoroki-Heck/Amination Cascade Reactions of o-Dihaloarenes with Allylamines: Synthesis of Indoles
+By: Chen, Xu; et al
+Organic Letters (2020), 22(19), 7704-7708.
+10.1021/acs.orglett.0c02909
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-22782457
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Mesitylene; 24 h, 80 °C|
+	
+	
+                                                                                                                              
+59. Scheme 59 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Indole Nucleophile Triggers Mechanistic Divergence in Ni-Photoredox N-Arylation
+By: Liang, Kevin J.; et al
+Chemistry - A European Journal (2024), 30(67), e202402524.
+10.1002/chem.202402524
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-42506076
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylformamide; 48 h, 40 °C|
+	
+	
+                                                                                                                              
+60. Scheme 60 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Amination of (Hetero)aryl Halides Facilitated by a Catalytic Pyridinium Additive
+By: Han, Dongyang; et al
+Chemistry - A European Journal (2020), 26(54), 12349-12354.
+10.1002/chem.202002800
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-22606504
+1.1|Reagents: 2-tert-Butyl-1,1,3,3-tetramethylguanidine|
+|Catalysts: Manganese, Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Pyridinium, 1-methyl-4-phenyl-, labeled with tritium, iodide (1:1)|
+|Solvents: Dimethyl sulfoxide; 8 h, 80 °C|
+	
+	
+                                                                                                                              
+61. Scheme 61 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Sequential one-pot (het)arene thioetherification and amination with nickel and visible light
+By: Dueker, Jonas; et al
+ACS Catalysis (2023), 13(20), 13618-13625.
+10.1021/acscatal.3c03860
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-37924867
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethylacetamide; 3 h, 25 °C|
+1.2|2 h, 60 °C|
+	
+	
+                                                                                                                              
+62. Scheme 62 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Total Synthesis of (+)-Dixiamycin C via a Late-Stage Ni(II)-Photoredox N-Arylation of Carbazoles
+By: Niyogi, Sovan; et al
+Organic Letters (2024), 26(41), 8643-8647.
+10.1021/acs.orglett.4c02436
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-41541835
+1.1|Reagents: 7-Methyl-1,5,7-triazabicyclo[4.4.0]dec-5-ene|
+|Catalysts: Pyrrolidine, Dibromo[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethyl sulfoxide, Dimethylacetamide; rt → -78 °C; 24 h, 50 °C|
+	
+	
+                                                                                                                              
+63. Scheme 63 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+N-CF3 Imidazolidin-2-one Derivatives via Photocatalytic and Silver-Catalyzed Cyclizations
+By: Turksoy, Abdurrahman; et al
+Chemistry - A European Journal (2022), 28(46), e202201435.
+10.1002/chem.202201435
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-32868750
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: (Trifluoromethyl)benzene; 45 min, rt|
+1.2|Reagents: 1-Butanaminium, N,N,N-tributyl-, dibutyl phosphate|
+|Catalysts: Iridium(1+), (2,2′-bipyridine-κN1,κN1′)bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: tert-Butanol; 5 min, rt; 24 h, rt|
+	
+	
+                                                                                                                              
+64. Scheme 64 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Amination of Aryl 2-Pyridyl Ethers via Cleavage of the Carbon-Oxygen Bond
+By: Li, Jing; et al
+Organic Letters (2017), 19(14), 3723-3726.
+10.1021/acs.orglett.7b01549
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-17429879
+1.1|Reagents: Lithium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: 1,4-Dioxane; 12 h, 100 °C|
+	
+	
+                                                                                                                              
+65. Scheme 65 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Visible light-induced Ni-catalyzed C-heteroatom cross-coupling of aryl halides via LMCT with DBU to access a Ni(I)/Ni(III) cycle
+By: Li, Rui; et al
+Organic Chemistry Frontiers (2022), 9(14), 3847-3853.
+10.1039/d2qo00607c
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-32730741
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: Tetrahydrofuran; 0.5 h, 50 °C|
+1.2|Reagents: 1,8-Diazabicyclo[5.4.0]undec-7-ene; 48 h, 35 °C|
+1.3|Reagents: Sodium chloride|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+66. Scheme 66 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Convergent synthesis of triarylamines via Ni-catalyzed dual C(sp2)-H amination from benzamides with benzohydroxamic acids
+By: Li, Wenwei; et al
+Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
+10.1039/d3cc00165b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-36091266
+1.1|Reagents: Silver phosphate, Tricyclo[3.3.1.13,7]decane-1-carboxylic acid, potassium salt (1:1)|
+|Catalysts: Nickel acetate, Bis(diphenylphosphino)methane|
+|Solvents: Dimethylacetamide; 15 h, 130 °C|
+	
+	
+                                                                                                                              
+67. Scheme 67 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Nickel-catalyzed multicomponent reaction of dinitriles and hydrazine hydrochlorides with boronic acids: access to 1,3-diaryl-1H-pyrazol-5-amines and 4,5-dihydropyridazin-3(2H)-ones
+By: Chen, Lepeng; et al
+Organic Chemistry Frontiers (2022), 9(7), 1955-1959.
+10.1039/d2qo00036a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-31529636
+1.1|Reagents: Zinc chloride|
+|Catalysts: Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel|
+|Solvents: Tetrahydrofuran; 24 h, 100 °C|
+	
+	
+                                                                                                                              
+68. Scheme 68 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+N-CF3 Imidazolidin-2-one Derivatives via Photocatalytic and Silver-Catalyzed Cyclizations
+By: Turksoy, Abdurrahman; et al
+Chemistry - A European Journal (2022), 28(46), e202201435.
+10.1002/chem.202201435
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-32868741
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine|
+|Solvents: (Trifluoromethyl)benzene; 45 min, rt|
+1.2|Reagents: 1-Butanaminium, N,N,N-tributyl-, dibutyl phosphate|
+|Catalysts: Iridium(1+), (2,2′-bipyridine-κN1,κN1′)bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: tert-Butanol; 5 min, rt; 24 h, rt|
+	
+	
+                                                                                                                              
+69. Scheme 69 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-40896347
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+70. Scheme 70 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Construction of Tertiary Amides: NiII-Catalyzed N-Arylation of Secondary Acyclic Amides (2-Picolinamides) with Aryl Halides
+By: Sankar, Rathinam; et al
+Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
+10.1002/ajoc.201600596
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-17232330
+1.1|Reagents: Sodium hydride|
+|Catalysts: Nickel dichloride|
+|Solvents: Dimethylformamide; 24 h, 150 °C|
+1.2|Reagents: Ethanol; rt; 5 min, rt|
+	
+	
+                                                                                                                              
+71. Scheme 71 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Mizoroki-Heck/Amination Cascade Reactions of o-Dihaloarenes with Allylamines: Synthesis of Indoles
+By: Chen, Xu; et al
+Organic Letters (2020), 22(19), 7704-7708.
+10.1021/acs.orglett.0c02909
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-22782431
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Mesitylene; 24 h, 80 °C|
+	
+	
+                                                                                                                              
+72. Scheme 72 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Oxidative Nickel-Catalyzed ortho-C-H Amination of (Iso)quinolines with Alicyclic Amines Directed by a Sacrificial N-Oxide Group
+By: Zhu, Weiqi; et al
+Organic Letters (2024), 26(4), 912-916.
+10.1021/acs.orglett.3c04193
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-39313356
+1.1|Reagents: Silver carbonate|
+|Catalysts: Nickel acetate, 1,1-Bis(diphenylphosphino)ferrocene|
+|Solvents: Benzene, Fluorobenzene; 5 min, rt; 24 h, 110 °C|
+	
+	
+                                                                                                                              
+73. Scheme 73 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Heterogeneous metallaphotocatalytic Cross-Coupling reactions by a carbon Nitride-Nickel catalyst
+By: Zhang, Huali; et al
+Journal of Catalysis (2024), 433, 115461.
+10.1016/j.jcat.2024.115461
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-40310261
+1.1|Catalysts: Nickel, Carbon nitride|
+|Solvents: Dimethylacetamide; 24 h, 25 °C|
+1.2|Solvents: Water; 25 °C|
+	
+	
+                                                                                                                              
+74. Scheme 74 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Construction of Tertiary Amides: NiII-Catalyzed N-Arylation of Secondary Acyclic Amides (2-Picolinamides) with Aryl Halides
+By: Sankar, Rathinam; et al
+Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
+10.1002/ajoc.201600596
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-17232299
+1.1|Reagents: Sodium hydride|
+|Catalysts: Nickel dichloride|
+|Solvents: Dimethylformamide; 24 h, 150 °C|
+1.2|Reagents: Ethanol; rt; 5 min, rt|
+	
+	
+                                                                                                                              
+75. Scheme 75 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Indole Nucleophile Triggers Mechanistic Divergence in Ni-Photoredox N-Arylation
+By: Liang, Kevin J.; et al
+Chemistry - A European Journal (2024), 30(67), e202402524.
+10.1002/chem.202402524
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-42506094
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylformamide; 24 h, 40 °C|
+	
+	
+                                                                                                                              
+76. Scheme 76 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General Paradigm in Photoredox Nickel-Catalyzed Cross-Coupling Allows for Light-Free Access to Reactivity
+By: Sun, Rui; et al
+Angewandte Chemie, International Edition (2020), 59(24), 9527-9533.
+10.1002/anie.201916398
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-172-CAS-21976149
+1.1|Reagents: Quinuclidine|
+|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethylacetamide; 18 h, rt|
+	
+	
+                                                                                                                              
+77. Scheme 77 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Organic semiconductor photocatalyst can bifunctionalize arenes and heteroarenes
+By: Ghosh, Indrajit; et al
+Science (Washington, DC, United States) (2019), 365(6451), 360-366.
+10.1126/science.aaw3254
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-172-CAS-20624950
+1.1|Reagents: Dabco|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, Carbon nitride (C3N4)|
+|Solvents: Dimethylacetamide; 20 h, 25 °C|
+	
+	
+                                                                                                                              
+78. Scheme 78 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Photocatalytic C-N cross-coupling mediated by heterogeneous nickel-coordinated carbon nitride
+By: Zhu, Qi; et al
+Organic & Biomolecular Chemistry (2023), 21(20), 4276-4281.
+10.1039/d3ob00388d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-36488768
+1.1|Catalysts: Nickel|
+|Solvents: Dimethylacetamide; 12 h, 40 °C|
+	
+	
+                                                                                                                              
+79. Scheme 79 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Annulation of o-Haloarylamidines with Aryl Acetylenes: Synthesis of Isoquinolone and 1-Aminoisoquinoline Derivatives
+By: Xie, Hao; et al
+Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901.
+10.1002/adsc.201801635
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-298-CAS-19837380
+1.1|Reagents: Zinc, Water|
+|Catalysts: Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel|
+|Solvents: Dimethyl sulfoxide; 24 h, 140 °C|
+	
+	
+                                                                                                                              
+80. Scheme 80 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Oxidative Decarboxylative Annulation for the Synthesis of Heterocycle-Containing Phenanthridinones
+By: Honeycutt, Aaron P.; et al
+Organic Letters (2018), 20(22), 7216-7219.
+10.1021/acs.orglett.8b03144
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-172-CAS-19352959
+1.1|Reagents: Sodium carbonate, Silver nitrate|
+|Catalysts: Nickel acetate|
+|Solvents: Dimethylacetamide; 24 h, 130 °C|
+	
+	
+                                                                                                                              
+81. Scheme 81 (1 Reaction)
+	
+
+
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (-)
+|
+|
+Absolute stereochemistry shown
+||
+	
+C-heteroatom coupling with electron-rich aryls enabled by nickel catalysis and light
+By: Ni, Shengyang; et al
+Nature Catalysis (2024), 7(6), 733-741.
+10.1038/s41929-024-01160-1
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-40422479
+1.1|Reagents: Dabco|
+|Catalysts: Nickel dichloride|
+|Solvents: Dimethylacetamide; 48 h, 25 °C|
+	
+	
+                                                                                                                              
+82. Scheme 82 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Discovery of a 3-(4-Pyrimidinyl) Indazole (MLi-2), an Orally Available and Selective Leucine-Rich Repeat Kinase 2 (LRRK2) Inhibitor that Reduces Brain Kinase Activity
+By: Scott, Jack D.; et al
+Journal of Medicinal Chemistry (2017), 60(7), 2983-2992.
+10.1021/acs.jmedchem.7b00045
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-172-CAS-17153508
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro-, chloride (1:1)|
+|Solvents: 1,4-Dioxane; 3 h, 80 °C|
+	
+	
+                                                                                                                              
+83. Scheme 83 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Reagent and Catalyst Capsules: A Chemical Delivery System for Reaction Screening and Parallel Synthesis
+By: Borlinghaus, Niginia; et al
+Journal of Organic Chemistry (2021), 86(2), 1357-1370.
+10.1021/acs.joc.0c02576
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-172-CAS-23162784
+1.1|Catalysts: Dabco, Dibromo[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylacetamide; 16 h, 55 °C|
+1.2|Reagents: Sodium sulfate|
+|Solvents: Water|
+	
+	
+                                                                                                                              
+84. Scheme 84 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+General cross-coupling reactions with adaptive dynamic homogeneous catalysis
+By: Ghosh, Indrajit; et al
+Nature (London, United Kingdom) (2023), 619(7968), 87-93.
+10.1038/s41586-023-06087-4
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-36925489
+1.1|Reagents: 1,1,3,3-Tetramethylguanidine|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Acetonitrile; 40 h, 60 °C|
+	
+	
+                                                                                                                              
+85. Scheme 85 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Indole Nucleophile Triggers Mechanistic Divergence in Ni-Photoredox N-Arylation
+By: Liang, Kevin J.; et al
+Chemistry - A European Journal (2024), 30(67), e202402524.
+10.1002/chem.202402524
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-42506077
+1.1|Reagents: Tripotassium phosphate|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylformamide; 48 h, 40 °C|
+	
+	
+                                                                                                                              
+86. Scheme 86 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Photocatalytic C-N cross-coupling mediated by heterogeneous nickel-coordinated carbon nitride
+By: Zhu, Qi; et al
+Organic & Biomolecular Chemistry (2023), 21(20), 4276-4281.
+10.1039/d3ob00388d
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-36488764
+1.1|Catalysts: Nickel|
+|Solvents: Dimethylacetamide; 12 h, 40 °C|
+	
+	
+                                                                                                                              
+87. Scheme 87 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-40896356
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+88. Scheme 88 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Ad Hoc Adjustment of Photoredox Properties by the Late-Stage Diversification of Acridinium Photocatalysts
+By: Hutskalova, Valeriia; et al
+Organic Letters (2021), 23(13), 5143-5147.
+10.1021/acs.orglett.1c01673
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-24241524
+1.1|Reagents: Dabco|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, Acridinium, 6-(1-azetidinyl)-2,7-difluoro-3-hydroxy-10-phenyl-9-(2,4,6-trimethylphenyl)-, inner salt|
+|Solvents: Dimethylacetamide; 36 h, rt|
+	
+	
+                                                                                                                              
+89. Scheme 89 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-catalyzed cross-coupling aminations via high-throughput mechanochemistry enabled by resonant acoustic mixing
+By: Nanni, Alice; et al
+Green Chemistry (2024), 26(14), 8341-8347.
+10.1039/d4gc01790k
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-40896335
+1.1|Catalysts: Zinc, Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethyl sulfoxide; 90 min|
+	
+	
+                                                                                                                              
+90. Scheme 90 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Construction of Tertiary Amides: NiII-Catalyzed N-Arylation of Secondary Acyclic Amides (2-Picolinamides) with Aryl Halides
+By: Sankar, Rathinam; et al
+Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
+10.1002/ajoc.201600596
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-172-CAS-17232300
+1.1|Reagents: Sodium hydride|
+|Catalysts: Nickel dichloride|
+|Solvents: Dimethylformamide; 24 h, 150 °C|
+1.2|Reagents: Ethanol; rt; 5 min, rt|
+	
+	
+                                                                                                                              
+91. Scheme 91 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Oxidative Decarboxylative Annulation for the Synthesis of Heterocycle-Containing Phenanthridinones
+By: Honeycutt, Aaron P.; et al
+Organic Letters (2018), 20(22), 7216-7219.
+10.1021/acs.orglett.8b03144
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-172-CAS-19352964
+1.1|Reagents: Sodium carbonate, Silver nitrate|
+|Catalysts: Nickel acetate|
+|Solvents: Dimethylacetamide; 24 h, 170 °C|
+	
+	
+                                                                                                                              
+92. Scheme 92 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Oxidative C-H/N-H Carbonylation of Benzamide by Nickel Catalysis with CO as the Carbonyl Source
+By: Kang, Chen; et al
+Journal of Organic Chemistry (2022), 87(15), 10390-10397.
+10.1021/acs.joc.2c00673
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-33455879
+1.1|Reagents: Pivalic acid, Silver sulfate|
+|Catalysts: Nickel acetate|
+|Solvents: Xylene; 24 h, 1 atm, 110 °C; 110 °C → rt|
+1.2|Reagents: Water; rt|
+	
+	
+                                                                                                                              
+93. Scheme 93 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Ni single atoms on carbon nitride for visible-light-promoted full heterogeneous dual catalysis
+By: Kwak, Minjoon; et al
+Chemical Science (2022), 13(29), 8536-8542.
+10.1039/d2sc02174a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-33082860
+1.1|Reagents: Quinuclidine, Lithium chloride|
+|Catalysts: Nickel|
+|Solvents: Dimethylacetamide; 72 h, 55 °C|
+	
+	
+                                                                                                                              
+94. Scheme 94 (1 Reaction)
+	
+
+
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Salt-Stabilized Silylzinc Pivalates for Nickel-Catalyzed Carbosilylation of Alkenes
+By: Wang, Jixin; et al
+Angewandte Chemie, International Edition (2022), 61(17), e202202379.
+10.1002/anie.202202379
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-31916918
+1.1|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel|
+|Solvents: Dimethylacetamide; 0 °C; 16 h, 23 °C|
+1.2|Catalysts: 4-(Dimethylamino)pyridine|
+|Solvents: Acetonitrile; overnight, 60 °C|
+	
+	
+                                                                                                                              
+95. Scheme 95 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Convergent synthesis of triarylamines via Ni-catalyzed dual C(sp2)-H amination from benzamides with benzohydroxamic acids
+By: Li, Wenwei; et al
+Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
+10.1039/d3cc00165b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-36091274
+1.1|Reagents: Silver phosphate, Tricyclo[3.3.1.13,7]decane-1-carboxylic acid, potassium salt (1:1)|
+|Catalysts: Nickel acetate, Bis(diphenylphosphino)methane|
+|Solvents: Dimethylacetamide; 15 h, 130 °C|
+	
+	
+                                                                                                                              
+96. Scheme 96 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Sequential one-pot (het)arene thioetherification and amination with nickel and visible light
+By: Dueker, Jonas; et al
+ACS Catalysis (2023), 13(20), 13618-13625.
+10.1021/acscatal.3c03860
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-37924888
+1.1|Reagents: Dabco|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, 2,4,5,6-Tetra(9H-carbazol-9-yl)isophthalonitrile|
+|Solvents: Dimethylacetamide; 2.5 h, 25 °C|
+1.2|3 h, 60 °C|
+	
+	
+                                                                                                                              
+97. Scheme 97 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Nickel-Catalyzed Annulation of o-Haloarylamidines with Aryl Acetylenes: Synthesis of Isoquinolone and 1-Aminoisoquinoline Derivatives
+By: Xie, Hao; et al
+Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901.
+10.1002/adsc.201801635
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-298-CAS-19837385
+1.1|Reagents: Zinc, Water|
+|Catalysts: Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel|
+|Solvents: Dimethyl sulfoxide; 24 h, 140 °C|
+	
+	
+                                                                                                                              
+98. Scheme 98 (1 Reaction)
+	
+
+|
+|
+|
+|
+||
+	
+Convergent synthesis of triarylamines via Ni-catalyzed dual C(sp2)-H amination from benzamides with benzohydroxamic acids
+By: Li, Wenwei; et al
+Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
+10.1039/d3cc00165b
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-36091247
+1.1|Reagents: Silver phosphate, Tricyclo[3.3.1.13,7]decane-1-carboxylic acid, potassium salt (1:1)|
+|Catalysts: Nickel acetate, Bis(diphenylphosphino)methane|
+|Solvents: Dimethylacetamide; 15 h, 130 °C|
+	
+	
+                                                                                                                              
+99. Scheme 99 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 89%
+CAS Reaction Number: 31-614-CAS-34408182
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+100. Scheme 100 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 88%
+CAS Reaction Number: 31-614-CAS-34408171
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+101. Scheme 101 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 87%
+CAS Reaction Number: 31-614-CAS-34408188
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+102. Scheme 102 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Nickel-catalyzed C-O/N-H, C-S/N-H, and C-CN/N-H annulation of aromatic amides with alkynes: C-O, C-S, and C-CN activation
+By: Iyori, Yasuaki; et al
+Chemical Science (2021), 12(5), 1772-1777.
+10.1039/d0sc06056a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 85%
+CAS Reaction Number: 31-614-CAS-29571978
+1.1|Reagents: Lithium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel|
+|Solvents: Dimethyl sulfoxide; 3 h, 80 °C|
+	
+	
+                                                                                                                              
+103. Scheme 103 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Heterogeneous metallaphotocatalytic Cross-Coupling reactions by a carbon Nitride-Nickel catalyst
+By: Zhang, Huali; et al
+Journal of Catalysis (2024), 433, 115461.
+10.1016/j.jcat.2024.115461
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 78%
+CAS Reaction Number: 31-614-CAS-40310292
+1.1|Catalysts: Nickel dichloride, Carbon nitride|
+|Solvents: Dimethylacetamide; 12 h, 25 °C|
+1.2|Solvents: Water; 25 °C|
+	
+	
+                                                                                                                              
+104. Scheme 104 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Nickel-Catalyzed N-Arylation Using N-Trimethylsilyl-carbazole
+By: Minami, Yasunori; et al
+Synlett (2017), 28(18), 2407-2410.
+10.1055/s-0036-1588417
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 74%
+CAS Reaction Number: 31-172-CAS-17810153
+1.1|Catalysts: Potassium tert-butoxide, Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Cyclopentyl methyl ether; 30 min, rt|
+1.2|Reagents: Sodium acetate; 48 h, 100 °C|
+1.3|Solvents: Water|
+	
+	
+                                                                                                                              
+105. Scheme 105 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Mild Amide N-Arylation Enabled by Nickel-Photoredox Catalysis
+By: Bradley, Robert D.; et al
+Organic Letters (2022), 24(39), 7134-7139.
+10.1021/acs.orglett.2c02808
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 72%
+CAS Reaction Number: 31-614-CAS-34330052
+1.1|Reagents: Potassium carbonate|
+|Catalysts: Dichloro[1,2-di(methoxy-κO)ethane]nickel, 4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[2-(2-pyridinyl-κN)phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethylformamide, (Trifluoromethyl)benzene; 24 h, 30 °C|
+	
+	
+                                                                                                                              
+106. Scheme 106 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 70%
+CAS Reaction Number: 31-614-CAS-34408180
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+107. Scheme 107 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 70%
+CAS Reaction Number: 31-614-CAS-34408183
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+108. Scheme 108 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Nickel-Catalyzed Mizoroki-Heck/Amination Cascade Reactions of o-Dihaloarenes with Allylamines: Synthesis of Indoles
+By: Chen, Xu; et al
+Organic Letters (2020), 22(19), 7704-7708.
+10.1021/acs.orglett.0c02909
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 68%
+CAS Reaction Number: 31-172-CAS-22782460
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Mesitylene; 24 h, 80 °C|
+	
+	
+                                                                                                                              
+109. Scheme 109 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Nickel-catalyzed C-F/N-H Alkyne Annulation of Anilines: The Synthesis of Indole Derivatives via C-F Bond Activation
+By: Kawakami, Haruka; et al
+Chemistry Letters (2022), 51(5), 546-548.
+10.1246/cl.220074
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 66%
+CAS Reaction Number: 31-614-CAS-32259804
+1.1|Reagents: Sodium hydride|
+|Catalysts: 2,2′-Bipyridine, Bis(1,5-cyclooctadiene)nickel|
+|Solvents: Tetrahydro-4-methyl-2H-pyran; 20 h, 130 °C|
+	
+	
+                                                                                                                              
+110. Scheme 110 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Nickel-Catalyzed C-F/N-H Annulation of Aromatic Amides with Alkynes: Activation of C-F Bonds under Mild Reaction Conditions
+By: Nohira, Itsuki; et al
+Journal of the American Chemical Society (2020), 142(41), 17306-17311.
+10.1021/jacs.0c08512
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 66%
+CAS Reaction Number: 31-614-CAS-30371183
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel|
+|Solvents: Dimethylformamide; 6 h, 40 °C|
+	
+	
+                                                                                                                              
+111. Scheme 111 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Nickel-Catalyzed C-F/N-H Annulation of Aromatic Amides with Alkynes: Activation of C-F Bonds under Mild Reaction Conditions
+By: Nohira, Itsuki; et al
+Journal of the American Chemical Society (2020), 142(41), 17306-17311.
+10.1021/jacs.0c08512
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 65%
+CAS Reaction Number: 31-352-CAS-22808031
+1.1|Reagents: Potassium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel|
+|Solvents: Dimethylformamide; 14 h, 60 °C|
+	
+	
+                                                                                                                              
+112. Scheme 112 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Divergent Coupling of Anilines and Enones by Integration of C-H Activation and Transfer Hydrogenation
+By: Zhou, Xukai; et al
+Angewandte Chemie, International Edition (2018), 57(22), 6681-6685.
+10.1002/anie.201803347
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 65%
+CAS Reaction Number: 31-614-CAS-28871325
+1.1|Reagents: Pivalic acid|
+|Catalysts: Nickel acetate, Iridium, di-μ-chlorodichlorobis[(1,2,3,4,5-η)-1,2,3,4,5-pentamethyl-2,4-cyclopentadien-1-yl]di-, Silver hexafluoroantimonate|
+|Solvents: Isopropanol; 12 h, 80 °C|
+	
+	
+                                                                                                                              
+113. Scheme 113 (2 Reactions)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Chemodivergent Nickel(0)-Catalyzed Arene C-F Activation with Alkynes: Unprecedented C-F/C-H Double Insertion
+By: Capdevila, Lorena; et al
+ACS Catalysis (2019), 9(12), 11074-11081.
+10.1021/acscatal.9b03620
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 63%
+CAS Reaction Number: 31-614-CAS-27860266
+1.1|Reagents: Lithium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel|
+|Solvents: 1,4-Dioxane; 2 h, 140 °C|
+	
+	
+Chemodivergent Nickel(0)-Catalyzed Arene C-F Activation with Alkynes: Unprecedented C-F/C-H Double Insertion
+By: Capdevila, Lorena; et al
+ACS Catalysis (2019), 9(12), 11074-11081.
+10.1021/acscatal.9b03620
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 63%
+CAS Reaction Number: 31-614-CAS-24969995
+1.1|Reagents: Lithium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel|
+|Solvents: 1,4-Dioxane; 2 h, 140 °C|
+	
+	
+                                                                                                                              
+114. Scheme 114 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Nickel-Catalyzed N-Arylation Using N-Trimethylsilyl-carbazole
+By: Minami, Yasunori; et al
+Synlett (2017), 28(18), 2407-2410.
+10.1055/s-0036-1588417
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 61%
+CAS Reaction Number: 31-172-CAS-17810152
+1.1|Catalysts: Potassium tert-butoxide, Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Cyclopentyl methyl ether; 30 min, rt|
+1.2|Reagents: Sodium acetate; 48 h, 100 °C|
+1.3|Solvents: Water|
+	
+	
+                                                                                                                              
+115. Scheme 115 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+	
+Double bond geometry shown
+|
+|
+	
+Double bond geometry shown
+||
+	
+Ni(II)-catalyzed C(sp2) -H alkynylation/annulation cascades: Regioselective access to 3-methyleneisoindoline-1-one using N,S-bidentate auxiliary
+By: Chen, Su-Qin; et al
+Tetrahedron (2019), 75(2), 246-252.
+10.1016/j.tet.2018.11.051
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 60%
+CAS Reaction Number: 31-239-CAS-19832641
+1.1|Reagents: Sodium carbonate, Oxygen|
+|Catalysts: Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel|
+|Solvents: Dimethyl sulfoxide; 12 h, 140 °C|
+	
+	
+                                                                                                                              
+116. Scheme 116 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Total Synthesis of Entrectinib with Key Photo-Redox Mediated Cross-Coupling in Flow
+By: Cordell, Morgan J.; et al
+European Journal of Organic Chemistry (2022), 2022(4), e202101143.
+10.1002/ejoc.202101143
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 60%
+CAS Reaction Number: 31-614-CAS-31115586
+1.1|Reagents: Dabco|
+|Catalysts: Dibromo[1,2-di(methoxy-κO)ethane]nickel, Tris(2,2′-bipyridine)ruthenium(2+) bis(hexafluorophosphate)|
+|Solvents: Dimethyl sulfoxide; 15 min, 22 °C; 10 min, 25 °C|
+1.2|Reagents: Hydrochloric acid|
+|Solvents: Ethyl acetate; 30 min, 0 °C|
+	
+	
+                                                                                                                              
+117. Scheme 117 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+	
+Double bond geometry shown
+|
+|
+	
+Double bond geometry shown
+||
+	
+Ni(II)-catalyzed C(sp2) -H alkynylation/annulation cascades: Regioselective access to 3-methyleneisoindoline-1-one using N,S-bidentate auxiliary
+By: Chen, Su-Qin; et al
+Tetrahedron (2019), 75(2), 246-252.
+10.1016/j.tet.2018.11.051
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 58%
+CAS Reaction Number: 31-239-CAS-19832640
+1.1|Reagents: Sodium carbonate, Oxygen|
+|Catalysts: Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel|
+|Solvents: Dimethyl sulfoxide; 12 h, 140 °C|
+	
+	
+                                                                                                                              
+118. Scheme 118 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Nickel-Catalyzed Mizoroki-Heck/Amination Cascade Reactions of o-Dihaloarenes with Allylamines: Synthesis of Indoles
+By: Chen, Xu; et al
+Organic Letters (2020), 22(19), 7704-7708.
+10.1021/acs.orglett.0c02909
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-172-CAS-22782438
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1H-Imidazolium, 1,3-bis[2,6-bis(1-methylethyl)phenyl]-, chloride (1:1)|
+|Solvents: Mesitylene; 24 h, 80 °C|
+	
+	
+                                                                                                                              
+119. Scheme 119 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 52%
+CAS Reaction Number: 31-614-CAS-34408184
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+120. Scheme 120 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-34408186
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+121. Scheme 121 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Unification of Ullmann and Kharasch coupling: acid promoted CuI catalysed C-N coupling protocols under ligand, base and solvent-free conditions
+By: Sharma, Charu; et al
+Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
+10.1039/d2qo01080a
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-614-CAS-34408185
+1.1|Reagents: Acetic acid|
+|Catalysts: Cuprous iodide, Nickel dichloride; 2 h, 100 °C|
+	
+	
+                                                                                                                              
+122. Scheme 122 (1 Reaction)
+	
+
+|
+|
+|
+|
+	
+Double bond geometry shown
+|
+|
+
+	
+Double bond geometry shown
+||
+	
+Ni(II)-catalyzed C(sp2) -H alkynylation/annulation cascades: Regioselective access to 3-methyleneisoindoline-1-one using N,S-bidentate auxiliary
+By: Chen, Su-Qin; et al
+Tetrahedron (2019), 75(2), 246-252.
+10.1016/j.tet.2018.11.051
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 51%
+CAS Reaction Number: 31-239-CAS-19832634
+1.1|Reagents: Sodium carbonate, Oxygen|
+|Catalysts: Dichloro[1,1′-(1,3-propanediyl)bis[1,1-diphenylphosphine-κP]]nickel|
+|Solvents: Dimethyl sulfoxide; 12 h, 140 °C|
+	
+	
+                                                                                                                              
+123. Scheme 123 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+The Catalytic Synthesis of N-Aryl Indoles Featuring an Alternative Disconnection. Hydroaminoalkylation for a Telescoped Reaction Sequence
+By: Zheng, Cameron H. M.; et al
+Organic Letters (2022), 24(36), 6571-6575.
+10.1021/acs.orglett.2c02510
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 50%
+CAS Reaction Number: 31-614-CAS-33853450
+1.1|Catalysts: Urea, N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-, sodium salt (1:1), Tantalum, tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-, (OC-6-22)-|
+|Solvents: Toluene; 8 h, 130 °C|
+1.2|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 1,1-Bis(diphenylphosphino)ferrocene|
+|Solvents: Toluene; 21.5 h, 100 °C|
+	
+	
+                                                                                                                              
+124. Scheme 124 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+|
+
+||
+	
+Catalytic reduction of trifluoromethylated alkyl bromides and synthesis of alkylated heterocycles under visible light irradiation: synergetic action of a halogen bond and Ni catalysis
+By: Wang, Gai-Rong; et al
+Organic Chemistry Frontiers (2024), 11(17), 4722-4729.
+10.1039/d4qo00966e
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-41257865
+1.1|Reagents: 1,8-Diazabicyclo[5.4.0]undec-7-ene|
+|Catalysts: Nickel acetate, 4,7-Diphenyl-1,10-phenanthroline|
+|Solvents: Tetrahydrofuran; rt → 30 °C; 48 h, 30 °C|
+	
+	
+                                                                                                                              
+125. Scheme 125 (1 Reaction)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Heterogeneous metallaphotocatalytic Cross-Coupling reactions by a carbon Nitride-Nickel catalyst
+By: Zhang, Huali; et al
+Journal of Catalysis (2024), 433, 115461.
+10.1016/j.jcat.2024.115461
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 95%
+CAS Reaction Number: 31-614-CAS-40310286
+1.1|Catalysts: Nickel, Carbon nitride|
+|Solvents: Dimethylacetamide; 12 h, 25 °C|
+1.2|Solvents: Water; 25 °C|
+	
+	
+                                                                                                                              
+126. Scheme 126 (3 Reactions)
+	
+
+|
+|
+|
+|
+|
+|
+
+|
+|
+||
+	
+Remote Editing of Stacked Aromatic Assemblies for Heteroannular C-H Functionalization by a Palladium Switch between Aromatic Rings
+By: Yu, Zhiqian; et al
+Angewandte Chemie, International Edition (2022), 61(48), e202212079.
+10.1002/anie.202212079
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 59-68%
+CAS Reaction Number: 31-614-CAS-35858948
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 2900355-72-6|
+|Solvents: Toluene; 100 °C|
+	
+	
+Remote Editing of Stacked Aromatic Assemblies for Heteroannular C-H Functionalization by a Palladium Switch between Aromatic Rings
+By: Yu, Zhiqian; et al
+Angewandte Chemie, International Edition (2022), 61(48), e202212079.
+10.1002/anie.202212079
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 59-68%
+CAS Reaction Number: 31-614-CAS-35858950
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 2900355-80-6|
+|Solvents: Toluene; 100 °C|
+	
+	
+Remote Editing of Stacked Aromatic Assemblies for Heteroannular C-H Functionalization by a Palladium Switch between Aromatic Rings
+By: Yu, Zhiqian; et al
+Angewandte Chemie, International Edition (2022), 61(48), e202212079.
+10.1002/anie.202212079
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 59-68%
+CAS Reaction Number: 31-614-CAS-35858951
+1.1|Reagents: Sodium tert-butoxide|
+|Catalysts: Bis(1,5-cyclooctadiene)nickel, 2900355-76-0|
+|Solvents: Toluene; 100 °C|
+	
+	
+                                                                                                                              
+127. Scheme 127 (1 Reaction)
+	
+
+Absolute stereochemistry shown,
+	
+Rotation (+)
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+|
+|
+
+Absolute stereochemistry shown,
+	
+Rotation (+)
+|
+|
+Absolute stereochemistry shown,
+	
+Rotation (+)
+||
+	
+Total Synthesis of (+)-Dixiamycin C via a Late-Stage Ni(II)-Photoredox N-Arylation of Carbazoles
+By: Niyogi, Sovan; et al
+Organic Letters (2024), 26(41), 8643-8647.
+10.1021/acs.orglett.4c02436
+View All Sources in CAS SciFinder
+	
+Steps: 1, Yield: 63%
+CAS Reaction Number: 31-614-CAS-41541840
+1.1|Reagents: 7-Methyl-1,5,7-triazabicyclo[4.4.0]dec-5-ene|
+|Catalysts: Pyrrolidine, Dibromo[1,2-di(methoxy-κO)ethane]nickel, Iridium(1+), [4,4′-bis(1,1-dimethylethyl)-2,2′-bipyridine-κN1,κN1′]bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-κN]phenyl-κC]-, (OC-6-33)-, hexafluorophosphate(1-) (1:1)|
+|Solvents: Dimethyl sulfoxide, Dimethylacetamide; rt → -78 °C; 12 h, 50 °C|
+	
+	
+Copyright © 2025 American Chemical Society (ACS). All Rights Reserved.

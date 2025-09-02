@@ -424,6 +424,14 @@ class ReactionMarkdownGenerator:
             # Nickel sources
             "ni(cod)2": "244261-66-3",
             "ni cod 2": "244261-66-3",
+            "bis(1,5 cyclooctadiene)nickel": "244261-66-3",
+            "bis(cyclooctadiene)nickel": "244261-66-3",
+            # Nickel chloride common forms
+            "nickel dichloride": "7718-54-9",
+            "nickel(ii) chloride": "7718-54-9",
+            "nickel chloride": "7718-54-9",
+            "nicl2": "7718-54-9",
+            "ni cl2": "7718-54-9",
         }
 
         # Normalize keys into alias_to_cas
@@ -526,7 +534,7 @@ class ReactionMarkdownGenerator:
             return cas
         return None
     
-    def format_compound_list(self, compound_list: List[str], title: str) -> str:
+    def format_compound_list(self, compound_list: List[str], title: str, allow_name_only: bool = False) -> str:
         """Format a list of compounds for markdown output with CAS validation and de-duplication.
         Rules:
         - Prefer entries with CAS over name-only duplicates.
@@ -571,8 +579,14 @@ class ReactionMarkdownGenerator:
                 # Also canonicalize by direct CAS alias mapping
                 corrected_cas = self.canonicalize_cas(corrected_cas)
 
-                # If still missing or invalid CAS, drop this entry (enforce CAS-only policy)
+                # If still missing or invalid CAS, optionally keep name-only when allowed
                 if (not corrected_cas) or (not self.cas_registry.validate_cas_format(corrected_cas)):
+                    if allow_name_only and name:
+                        norm_name = self._norm(name)
+                        if norm_name not in seen_names:
+                            seen_names.add(norm_name)
+                            lines.append(f"  - {name} (CAS: unknown)")
+                            self.validation_warnings.append(f"{title}: No valid CAS for '{name}' — kept as name-only")
                     continue
 
                 norm_name = self._norm(corrected_name)
@@ -605,7 +619,13 @@ class ReactionMarkdownGenerator:
                     seen_names.add(norm_reg_name)
                     lines.append(f"  - {reg_name} (CAS: {cas_resolved})")
                 else:
-                    # Cannot resolve to CAS; drop per CAS-only policy
+                    # Cannot resolve to CAS; keep name-only if allowed
+                    if allow_name_only and name:
+                        if norm_name not in seen_names:
+                            seen_names.add(norm_name)
+                            lines.append(f"  - {name} (CAS: unknown)")
+                            self.validation_warnings.append(f"{title}: No CAS for '{name}' — kept as name-only")
+                    # otherwise drop entry
                     continue
 
         if not lines:
@@ -843,23 +863,23 @@ class ReactionMarkdownGenerator:
         
         # Format catalytic system with validation
         if full_catalytic:
-            markdown += self.format_compound_list(full_catalytic, "Full Catalytic System")
+            markdown += self.format_compound_list(full_catalytic, "Full Catalytic System", allow_name_only=True)
         
         if catalyst_core:
-            markdown += self.format_compound_list(catalyst_core, "Catalyst Core")
+            markdown += self.format_compound_list(catalyst_core, "Catalyst Core", allow_name_only=True)
         
         if catalyst_generic:
             markdown += f"**Generic Catalyst:** {', '.join(catalyst_generic)}\n\n"
         
         if ligands:
-            markdown += self.format_compound_list(ligands, "Ligands")
+            markdown += self.format_compound_list(ligands, "Ligands", allow_name_only=True)
         
         # Format reagents with roles and validation
         if reagents:
             markdown += self.format_reagents(reagents, reagent_roles)
         
-        if solvents:
-            markdown += self.format_compound_list(solvents, "Solvents")
+        # Always show solvents; if empty, formatter will print None
+        markdown += self.format_compound_list(solvents, "Solvents", allow_name_only=False)
         
         # Add reaction conditions
         markdown += self.format_reaction_conditions(row)

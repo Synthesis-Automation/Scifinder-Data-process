@@ -36,7 +36,7 @@ except Exception:
         sys.exit(1)
 
 try:
-    from process_reactions import parse_rdf, assemble_rows, load_cas_maps
+    from process_reactions import parse_rdf, assemble_rows, load_cas_maps, _normalize_token_list as _norm_tokens
 except Exception as e:
     print(f"Error: Cannot import processing helpers: {e}")
     sys.exit(1)
@@ -125,12 +125,18 @@ def compute_time_and_temp_from_txt(lines: List[str]) -> Tuple[Any, Any]:
     Matches the heuristics in process_reactions (rt=25C, overnight=16h).
     """
     import re, math
-    RE_TIME = re.compile(r"(?P<num>\d+(?:\.\d+)?)\s*(?P<unit>h|hr|hrs|hour|hours|min|mins|minute|minutes|d|day|days)\b", re.I)
+    RE_TIME = re.compile(
+        r"(?<![A-Za-z0-9])(?P<num>\d+(?:\.\d+)?)\s*(?P<unit>h|hr|hrs|hour|hours|min|mins|minute|minutes|d|day|days)(?![A-Za-z0-9])",
+        re.I,
+    )
     RE_TEMP_C = re.compile(r"(?P<val>-?\d+(?:\.\d+)?)\s*[^A-Za-z0-9]{0,3}C\b")
     total_h = 0.0
     max_c = -math.inf
     had_rt = False
     for ln in lines or []:
+        # Skip DOI-like lines entirely to avoid "...41989d" misreads
+        if re.search(r"\b10\.\d{4,9}/", ln):
+            continue
         for m in RE_TIME.finditer(ln):
             num = float(m.group('num'))
             unit = m.group('unit').lower()
@@ -158,6 +164,58 @@ def build_txt_map(records: Dict[str, Dict[str, List[str]]]) -> Dict[str, Dict[st
     for rid, blocks in records.items():
         txt_lines = list(blocks.get('txt') or [])
         time_h, temp_c = compute_time_and_temp_from_txt(txt_lines)
+        # Light-weight extraction of reagents/catalysts/solvents from TXT lines
+        reagents: List[str] = []
+        catalysts: List[str] = []
+        solvents: List[str] = []
+        import re
+        def _is_geom_desc(tok: str) -> bool:
+            tt = (tok or '').strip()
+            return bool(re.fullmatch(r"\(?(?:OC|SP)-\d+-\d+\)?-?", tt))
+        for raw in txt_lines:
+            s = raw.strip()
+            if not s:
+                continue
+            # Split composite lines like "1.1|Reagents: ...|" into segments
+            segments = [seg.strip() for seg in (s.split('|') if '|' in s else [s]) if seg.strip()]
+            for seg in segments:
+                low = seg.lower()
+                if any(low.startswith(lbl) for lbl in ['reagents:', 'reagent:', 'reagent(s):', 'additives:', 'additive:']):
+                    rest = seg.split(':', 1)[1].strip() if ':' in seg else ''
+                    before = rest.split(';', 1)[0].strip()
+                    try:
+                        tokens = _norm_tokens(before)
+                    except Exception:
+                        tokens = [t.strip() for t in before.split(',') if t.strip()]
+                    reagents.extend([t for t in tokens if not _is_geom_desc(t)])
+                    continue
+                if any(low.startswith(lbl) for lbl in ['catalysts:', 'catalyst:', 'catalyst(s):']):
+                    rest = seg.split(':', 1)[1].strip() if ':' in seg else ''
+                    before = rest.split(';', 1)[0].strip()
+                    try:
+                        tokens = _norm_tokens(before)
+                    except Exception:
+                        tokens = [t.strip() for t in before.split(',') if t.strip()]
+                    catalysts.extend([t for t in tokens if not _is_geom_desc(t)])
+                    continue
+                if any(low.startswith(lbl) for lbl in ['solvents:', 'solvent:', 'solvent(s):']):
+                    rest = seg.split(':', 1)[1].strip() if ':' in seg else ''
+                    before = rest.split(';', 1)[0].strip()
+                    try:
+                        tokens = _norm_tokens(before)
+                    except Exception:
+                        tokens = [t.strip() for t in before.split(',') if t.strip()]
+                    solvents.extend([t for t in tokens if not _is_geom_desc(t)])
+                    continue
+        # De-duplicate while preserving order
+        def _uniq(lst: List[str]) -> List[str]:
+            seen = set()
+            out: List[str] = []
+            for it in lst:
+                if it and it not in seen:
+                    seen.add(it)
+                    out.append(it)
+            return out
         txt_map[rid] = {
             'original_text': txt_lines,
             'all_condition_lines': txt_lines,
@@ -165,7 +223,7 @@ def build_txt_map(records: Dict[str, Dict[str, List[str]]]) -> Dict[str, Dict[st
             'temperature_c': temp_c,
             # Optional placeholders; parse_txt would normally set these
             'title': '', 'authors': '', 'citation': '', 'doi': '',
-            'reagents': [], 'catalysts': [], 'solvents': [],
+            'reagents': _uniq(reagents), 'catalysts': _uniq(catalysts), 'solvents': _uniq(solvents),
             'txt_yield': None,
         }
     return txt_map
@@ -276,7 +334,7 @@ class CombinedMDRichGUI(QtWidgets.QWidget):
 
             # Assemble rows (same pipeline as original)
             self._log("Assembling rows…")
-            rows = assemble_rows(txt_map, rdf_map, cas_map)
+            rows = assemble_rows(txt_map, rdf_map, cas_map, txt_preferred=True)
             self._log(f"Assembled {len(rows)} rows")
             # Diagnostics: count rows where SMILES were produced
             smi_rows = sum(1 for r in rows if (r.get('ReactantSMILES') or r.get('ProductSMILES')))

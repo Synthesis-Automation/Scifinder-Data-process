@@ -132,7 +132,13 @@ def build_famsig(row: Dict[str, str]) -> str:
 
 # --------------------------- Parsing the TXT file ---------------------------
 
-_RE_TIME = re.compile(r"(?P<num>\d+(?:\.\d+)?)\s*(?P<unit>h|hr|hrs|hour|hours|min|mins|minute|minutes|d|day|days)\b", re.I)
+# Time pattern guarded to avoid matching inside IDs/DOIs (e.g., "...41989d").
+# Require that the number is not immediately preceded by a letter/digit, and the unit
+# is not immediately followed by a letter/digit.
+_RE_TIME = re.compile(
+    r"(?<![A-Za-z0-9])(?P<num>\d+(?:\.\d+)?)\s*(?P<unit>h|hr|hrs|hour|hours|min|mins|minute|minutes|d|day|days)(?![A-Za-z0-9])",
+    re.I,
+)
 _RE_TEMP_C = re.compile(r"(?P<val>-?\d+(?:\.\d+)?)\s*[^A-Za-z0-9]{0,3}C\b")  # tolerate broken degree symbol
 
 
@@ -502,6 +508,11 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
                     def _list_from_rest(rest: str) -> List[str]:
                         before = rest.split(';', 1)[0].strip()
                         toks = [t for t in _normalize_token_list(before) if not _is_condition_token(t)]
+                        # filter out coordination geometry descriptors like (OC-6-33)-, (SP-4-2)-, etc.
+                        def _is_geom_desc(tok: str) -> bool:
+                            tt = tok.strip()
+                            return bool(re.fullmatch(r"\(?(?:OC|SP)-\d+-\d+\)?-?", tt))
+                        toks = [t for t in toks if not _is_geom_desc(t)]
                         return toks
 
                     handled = False
@@ -561,6 +572,9 @@ def parse_txt(path: str) -> Dict[str, Dict[str, Any]]:
         max_c = -math.inf
         had_rt = False
         for ln in rec.get('all_condition_lines', []):
+            # Skip common DOI-like lines entirely
+            if re.search(r"\b10\.\d{4,9}/", ln):
+                continue
             # time
             for m in _RE_TIME.finditer(ln):
                 num = float(m.group('num'))
@@ -903,6 +917,13 @@ def _name_variants(nm: str) -> List[str]:
     for pat, repl in rep_map.items():
         norm = re.sub(pat, repl, norm)
     variants.add(norm)
+    # Add a variant with oxidation-state parentheses removed, e.g., Nickel(0) -> Nickel
+    try:
+        no_ox = re.sub(r"\s*\((?:0|[ivx]+)\)\s*", " ", norm, flags=re.IGNORECASE)
+        no_ox = re.sub(r"\s+", " ", no_ox).strip()
+        variants.add(no_ox)
+    except Exception:
+        pass
     # Also include a version with multiple spaces normalized and hyphens collapsed
     variants.add(re.sub(r"\s+", " ", norm))
     variants.add(norm.replace('-', ' '))
@@ -977,11 +998,21 @@ def _builtin_core_name_to_cas(name: str, all_rxn_cas: List[str]) -> Optional[str
         return None
     candidates: List[str] = []
     # Cuprous iodide (copper(I) iodide)
-    if any(k in nm for k in ["cuprous iodide", "copper(i) iodide", "cu iodide", "cu(i) iodide"]):
+    if any(k in nm for k in ["cuprous iodide", "copper(i) iodide", "cu iodide", "cu(i) iodide", "cui", "cu i iodide"]):
         candidates = ["7681-65-4"]
     # Cupric acetate (copper(II) acetate): anhydrous and monohydrate
     if any(k in nm for k in ["cupric acetate", "copper(ii) acetate", "cu acetate", "cu(ii) acetate"]):
         candidates = ["142-71-2", "6046-93-1"]
+    # Nickel(II) chloride
+    if any(k in nm for k in [
+        "nickel dichloride", "nickel(ii) chloride", "nickel chloride", "nicl2", "ni cl2", "ni(cl)2"
+    ]):
+        candidates = ["7718-54-9"]
+    # Bis(1,5-cyclooctadiene)nickel(0) / Ni(COD)2
+    if any(k in nm for k in [
+        "ni(cod)2", "ni cod 2", "bis(1,5-cyclooctadiene)nickel", "bis(cyclooctadiene)nickel"
+    ]):
+        candidates = ["244261-66-3"]
     for cas in candidates:
         if cas in (all_rxn_cas or []):
             return cas
@@ -1054,13 +1085,21 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
     # Else: we keep mapping names or cas fallback
 
     used_noncas: set[str] = set()
+    # Built-in CAS->preferred name fallback for a few common salts/cores
+    builtin_cas_name: Dict[str, str] = {
+        '7681-65-4': 'Copper(I) iodide',
+        '142-71-2': 'Copper(II) acetate',
+        '6046-93-1': 'Copper(II) acetate monohydrate',
+        '7718-54-9': 'Nickel(II) chloride',
+    }
+
     # Emit CAS-derived entries, overlaying assigned TXT names when present
     emitted_for_cas: Dict[str, str] = {}
     for cas in cas_list:
         e = cas_map.get(cas) or {}
         mapped_name = (e.get('Name') or e.get('Token') or '').strip()
-        # Prefer mapped name when available; fall back to TXT-assigned name
-        nm = (mapped_name or assigned_names.get(cas) or '').strip()
+        # Prefer mapped name when available; then built-in; then TXT-assigned name
+        nm = (mapped_name or builtin_cas_name.get(cas) or assigned_names.get(cas) or '').strip()
         if nm:
             used_noncas.add(nm)
         else:
@@ -1270,7 +1309,7 @@ def _molblock_to_smiles(mb: str) -> str:
         return ''
 
 
-def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]], cas_map: Optional[Dict[str, Dict[str, str]]] = None) -> List[Dict[str, Any]]:
+def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]], cas_map: Optional[Dict[str, Dict[str, str]]] = None, *, txt_preferred: bool = False) -> List[Dict[str, Any]]:
     ids = sorted(set(txt.keys()) | set(rdf.keys()))
     rows: List[Dict[str, Any]] = []
     for rid in ids:
@@ -1282,7 +1321,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         ligands: List[str] = []
         core_generic: List[str] = []
 
-        # Prefer CAS-role-based split if mapping available
+    # Prefer CAS-role-based split if mapping available (may be suppressed by txt_preferred later)
         cat_core_cas: List[str] = []
         cat_lig_cas: List[str] = []
         if cas_map and r.get('cat_cas'):
@@ -1314,7 +1353,7 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
             # Core generic metal tags from catalyst CAS
             core_generic.extend(_generic_from_cas_list(cat_core_cas, cas_map))
 
-        # Also include TXT catalysts; classify into core vs ligand and extract generic tags
+    # Also include TXT catalysts; classify into core vs ligand and extract generic tags
         txt_cats = list(t.get('catalysts', []))
         # First pass: inspect for any metal generic tag among TXT catalysts
         txt_classified = [(_classify_catalyst_or_ligand(item), item) for item in txt_cats]
@@ -1334,6 +1373,12 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         # If still no core_generic but copper-like catalyst present explicitly, infer
         if not core_generic and any('copper' in c.lower() for c in core_detail):
             core_generic.append('Cu')
+
+        # TXT-preferred policy: if requested and TXT lists any catalysts/ligands, ignore RDF-only catalyst CAS
+        # We keep generic tags from TXT; we still allow CAS hints for TXT names when pairing.
+        if txt_preferred and ((core_detail or ligands) or any_metal_present):
+            cat_core_cas = []
+            cat_lig_cas = []
 
         # Reagents and roles (prefer RDF CAS; merge TXT names; roles from map or TXT heuristics)
         txt_reagents: List[str] = list(t.get('reagents', []))
@@ -1458,8 +1503,11 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
 
         reagent_pairs = _pair_strings_from_cas_and_names(r.get('rgt_cas', []), cas_map or {}, txt_reagents, rgt_name_idx)
         solvent_pairs = _pair_strings_from_cas_and_names(r.get('sol_cas', []), cas_map or {}, t.get('solvents', []) or [], sol_name_idx)
-        ligand_pairs = _pair_strings_from_cas_and_names(cat_lig_cas or [], cas_map or {}, ligands, merged_lig_hints)
-        core_pairs = _pair_strings_from_cas_and_names(cat_core_cas or [], cas_map or {}, core_detail, merged_core_hints)
+        # In TXT-preferred mode, when TXT has catalyst info, pair only TXT names with CAS hints; otherwise include RDF CAS.
+        use_cas_lig = (not txt_preferred) or (txt_preferred and not ligands)
+        use_cas_core = (not txt_preferred) or (txt_preferred and not core_detail)
+        ligand_pairs = _pair_strings_from_cas_and_names((cat_lig_cas if use_cas_lig else []) or [], cas_map or {}, ligands, merged_lig_hints)
+        core_pairs = _pair_strings_from_cas_and_names((cat_core_cas if use_cas_core else []) or [], cas_map or {}, core_detail, merged_core_hints)
 
         # Fallback: if exactly one catalyst core CAS is present, attach it to any unmatched core names
         if len(cat_core_cas) == 1 and core_pairs:
@@ -1549,7 +1597,15 @@ def assemble_rows(txt: Dict[str, Dict[str, Any]], rdf: Dict[str, Dict[str, Any]]
         corrected_ligand_pairs: List[str] = []
         for p in combined_pairs:
             nm, sep, cs = p.partition('|')
-            if _is_core_candidate(nm.strip(), cs.strip()):
+            cs_s = cs.strip()
+            # Respect role assignments derived from catalyst CAS lists when available
+            if cs_s and cs_s in (cat_core_cas or []):
+                corrected_core_pairs.append(p)
+                continue
+            if cs_s and cs_s in (cat_lig_cas or []):
+                corrected_ligand_pairs.append(p)
+                continue
+            if _is_core_candidate(nm.strip(), cs_s):
                 corrected_core_pairs.append(p)
             else:
                 corrected_ligand_pairs.append(p)

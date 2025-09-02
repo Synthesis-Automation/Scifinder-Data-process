@@ -597,6 +597,26 @@ class ReactionMarkdownGenerator:
                     # Prefer registry canonical display name when available
                     reg_name = (self.cas_map.get(corrected_cas, {}) or {}).get('Name') or corrected_name
                     seen_names.add(self._norm(reg_name))
+                    # Role conflict warning: if registry role contradicts the section title
+                    reg_role = (self.cas_map.get(corrected_cas, {}) or {}).get('Role', '')
+                    if reg_role:
+                        rr = self._norm_role(reg_role)
+                        # Heuristics: title determines expected role family
+                        exp = 'UNK'
+                        tl = title.lower()
+                        if 'solvent' in tl:
+                            exp = 'SOL'
+                        elif 'ligand' in tl:
+                            exp = 'LIG'
+                        elif 'catalyst core' in tl or ('catalytic' in tl and 'system' in tl):
+                            exp = 'CAT'
+                        elif 'reagent' in tl:
+                            # reagents handled in format_reagents
+                            exp = 'RGT'
+                        if exp in {'SOL','LIG','CAT'} and not rr.startswith(exp):
+                            self.validation_warnings.append(
+                                f"{title}: Role conflict for '{reg_name}' (CAS {corrected_cas}): registry role {reg_role}"
+                            )
                     if reg_name != corrected_cas:
                         lines.append(f"  - {reg_name} (CAS: {corrected_cas})")
                     else:
@@ -712,6 +732,12 @@ class ReactionMarkdownGenerator:
             # Normalize and choose role: prefer registry role when available
             if reg_role:
                 role = self._norm_role(reg_role)
+                # Warn if the original provided role conflicts significantly
+                prov = self._norm_role(reagent_roles[i] if i < len(reagent_roles) else "UNK")
+                if prov != 'UNK' and role != prov:
+                    self.validation_warnings.append(
+                        f"Reagents: Role conflict for '{name}' (CAS {cas}): TXT role {prov}, registry role {role}"
+                    )
 
             # Prefer registry canonical name if CAS known
             display_name = name

@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-02 19:34:50
+**Generated:** 2025-09-02 22:37:15
 **Source Folder:** combined_reactions_20250902_1633.md
 **Total Reactions:** 1131
 
@@ -81,6 +81,7 @@ Green Chemistry (2024), 26(14), 8341-8347.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -139,6 +140,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -197,6 +199,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -255,6 +258,7 @@ Organic Letters (2022), 24(36), 6642-6646.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -313,6 +317,7 @@ Chemistry Letters (2024), 53(5), upae088.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -370,6 +375,7 @@ Organic Letters (2014), 16(9), 2394-2397.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -428,6 +434,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -488,6 +495,7 @@ Organic Letters (2018), 20(17), 5448-5451.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -546,6 +554,7 @@ Cell Reports Physical Science (2021), 2(7), 100491.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -604,6 +613,7 @@ SynOpen (2024), 8(1), 91-99.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -662,6 +672,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -715,6 +726,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -768,6 +780,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -821,6 +834,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(21), 3529-3532.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -874,6 +888,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -935,6 +950,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -993,6 +1009,7 @@ Organic Letters (2022), 24(36), 6571-6575.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -1051,6 +1068,7 @@ ChemCatChem (2014), 6(12), 3474-3481.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -1109,6 +1127,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -1224,6 +1243,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -1282,6 +1302,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -1340,6 +1361,7 @@ New Journal of Chemistry (2022), 46(40), 19501-19513.
   - ⚠️ Full Catalytic System: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
   - ⚠️ Catalyst Core: Name mismatch: 'Nickel acetate' vs registry 'Nickel(II) acetate' (abbrev: 'Ni(OAc)2') for CAS 373-02-4
   - ⚠️ Ligands: Name mismatch: 'bisoxazoline' vs registry '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' for CAS 229184-98-9
+  - ⚠️ Ligands: Role conflict for '(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]' (CAS 229184-98-9): registry role CAT_LIG
 
 ---
 
@@ -1399,6 +1421,7 @@ Reaction Kinetics, Mechanisms and Catalysis (2020), 129(1), 349-369.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'Copper(I) iodide' (abbrev: 'CuI') for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Cyclopentadiene' — kept as name-only
 
 ---
@@ -1459,6 +1482,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'Copper(I) iodide' (abbrev: 'CuI') for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Cyclopentadiene' — kept as name-only
 
 ---
@@ -1519,6 +1543,7 @@ Applied Organometallic Chemistry (2016), 30(11), 949-953.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'Copper(I) iodide' (abbrev: 'CuI') for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Cyclopentadiene' — kept as name-only
 
 ---
@@ -1586,8 +1611,8 @@ Chemical Science (2023), 14(16), 4390-4396.
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - 1184-88-9 (CAS: 1184-88-9) - Role: UNK
-  - 429-42-5 (CAS: 429-42-5) - Role: UNK
+  - Propanoic acid (CAS: 1184-88-9) - Role: UNK
+  - Tetrabutylammonium tetrafluoroborate (CAS: 429-42-5) - Role: UNK
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -1686,6 +1711,7 @@ Organic Letters (2024), 26(41), 8643-8647.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4391,6 +4417,7 @@ Organic Letters (2022), 24(36), 6571-6575.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4457,6 +4484,7 @@ ChemCatChem (2014), 6(12), 3474-3481.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4523,6 +4551,7 @@ New Journal of Chemistry (2022), 46(40), 19501-19513.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4589,6 +4618,7 @@ Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4655,6 +4685,7 @@ RSC Advances (2016), 6(84), 80670-80678.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4721,6 +4752,7 @@ Chemical Science (2022), 13(29), 8536-8542.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4787,6 +4819,7 @@ Applied Organometallic Chemistry (2016), 30(11), 949-953.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4853,6 +4886,7 @@ ChemCatChem (2014), 6(12), 3474-3481.
   - ⚠️ Full Catalytic System: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Phosphorous trichloride' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'polymer with 1,3,5-triazine-2,4,6(1H,3H,5H)-trione' — kept as name-only
 
@@ -4969,6 +5003,7 @@ ACS Catalysis (2018), 8(6), 5328-5339.
   - ⚠️ Full Catalytic System: No valid CAS for '1,1′-bis[bis[3,5-bis(trifluoromethyl)phenyl]phosphino]-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Ferrocene' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,1′-bis[bis[3,5-bis(trifluoromethyl)phenyl]phosphino]-' — kept as name-only
 
@@ -5037,6 +5072,7 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-4,5-dihydro-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -6824,6 +6860,7 @@ Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -6895,6 +6932,7 @@ Organic Chemistry Frontiers (2022), 9(14), 3847-3853.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -7091,6 +7129,7 @@ Tetrahedron (2019), 75(2), 246-252.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -7168,6 +7207,7 @@ Organic Letters (2022), 24(39), 7134-7139.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -8601,6 +8641,7 @@ Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -8660,6 +8701,7 @@ Journal of Organic Chemistry (2020), 85(5), 3234-3244.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -8719,6 +8761,7 @@ European Journal of Inorganic Chemistry (2019), 2019(38), 4112-4116.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -8779,6 +8822,7 @@ ChemCatChem (2014), 6(12), 3474-3481.
   - ⚠️ Full Catalytic System: No valid CAS for '2-[2-[Bis(2-methylphenyl)phosphino]phenyl]-2,3-dihydro-1,3-bis(2,4,6-trimethylphenyl)-1H-1,3,2-diazaphosphole' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2-[2-[Bis(2-methylphenyl)phosphino]phenyl]-2,3-dihydro-1,3-bis(2,4,6-trimethylphenyl)-1H-1,3,2-diazaphosphole' — kept as name-only
 
 ---
@@ -8839,6 +8883,7 @@ ACS Catalysis (2014), 4(9), 3289-3293.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -11002,6 +11047,7 @@ Organic Letters (2018), 20(22), 7216-7219.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -11062,6 +11108,7 @@ Organic Letters (2022), 24(36), 6571-6575.
   - ⚠️ Full Catalytic System: No valid CAS for '2379878-02-9,2380324-31-0' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2379878-02-9,2380324-31-0' — kept as name-only
 
 ---
@@ -17898,6 +17945,7 @@ Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -17969,6 +18017,7 @@ Organic Letters (2024), 26(41), 8643-8647.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18040,6 +18089,7 @@ Journal of Organic Chemistry (2022), 87(15), 10390-10397.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18111,6 +18161,7 @@ Organic Letters (2024), 26(4), 912-916.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18182,6 +18233,7 @@ Journal of Organic Chemistry (2022), 87(15), 10390-10397.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18253,6 +18305,7 @@ Journal of the American Chemical Society (2020), 142(37), 15830-15841.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18326,6 +18379,7 @@ Organic Letters (2014), 16(9), 2394-2397.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18397,6 +18451,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18468,6 +18523,7 @@ Organic Chemistry Frontiers (2022), 9(7), 1955-1959.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18539,6 +18595,7 @@ Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18610,6 +18667,7 @@ Organic Letters (2022), 24(36), 6571-6575.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18682,6 +18740,7 @@ Tetrahedron (2019), 75(2), 246-252.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18753,6 +18812,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18824,6 +18884,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18895,6 +18956,7 @@ ChemCatChem (2014), 6(12), 3474-3481.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -18968,6 +19030,7 @@ Accounts of Chemical Research (2021), 54(7), 1586-1596.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19039,6 +19102,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19110,6 +19174,7 @@ Angewandte Chemie, International Edition (2016), 55(8), 2810-2814.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19181,6 +19246,7 @@ Journal of Organic Chemistry (2022), 87(15), 10285-10297.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19252,6 +19318,7 @@ Angewandte Chemie, International Edition (2023), 62(17), e202218391.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19323,6 +19390,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19396,6 +19464,7 @@ Accounts of Chemical Research (2021), 54(7), 1586-1596.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19467,6 +19536,7 @@ Organic Letters (2024), 26(41), 8643-8647.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19538,6 +19608,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19609,6 +19680,7 @@ Chemistry - A European Journal (2024), 30(67), e202402524.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -19680,6 +19752,7 @@ Chemistry Letters (2022), 51(5), 546-548.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -26303,6 +26376,7 @@ Journal of Organic Chemistry (2022), 87(15), 10285-10297.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'Copper(I) iodide' (abbrev: 'CuI') for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2-Methylfuran' — kept as name-only
 
 ---
@@ -26934,6 +27008,7 @@ Angewandte Chemie, International Edition (2018), 57(22), 6681-6685.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -26994,6 +27069,7 @@ Green Chemistry (2024), 26(14), 8341-8347.
   - ⚠️ Full Catalytic System: No valid CAS for '1,3-Bis(2,6-diisopropylphenyl)imidazolidin-2-ylidene' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1,3-Bis(2,6-diisopropylphenyl)imidazolidin-2-ylidene' — kept as name-only
 
 ---
@@ -27055,6 +27131,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'Copper(I) iodide' (abbrev: 'CuI') for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2-Methylfuran' — kept as name-only
 
 ---
@@ -27116,6 +27193,7 @@ Organic & Biomolecular Chemistry (2023), 21(20), 4276-4281.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'Copper(I) iodide' (abbrev: 'CuI') for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2-Methylfuran' — kept as name-only
 
 ---
@@ -27177,6 +27255,7 @@ Scientific Reports (2023), 13(1), 18153.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'Copper(I) iodide' (abbrev: 'CuI') for CAS 7681-65-4
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2-Methylfuran' — kept as name-only
 
 ---
@@ -27239,6 +27318,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - ⚠️ Full Catalytic System: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
 
 ---
@@ -27301,6 +27381,7 @@ Chemical Science (2023), 14(16), 4390-4396.
   - ⚠️ Full Catalytic System: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
 
 ---
@@ -27363,6 +27444,7 @@ Organic Chemistry Frontiers (2022), 9(7), 1955-1959.
   - ⚠️ Full Catalytic System: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
 
 ---
@@ -27427,6 +27509,7 @@ Organic Letters (2014), 16(9), 2394-2397.
   - ⚠️ Full Catalytic System: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '8-[2-(Dicyclohexylphosphino)phenyl]-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphatricyclo[3.3.1.13,7]decane' — kept as name-only
 
 ---
@@ -28215,6 +28298,7 @@ Synlett (2017), 28(18), 2407-2410.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -28537,6 +28621,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -28594,6 +28679,7 @@ Organic Letters (2022), 24(36), 6642-6646.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -28702,6 +28788,7 @@ Applied Organometallic Chemistry (2016), 30(11), 949-953.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -28982,6 +29069,7 @@ Chemical Science (2022), 13(29), 8536-8542.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -29200,6 +29288,7 @@ Organic Chemistry Frontiers (2022), 9(14), 3847-3853.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -29308,6 +29397,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -29467,6 +29557,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -29679,6 +29770,7 @@ Chemistry - A European Journal (2024), 30(67), e202402524.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -29783,6 +29875,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -29891,6 +29984,7 @@ Chemical Communications (Cambridge, United Kingdom) (2022), 58(21), 3529-3532.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30050,6 +30144,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30107,6 +30202,7 @@ ACS Catalysis (2019), 9(12), 11074-11081.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30164,6 +30260,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30222,6 +30319,7 @@ Applied Organometallic Chemistry (2021), 35(8), e6274.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30332,6 +30430,7 @@ Organic Letters (2014), 16(9), 2394-2397.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30440,6 +30539,7 @@ ChemCatChem (2014), 6(12), 3474-3481.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30756,6 +30856,7 @@ Chemical Science (2023), 14(16), 4390-4396.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -30879,6 +30980,7 @@ Journal of the American Chemical Society (2017), 139(12), 4559-4567.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31034,6 +31136,7 @@ New Journal of Chemistry (2022), 46(40), 19501-19513.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31091,6 +31194,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31206,6 +31310,7 @@ Chemistry - A European Journal (2023), 29(1), e202202385.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31263,6 +31368,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31331,6 +31437,7 @@ RSC Advances (2016), 6(84), 80670-80678.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '1H-Imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -31499,6 +31606,7 @@ ACS Omega (2024), 9(36), 38262-38271.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31613,6 +31721,7 @@ Journal of Organic Chemistry (2022), 87(15), 10285-10297.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31729,6 +31838,7 @@ Journal of Catalysis (2024), 433, 115461.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31837,6 +31947,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -31893,6 +32004,7 @@ Pharma Chemica (2018), 10(4), 62-67.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -32056,6 +32168,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -32298,6 +32411,7 @@ Journal of Organic Chemistry (2020), 85(5), 3234-3244.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -32355,6 +32469,7 @@ Chemistry - A European Journal (2023), 29(1), e202202385.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -32412,6 +32527,7 @@ Chemistry - A European Journal (2024), 30(67), e202402524.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -32469,6 +32585,7 @@ Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -32577,6 +32694,7 @@ Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -34981,6 +35099,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: No valid CAS for '2,2′-Bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2,2′-Bipyridine' — kept as name-only
 
 ---
@@ -35313,7 +35432,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35385,7 +35504,7 @@ Green Chemistry (2024), 26(14), 8341-8347.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35457,7 +35576,7 @@ Chemistry - A European Journal (2024), 30(67), e202402524.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35529,7 +35648,7 @@ ChemCatChem (2014), 6(12), 3474-3481.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35603,7 +35722,7 @@ Organic Letters (2014), 16(9), 2394-2397.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35675,7 +35794,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35747,7 +35866,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35819,7 +35938,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -35891,7 +36010,7 @@ Tetrahedron Letters (2015), 56(48), 6685-6688.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 29536-33-2 (CAS: 29536-33-2) - Role: BASE
+  - 1-Butanaminium (CAS: 29536-33-2) - Role: BASE
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -40572,6 +40691,7 @@ Angewandte Chemie, International Edition (2023), 62(17), e202218391.
   - ⚠️ Full Catalytic System: No valid CAS for 'tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -40653,6 +40773,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: No valid CAS for 'tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -40734,6 +40855,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - ⚠️ Full Catalytic System: No valid CAS for 'tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -40815,6 +40937,7 @@ Chemical Science (2023), 14(16), 4390-4396.
   - ⚠️ Full Catalytic System: No valid CAS for 'tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -40896,6 +41019,7 @@ Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901.
   - ⚠️ Full Catalytic System: No valid CAS for 'tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -40977,6 +41101,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: No valid CAS for 'tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -41058,6 +41183,7 @@ Organic Chemistry Frontiers (2024), 11(17), 4722-4729.
   - ⚠️ Full Catalytic System: No valid CAS for 'tetrakis(N-methylmethanaminato)(3,4,6,7,8-pentahydro-2H-pyrimido[1,2-a]pyrimidinato-κN1,κN9)-' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -41152,6 +41278,7 @@ Green Chemistry (2024), 26(14), 8341-8347.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: No valid CAS for 'Tetrakis(acetonitrile)copper(1+) tetrafluoroborate' — kept as name-only
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -41246,6 +41373,7 @@ Journal of Organic Chemistry (2022), 87(15), 10285-10297.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: No valid CAS for 'Tetrakis(acetonitrile)copper(1+) tetrafluoroborate' — kept as name-only
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -41340,6 +41468,7 @@ Chemical Science (2023), 14(16), 4390-4396.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: No valid CAS for 'Tetrakis(acetonitrile)copper(1+) tetrafluoroborate' — kept as name-only
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -41434,6 +41563,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: No valid CAS for 'Tetrakis(acetonitrile)copper(1+) tetrafluoroborate' — kept as name-only
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -41528,6 +41658,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Catalyst Core: No valid CAS for 'Tetrakis(acetonitrile)copper(1+) tetrafluoroborate' — kept as name-only
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Urea' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'N′-(2,6-dimethylphenyl)-N-methyl-N-(1-phenylethyl)-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'sodium salt (1:1)' — kept as name-only
@@ -41590,6 +41721,7 @@ Chemistry - A European Journal (2024), 30(67), e202402524.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -41650,6 +41782,7 @@ Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988.
   - ⚠️ Full Catalytic System: No valid CAS for 'Duroquinone' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for 'Duroquinone' — kept as name-only
 
 ---
@@ -46280,6 +46413,7 @@ Chemistry - A European Journal (2023), 29(1), e202202385.
   - ⚠️ Full Catalytic System: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
 
 ---
@@ -46343,6 +46477,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - ⚠️ Full Catalytic System: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
 
 ---
@@ -46406,6 +46541,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - ⚠️ Full Catalytic System: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
 
 ---
@@ -46469,6 +46605,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
 
 ---
@@ -46645,6 +46782,7 @@ Green Chemistry (2024), 26(14), 8341-8347.
   - ⚠️ Full Catalytic System: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
 
 ---
@@ -46823,6 +46961,7 @@ Journal of Organic Chemistry (2020), 85(5), 3234-3244.
   - ⚠️ Full Catalytic System: No valid CAS for '2-(Dicyclohexylphosphino)biphenyl' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2-(Dicyclohexylphosphino)biphenyl' — kept as name-only
 
 ---
@@ -46952,6 +47091,7 @@ Journal of Organic Chemistry (2022), 87(15), 10285-10297.
   - ⚠️ Full Catalytic System: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
 
 ---
@@ -47017,6 +47157,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - ⚠️ Full Catalytic System: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '4,4′-Bis(1,1-dimethylethyl)-2,2′-bipyridine' — kept as name-only
 
 ---
@@ -47073,6 +47214,7 @@ Angewandte Chemie, International Edition (2022), 61(48), e202212079.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -47128,6 +47270,7 @@ Angewandte Chemie, International Edition (2022), 61(48), e202212079.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -47193,6 +47336,7 @@ Organic Letters (2024), 26(41), 8643-8647.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -47978,8 +48122,8 @@ Science Bulletin (2022), 67(19), 1971-1981.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48036,8 +48180,8 @@ Organic Chemistry Frontiers (2022), 9(22), 6252-6258.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48093,8 +48237,8 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48151,8 +48295,8 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48208,8 +48352,8 @@ Organic Letters (2022), 24(36), 6571-6575.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48267,8 +48411,8 @@ Organic Letters (2014), 16(9), 2394-2397.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48324,8 +48468,8 @@ Organic Chemistry Frontiers (2022), 9(7), 1955-1959.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48381,8 +48525,8 @@ Reaction Kinetics, Mechanisms and Catalysis (2020), 129(1), 349-369.
   - Bis(diphenylphosphino)methane (CAS: unknown)
 
 **Reagents:**
-  - 61075-37-4 (CAS: 61075-37-4) - Role: UNK
-  - 7784-09-0 (CAS: 7784-09-0) - Role: BASE
+  - Tricyclo[3.3.1.13,7]decane-1-carboxylic acid (CAS: 61075-37-4) - Role: UNK
+  - Silver phosphate (CAS: 7784-09-0) - Role: BASE
 
 **Solvents:**
   - Dimethylacetamide (CAS: 127-19-5)
@@ -48477,6 +48621,7 @@ Chemistry - A European Journal (2023), 29(37), e202300458.
   - ⚠️ Full Catalytic System: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
 
 ---
 
@@ -51689,6 +51834,7 @@ Chemical Communications (Cambridge, United Kingdom) (2019), 55(33), 4853-4856.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -51759,6 +51905,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -51829,6 +51976,7 @@ Organic & Biomolecular Chemistry (2023), 21(20), 4276-4281.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -51899,6 +52047,7 @@ Organic Letters (2017), 19(14), 3723-3726.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -51969,6 +52118,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52039,6 +52189,7 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52109,6 +52260,7 @@ ACS Catalysis (2014), 4(9), 3289-3293.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52179,6 +52331,7 @@ Chemical Science (2022), 13(29), 8536-8542.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52249,6 +52402,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52319,6 +52473,7 @@ Chemical Science (2021), 12(5), 1772-1777.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52389,6 +52544,7 @@ Nature Catalysis (2024), 7(6), 733-741.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52459,6 +52615,7 @@ Green Chemistry (2024), 26(14), 8341-8347.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52529,6 +52686,7 @@ Journal of the American Chemical Society (2020), 142(41), 17306-17311.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52599,6 +52757,7 @@ Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52669,6 +52828,7 @@ Green Chemistry (2024), 26(14), 8341-8347.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52739,6 +52899,7 @@ ACS Omega (2024), 9(36), 38262-38271.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52809,6 +52970,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52879,6 +53041,7 @@ Organic Chemistry Frontiers (2022), 9(7), 1955-1959.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -52949,6 +53112,7 @@ Chemical Science (2023), 14(16), 4390-4396.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53019,6 +53183,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53089,6 +53254,7 @@ New Journal of Chemistry (2022), 46(40), 19501-19513.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53159,6 +53325,7 @@ Nature (London, United Kingdom) (2023), 619(7968), 87-93.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53229,6 +53396,7 @@ Asian Journal of Organic Chemistry (2017), 6(3), 269-273.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53299,6 +53467,7 @@ Journal of Organic Chemistry (2022), 87(15), 10285-10297.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53369,6 +53538,7 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53439,6 +53609,7 @@ Beilstein Journal of Organic Chemistry (2020), 16, 982-988.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53509,6 +53680,7 @@ Organic Letters (2020), 22(19), 7704-7708.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53579,6 +53751,7 @@ Chemical Science (2021), 12(5), 1772-1777.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53649,6 +53822,7 @@ Chemistry - A European Journal (2020), 26(54), 12349-12354.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53720,6 +53894,7 @@ ACS Catalysis (2014), 4(9), 3289-3293.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -53790,6 +53965,7 @@ RSC Advances (2015), 5(90), 73346-73351.
   - ⚠️ Full Catalytic System: No valid CAS for 'chloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '7H-Acenaphth[1,2-d]imidazolium' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '9-[2,6-bis(diphenylmethyl)-4-methylphenyl]-7-[2,6-bis(1-methylethyl)phenyl]-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'chloride (1:1)' — kept as name-only
@@ -56144,6 +56320,7 @@ RSC Advances (2015), 5(90), 73346-73351.
   - ⚠️ Full Catalytic System: No valid CAS for 'hydrochloride (1:1)' — kept as name-only
   - ⚠️ Catalyst Core: Name mismatch: 'Bis(1,5-cyclooctadiene)nickel' vs registry '(R)-SEGPHOS' (abbrev: '(R)-SEGPHOS') for CAS 244261-66-3
   - ⚠️ Ligands: Name mismatch: 'bidentate phosphine' vs registry '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' for CAS 1295-35-8
+  - ⚠️ Ligands: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry role CAT_LIG
   - ⚠️ Ligands: No valid CAS for '2H-Imidazol-2-ylidene' — kept as name-only
   - ⚠️ Ligands: No valid CAS for '1,3-bis[2,6-bis(1-methylethyl)phenyl]-1,3-dihydro-' — kept as name-only
   - ⚠️ Ligands: No valid CAS for 'hydrochloride (1:1)' — kept as name-only

@@ -19,21 +19,24 @@ from __future__ import annotations
 
 import os
 import sys
-import json
 import tempfile
 from typing import Dict, List, Tuple, Any
-from datetime import datetime
 
+# GUI is optional; we prefer CLI if Qt is unavailable
+QtWidgets = None  # type: ignore
+QT_BINDING = None
 try:
-    from PyQt6 import QtWidgets
+    from PyQt6 import QtWidgets as _QtWidgets  # type: ignore
+    QtWidgets = _QtWidgets
     QT_BINDING = "PyQt6"
 except Exception:
     try:
-        from PySide6 import QtWidgets  # type: ignore
+        from PySide6 import QtWidgets as _QtWidgets  # type: ignore
+        QtWidgets = _QtWidgets
         QT_BINDING = "PySide6"
     except Exception:
-        print("Error: Neither PyQt6 nor PySide6 is installed. Please install one of them.")
-        sys.exit(1)
+        QtWidgets = None  # type: ignore
+        QT_BINDING = None
 
 try:
     from process_reactions import parse_rdf, assemble_rows, load_cas_maps, _normalize_token_list as _norm_tokens
@@ -76,7 +79,6 @@ def parse_combined_markdown(path: str) -> Dict[str, Dict[str, List[str]]]:
     def _starts_code_fence(s: str) -> Tuple[bool, str]:
         t = s.lstrip()
         if t.startswith('```'):
-            # return (is_fence, remainder_after_backticks)
             return True, t[3:]
         if t.startswith('`````'):
             return True, t[5:]
@@ -253,9 +255,72 @@ def load_default_cas_maps(context_dir: str) -> Dict[str, Dict[str, str]]:
     return load_cas_maps(paths) if paths else {}
 
 
-class CombinedMDRichGUI(QtWidgets.QWidget):
+def run_pipeline(inp: str, out_md: str, log_fn=print) -> Tuple[str, str]:
+    """Run the combined MD → rich MD + JSONL pipeline.
+    Returns (out_md_path, out_jsonl_path).
+    """
+    log = log_fn
+    log(f"Reading combined Markdown: {inp}")
+    records = parse_combined_markdown(inp)
+    log(f"Found {len(records)} reaction(s)")
+
+    # Build minimal maps
+    txt_map = build_txt_map(records)
+    tmp_rdf = build_rdf_file(records)
+    log("Parsing RDF blocks…")
+    rdf_map = parse_rdf(tmp_rdf)
+    # Diagnostics: count MOL blocks captured from RDF
+    rct_mol_n = sum(1 for v in rdf_map.values() if v.get('rct_mol'))
+    pro_mol_n = sum(1 for v in rdf_map.values() if v.get('pro_mol'))
+    log(f"RDF parsed. Reactions with reactant MOL blocks: {rct_mol_n}; with product MOL blocks: {pro_mol_n}")
+    log(f"RDKit available: {RDKIT_AVAILABLE}")
+
+    # Load CAS maps
+    here = os.path.dirname(os.path.abspath(__file__))
+    log("Loading CAS mappings…")
+    cas_map = load_default_cas_maps(here)
+
+    # Assemble rows (same pipeline as original) with TXT-preferred catalyst pairing
+    log("Assembling rows…")
+    rows = assemble_rows(txt_map, rdf_map, cas_map, txt_preferred=True)
+    log(f"Assembled {len(rows)} rows")
+    # Diagnostics: count rows where SMILES were produced
+    smi_rows = sum(1 for r in rows if (r.get('ReactantSMILES') or r.get('ProductSMILES')))
+    log(f"Rows with SMILES: {smi_rows} / {len(rows)}")
+    if smi_rows == 0:
+        if not RDKIT_AVAILABLE:
+            log("Note: RDKit is not available in this Python environment; SMILES generation from MOL blocks is disabled.")
+        elif (rct_mol_n + pro_mol_n) == 0:
+            log("Note: No MOL/CTAB blocks were found in the RDF content; SMILES cannot be generated from RDF without structures.")
+        else:
+            log("Warning: MOL blocks were found and RDKit is available, but SMILES are still empty. The MOL data may be malformed.")
+
+    # Generate outputs using the same formatter
+    gen = ReactionMarkdownGenerator()
+    gen.cas_map = cas_map
+    log("Writing Markdown report…")
+    gen.generate_markdown_report(rows, out_md, os.path.basename(inp))
+    out_jsonl = os.path.splitext(out_md)[0] + '.jsonl'
+    log("Writing JSONL export…")
+    gen.generate_jsonl_export(rows, out_jsonl, os.path.basename(inp))
+
+    # Clean up temp RDF
+    try:
+        if os.path.exists(tmp_rdf):
+            os.unlink(tmp_rdf)
+    except Exception:
+        pass
+
+    log(f"Done. Report: {out_md}")
+    log(f"JSONL:  {out_jsonl}")
+    return out_md, out_jsonl
+
+
+class CombinedMDRichGUI(object if QtWidgets is None else QtWidgets.QWidget):
     def __init__(self):
-        super().__init__()
+        if QtWidgets is None:
+            raise RuntimeError("Qt is not available; run in CLI mode with --input/--output")
+        super().__init__()  # type: ignore[misc]
         self.setWindowTitle("Process Combined Markdown → Rich Report + JSONL")
         self.resize(860, 560)
 
@@ -312,68 +377,36 @@ class CombinedMDRichGUI(QtWidgets.QWidget):
             QtWidgets.QMessageBox.warning(self, "Missing output", "Please choose an output Markdown path.")
             return
         try:
-            self._log(f"Reading combined Markdown: {inp}")
-            records = parse_combined_markdown(inp)
-            self._log(f"Found {len(records)} reaction(s)")
-
-            # Build minimal maps
-            txt_map = build_txt_map(records)
-            tmp_rdf = build_rdf_file(records)
-            self._log("Parsing RDF blocks…")
-            rdf_map = parse_rdf(tmp_rdf)
-            # Diagnostics: count MOL blocks captured from RDF
-            rct_mol_n = sum(1 for v in rdf_map.values() if v.get('rct_mol'))
-            pro_mol_n = sum(1 for v in rdf_map.values() if v.get('pro_mol'))
-            self._log(f"RDF parsed. Reactions with reactant MOL blocks: {rct_mol_n}; with product MOL blocks: {pro_mol_n}")
-            self._log(f"RDKit available: {RDKIT_AVAILABLE}")
-
-            # Load CAS maps
-            here = os.path.dirname(os.path.abspath(__file__))
-            self._log("Loading CAS mappings…")
-            cas_map = load_default_cas_maps(here)
-
-            # Assemble rows (same pipeline as original)
-            self._log("Assembling rows…")
-            rows = assemble_rows(txt_map, rdf_map, cas_map, txt_preferred=True)
-            self._log(f"Assembled {len(rows)} rows")
-            # Diagnostics: count rows where SMILES were produced
-            smi_rows = sum(1 for r in rows if (r.get('ReactantSMILES') or r.get('ProductSMILES')))
-            self._log(f"Rows with SMILES: {smi_rows} / {len(rows)}")
-            if smi_rows == 0:
-                if not RDKIT_AVAILABLE:
-                    self._log("Note: RDKit is not available in this Python environment; SMILES generation from MOL blocks is disabled.")
-                elif (rct_mol_n + pro_mol_n) == 0:
-                    self._log("Note: No MOL/CTAB blocks were found in the RDF content; SMILES cannot be generated from RDF without structures.")
-                else:
-                    self._log("Warning: MOL blocks were found and RDKit is available, but SMILES are still empty. The MOL data may be malformed.")
-
-            # Generate outputs using the same formatter
-            gen = ReactionMarkdownGenerator()
-            gen.cas_map = cas_map
-            # Reuse the generator's writer methods
-            self._log("Writing Markdown report…")
-            gen.generate_markdown_report(rows, out_md, os.path.basename(inp))
-            out_jsonl = os.path.splitext(out_md)[0] + '.jsonl'
-            self._log("Writing JSONL export…")
-            gen.generate_jsonl_export(rows, out_jsonl, os.path.basename(inp))
-
-            # Done
-            self._log(f"Done. Report: {out_md}")
-            self._log(f"JSONL:  {out_jsonl}")
-            QtWidgets.QMessageBox.information(self, "Done", f"Report and JSONL generated.\n\n{out_md}\n{out_jsonl}")
+            def _logger(msg: str):
+                self._log(msg)
+            out_md_path, out_jsonl = run_pipeline(inp, out_md, log_fn=_logger)
+            QtWidgets.QMessageBox.information(self, "Done", f"Report and JSONL generated.\n\n{out_md_path}\n{out_jsonl}")
         except Exception as e:
             self._log(f"Error: {e}")
             QtWidgets.QMessageBox.critical(self, "Error", str(e))
-        finally:
-            # Clean temp files if present
-            try:
-                if 'tmp_rdf' in locals() and os.path.exists(tmp_rdf):
-                    os.unlink(tmp_rdf)
-            except Exception:
-                pass
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Process combined Markdown to rich Markdown + JSONL")
+    parser.add_argument('--input', '-i', help='Path to combined .md input')
+    parser.add_argument('--output', '-o', help='Path to rich report .md output')
+    parser.add_argument('--gui', action='store_true', help='Force GUI mode')
+    args = parser.parse_args()
+
+    # If CLI args provided and not forcing GUI (or Qt missing), run headless
+    if args.input and args.output and (args.gui is False or QtWidgets is None):
+        inp = os.path.abspath(args.input)
+        out_md = os.path.abspath(args.output if args.output.lower().endswith('.md') else (args.output + '.md'))
+        def _log(msg: str):
+            print(msg)
+        run_pipeline(inp, out_md, log_fn=_log)
+        return
+
+    # Else, try GUI if available
+    if QtWidgets is None:
+        print("Error: Qt is not available. Install PyQt6/PySide6 or run in CLI: --input <md> --output <out.md>")
+        sys.exit(1)
     app = QtWidgets.QApplication(sys.argv)
     w = CombinedMDRichGUI()
     w.show()

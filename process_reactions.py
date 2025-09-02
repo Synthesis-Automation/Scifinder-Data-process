@@ -1084,6 +1084,15 @@ def _pair_strings_from_cas_and_names(cases: List[str], cas_map: Dict[str, Dict[s
         assigned_names[cas_list[0]] = txt_noncas[0]
     # Else: we keep mapping names or cas fallback
 
+    # New: deterministic index-fallback pairing when counts differ.
+    # Pair the first min(len(CAS), len(non-CAS names)) in encounter order, but do not override any
+    # assignments already made above (e.g., from explicit TXT CAS tokens).
+    if cas_list and txt_noncas:
+        m = min(len(cas_list), len(txt_noncas))
+        if m > 0:
+            for cas, nm in zip(cas_list[:m], txt_noncas[:m]):
+                assigned_names.setdefault(cas, nm)
+
     used_noncas: set[str] = set()
     # Built-in CAS->preferred name fallback for a few common salts/cores
     builtin_cas_name: Dict[str, str] = {

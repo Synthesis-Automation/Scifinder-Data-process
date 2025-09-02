@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-02 19:43:40
+**Generated:** 2025-09-02 22:18:30
 **Source Folder:** combined_reactions_20250902_1939.md
 **Total Reactions:** 5556
 
@@ -77174,11 +77174,11 @@ Organic Chemistry Frontiers (2022), 9(9), 2382-2389.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 1643-19-2 (CAS: 1643-19-2) - Role: UNK
-  - 1907-33-1 (CAS: 1907-33-1) - Role: BASE
-  - 2451224-01-2 (CAS: 2451224-01-2) - Role: NUC
-  - 7782-44-7 (CAS: 7782-44-7) - Role: OX
-  - 7789-23-3 (CAS: 7789-23-3) - Role: UNK
+  - 1,1,1,3,3,3-hexamethyl-N-tricyclo[3.3.1.13,7]dec-1-yl-2-(trimethylsilyl)- (CAS: 1643-19-2) - Role: UNK
+  - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
+  - 2-Trisilanamine (CAS: 2451224-01-2) - Role: NUC
+  - Oxygen (CAS: 7782-44-7) - Role: OX
+  - Tetrabutylammonium bromide (CAS: 7789-23-3) - Role: UNK
 
 **Solvents:**
   - Methyl cyanide (CAS: 75-05-8)
@@ -77741,11 +77741,11 @@ Nature Communications (2021), 12(1), 4342.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 1643-19-2 (CAS: 1643-19-2) - Role: UNK
-  - 1907-33-1 (CAS: 1907-33-1) - Role: BASE
-  - 2451224-01-2 (CAS: 2451224-01-2) - Role: NUC
-  - 7782-44-7 (CAS: 7782-44-7) - Role: OX
-  - 7789-23-3 (CAS: 7789-23-3) - Role: UNK
+  - 1,1,1,3,3,3-hexamethyl-N-tricyclo[3.3.1.13,7]dec-1-yl-2-(trimethylsilyl)- (CAS: 1643-19-2) - Role: UNK
+  - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
+  - 2-Trisilanamine (CAS: 2451224-01-2) - Role: NUC
+  - Oxygen (CAS: 7782-44-7) - Role: OX
+  - Tetrabutylammonium bromide (CAS: 7789-23-3) - Role: UNK
 
 **Solvents:**
   - Methyl cyanide (CAS: 75-05-8)
@@ -77813,11 +77813,11 @@ Proceedings of the National Academy of Sciences of the United States of America 
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 1643-19-2 (CAS: 1643-19-2) - Role: UNK
-  - 1907-33-1 (CAS: 1907-33-1) - Role: BASE
-  - 2451224-01-2 (CAS: 2451224-01-2) - Role: NUC
-  - 7782-44-7 (CAS: 7782-44-7) - Role: OX
-  - 7789-23-3 (CAS: 7789-23-3) - Role: UNK
+  - 1,1,1,3,3,3-hexamethyl-N-tricyclo[3.3.1.13,7]dec-1-yl-2-(trimethylsilyl)- (CAS: 1643-19-2) - Role: UNK
+  - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
+  - 2-Trisilanamine (CAS: 2451224-01-2) - Role: NUC
+  - Oxygen (CAS: 7782-44-7) - Role: OX
+  - Tetrabutylammonium bromide (CAS: 7789-23-3) - Role: UNK
 
 **Solvents:**
   - Methyl cyanide (CAS: 75-05-8)
@@ -78222,11 +78222,11 @@ Chemical Science (2020), 11(14), 3719-3726.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 1643-19-2 (CAS: 1643-19-2) - Role: UNK
-  - 1907-33-1 (CAS: 1907-33-1) - Role: BASE
-  - 2451224-01-2 (CAS: 2451224-01-2) - Role: NUC
-  - 7782-44-7 (CAS: 7782-44-7) - Role: OX
-  - 7789-23-3 (CAS: 7789-23-3) - Role: UNK
+  - 1,1,1,3,3,3-hexamethyl-N-tricyclo[3.3.1.13,7]dec-1-yl-2-(trimethylsilyl)- (CAS: 1643-19-2) - Role: UNK
+  - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
+  - 2-Trisilanamine (CAS: 2451224-01-2) - Role: NUC
+  - Oxygen (CAS: 7782-44-7) - Role: OX
+  - Tetrabutylammonium bromide (CAS: 7789-23-3) - Role: UNK
 
 **Solvents:**
   - Methyl cyanide (CAS: 75-05-8)
@@ -78784,11 +78784,11 @@ Advanced Synthesis & Catalysis (2022), 364(23), 4043-4048.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 1643-19-2 (CAS: 1643-19-2) - Role: UNK
-  - 1907-33-1 (CAS: 1907-33-1) - Role: BASE
-  - 2451224-01-2 (CAS: 2451224-01-2) - Role: NUC
-  - 7782-44-7 (CAS: 7782-44-7) - Role: OX
-  - 7789-23-3 (CAS: 7789-23-3) - Role: UNK
+  - 1,1,1,3,3,3-hexamethyl-N-tricyclo[3.3.1.13,7]dec-1-yl-2-(trimethylsilyl)- (CAS: 1643-19-2) - Role: UNK
+  - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
+  - 2-Trisilanamine (CAS: 2451224-01-2) - Role: NUC
+  - Oxygen (CAS: 7782-44-7) - Role: OX
+  - Tetrabutylammonium bromide (CAS: 7789-23-3) - Role: UNK
 
 **Solvents:**
   - Methyl cyanide (CAS: 75-05-8)
@@ -79268,10 +79268,10 @@ Journal of the American Chemical Society (2022), 144(45), 20884-20894.
   - hexafluorophosphate(1-) (1:1) (CAS: unknown)
 
 **Reagents:**
-  - 1643-19-2 (CAS: 1643-19-2) - Role: UNK
-  - 1907-33-1 (CAS: 1907-33-1) - Role: BASE
-  - 2451224-01-2 (CAS: 2451224-01-2) - Role: NUC
-  - 7789-23-3 (CAS: 7789-23-3) - Role: UNK
+  - 1,1,1,3,3,3-hexamethyl-N-tricyclo[3.3.1.13,7]dec-1-yl-2-(trimethylsilyl)- (CAS: 1643-19-2) - Role: UNK
+  - Lithium tert-butoxide (CAS: 1907-33-1) - Role: BASE
+  - 2-Trisilanamine (CAS: 2451224-01-2) - Role: NUC
+  - Tetrabutylammonium bromide (CAS: 7789-23-3) - Role: UNK
 
 **Solvents:**
   - Methyl cyanide (CAS: 75-05-8)
@@ -102396,8 +102396,8 @@ Proceedings of the National Academy of Sciences of the United States of America 
 **Generic Catalyst:** Cu(II)
 
 **Reagents:**
-  - 143174-36-1 (CAS: 143174-36-1) - Role: UNK
-  - 638-38-0 (CAS: 638-38-0) - Role: UNK
+  - Propanoic acid (CAS: 143174-36-1) - Role: UNK
+  - Manganese diacetate (CAS: 638-38-0) - Role: UNK
 
 **Solvents:**
   - 2,2,2-Trifluoroethanol (CAS: 75-89-8)
@@ -208012,7 +208012,7 @@ Proceedings of the National Academy of Sciences of the United States of America 
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208070,7 +208070,7 @@ Journal of Materials Chemistry C: Materials for Optical and Electronic Devices (
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208128,7 +208128,7 @@ Journal of Organic Chemistry (2022), 87(21), 14342-14351.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208186,7 +208186,7 @@ Journal of Organic Chemistry (2022), 87(22), 15389-15402.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208247,7 +208247,7 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208305,7 +208305,7 @@ ACS Catalysis (2023), 13(7), 4985-4991.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208363,7 +208363,7 @@ European Journal of Medicinal Chemistry (2022), 230, 114114.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208421,7 +208421,7 @@ Journal of the American Chemical Society (2023), 145(3), 1945-1954.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208479,7 +208479,7 @@ Synlett (2022), 33(11), 1065-1070.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208537,7 +208537,7 @@ New Journal of Chemistry (2020), 44(37), 15928-15941.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208595,7 +208595,7 @@ Tetrahedron Letters (2022), 109, 154140.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208653,8 +208653,8 @@ Journal of Organic Chemistry (2023), 88(13), 8400-8412.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -208713,7 +208713,7 @@ Journal of Medicinal Chemistry (2021), 64(4), 2167-2185.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
   - Cesium carbonate (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -208771,8 +208771,8 @@ Journal of Organic Chemistry (2021), 86(14), 9444-9454.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -208832,8 +208832,8 @@ Chemistry - A European Journal (2021), 27(53), 13330-13336.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -208890,8 +208890,8 @@ ACS Medicinal Chemistry Letters (2023), 14(12), 1791-1799.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -208948,8 +208948,8 @@ New Journal of Chemistry (2021), 45(1), 104-109.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -209006,8 +209006,8 @@ Tetrahedron Letters (2022), 103, 153979.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -209064,8 +209064,8 @@ Organic Letters (2021), 23(10), 4034-4039.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -209122,8 +209122,8 @@ Chinese Chemical Letters (2021), 32(2), 703-707.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -209180,8 +209180,8 @@ Synthetic Communications (2021), 51(9), 1398-1405.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -209238,8 +209238,8 @@ New Journal of Chemistry (2022), 46(40), 19100-19103.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -209352,8 +209352,8 @@ Journal of Organic Chemistry (2023), 88(15), 11036-11044.
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: unknown)
 
 **Reagents:**
-  - 139139-80-3 (CAS: 139139-80-3) - Role: UNK
-  - 29166-72-1 (CAS: 29166-72-1) - Role: UNK
+  - Iodonium (CAS: 139139-80-3) - Role: UNK
+  - 2-tert-Butyl-1,1,3,3-tetramethylguanidine (CAS: 29166-72-1) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -259989,8 +259989,8 @@ Green Synthesis and Catalysis (2024), 5(1), 31-34.
   - α-(Phenylmethyl)-α-(trifluoromethyl)-1H-pyrrole-2-methanol (CAS: unknown)
 
 **Reagents:**
-  - 41769-06-6 (CAS: 41769-06-6) - Role: UNK
-  - 88-18-6 (CAS: 88-18-6) - Role: UNK
+  - Phenol (CAS: 41769-06-6) - Role: UNK
+  - 2-tert-Butylphenol (CAS: 88-18-6) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -260047,8 +260047,8 @@ Organic & Biomolecular Chemistry (2023), 21(34), 6903-6913.
   - α-(Phenylmethyl)-α-(trifluoromethyl)-1H-pyrrole-2-methanol (CAS: unknown)
 
 **Reagents:**
-  - 41769-06-6 (CAS: 41769-06-6) - Role: UNK
-  - 88-18-6 (CAS: 88-18-6) - Role: UNK
+  - Phenol (CAS: 41769-06-6) - Role: UNK
+  - 2-tert-Butylphenol (CAS: 88-18-6) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -260108,8 +260108,8 @@ ACS Catalysis (2023), 13(24), 16195-16206.
   - α-(Phenylmethyl)-α-(trifluoromethyl)-1H-pyrrole-2-methanol (CAS: unknown)
 
 **Reagents:**
-  - 41769-06-6 (CAS: 41769-06-6) - Role: UNK
-  - 88-18-6 (CAS: 88-18-6) - Role: UNK
+  - Phenol (CAS: 41769-06-6) - Role: UNK
+  - 2-tert-Butylphenol (CAS: 88-18-6) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -260166,8 +260166,8 @@ Dalton Transactions (2020), 49(30), 10645-10660.
   - α-(Phenylmethyl)-α-(trifluoromethyl)-1H-pyrrole-2-methanol (CAS: unknown)
 
 **Reagents:**
-  - 41769-06-6 (CAS: 41769-06-6) - Role: UNK
-  - 88-18-6 (CAS: 88-18-6) - Role: UNK
+  - Phenol (CAS: 41769-06-6) - Role: UNK
+  - 2-tert-Butylphenol (CAS: 88-18-6) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -288375,8 +288375,8 @@ Organic Letters (2024), 26(38), 8051-8056.
 **Generic Catalyst:** Cu(II)
 
 **Reagents:**
-  - 1184-88-9 (CAS: 1184-88-9) - Role: OX
-  - 7782-44-7 (CAS: 7782-44-7) - Role: UNK
+  - Propanoic acid (CAS: 1184-88-9) - Role: OX
+  - 2,2-dimethyl- (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -288431,8 +288431,8 @@ Organic Chemistry Frontiers (2024), 11(4), 1132-1139.
 **Generic Catalyst:** Cu(II)
 
 **Reagents:**
-  - 1184-88-9 (CAS: 1184-88-9) - Role: OX
-  - 7782-44-7 (CAS: 7782-44-7) - Role: UNK
+  - Propanoic acid (CAS: 1184-88-9) - Role: OX
+  - 2,2-dimethyl- (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -288487,8 +288487,8 @@ Journal of Organic Chemistry (2024), 89(24), 18255-18268.
 **Generic Catalyst:** Cu(II)
 
 **Reagents:**
-  - 1184-88-9 (CAS: 1184-88-9) - Role: OX
-  - 7782-44-7 (CAS: 7782-44-7) - Role: UNK
+  - Propanoic acid (CAS: 1184-88-9) - Role: OX
+  - 2,2-dimethyl- (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -288543,8 +288543,8 @@ European Journal of Inorganic Chemistry (2024), 27(16), e202400052.
 **Generic Catalyst:** Cu(II)
 
 **Reagents:**
-  - 1184-88-9 (CAS: 1184-88-9) - Role: OX
-  - 7782-44-7 (CAS: 7782-44-7) - Role: UNK
+  - Propanoic acid (CAS: 1184-88-9) - Role: OX
+  - 2,2-dimethyl- (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -288599,8 +288599,8 @@ Chemical Science (2024), 15(3), 1061-1067.
 **Generic Catalyst:** Cu(II)
 
 **Reagents:**
-  - 1184-88-9 (CAS: 1184-88-9) - Role: OX
-  - 7782-44-7 (CAS: 7782-44-7) - Role: UNK
+  - Propanoic acid (CAS: 1184-88-9) - Role: OX
+  - 2,2-dimethyl- (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)

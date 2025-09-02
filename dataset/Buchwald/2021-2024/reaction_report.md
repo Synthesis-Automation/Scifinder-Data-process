@@ -1,7 +1,7 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-01 23:46:49
-**Source Folder:** C:/Git-softwares/Scifinder-Data-process/dataset/Buchwald/2021-2024
+**Generated:** 2025-09-02 10:18:28
+**Source Folder:** C:/Git-ChemRobox/Scifinder-Data-process/dataset/Buchwald/2021-2024
 **Total Reactions:** 1343
 
 ## Summary
@@ -589,16 +589,17 @@ Journal of Medicinal Chemistry (2024), 67(13), 11168-11181.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -759,16 +760,17 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -984,16 +986,17 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -1328,16 +1331,17 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -1436,16 +1440,17 @@ Journal of the American Chemical Society (2021), 143(45), 19112-19120.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -1545,16 +1550,17 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -1654,15 +1660,16 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -1762,17 +1769,17 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1 (CAS: 742103-27-1)
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
+  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1 (CAS: 742103-27-1)
 
-**Generic Catalyst:** Pd, 1-dimethylethyl)(1-methyl-2
+**Generic Catalyst:** Pd
 
 **Ligands:**
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
+  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1816,17 +1823,17 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1 (CAS: 742103-27-1)
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
+  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1 (CAS: 742103-27-1)
 
-**Generic Catalyst:** Pd, 1-dimethylethyl)(1-methyl-2
+**Generic Catalyst:** Pd
 
 **Ligands:**
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
+  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1870,17 +1877,17 @@ Journal of the American Chemical Society (2024), 146(27), 18331-18340.
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1 (CAS: 742103-27-1)
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
+  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1)
 
 **Catalyst Core:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - Bis(1 (CAS: 742103-27-1)
 
-**Generic Catalyst:** Pd, 1-dimethylethyl)(1-methyl-2
+**Generic Catalyst:** Pd
 
 **Ligands:**
   - Hydroxypropyl cellulose (CAS: 9004-64-2)
+  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -4481,8 +4488,8 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
 ```
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
-  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs expected 'Copper(I) iodide' for CAS 7681-65-4
+  - ⚠️ Full Catalytic System: Name mismatch: 'Cuprous iodide' vs registry 'CuI' (abbrev: 'CuI') for CAS 7681-65-4
+  - ⚠️ Catalyst Core: Name mismatch: 'Cuprous iodide' vs registry 'CuI' (abbrev: 'CuI') for CAS 7681-65-4
 
 ---
 
@@ -5167,8 +5174,8 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5218,8 +5225,8 @@ Journal of Organic Chemistry (2021), 86(2), 1357-1370.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5267,8 +5274,8 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -5782,15 +5789,16 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -6108,8 +6116,8 @@ Journal of the American Chemical Society (2022), 144(4), 1778-1785.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Bis(1 (CAS: 742103-27-1) - Role: 2_DIPHENYLCYCLOPROPYL_PHOSPHINE
-  - NaOtBu (CAS: 865-48-5) - Role: 2_DIPHENYLCYCLOPROPYL_PHOSPHINE
+  - Bis(1,1-dimethylethyl)(1-methyl-2,2-diphenylcyclopropyl)phosphine (CAS: 742103-27-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - o-Xylene (CAS: 95-47-6)
@@ -6671,8 +6679,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -6926,8 +6934,8 @@ Angewandte Chemie, International Edition (2021), 60(5), 2393-2397.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -7203,16 +7211,17 @@ Chemistry - A European Journal (2024), 30(18), e202303953.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -15616,8 +15625,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -15667,8 +15676,8 @@ Angewandte Chemie, International Edition (2022), 61(11), e202116681.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -18251,14 +18260,14 @@ ACS Catalysis (2024), 14(23), 18107-18115.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18301,14 +18310,14 @@ Chemical Communications (Cambridge, United Kingdom) (2024), 60(9), 1184-1187.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18351,14 +18360,14 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18401,14 +18410,14 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18451,14 +18460,14 @@ Angewandte Chemie, International Edition (2023), 62(40), e202308367.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18501,14 +18510,14 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18551,14 +18560,14 @@ Journal of Medicinal Chemistry (2024), 67(23), 21400-21420.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - 5-Chloro-8-quinolinyl (3Z)-5-(2-methoxyphenyl)-3-penten-1-yl N-(4-methoxyphenyl)phosphoramidate (CAS: 2625446-11-7) - Role: UNK
@@ -18602,14 +18611,14 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18652,14 +18661,14 @@ Angewandte Chemie, International Edition (2021), 60(13), 7205-7212.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18702,14 +18711,14 @@ Journal of the American Chemical Society (2023), 145(6), 3323-3329.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18752,14 +18761,14 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18802,14 +18811,14 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(50), 6193-6196.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18852,14 +18861,14 @@ ChemCatChem (2022), 14(16), e202200734.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18902,14 +18911,14 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -18956,14 +18965,14 @@ Chemistry - A European Journal (2022), 28(44), e202201517.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19006,14 +19015,14 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19056,14 +19065,14 @@ Journal of Medicinal Chemistry (2022), 65(17), 11607-11632.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
 **Catalyst Core:**
-  - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - Palladium diacetate (CAS: 3375-31-3)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Cu, Pd, Cu(II)
 
 **Reagents:**
   - Oxygen (CAS: 7782-44-7) - Role: OX
@@ -19281,7 +19290,7 @@ Advanced Synthesis & Catalysis (2023), 365(20), 3455-3460.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -19381,16 +19390,17 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
 
-**Generic Catalyst:** 3-Bis(diphenylphosphino)propane, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
@@ -19403,7 +19413,7 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - Yield: 84%
 
 **SMILES:**
-  - Reactants: `c1ccc(NNc2ccccc2)cc1.O#[C][Mo]([C]#O)([C]#O)([C]#O)([C]#O)[C]#O.FC(F)(F)C(Cl)=Nc1ccccc1I`
+  - Reactants: `c1ccc(NNc2ccccc2)cc1.O#C[Mo](C#O)(C#O)(C#O)(C#O)C#O.FC(F)(F)C(Cl)=Nc1ccccc1I`
   - Products: `O=c1c2ccccc2nc(C(F)(F)F)n1-c1ccccc1`
 
 **Reference:**
@@ -19635,16 +19645,17 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
 
-**Generic Catalyst:** 3-Bis(diphenylphosphino)propane, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
@@ -19657,7 +19668,7 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
   - Yield: 91%
 
 **SMILES:**
-  - Reactants: `ONc1ccccc1.O#[C][Mo]([C]#O)([C]#O)([C]#O)([C]#O)[C]#O.FC(F)(F)C(Cl)=Nc1ccccc1I`
+  - Reactants: `ONc1ccccc1.O#C[Mo](C#O)(C#O)(C#O)(C#O)C#O.FC(F)(F)C(Cl)=Nc1ccccc1I`
   - Products: `O=c1c2ccccc2nc(C(F)(F)F)n1-c1ccccc1`
 
 **Reference:**
@@ -19686,16 +19697,17 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Palladium chloride (CAS: 7647-10-1)
 
-**Generic Catalyst:** 3-Bis(diphenylphosphino)propane, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
@@ -19708,7 +19720,7 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
   - Yield: 96%
 
 **SMILES:**
-  - Reactants: `O#[C][Mo]([C]#O)([C]#O)([C]#O)([C]#O)[C]#O.Cc1ccc(NC(=Nc2ccccc2I)C(F)(F)F)cc1`
+  - Reactants: `O#C[Mo](C#O)(C#O)(C#O)(C#O)C#O.Cc1ccc(NC(=Nc2ccccc2I)C(F)(F)F)cc1`
   - Products: `Cc1ccc(-n2c(C(F)(F)F)nc3ccccc3c2=O)cc1`
 
 **Reference:**
@@ -20053,7 +20065,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 
 **Reagents:**
   - Acetic anhydride (CAS: 108-24-7) - Role: BASE
-  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - Triethylamine (CAS: 121-44-8) - Role: UNK
   - Lithium chloride (CAS: 7447-41-8) - Role: UNK
   - P(p-MeO-Ph)3 (CAS: 855-38-9) - Role: UNK
 
@@ -23397,8 +23409,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: CATALYST
-  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: BASE
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3) - Role: BASE
+  - N,N-Diisopropylethylamine (CAS: 7087-68-5) - Role: UNK
 
 **Solvents:**
   - Anisole (CAS: 100-66-3)
@@ -23491,16 +23503,15 @@ European Journal of Organic Chemistry (2023), 26(34), e202300646.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
-  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 72287-26-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
-**Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
-
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Catalyst Core:** None
+**Generic Catalyst:** Pd
 
 **Ligands:**
-  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 72287-26-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -24637,15 +24648,16 @@ Angewandte Chemie, International Edition (2021), 60(40), 21718-21722.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
@@ -25897,16 +25909,17 @@ Chemistry - A European Journal (2023), 29(1), e202202636.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: UNK
   - Hydrochloric acid (CAS: 7647-01-0) - Role: UNK
@@ -25957,18 +25970,19 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium chloride (CAS: 7647-10-1)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium chloride (CAS: 7647-10-1)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - Acetic anhydride (CAS: 108-24-7) - Role: UNK
-  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - Triethylamine (CAS: 121-44-8) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -27291,7 +27305,7 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Time: 24.0 hours
@@ -27342,7 +27356,7 @@ Organic Chemistry Frontiers (2024), 11(4), 1057-1061.
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Time: 24.0 hours
@@ -27393,7 +27407,7 @@ Journal of the American Chemical Society (2024), 146(43), 29383-29390.
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Time: 24.0 hours
@@ -28591,16 +28605,17 @@ Angewandte Chemie, International Edition (2021), 60(33), 17910-17914.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -29124,7 +29139,7 @@ Journal of Organic Chemistry (2022), 87(9), 5744-5759.
   - PtBu3 (CAS: 13716-12-6)
 
 **Reagents:**
-  - Pyridine (CAS: 110-86-1) - Role: BASE
+  - Pyridine (CAS: 110-86-1) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Titanium tetrachloride (CAS: 7550-45-0) - Role: UNK
 
@@ -29173,15 +29188,16 @@ Angewandte Chemie, International Edition (2023), 62(50), e202315911.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: UNK
@@ -33110,16 +33126,17 @@ Chemistry - A European Journal (2024), 30(55), e202402470.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
   - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Pd(dba)2 (CAS: 32005-36-0)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
@@ -34679,7 +34696,7 @@ Journal of the American Chemical Society (2021), 143(14), 5330-5335.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -34728,7 +34745,7 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -36819,8 +36836,8 @@ Journal of Medicinal Chemistry (2022), 65(20), 13879-13891.
   - Yield: 61%
 
 **SMILES:**
-  - Reactants: `COc1ccc(Nc2ccc(OC)cc2)cc1.CCCCOc1cc(OCCCC)cc(-c2c3[n]4->[Zn+2]56<-[n]7c(c(Br)c8ccc2[n-]->58)C=Cc7c(-c2cc(OCCCC)cc(OCCCC)c2)c2ccc(c(Br)c4C=C3)[n-]->62)c1`
-  - Products: `CCCCOc1cc(OCCCC)cc(-c2c3[n]4->[Zn+2]56<-[n]7c(c(-c8cc(OCCCC)cc(OCCCC)c8)c8ccc(c(N(c9ccc(OC)cc9)c9ccc(OC)cc9)c4C=C3)[n-]->58)C=Cc7c(N(c3ccc(OC)cc3)c3ccc(OC)cc3)c3ccc2[n-]->63)c1`
+  - Reactants: `COc1ccc(Nc2ccc(OC)cc2)cc1.CCCCOc1cc(OCCCC)cc(-c2c3n4->[Zn+2]56<-n7c(c(Br)c8ccc2[n-]->58)C=Cc7c(-c2cc(OCCCC)cc(OCCCC)c2)c2ccc(c(Br)c4C=C3)[n-]->62)c1`
+  - Products: `CCCCOc1cc(OCCCC)cc(-c2c3n4->[Zn+2]56<-n7c(c(-c8cc(OCCCC)cc(OCCCC)c8)c8ccc(c(N(c9ccc(OC)cc9)c9ccc(OC)cc9)c4C=C3)[n-]->58)C=Cc7c(N(c3ccc(OC)cc3)c3ccc(OC)cc3)c3ccc2[n-]->63)c1`
 
 **Reference:**
   - **Title:** Thermally Stable D2h Symmetric Donor-π-Donor Porphyrins as Hole-Transporting Materials for Perovskite Solar Cells
@@ -36848,16 +36865,17 @@ Journal of the American Chemical Society (2023), 145(49), 26540-26544.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -36900,16 +36918,17 @@ Angewandte Chemie, International Edition (2024), 63(14), e202317489.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -36951,16 +36970,17 @@ Journal of Organic Chemistry (2023), 88(7), 4224-4233.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -37002,16 +37022,17 @@ Organic Letters (2022), 24(20), 3736-3740.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -37053,16 +37074,17 @@ ACS Catalysis (2021), 11(24), 14995-15003.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -37417,20 +37439,20 @@ Journal of Organic Chemistry (2021), 86(24), 17594-17605.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - SPhos (CAS: 657408-07-6)
   - Cu(OAc)2 (CAS: 142-71-2)
+  - SPhos (CAS: 657408-07-6)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
   - Cu(OAc)2 (CAS: 142-71-2)
 
-**Generic Catalyst:** Pd, Cu(II)
+**Generic Catalyst:** Pd, Cu, Cu(II)
 
 **Ligands:**
   - SPhos (CAS: 657408-07-6)
 
 **Reagents:**
-  - Triethylamine (CAS: 121-44-8) - Role: BASE
+  - Triethylamine (CAS: 121-44-8) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -38685,8 +38707,8 @@ Nature Communications (2023), 14(1), 1678.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38736,8 +38758,8 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2739-2742.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -38787,8 +38809,8 @@ Organic Letters (2024), 26(18), 3951-3956.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - Cs2CO3 (CAS: 534-17-8) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -40144,10 +40166,10 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
   - XantPhos (CAS: 161265-03-8)
 
 **Reagents:**
-  - Hydrogen (CAS: 1333-74-0) - Role: ACTIVATOR
-  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: ADDITIVE
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
-  - Cs2CO3 (CAS: 534-17-8) - Role: ADDITIVE
+  - Hydrogen (CAS: 1333-74-0) - Role: UNK
+  - 1-Hydroxybenzotriazole (CAS: 2592-95-2) - Role: UNK
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
+  - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -40420,7 +40442,7 @@ Journal of Medicinal Chemistry (2022), 65(24), 16801-16817.
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -40509,8 +40531,8 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
+  - NaOtBu (CAS: 865-48-5)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -40518,8 +40540,8 @@ Journal of Medicinal Chemistry (2024), 67(1), 322-348.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
+  - NaOtBu (CAS: 865-48-5)
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -40560,8 +40582,8 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
+  - NaOtBu (CAS: 865-48-5)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -40569,8 +40591,8 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
+  - NaOtBu (CAS: 865-48-5)
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -40611,8 +40633,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
-  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
+  - NaOtBu (CAS: 865-48-5)
 
 **Catalyst Core:**
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
@@ -40620,8 +40642,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 **Generic Catalyst:** Pd
 
 **Ligands:**
-  - NaOtBu (CAS: 865-48-5)
   - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1)
+  - NaOtBu (CAS: 865-48-5)
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -42318,8 +42340,8 @@ European Journal of Medicinal Chemistry (2023), 257, 115488.
   - Yield: 87%
 
 **SMILES:**
-  - Reactants: `C1COCCN1.Clc1cccc2c1C[c]13->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]([cH]->8[c]->91-2)[cH-]->%103`
-  - Products: `c1cc(N2CCOCC2)c2c(c1)-[c]13->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]([cH]->81)[cH-]->9[c]->%103C2`
+  - Reactants: `C1COCCN1.[H]C12=[CH]3[C-]4([H])->[Fe+2]3156789(<-[CH-]1[CH]5=[CH]6[CH]7=[CH]18)C21=C49CC2=C(Cl)C=CC=C21`
+  - Products: `[H]C12=[CH]3[C-]4([H])->[Fe+2]3156789(<-[CH-]1[CH]5=[CH]6[CH]7=[CH]18)C21=C49CC2=C(N3CCOCC3)C=CC=C21`
 
 **Reference:**
   - **Title:** Design and synthesis of a new family of planar and central chiral ferrocenyl phosphine ligands
@@ -44824,7 +44846,7 @@ Journal of Medicinal Chemistry (2021), 64(18), 13780-13792.
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
 **Solvents:**
-  - Xylene (mixed isomers) (CAS: 1330-20-7)
+  - Xylene (CAS: 1330-20-7)
 
 **Reaction Conditions:**
   - Temperature: 130.0°C
@@ -46555,15 +46577,16 @@ Chemical Communications (Cambridge, United Kingdom) (2023), 59(92), 13755-13758.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -46660,15 +46683,16 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -46711,15 +46735,16 @@ Journal of the American Chemical Society (2021), 143(13), 5022-5037.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -46991,8 +47016,8 @@ ChemCatChem (2022), 14(16), e202200734.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47040,8 +47065,8 @@ Organic Chemistry Frontiers (2021), 8(21), 6067-6073.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -47089,8 +47114,8 @@ Journal of Medicinal Chemistry (2021), 64(19), 14664-14701.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -48767,15 +48792,16 @@ Journal of Organic Chemistry (2023), 88(3), 1742-1748.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -48818,15 +48844,16 @@ Nature Communications (2021), 12(1), 2706.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -48870,15 +48897,16 @@ Journal of Medicinal Chemistry (2023), 66(3), 1941-1954.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -48921,15 +48949,16 @@ ChemCatChem (2022), 14(16), e202200734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -48972,15 +49001,16 @@ Journal of Organic Chemistry (2021), 86(1), 403-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49023,15 +49053,16 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49074,15 +49105,16 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49125,15 +49157,16 @@ Nature Communications (2023), 14(1), 7220.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49176,15 +49209,16 @@ Organic Letters (2021), 23(13), 5203-5207.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49231,15 +49265,16 @@ Angewandte Chemie, International Edition (2022), 61(20), e202202814.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49283,15 +49318,16 @@ European Journal of Organic Chemistry (2021), 2021(29), 3980-3985.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49334,15 +49370,16 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49385,15 +49422,16 @@ European Journal of Organic Chemistry (2021), 2021(5), 830-849.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49439,15 +49477,16 @@ Journal of Organic Chemistry (2021), 86(21), 14732-14758.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49490,15 +49529,16 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49541,15 +49581,16 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(78), 10007-10010.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49592,15 +49633,16 @@ Angewandte Chemie, International Edition (2021), 60(42), 22729-22734.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49645,15 +49687,16 @@ Angewandte Chemie, International Edition (2023), 62(23), e202303271.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49696,15 +49739,16 @@ Advanced Synthesis & Catalysis (2022), 364(20), 3600-3606.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49749,15 +49793,16 @@ European Journal of Organic Chemistry (2022), 2022(10), e202101421.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49800,15 +49845,16 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49851,15 +49897,16 @@ Journal of the American Chemical Society (2024), 146(24), 16567-16580.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49902,15 +49949,16 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -49953,15 +50001,16 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -50004,15 +50053,16 @@ Journal of Organic Chemistry (2024), 89(1), 402-413.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -50055,15 +50105,16 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -50106,15 +50157,16 @@ Journal of Organic Chemistry (2021), 86(2), 1408-1418.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -50157,15 +50209,16 @@ Journal of Medicinal Chemistry (2021), 64(19), 14426-14447.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -50208,15 +50261,16 @@ Nature Communications (2022), 13(1), 6056.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -50259,15 +50313,16 @@ Advanced Synthesis & Catalysis (2022), 364(2), 268-273.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -50310,15 +50365,16 @@ European Journal of Organic Chemistry (2021), 2021(24), 3516-3527.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 3-Bis(diphenylphosphino)propane
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,3-Bis(diphenylphosphino)propane (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -53792,16 +53848,17 @@ Angewandte Chemie, International Edition (2024), 63(18), e202402020.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Tris(dibenzylideneacetone)dipalladium (CAS: 51364-51-3)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
@@ -53946,16 +54003,17 @@ Journal of the American Chemical Society (2022), 144(39), 17897-17904.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
   - Pd(dba)2 (CAS: 32005-36-0)
 
 **Catalyst Core:**
-  - 1 (CAS: 6737-42-4)
   - Pd(dba)2 (CAS: 32005-36-0)
 
-**Generic Catalyst:** 1-Bis(diphenylphosphino)ferrocene, Pd
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -54459,19 +54517,20 @@ ACS Catalysis (2022), 12(20), 12860-12868.
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
   - Palladium (CAS: 7440-05-3)
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
 
 **Catalyst Core:**
-  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
   - Palladium (CAS: 7440-05-3)
 
 **Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 4-Dimethylaminopyridine (CAS: 1122-58-3)
+
 **Reagents:**
-  - Hydrogen (CAS: 1333-74-0) - Role: ACTIVATOR
-  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: ACTIVATOR
+  - Hydrogen (CAS: 1333-74-0) - Role: WORKUP
+  - 1-Ethyl-3-(3-dimethylaminopropyl)carbodiimide hydrochloride (CAS: 25952-53-8) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: UNK
 
 **Solvents:**
@@ -60120,15 +60179,16 @@ European Journal of Medicinal Chemistry (2023), 252, 115275.
 
 **Full Catalytic System:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
 
 **Catalyst Core:**
   - Palladium diacetate (CAS: 3375-31-3)
-  - 1 (CAS: 6737-42-4)
 
-**Generic Catalyst:** Pd, 1-Bis(diphenylphosphino)ferrocene
+**Generic Catalyst:** Pd
 
-**Ligands:** None
+**Ligands:**
+  - 1,1-Bis(diphenylphosphino)ferrocene (CAS: 12150-46-8)
+
 **Reagents:**
   - Sodium chloride (CAS: 7647-14-5) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -64976,8 +65036,8 @@ Angewandte Chemie, International Edition (2024), 63(14), e202311250.
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: CAT_LIG
-  - NaOtBu (CAS: 865-48-5) - Role: CAT_LIG
+  - Tri-tert-butylphosphonium tetrafluoroborate (CAS: 131274-22-1) - Role: UNK
+  - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
   - Toluene (CAS: 108-88-3)
@@ -69668,8 +69728,8 @@ Angewandte Chemie, International Edition (2023), 62(5), e202214908.
   - Yield: 55%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.O=C(Nc1ccc(F)cc1)c1ccccc1Br`
-  - Products: `O=C(Nc1ccc(F)cc1)c1ccccc1-[c]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]1[cH-]->7[c]->81c3ccccc3c(=O)n(-c3ccc(F)cc3)[c]->921`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.O=C(Nc1ccc(F)cc1)c1ccccc1Br`
+  - Products: `O=C(NC1=CC=C(F)C=C1)C1=C(C23=[CH]4[CH-]5->[Fe+2]426789%10(<-[CH-]2[CH]6=[CH]7[CH]8=[CH]29)C52=C3%10N(C3=CC=C(F)C=C3)C(=O)C3=CC=CC=C32)C=CC=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -69722,8 +69782,8 @@ Angewandte Chemie, International Edition (2022), 61(5), e202113207.
   - Yield: 63%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.Cc1ccc(NC(=O)c2ccccc2Br)cc1`
-  - Products: `Cc1ccc(NC(=O)c2ccccc2-[c]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]2[cH-]->8[c]->92c4ccccc4c(=O)n(-c4ccc(C)cc4)[c]->%1032)cc1`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.Cc1ccc(NC(=O)c2ccccc2Br)cc1`
+  - Products: `CC1=CC=C(NC(=O)C2=C(C34=[CH]5[CH-]6->[Fe+2]53789%10%11(<-[CH-]3[CH]7=[CH]8[CH]9=[CH]3%10)C63=C4%11N(C4=CC=C(C)C=C4)C(=O)C4=CC=CC=C43)C=CC=C2)C=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -69774,8 +69834,8 @@ Journal of Medicinal Chemistry (2022), 65(4), 3343-3358.
   - Yield: 57%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.CSc1ccc(NC(=O)c2ccccc2Br)cc1`
-  - Products: `CSc1ccc(NC(=O)c2ccccc2-[c]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]2[cH-]->8[c]->92c4ccccc4c(=O)n(-c4ccc(SC)cc4)[c]->%1032)cc1`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.CSc1ccc(NC(=O)c2ccccc2Br)cc1`
+  - Products: `CSC1=CC=C(NC(=O)C2=C(C34=[CH]5[CH-]6->[Fe+2]53789%10%11(<-[CH-]3[CH]7=[CH]8[CH]9=[CH]3%10)C63=C4%11N(C4=CC=C(SC)C=C4)C(=O)C4=CC=CC=C43)C=CC=C2)C=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -69826,8 +69886,8 @@ Journal of Medicinal Chemistry (2024), 67(11), 8642-8666.
   - Yield: 68%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.O=C(Nc1ccccc1)c1ccccc1Br`
-  - Products: `O=C(Nc1ccccc1)c1ccccc1-[c]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]1[cH-]->7[c]->81c3ccccc3c(=O)n(-c3ccccc3)[c]->921`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.O=C(Nc1ccccc1)c1ccccc1Br`
+  - Products: `O=C(NC1=CC=CC=C1)C1=C(C23=[CH]4[CH-]5->[Fe+2]426789%10(<-[CH-]2[CH]6=[CH]7[CH]8=[CH]29)C52=C3%10N(C3=CC=CC=C3)C(=O)C3=CC=CC=C32)C=CC=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -69878,8 +69938,8 @@ Chemistry - A European Journal (2023), 29(60), e202301867.
   - Yield: 79%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.COc1ccc(NC(=O)c2ccccc2Br)cc1`
-  - Products: `COc1ccc(NC(=O)c2ccccc2-[c]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]2[cH-]->8[c]->92c4ccccc4c(=O)n(-c4ccc(OC)cc4)[c]->%1032)cc1`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.COc1ccc(NC(=O)c2ccccc2Br)cc1`
+  - Products: `COC1=CC=C(NC(=O)C2=C(C34=[CH]5[CH-]6->[Fe+2]53789%10%11(<-[CH-]3[CH]7=[CH]8[CH]9=[CH]3%10)C63=C4%11N(C4=CC=C(OC)C=C4)C(=O)C4=CC=CC=C43)C=CC=C2)C=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -69930,8 +69990,8 @@ Chemistry - A European Journal (2022), 28(46), e202201435.
   - Yield: 61%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.Cc1ccc(Br)c(C(=O)Nc2ccccc2)c1`
-  - Products: `Cc1ccc(-[c]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]2[cH-]->8[c]->92c4ccc(C)cc4c(=O)n(-c4ccccc4)[c]->%1032)c(C(=O)Nc2ccccc2)c1`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.Cc1ccc(Br)c(C(=O)Nc2ccccc2)c1`
+  - Products: `CC1=CC=C2C(=C1)C(=O)N(C1=CC=CC=C1)C13=C24[CH-]2->[Fe+2]4156789(<-[CH-]1[CH]5=[CH]6[CH]7=[CH]18)[CH]2=C39C1=C(C(=O)NC2=CC=CC=C2)C=C(C)C=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -69982,8 +70042,8 @@ Organic Letters (2022), 24(23), 4129-4134.
   - Yield: 61%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.O=C(Nc1ccccc1)c1cc(Cl)ccc1Br`
-  - Products: `O=C(Nc1ccccc1)c1cc(Cl)ccc1-[c]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]1[cH-]->7[c]->81c3ccc(Cl)cc3c(=O)n(-c3ccccc3)[c]->921`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.O=C(Nc1ccccc1)c1cc(Cl)ccc1Br`
+  - Products: `O=C(NC1=CC=CC=C1)C1=C(C23=[CH]4[CH-]5->[Fe+2]426789%10(<-[CH-]2[CH]6=[CH]7[CH]8=[CH]29)C52=C3%10N(C3=CC=CC=C3)C(=O)C3=CC(Cl)=CC=C32)C=CC(Cl)=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -70034,8 +70094,8 @@ Journal of Organic Chemistry (2024), 89(24), 18280-18290.
   - Yield: 56%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.COc1cc(NC(=O)c2ccccc2Br)cc(OC)c1`
-  - Products: `COc1cc(NC(=O)c2ccccc2-[c]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]2[cH-]->8[c]->92c4ccccc4c(=O)n(-c4cc(OC)cc(OC)c4)[c]->%1032)cc(OC)c1`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.COc1cc(NC(=O)c2ccccc2Br)cc(OC)c1`
+  - Products: `COC1=CC(NC(=O)C2=C(C34=[CH]5[CH-]6->[Fe+2]53789%10%11(<-[CH-]3[CH]7=[CH]8[CH]9=[CH]3%10)C63=C4%11N(C4=CC(OC)=CC(OC)=C4)C(=O)C4=CC=CC=C43)C=CC=C2)=CC(OC)=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -70086,8 +70146,8 @@ Journal of Medicinal Chemistry (2022), 65(19), 13052-13073.
   - Yield: 69%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.O=C(Nc1ccc(C(F)(F)F)cc1)c1ccccc1Br`
-  - Products: `O=C(Nc1ccc(C(F)(F)F)cc1)c1ccccc1-[c]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]1[cH-]->7[c]->81c3ccccc3c(=O)n(-c3ccc(C(F)(F)F)cc3)[c]->921`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.O=C(Nc1ccc(C(F)(F)F)cc1)c1ccccc1Br`
+  - Products: `O=C(NC1=CC=C(C(F)(F)F)C=C1)C1=C(C23=[CH]4[CH-]5->[Fe+2]426789%10(<-[CH-]2[CH]6=[CH]7[CH]8=[CH]29)C52=C3%10N(C3=CC=C(C(F)(F)F)C=C3)C(=O)C3=CC=CC=C32)C=CC=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -70138,8 +70198,8 @@ European Journal of Medicinal Chemistry (2021), 209, 112916.
   - Yield: 55%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.O=C(Nc1ccc2ccccc2c1)c1ccccc1Br`
-  - Products: `O=C(Nc1ccc2ccccc2c1)c1ccccc1-[c]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]1[cH-]->7[c]->81c3ccccc3c(=O)n(-c3ccc4ccccc4c3)[c]->921`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.O=C(Nc1ccc2ccccc2c1)c1ccccc1Br`
+  - Products: `O=C(NC1=CC2=C(C=CC=C2)C=C1)C1=C(C23=[CH]4[CH-]5->[Fe+2]426789%10(<-[CH-]2[CH]6=[CH]7[CH]8=[CH]29)C52=C3%10N(C3=CC4=C(C=CC=C4)C=C3)C(=O)C3=CC=CC=C32)C=CC=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -70190,8 +70250,8 @@ Nature Communications (2022), 13(1), 115.
   - Yield: 64%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.COc1ccc(NC(=O)c2cc(Cl)ccc2Br)cc1`
-  - Products: `COc1ccc(NC(=O)c2cc(Cl)ccc2-[c]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[cH-]->6[cH]->7%11)<-[cH]2[cH-]->8[c]->92c4ccc(Cl)cc4c(=O)n(-c4ccc(OC)cc4)[c]->%1032)cc1`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.COc1ccc(NC(=O)c2cc(Cl)ccc2Br)cc1`
+  - Products: `COC1=CC=C(NC(=O)C2=C(C34=[CH]5[CH-]6->[Fe+2]53789%10%11(<-[CH-]3[CH]7=[CH]8[CH]9=[CH]3%10)C63=C4%11N(C4=CC=C(OC)C=C4)C(=O)C4=CC(Cl)=CC=C43)C=CC(Cl)=C2)C=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -70242,8 +70302,8 @@ Chemical Communications (Cambridge, United Kingdom) (2021), 57(84), 11029-11032.
   - Yield: 56%
 
 **SMILES:**
-  - Reactants: `COc1ccc(NC(=O)c2ccccc2Br)cc1.CSc1ccc(-[c-]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[c-]->6(I)[cH]->7%11)<-[cH]([cH]->8[cH]->92)[cH]->%103)cc1`
-  - Products: `COc1ccc(NC(=O)c2ccccc2-[c]23->[Fe+2]456789%10(<-[cH]%11[cH]->4[cH]->5[c-]->6(-c4ccc(SC)cc4)[cH]->7%11)<-[cH]2[cH-]->8[c]->92c4ccccc4c(=O)n(-c4ccc(OC)cc4)[c]->%1032)cc1`
+  - Reactants: `COc1ccc(NC(=O)c2ccccc2Br)cc1.CSC1=CC=C([C-]23->[Fe+2]456789%10(<-[C-]%11(I)[CH]4=[CH]5[CH]6=[CH]%117)[CH](=[CH]28)[CH]9=[CH]3%10)C=C1`
+  - Products: `COC1=CC=C(NC(=O)C2=C(C34=[CH]5[CH-]6->[Fe+2]53789%10%11(<-[C-]3(C5=CC=C(SC)C=C5)[CH]7=[CH]8[CH]9=[CH]3%10)C63=C4%11N(C4=CC=C(OC)C=C4)C(=O)C4=CC=CC=C43)C=CC=C2)C=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes
@@ -70294,8 +70354,8 @@ Chemistry - A European Journal (2021), 27(20), 6274-6282.
   - Yield: 52%
 
 **SMILES:**
-  - Reactants: `I[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92.O=C(Nc1ccccc1)c1cc(C(F)(F)F)ccc1Br`
-  - Products: `O=C(Nc1ccccc1)c1cc(C(F)(F)F)ccc1-[c]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]1[cH-]->7[c]->81c3ccc(C(F)(F)F)cc3c(=O)n(-c3ccccc3)[c]->921`
+  - Reactants: `I[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29.O=C(Nc1ccccc1)c1cc(C(F)(F)F)ccc1Br`
+  - Products: `O=C(NC1=CC=CC=C1)C1=C(C23=[CH]4[CH-]5->[Fe+2]426789%10(<-[CH-]2[CH]6=[CH]7[CH]8=[CH]29)C52=C3%10N(C3=CC=CC=C3)C(=O)C3=CC(C(F)(F)F)=CC=C32)C=CC(C(F)(F)F)=C1`
 
 **Reference:**
   - **Title:** Palladium-Catalyzed Dual C-H Arylation/Cyclization Reaction of Iodoferrocenes with ortho-Bromobenzamides for the Construction of Arylated Isoquinolone-Fused Ferrocenes

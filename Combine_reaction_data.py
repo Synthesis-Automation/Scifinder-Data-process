@@ -183,9 +183,9 @@ def generate_simple_markdown(raw_txt: Dict[str, List[str]], raw_rdf: Dict[str, L
         if rid in raw_rdf and raw_rdf[rid]:
             lines.append("**Original RDF (as-is):**\n")
             lines.append("```")
+            # IMPORTANT: Preserve RDF exactly (including blank and '|' lines) to keep CTAB/MOL blocks valid
+            # for downstream SMILES generation with RDKit.
             for ln in raw_rdf[rid]:
-                if _skip_line(ln):
-                    continue
                 lines.append((ln or '') + "\n")
             lines.append("```\n\n")
         else:

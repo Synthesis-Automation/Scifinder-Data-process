@@ -48,8 +48,23 @@ except Exception as e:
     print(f"Error: Cannot import ReactionMarkdownGenerator: {e}")
     sys.exit(1)
 
+# Detect RDKit availability so we can explain missing SMILES clearly
+try:
+    from rdkit import Chem  # type: ignore
+    RDKIT_AVAILABLE = True
+except Exception:
+    Chem = None  # type: ignore
+    RDKIT_AVAILABLE = False
+
 
 def parse_combined_markdown(path: str) -> Dict[str, Dict[str, List[str]]]:
+    """Parse a combined Markdown file into per-reaction TXT/RDF blocks.
+
+    Robust to code fences that begin with backticks followed by inline content
+    (e.g., "```$RXN" or "```Steps: 1, Yield: 50%"), which some generators emit.
+    In such cases, the remainder after the backticks is treated as the first
+    line within the fenced block.
+    """
     with open(path, 'r', encoding='utf-8', errors='ignore') as f:
         lines = f.readlines()
 
@@ -58,23 +73,47 @@ def parse_combined_markdown(path: str) -> Dict[str, Dict[str, List[str]]]:
     in_fence = False
     current_block: str | None = None  # 'txt' or 'rdf'
 
+    def _starts_code_fence(s: str) -> Tuple[bool, str]:
+        t = s.lstrip()
+        if t.startswith('```'):
+            # return (is_fence, remainder_after_backticks)
+            return True, t[3:]
+        if t.startswith('`````'):
+            return True, t[5:]
+        return False, ''
+
     for raw in lines:
         line = raw.rstrip('\n')
+        stripped = line.strip()
         if line.startswith('## Reaction '):
             rid = line[len('## Reaction '):].strip()
             records.setdefault(rid, {'txt': [], 'rdf': []})
             in_fence = False
             current_block = None
             continue
-        if line.strip().startswith('**Original TXT'):
+        if stripped.startswith('**Original TXT'):
             current_block = 'txt'
             continue
-        if line.strip().startswith('**Original RDF'):
+        if stripped.startswith('**Original RDF'):
             current_block = 'rdf'
             continue
-        if line.strip() == '```' or line.strip() == '`````':
+
+        # Handle code fence open/close, including inline-start form
+        is_fence, remainder = _starts_code_fence(line)
+        if is_fence:
+            # Toggle fence state
+            was_in = in_fence
             in_fence = not in_fence
+            # If this is an opening fence (we were not previously in one)
+            # and there is non-empty remainder, treat it as first content line
+            if (not was_in) and rid and current_block in {'txt', 'rdf'}:
+                rem = remainder.strip()
+                # If remainder looks like a language tag (e.g., "python"), skip it;
+                # otherwise treat as content. Heuristic: language tags are simple words.
+                if rem and not rem.isalpha():
+                    records[rid][current_block].append(rem)
             continue
+
         if in_fence and rid and current_block in {'txt', 'rdf'}:
             records[rid][current_block].append(line)
             continue
@@ -224,6 +263,11 @@ class CombinedMDRichGUI(QtWidgets.QWidget):
             tmp_rdf = build_rdf_file(records)
             self._log("Parsing RDF blocks…")
             rdf_map = parse_rdf(tmp_rdf)
+            # Diagnostics: count MOL blocks captured from RDF
+            rct_mol_n = sum(1 for v in rdf_map.values() if v.get('rct_mol'))
+            pro_mol_n = sum(1 for v in rdf_map.values() if v.get('pro_mol'))
+            self._log(f"RDF parsed. Reactions with reactant MOL blocks: {rct_mol_n}; with product MOL blocks: {pro_mol_n}")
+            self._log(f"RDKit available: {RDKIT_AVAILABLE}")
 
             # Load CAS maps
             here = os.path.dirname(os.path.abspath(__file__))
@@ -234,6 +278,16 @@ class CombinedMDRichGUI(QtWidgets.QWidget):
             self._log("Assembling rows…")
             rows = assemble_rows(txt_map, rdf_map, cas_map)
             self._log(f"Assembled {len(rows)} rows")
+            # Diagnostics: count rows where SMILES were produced
+            smi_rows = sum(1 for r in rows if (r.get('ReactantSMILES') or r.get('ProductSMILES')))
+            self._log(f"Rows with SMILES: {smi_rows} / {len(rows)}")
+            if smi_rows == 0:
+                if not RDKIT_AVAILABLE:
+                    self._log("Note: RDKit is not available in this Python environment; SMILES generation from MOL blocks is disabled.")
+                elif (rct_mol_n + pro_mol_n) == 0:
+                    self._log("Note: No MOL/CTAB blocks were found in the RDF content; SMILES cannot be generated from RDF without structures.")
+                else:
+                    self._log("Warning: MOL blocks were found and RDKit is available, but SMILES are still empty. The MOL data may be malformed.")
 
             # Generate outputs using the same formatter
             gen = ReactionMarkdownGenerator()

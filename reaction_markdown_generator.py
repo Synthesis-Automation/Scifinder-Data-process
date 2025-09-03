@@ -465,6 +465,29 @@ class ReactionMarkdownGenerator:
         if r in {"CATLIG", "CAT-LIG", "CAT__LIG"}:
             r = "CAT_LIG"
         return r
+
+    @staticmethod
+    def _role_from_compound_type(compound_type: Optional[str]) -> Optional[str]:
+        """Map registry compound_type to normalized role tokens used in output.
+
+        Mapping:
+        - catalyst_core -> CAT_CORE
+        - ligand        -> CAT_LIG
+        - base          -> BASE
+        - solvent       -> SOLVENT
+        """
+        if not compound_type:
+            return None
+        ct = str(compound_type).strip().lower()
+        if ct == 'catalyst_core':
+            return 'CAT_CORE'
+        if ct == 'ligand':
+            return 'CAT_LIG'
+        if ct == 'base':
+            return 'BASE'
+        if ct == 'solvent':
+            return 'SOLVENT'
+        return None
     def find_rdf_txt_pairs(self, folder_path: str) -> List[Tuple[str, str]]:
         """Find matching RDF/TXT pairs in the specified folder."""
         if not os.path.isdir(folder_path):
@@ -594,31 +617,31 @@ class ReactionMarkdownGenerator:
                     if corrected_cas in seen_cas:
                         continue  # duplicate by CAS
                     seen_cas.add(corrected_cas)
-                    # Prefer registry canonical display name when available
-                    reg_name = (self.cas_map.get(corrected_cas, {}) or {}).get('Name') or corrected_name
-                    seen_names.add(self._norm(reg_name))
-                    # Role conflict warning: if registry role contradicts the section title
-                    reg_role = (self.cas_map.get(corrected_cas, {}) or {}).get('Role', '')
-                    if reg_role:
-                        rr = self._norm_role(reg_role)
+                    # Prefer registry abbreviation, then registry name, then corrected_name
+                    display_name = self.cas_registry.get_display_name(corrected_name, corrected_cas)
+                    seen_names.add(self._norm(display_name))
+                    # Role conflict warning: prefer compound_type over legacy Role
+                    ctype = self.cas_registry.get_compound_type(corrected_cas)
+                    rr = self._role_from_compound_type(ctype) or 'UNK'
+                    if rr != 'UNK':
                         # Heuristics: title determines expected role family
-                        exp = 'UNK'
                         tl = title.lower()
+                        expected = ''
                         if 'solvent' in tl:
-                            exp = 'SOL'
+                            expected = 'SOLVENT'
                         elif 'ligand' in tl:
-                            exp = 'LIG'
+                            expected = 'CAT_LIG'
                         elif 'catalyst core' in tl or ('catalytic' in tl and 'system' in tl):
-                            exp = 'CAT'
+                            expected = 'CAT_CORE'
                         elif 'reagent' in tl:
                             # reagents handled in format_reagents
-                            exp = 'RGT'
-                        if exp in {'SOL','LIG','CAT'} and not rr.startswith(exp):
+                            expected = ''
+                        if expected and rr != expected:
                             self.validation_warnings.append(
-                                f"{title}: Role conflict for '{reg_name}' (CAS {corrected_cas}): registry role {reg_role}"
+                                f"{title}: Role conflict for '{display_name}' (CAS {corrected_cas}): registry compound_type -> {rr}"
                             )
-                    if reg_name != corrected_cas:
-                        lines.append(f"  - {reg_name} (CAS: {corrected_cas})")
+                    if display_name != corrected_cas:
+                        lines.append(f"  - {display_name} (CAS: {corrected_cas})")
                     else:
                         lines.append(f"  - CAS: {corrected_cas}")
             else:
@@ -631,13 +654,13 @@ class ReactionMarkdownGenerator:
                     cas_resolved = self.canonicalize_cas(cas_resolved) or cas_resolved
                     if not self.cas_registry.validate_cas_format(cas_resolved):
                         continue
-                    reg_name = (self.cas_map.get(cas_resolved, {}) or {}).get('Name') or name
-                    norm_reg_name = self._norm(reg_name)
+                    display_name = self.cas_registry.get_display_name(name, cas_resolved)
+                    norm_reg_name = self._norm(display_name)
                     if cas_resolved in seen_cas or norm_reg_name in seen_names:
                         continue
                     seen_cas.add(cas_resolved)
                     seen_names.add(norm_reg_name)
-                    lines.append(f"  - {reg_name} (CAS: {cas_resolved})")
+                    lines.append(f"  - {display_name} (CAS: {cas_resolved})")
                 else:
                     # Cannot resolve to CAS; keep name-only if allowed
                     if allow_name_only and name:
@@ -703,7 +726,8 @@ class ReactionMarkdownGenerator:
         name_to_entry: Dict[str, Dict[str, Any]] = {}
 
         for i, reagent in enumerate(reagents):
-            role = self._norm_role(reagent_roles[i] if i < len(reagent_roles) else "UNK")
+            provided_role = self._norm_role(reagent_roles[i] if i < len(reagent_roles) else "UNK")
+            role = provided_role
             name: str = reagent
             cas: Optional[str] = None
             if '|' in reagent:
@@ -725,24 +749,29 @@ class ReactionMarkdownGenerator:
             # Canonicalize CAS using direct CAS alias mapping
             cas = self.canonicalize_cas(cas) or cas
 
-            # If we have a CAS, prefer the registry-declared role to fix misalignment issues
+            # If we have a CAS, prefer the registry compound_type → role mapping
             reg_role = ""
-            if cas and cas in self.cas_map:
-                reg_role = (self.cas_map[cas].get('Role') or '').strip()
+            if cas:
+                ctype = self.cas_registry.get_compound_type(cas)
+                mapped = self._role_from_compound_type(ctype)
+                if mapped:
+                    reg_role = mapped
+                elif cas in self.cas_map:
+                    reg_role = (self.cas_map[cas].get('Role') or '').strip()
             # Normalize and choose role: prefer registry role when available
             if reg_role:
                 role = self._norm_role(reg_role)
                 # Warn if the original provided role conflicts significantly
-                prov = self._norm_role(reagent_roles[i] if i < len(reagent_roles) else "UNK")
+                prov = provided_role
                 if prov != 'UNK' and role != prov:
                     self.validation_warnings.append(
                         f"Reagents: Role conflict for '{name}' (CAS {cas}): TXT role {prov}, registry role {role}"
                     )
 
-            # Prefer registry canonical name if CAS known
+            # Prefer registry abbreviation/name if CAS known
             display_name = name
-            if cas and cas in self.cas_map:
-                display_name = (self.cas_map[cas].get('Name') or name).strip()
+            if cas:
+                display_name = self.cas_registry.get_display_name(name, cas)
 
             # Deduplicate by CAS if we have it
             if cas:
@@ -1124,9 +1153,11 @@ class ReactionMarkdownGenerator:
             for item in compound_list:
                 if '|' in item:
                     name, cas = item.split('|', 1)
+                    cas = cas.strip()
+                    disp = self.cas_registry.get_display_name(name.strip(), cas)
                     compounds.append({
-                        'name': name.strip(),
-                        'cas': cas.strip()
+                        'name': disp,
+                        'cas': cas
                     })
                 else:
                     compounds.append({
@@ -1135,22 +1166,29 @@ class ReactionMarkdownGenerator:
                     })
             return compounds
         
-        # Combine reagents with roles
+        # Combine reagents with roles (prefer registry compound_type mapping)
         reagent_data = []
         for i, reagent in enumerate(reagents):
-            role = reagent_roles[i] if i < len(reagent_roles) else 'UNK'
+            provided_role = reagent_roles[i] if i < len(reagent_roles) else 'UNK'
+            role = provided_role
             if '|' in reagent:
                 name, cas = reagent.split('|', 1)
+                cas = cas.strip()
+                ctype = self.cas_registry.get_compound_type(cas)
+                mapped = self._role_from_compound_type(ctype)
+                if mapped:
+                    role = mapped
+                disp = self.cas_registry.get_display_name(name.strip(), cas)
                 reagent_data.append({
-                    'name': name.strip(),
-                    'cas': cas.strip(),
-                    'role': role
+                    'name': disp,
+                    'cas': cas,
+                    'role': self._norm_role(role)
                 })
             else:
                 reagent_data.append({
                     'name': reagent.strip(),
                     'cas': '',
-                    'role': role
+                    'role': self._norm_role(role)
                 })
         
         # Parse numerical values safely

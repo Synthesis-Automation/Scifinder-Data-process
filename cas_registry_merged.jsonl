@@ -43,7 +43,7 @@
 {"cas": "1310-58-3", "name": "KOH", "abbreviation": "KOH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
 {"cas": "1310-66-3", "name": "LiOH", "abbreviation": "LiOH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
 {"cas": "1310-73-2", "name": "NaOH", "abbreviation": "NaOH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
-{"cas": "131274-22-1", "name": "Tri-tert-butylphosphonium tetrafluoroborate", "abbreviation": "", "generic_core": null, "category_hint": "salt", "token": "tBu3P·HBF4", "compound_type": null, "sources": ["cas_dictionary"]}
+{"cas": "131274-22-1", "name": "Tri-tert-butylphosphonium tetrafluoroborate", "abbreviation": " [(t-Bu)3PH]BF4", "generic_core": null, "category_hint": "salt", "token": "tBu3P·HBF4", "compound_type": null, "sources": ["cas_dictionary"]}
 {"cas": "1317-39-1", "name": "Cu2O", "abbreviation": "Cu2O", "generic_core": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
 {"cas": "1330-20-7", "name": "Xylene", "abbreviation": "Xylene", "generic_core": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
 {"cas": "1336-21-6", "name": "NH4OH", "abbreviation": "NH4OH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
@@ -264,7 +264,7 @@
 {"cas": "75-16-1", "name": "Methyl magnesium bromide", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "75-75-2", "name": "3-Hydroxyaspartic acid", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "1310-65-2", "name": "Lithium Hydroxide", "abbreviation": "UN2679", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "857356-94-6", "name": "Di-tert-butyl[3,4,5,6-tetramethyl-2',4',6'-tris(propan-2-yl)-[1,1'-biphenyl]-2-yl]phosphane", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "857356-94-6", "name": "Di-tert-butyl[3,4,5,6-tetramethyl-2',4',6'-tris(propan-2-yl)-[1,1'-biphenyl]-2-yl]phosphane", "abbreviation": "tBuXPhos", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "849924-41-0", "name": "(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "406680-94-2", "name": "(R)-N-Methyl-N-diphenylphosphino-1-[(S)-2-diphenylphosphino)ferrocenyl]ethylamine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "224311-51-7", "name": "2-(Di-tert-butylphosphino)biphenyl", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}

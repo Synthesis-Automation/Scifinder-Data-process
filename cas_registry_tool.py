@@ -670,7 +670,14 @@ class ComprehensiveCASRegistry:
             f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
     def _choose_abbreviation(self, cas: str, name: str, synonyms: Optional[List[str]]) -> str:
-        """Heuristic abbreviation chooser from known abbrevs or synonyms."""
+        """Choose a suitable chemical abbreviation, avoiding code-like IDs.
+
+        Rule:
+        - Prefer a curated mapping for very common solvents/bases.
+        - Otherwise, only accept from a conservative allowlist of known chemical abbreviations.
+        - Reject code-like IDs (e.g., NSC-xxxx, DBxxxxx, UNxxxx, FDxxxxx, etc.).
+        - If nothing suitable, return empty string.
+        """
         known = {
             # solvents/bases
             '67-56-1': 'MeOH', '67-63-0': 'iPrOH', '64-17-5': 'EtOH', '68-12-2': 'DMF',
@@ -679,16 +686,49 @@ class ComprehensiveCASRegistry:
         }
         if cas in known:
             return known[cas]
+
+        allowlist = {
+            # Solvents
+            'MeOH','EtOH','iPrOH','tBuOH','tAmylOH','THF','MeTHF','MeCN','DCM','DCE','DMF','DMSO','NMP','EtOAc',
+            # Bases / reagents
+            'TEA','DIPEA','DMAP','DBU','DBN','KOtBu','NaOtBu','NaOMe','NaOEt','NaHCO3','K2CO3','Cs2CO3','Na2CO3',
+            # Ligands / catalysts
+            'BINAP','DPPF','XantPhos','DPEPhos','DPPP','DPPB','PPh3','PCy3','PMe3','PEt3','TMEDA','IPr','IMes','SIPr','SIMes',
+            'SPhos','XPhos','RuPhos','JohnPhos','MePhos','CyJohnPhos','QPhos','AlPhos','Me4tBuXPhos',
+            # Misc
+            'PEG-400','tBuOMe','TFA','PhMe'
+        }
+
+        banned_prefixes = (
+            'NSC','DB','UN','INS','FD','AS','SY','MB','SH','NA','FC','SB','STR'
+        )
+        def looks_banned(s: str) -> bool:
+            ss = s.strip()
+            if not ss:
+                return True
+            up = ss.upper()
+            for pref in banned_prefixes:
+                # forms like NSC12345, NSC-12345
+                if up.startswith(pref) and re.search(r"\d", up):
+                    return True
+            # Overly numeric codes: >= 3 digits and no lowercase letters
+            if re.fullmatch(r"[A-Z\-]*\d{3,}[A-Z\-]*", up):
+                return True
+            return False
+
         if synonyms:
             for s in synonyms:
-                if re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9\-]{1,7}", s) and s.isupper():
+                if s in allowlist:
                     return s
-                # common mixed-case short names
-                if s in { 'tBuOH', 'tAmylOH', 'MeTHF', 'tBuOMe', 'PEG-400', 'NMP' }:
-                    return s
-        # Sometimes short aliases are in manual corrections
-        if name and len(name) <= 6 and re.search(r"[A-Za-z]", name):
-            return name
+            for s in synonyms:
+                if looks_banned(s):
+                    continue
+                # Very conservative acceptance: short alpha tokens like DMF, THF, NMP
+                if re.fullmatch(r"[A-Za-z]{2,6}(?:-[0-9]{2,4})?", s):
+                    if s.isupper() or s in allowlist:
+                        return s
+
+        # Do not fall back to using the proper name as abbreviation
         return ''
 
     def _build_jsonl_entry(self, cas: str, base_name: str = '') -> Tuple[Dict[str, Any], List[str]]:
@@ -792,6 +832,124 @@ class ComprehensiveCASRegistry:
             print(f"Failed to read text file '{file_path}': {e}")
         return result
 
+    # --- New: Update existing entries in a JSONL registry ---
+    def update_jsonl_registry(
+        self,
+        registry_path: str,
+        cas_items: Optional[Iterable[str]] = None,
+        dry_run: bool = False,
+    ) -> Tuple[int, int]:
+        """Update existing JSONL entries with missing fields filled from lookups.
+
+        Conservative merge rules:
+        - Never change 'cas'.
+        - Only fill fields that are missing/empty in existing entry: name, abbreviation,
+          generic_core, category_hint, token, compound_type.
+        - 'sources' will be the union of existing and new sources (order-preserving).
+
+        Returns (updated_count, not_found_count).
+        """
+        if not os.path.exists(registry_path):
+            print(f"Registry not found: {registry_path}")
+            return 0, 0
+
+        # Load all lines to preserve order
+        lines: List[str] = []
+        entries: List[Optional[Dict[str, Any]]] = []
+        with open(registry_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                lines.append(line.rstrip('\n'))
+                try:
+                    entries.append(json.loads(line))
+                except Exception:
+                    entries.append(None)
+
+        # Determine target CAS set
+        target_set = set()
+        if cas_items:
+            for raw in cas_items:
+                c = (raw or '').strip()
+                if c:
+                    target_set.add(c)
+        else:
+            # If none provided, update all CAS present
+            for obj in entries:
+                if isinstance(obj, dict):
+                    c = (obj.get('cas') or obj.get('CAS') or '').strip()
+                    if c:
+                        target_set.add(c)
+
+        updated = 0
+        not_found = 0
+        # Map CAS to first index for update
+        cas_to_index: Dict[str, int] = {}
+        for idx, obj in enumerate(entries):
+            if not isinstance(obj, dict):
+                continue
+            c = (obj.get('cas') or obj.get('CAS') or '').strip()
+            if c and c not in cas_to_index:
+                cas_to_index[c] = idx
+
+        for cas in sorted(target_set):
+            if cas not in cas_to_index:
+                not_found += 1
+                print(f"Skip (not found): {cas}")
+                continue
+            idx = cas_to_index[cas]
+            obj = entries[idx]
+            if not isinstance(obj, dict):
+                print(f"Skip (corrupt line) at {idx+1}")
+                continue
+
+            # Build a candidate entry from lookups
+            candidate, warns = self._build_jsonl_entry(cas)
+            if not candidate:
+                # Nothing to merge
+                continue
+
+            # Merge conservatively
+            updatable_keys = ['name','abbreviation','generic_core','category_hint','token','compound_type']
+            diffs: List[Tuple[str, Any, Any]] = []
+            for k in updatable_keys:
+                old = obj.get(k)
+                new = candidate.get(k)
+                # Treat None/''/missing as empty
+                empty_old = (old is None) or (isinstance(old, str) and old.strip() == '') or (k not in obj)
+                if empty_old and new not in (None, ''):
+                    diffs.append((k, old, new))
+                    obj[k] = new
+
+            # Merge sources as union preserving order
+            old_sources = obj.get('sources')
+            new_sources = candidate.get('sources') or []
+            if not isinstance(old_sources, list):
+                old_sources = []
+            merged_sources: List[str] = []
+            for s in (old_sources + new_sources):
+                if s and s not in merged_sources:
+                    merged_sources.append(s)
+            if merged_sources != old_sources:
+                diffs.append(('sources', old_sources, merged_sources))
+                obj['sources'] = merged_sources
+
+            if diffs:
+                # Report diff
+                print(f"Update: {cas}")
+                for k, old, new in diffs:
+                    print(f"  - {k}: {old!r} -> {new!r}")
+                if not dry_run:
+                    # Persist the updated object back into the line buffer
+                    lines[idx] = json.dumps(obj, ensure_ascii=False)
+                updated += 1
+
+        if updated and not dry_run:
+            # Rewrite the registry file
+            with open(registry_path, 'w', encoding='utf-8', newline='') as f:
+                for line in lines:
+                    f.write((line or '') + "\n")
+
+        return updated, not_found
+
 
 def main():
     parser = argparse.ArgumentParser(description="CAS Number Validation and Registry Tool")
@@ -803,8 +961,10 @@ def main():
     # New CLI for JSONL registry augmentation
     parser.add_argument('--add-cas', help='Add a single CAS to JSONL registry (if missing)')
     parser.add_argument('--add-csv', help='CSV with one CAS per line/column to add to JSONL registry')
+    parser.add_argument('--add-text', help='Text file to scan for CAS RNs and add to JSONL registry')
     parser.add_argument('--registry', help='Path to cas_registry_merged.jsonl (default: ./cas_registry_merged.jsonl)')
     parser.add_argument('--dry-run', action='store_true', help='Show actions without writing JSONL')
+    parser.add_argument('--update-existing', action='store_true', help='Update existing entries (fill missing fields) instead of adding new ones. If used without inputs, updates all entries in the registry.')
     
     args = parser.parse_args()
     
@@ -860,7 +1020,7 @@ def main():
         
         print(f"Building registry from: {args.build_registry}")
         registry.build_registry_from_folder(args.build_registry, args.output)
-    elif args.add_cas or args.add_csv:
+    elif args.add_cas or args.add_csv or args.add_text or args.update_existing:
         reg_path = args.registry or os.path.join(os.getcwd(), 'cas_registry_merged.jsonl')
         todo: List[str] = []
         if args.add_cas:
@@ -877,17 +1037,30 @@ def main():
                     if not row:
                         continue
                     todo.append(row[0].strip())
+        if args.add_text:
+            p = Path(args.add_text)
+            if not p.exists():
+                print(f"Text file not found: {p}")
+                sys.exit(1)
+            extracted = registry.extract_cas_from_text(str(p))
+            print(f"Extracted {len(extracted)} CAS from text file")
+            todo.extend(extracted)
         print(f"Target JSONL: {reg_path}")
-        added, skipped = registry.add_to_jsonl_registry(reg_path, todo, dry_run=args.dry_run)
-        print(f"Done. Added: {added}; Skipped existing: {skipped}")
+        if args.update_existing:
+            updated, not_found = registry.update_jsonl_registry(reg_path, todo or None, dry_run=args.dry_run)
+            print(f"Done. Updated: {updated}; Not found: {not_found}")
+        else:
+            added, skipped = registry.add_to_jsonl_registry(reg_path, todo, dry_run=args.dry_run)
+            print(f"Done. Added: {added}; Skipped existing: {skipped}")
     
     else:
-        # Interactive fallback: prompt for CAS or CSV if no args provided
+        # Interactive fallback: prompt for CAS/CSV/Text if no args provided
         print("Interactive mode: add CAS entries to a JSONL registry.")
         print("- Enter a single CAS RN (e.g., 7718-54-9), or")
-        print("- Enter a path to a CSV file (first column contains CAS RNs)")
+        print("- Enter a path to a CSV file (first column contains CAS RNs), or")
+        print("- Enter a path to a text file (we'll extract CAS RNs via regex)")
         try:
-            user_inp = input("CAS or CSV path (blank to exit): ").strip()
+            user_inp = input("CAS/CSV/Text path (blank to exit): ").strip()
         except (EOFError, KeyboardInterrupt):
             print("\nCancelled.")
             return
@@ -901,15 +1074,33 @@ def main():
         if is_cas:
             todo = [user_inp]
         elif os.path.isfile(user_inp):
+            # Try CSV first; fallback to generic text extraction
             try:
                 with open(user_inp, 'r', encoding='utf-8') as f:
-                    reader = csv.reader(f)
-                    for row in reader:
-                        if not row:
-                            continue
-                        todo.append((row[0] or '').strip())
+                    sniffer = csv.Sniffer()
+                    sample = f.read(1024)
+                    f.seek(0)
+                    is_csv = False
+                    try:
+                        dialect = sniffer.sniff(sample)
+                        is_csv = True
+                    except Exception:
+                        is_csv = False
+                    if is_csv:
+                        reader = csv.reader(f, dialect)
+                        for row in reader:
+                            if not row:
+                                continue
+                            todo.append((row[0] or '').strip())
+                    else:
+                        # Generic text
+                        extracted = registry.extract_cas_from_text(user_inp)
+                        if not extracted:
+                            print("No valid CAS found in text file.")
+                            return
+                        todo.extend(extracted)
             except Exception as e:
-                print(f"Failed to read CSV: {e}")
+                print(f"Failed to read file: {e}")
                 return
         else:
             print("Input is neither a valid CAS RN nor an existing CSV path. Exiting.")

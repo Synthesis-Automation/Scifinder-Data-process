@@ -36,9 +36,10 @@ Usage:
 import argparse
 import csv
 import json
+import os
 import re
 import sys
-from typing import Dict, List, Optional, Tuple, Any
+from typing import Dict, List, Optional, Tuple, Any, Iterable
 from pathlib import Path
 
 # Try to import requests for online lookup
@@ -460,28 +461,59 @@ class ComprehensiveCASRegistry:
             return False
     
     def lookup_pubchem(self, cas: str) -> Optional[Dict[str, Any]]:
-        """Look up compound information via PubChem API."""
+        """Look up compound information via PubChem API using CAS RN cross-reference.
+
+        Returns a dict with keys: name, iupac_name, formula, molecular_weight, smiles,
+        synonyms (List[str]), source.
+        """
         if not REQUESTS_AVAILABLE:
             return None
-        
+
         try:
-            # PubChem REST API
-            url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{cas}/property/MolecularFormula,MolecularWeight,IUPACName/JSON"
-            response = requests.get(url, timeout=10)
-            
-            if response.status_code == 200:
-                data = response.json()
-                if 'PropertyTable' in data and 'Properties' in data['PropertyTable']:
-                    props = data['PropertyTable']['Properties'][0]
-                    return {
-                        'name': props.get('IUPACName', ''),
-                        'formula': props.get('MolecularFormula', ''),
-                        'molecular_weight': props.get('MolecularWeight', ''),
-                        'source': 'PubChem'
-                    }
+            # Prefer RN (CAS Registry Number) cross-reference endpoint for reliability
+            props_url = (
+                f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RN/{cas}/"
+                "property/Title,IUPACName,MolecularFormula,MolecularWeight,IsomericSMILES/JSON"
+            )
+            resp = requests.get(props_url, timeout=12)
+            title = iupac = formula = mw = smiles = ""
+            if resp.status_code == 200:
+                data = resp.json() or {}
+                props_list = (data.get('PropertyTable') or {}).get('Properties') or []
+                if props_list:
+                    props = props_list[0]
+                    title = (props.get('Title') or '').strip()
+                    iupac = (props.get('IUPACName') or '').strip()
+                    formula = (props.get('MolecularFormula') or '').strip()
+                    mw = props.get('MolecularWeight')
+                    smiles = (props.get('IsomericSMILES') or '').strip()
+
+            # Try synonyms for abbreviations/common names
+            syns: List[str] = []
+            try:
+                syns_url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RN/{cas}/synonyms/JSON"
+                r2 = requests.get(syns_url, timeout=10)
+                if r2.status_code == 200:
+                    d2 = r2.json() or {}
+                    infos = (d2.get('InformationList') or {}).get('Information') or []
+                    if infos and 'Synonym' in infos[0]:
+                        syns = [s for s in infos[0]['Synonym'] if isinstance(s, str)]
+            except Exception:
+                pass
+
+            if any([title, iupac, formula, smiles]) or syns:
+                return {
+                    'name': title or iupac or (syns[0] if syns else ''),
+                    'iupac_name': iupac,
+                    'formula': formula,
+                    'molecular_weight': mw,
+                    'smiles': smiles,
+                    'synonyms': syns,
+                    'source': 'PubChem',
+                }
         except Exception as e:
             print(f"PubChem lookup failed for {cas}: {e}")
-        
+
         return None
     
     def lookup_chemspider(self, cas: str) -> Optional[Dict[str, Any]]:
@@ -516,7 +548,7 @@ class ComprehensiveCASRegistry:
         # Online lookup for unknown compounds
         elif name == cas or not name:  # CAS-only entry
             online_result = self.lookup_pubchem(cas)
-            if online_result and online_result['name']:
+            if online_result and online_result.get('name'):
                 corrected_name = online_result['name']
                 warnings.append(f"Retrieved name from PubChem: {corrected_name}")
         
@@ -610,6 +642,156 @@ class ComprehensiveCASRegistry:
         print(f"Built registry with {len(all_compounds)} unique compounds")
         print(f"Registry saved to: {output_file}")
 
+    # --- New: Append CAS entries into a JSONL registry ---
+    def _load_jsonl_registry(self, jsonl_path: str) -> Dict[str, List[Dict[str, Any]]]:
+        """Load a JSONL registry into a dict keyed by CAS (string). Keeps all variants per CAS."""
+        reg: Dict[str, List[Dict[str, Any]]] = {}
+        if not os.path.exists(jsonl_path):
+            return reg
+        with open(jsonl_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                    cas = (obj.get('cas') or obj.get('CAS') or '').strip()
+                    if not cas:
+                        continue
+                    reg.setdefault(cas, []).append(obj)
+                except Exception:
+                    # Skip bad lines
+                    continue
+        return reg
+
+    def _append_jsonl(self, jsonl_path: str, obj: Dict[str, Any]) -> None:
+        os.makedirs(os.path.dirname(jsonl_path) or '.', exist_ok=True)
+        with open(jsonl_path, 'a', encoding='utf-8', newline='') as f:
+            f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+
+    def _choose_abbreviation(self, cas: str, name: str, synonyms: Optional[List[str]]) -> str:
+        """Heuristic abbreviation chooser from known abbrevs or synonyms."""
+        known = {
+            # solvents/bases
+            '67-56-1': 'MeOH', '67-63-0': 'iPrOH', '64-17-5': 'EtOH', '68-12-2': 'DMF',
+            '67-68-5': 'DMSO', '109-99-9': 'THF', '75-05-8': 'MeCN', '75-09-2': 'DCM',
+            '121-44-8': 'TEA', '7087-68-5': 'DIPEA', '1122-58-3': 'DMAP',
+        }
+        if cas in known:
+            return known[cas]
+        if synonyms:
+            for s in synonyms:
+                if re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9\-]{1,7}", s) and s.isupper():
+                    return s
+                # common mixed-case short names
+                if s in { 'tBuOH', 'tAmylOH', 'MeTHF', 'tBuOMe', 'PEG-400', 'NMP' }:
+                    return s
+        # Sometimes short aliases are in manual corrections
+        if name and len(name) <= 6 and re.search(r"[A-Za-z]", name):
+            return name
+        return ''
+
+    def _build_jsonl_entry(self, cas: str, base_name: str = '') -> Tuple[Dict[str, Any], List[str]]:
+        """Build a JSONL registry entry for a CAS using manual maps and web lookups.
+
+        Returns (entry, warnings).
+        """
+        warnings: List[str] = []
+
+        # Validate
+        if not self.validate_cas_format(cas):
+            warnings.append(f"Invalid CAS format: {cas}")
+            return {}, warnings
+        if not self.calculate_cas_checksum(cas):
+            warnings.append(f"Invalid CAS checksum: {cas}")
+
+        name = base_name.strip() if base_name else ''
+
+        # Manual correction name if known
+        if cas in self.manual_corrections:
+            name = self.manual_corrections[cas]
+            warnings.append("Name from manual corrections")
+
+        # Online lookup (if missing name)
+        syns: List[str] = []
+        if not name:
+            online = self.lookup_pubchem(cas)
+            if online:
+                if online.get('name'):
+                    name = online['name']
+                    warnings.append("Name from PubChem")
+                syns = list(online.get('synonyms') or [])
+        else:
+            # Even if we have a name, try synonyms to find abbrev
+            online = self.lookup_pubchem(cas)
+            if online:
+                syns = list(online.get('synonyms') or [])
+
+        ctype = self.get_compound_type(cas)
+        abbreviation = self._choose_abbreviation(cas, name, syns)
+
+        entry: Dict[str, Any] = {
+            'cas': cas,
+            'name': name or cas,
+            'abbreviation': abbreviation,
+            'generic_core': None,
+            'category_hint': None,
+            'token': None,
+            'compound_type': ctype,
+            'sources': ['user_addition'] + ([online['source']] if 'online' in locals() and online else [])
+        }
+        return entry, warnings
+
+    def add_to_jsonl_registry(self, registry_path: str, cas_items: Iterable[str], dry_run: bool = False) -> Tuple[int, int]:
+        """Add new CAS entries to a JSONL registry if missing.
+
+        Returns (added_count, skipped_existing_count).
+        """
+        reg = self._load_jsonl_registry(registry_path)
+        added = 0
+        skipped = 0
+        for raw in cas_items:
+            cas = (raw or '').strip()
+            if not cas:
+                continue
+            if cas in reg and reg[cas]:
+                skipped += 1
+                print(f"Skip (exists): {cas}")
+                continue
+            entry, warns = self._build_jsonl_entry(cas)
+            if not entry:
+                print(f"Skip (invalid): {cas} | {'; '.join(warns)}")
+                continue
+            print(f"Add: {cas} → {entry.get('name','')} {'| ' + '; '.join(warns) if warns else ''}")
+            if not dry_run:
+                self._append_jsonl(registry_path, entry)
+            added += 1
+        return added, skipped
+
+    # --- New: Text scanning utilities ---
+    def extract_cas_from_text(self, file_path: str) -> List[str]:
+        """Extract likely CAS RNs from any text-based file using regex and checksum.
+
+        - Accepts any text file; opens with utf-8 and errors='ignore'.
+        - Returns unique, order-preserving list of valid CAS (format + checksum).
+        """
+        cas_re = re.compile(r"\b(\d{2,7}-\d{2}-\d)\b")
+        seen = set()
+        result: List[str] = []
+        try:
+            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                for line in f:
+                    for match in cas_re.findall(line):
+                        cas = match.strip()
+                        if cas in seen:
+                            continue
+                        if self.validate_cas_format(cas) and self.calculate_cas_checksum(cas):
+                            seen.add(cas)
+                            result.append(cas)
+        except Exception as e:
+            print(f"Failed to read text file '{file_path}': {e}")
+        return result
+
 
 def main():
     parser = argparse.ArgumentParser(description="CAS Number Validation and Registry Tool")
@@ -618,6 +800,11 @@ def main():
     parser.add_argument('--batch-validate', help='Validate and correct a CSV file')
     parser.add_argument('--output', help='Output file for batch operations')
     parser.add_argument('--build-registry', help='Build registry from folder of CAS mapping files')
+    # New CLI for JSONL registry augmentation
+    parser.add_argument('--add-cas', help='Add a single CAS to JSONL registry (if missing)')
+    parser.add_argument('--add-csv', help='CSV with one CAS per line/column to add to JSONL registry')
+    parser.add_argument('--registry', help='Path to cas_registry_merged.jsonl (default: ./cas_registry_merged.jsonl)')
+    parser.add_argument('--dry-run', action='store_true', help='Show actions without writing JSONL')
     
     args = parser.parse_args()
     
@@ -673,9 +860,71 @@ def main():
         
         print(f"Building registry from: {args.build_registry}")
         registry.build_registry_from_folder(args.build_registry, args.output)
+    elif args.add_cas or args.add_csv:
+        reg_path = args.registry or os.path.join(os.getcwd(), 'cas_registry_merged.jsonl')
+        todo: List[str] = []
+        if args.add_cas:
+            todo.append(args.add_cas.strip())
+        if args.add_csv:
+            p = Path(args.add_csv)
+            if not p.exists():
+                print(f"CSV not found: {p}")
+                sys.exit(1)
+            with open(p, 'r', encoding='utf-8') as f:
+                # Accept either raw single-column CSV or headerless lines
+                reader = csv.reader(f)
+                for row in reader:
+                    if not row:
+                        continue
+                    todo.append(row[0].strip())
+        print(f"Target JSONL: {reg_path}")
+        added, skipped = registry.add_to_jsonl_registry(reg_path, todo, dry_run=args.dry_run)
+        print(f"Done. Added: {added}; Skipped existing: {skipped}")
     
     else:
-        parser.print_help()
+        # Interactive fallback: prompt for CAS or CSV if no args provided
+        print("Interactive mode: add CAS entries to a JSONL registry.")
+        print("- Enter a single CAS RN (e.g., 7718-54-9), or")
+        print("- Enter a path to a CSV file (first column contains CAS RNs)")
+        try:
+            user_inp = input("CAS or CSV path (blank to exit): ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print("\nCancelled.")
+            return
+        if not user_inp:
+            print("No input provided. Exiting.")
+            return
+
+        # Determine input type
+        todo: List[str] = []
+        is_cas = bool(re.match(r'^\d{2,7}-\d{2}-\d$', user_inp)) and registry.calculate_cas_checksum(user_inp)
+        if is_cas:
+            todo = [user_inp]
+        elif os.path.isfile(user_inp):
+            try:
+                with open(user_inp, 'r', encoding='utf-8') as f:
+                    reader = csv.reader(f)
+                    for row in reader:
+                        if not row:
+                            continue
+                        todo.append((row[0] or '').strip())
+            except Exception as e:
+                print(f"Failed to read CSV: {e}")
+                return
+        else:
+            print("Input is neither a valid CAS RN nor an existing CSV path. Exiting.")
+            return
+
+        default_registry = os.path.join(os.getcwd(), 'cas_registry_merged.jsonl')
+        try:
+            reg_inp = input(f"Registry path [{default_registry}]: ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print("\nCancelled.")
+            return
+        reg_path = reg_inp or default_registry
+        print(f"Target JSONL: {reg_path}")
+        added, skipped = registry.add_to_jsonl_registry(reg_path, todo, dry_run=False)
+        print(f"Done. Added: {added}; Skipped existing: {skipped}")
 
 
 if __name__ == '__main__':

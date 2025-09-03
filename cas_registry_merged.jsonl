@@ -261,3 +261,4 @@
 {"cas": "142-71-2", "name": "Cu(OAc)2", "abbreviation": "Cu(OAc)2", "generic_core": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["alternative_names_fix", "alternative_for_Copper(II) acetate"]}
 {"cas": "3375-31-3", "name": "Palladium acetate", "abbreviation": "Pd(OAc)2", "generic_core": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["alternative_names_fix", "alternative_for_Palladium(II) acetate"]}
 {"cas": "3375-31-3", "name": "Pd(OAc)2", "abbreviation": "Pd(OAc)2", "generic_core": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["alternative_names_fix", "alternative_for_Palladium(II) acetate"]}
+{"cas": "7718-54-9", "name": "Nickel", "abbreviation": "NICKEL", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}

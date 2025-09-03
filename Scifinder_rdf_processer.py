@@ -2,6 +2,7 @@
 """
 Simple Qt6 GUI wrapper for processing RDF files only.
 Lets the user pick a folder containing RDF files and processes all RDF files in the folder.
+Generates Markdown and JSONL outputs similar to combined_md_to_rich_report.py.
 Works with PySide6 (preferred) or PyQt6 if installed.
 """
 from __future__ import annotations
@@ -9,8 +10,8 @@ from __future__ import annotations
 import os
 import sys
 import traceback
-from typing import List, Optional
-from pathlib import Path
+import tempfile
+from typing import List, Optional, Dict, Any
 
 from PyQt6 import QtWidgets, QtCore
 QtBinding = 'PyQt6'
@@ -26,15 +27,37 @@ else:  # pragma: no cover
     Signal = None  # type: ignore
     Slot = None    # type: ignore
 
+# Import processing functions from the existing modules
+try:
+    from process_reactions import parse_rdf, assemble_rows, load_cas_maps
+except Exception as e:
+    print(f"Error: Cannot import processing helpers: {e}")
+    sys.exit(1)
+
+try:
+    from reaction_markdown_generator import ReactionMarkdownGenerator
+except Exception as e:
+    print(f"Error: Cannot import ReactionMarkdownGenerator: {e}")
+    sys.exit(1)
+
+# Detect RDKit availability
+try:
+    from rdkit import Chem  # type: ignore
+    RDKIT_AVAILABLE = True
+except Exception:
+    Chem = None  # type: ignore
+    RDKIT_AVAILABLE = False
+
 
 class RDFWorker(QtCore.QObject):
     finished = Signal(bool, str) if Signal else None  # type: ignore[misc]
     progress = Signal(str) if Signal else None  # type: ignore[misc]
 
-    def __init__(self, folder_path: str, output_path: str):
+    def __init__(self, folder_path: str, output_md_path: str, output_jsonl_path: str):
         super().__init__()
         self.folder_path = folder_path
-        self.output_path = output_path
+        self.output_md_path = output_md_path
+        self.output_jsonl_path = output_jsonl_path
         self.rdf_files = []
 
     def _emit(self, msg: str):
@@ -60,40 +83,88 @@ class RDFWorker(QtCore.QObject):
         
         return sorted(rdf_files)
 
-    def _process_rdf_file(self, rdf_path: str) -> dict:
-        """Process a single RDF file - placeholder function"""
-        # TODO: Implement actual RDF processing logic here
-        # This is currently an empty processor as requested
+    def _load_default_cas_maps(self) -> Dict[str, Dict[str, str]]:
+        """Load default CAS mapping files"""
+        here = os.path.dirname(os.path.abspath(__file__))
+        paths: List[str] = []
         
-        filename = os.path.basename(rdf_path)
-        self._emit(f"Processing {filename}...")
+        # Try merged registry first, then individual files
+        merged = os.path.join(here, 'cas_registry_merged.jsonl')
+        if os.path.exists(merged):
+            paths.append(merged)
+        else:
+            for cand in ['cas_dictionary.jsonl', 'comprehensive_cas_registry.jsonl']:
+                p = os.path.join(here, cand)
+                if os.path.exists(p):
+                    paths.append(p)
         
-        # Placeholder processing - just return basic file info
-        result = {
-            'filename': filename,
-            'filepath': rdf_path,
-            'size': os.path.getsize(rdf_path),
-            'status': 'processed'
-        }
-        
-        return result
+        return load_cas_maps(paths) if paths else {}
 
-    def _write_results(self, results: List[dict]) -> None:
-        """Write processing results to output file"""
-        try:
-            with open(self.output_path, 'w', encoding='utf-8') as f:
-                f.write("RDF Processing Results\n")
-                f.write("=" * 50 + "\n\n")
+    def _create_minimal_txt_map(self, rdf_map: Dict[str, Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
+        """Create a minimal TXT map from RDF data (since we only have RDF)"""
+        txt_map: Dict[str, Dict[str, Any]] = {}
+        
+        for rid, rdf_data in rdf_map.items():
+            txt_map[rid] = {
+                'original_text': [],
+                'all_condition_lines': [],
+                'time_h': None,
+                'temperature_c': None,
+                'title': rdf_data.get('title', ''),
+                'authors': rdf_data.get('authors', ''),
+                'citation': rdf_data.get('citation', ''),
+                'doi': '',
+                'reagents': [],
+                'catalysts': [],
+                'solvents': [],
+                'txt_yield': None,
+            }
+        
+        return txt_map
+
+    def _process_rdf_files(self) -> Dict[str, Dict[str, Any]]:
+        """Process all RDF files and combine them into a single RDF map"""
+        combined_rdf_map: Dict[str, Dict[str, Any]] = {}
+        
+        for i, rdf_file in enumerate(self.rdf_files, 1):
+            filename = os.path.basename(rdf_file)
+            self._emit(f"[{i}/{len(self.rdf_files)}] Processing {filename}...")
+            
+            try:
+                # Parse individual RDF file
+                rdf_map = parse_rdf(rdf_file)
                 
-                for i, result in enumerate(results, 1):
-                    f.write(f"{i}. {result['filename']}\n")
-                    f.write(f"   Path: {result['filepath']}\n")
-                    f.write(f"   Size: {result['size']} bytes\n")
-                    f.write(f"   Status: {result['status']}\n\n")
+                # Add filename info to each reaction
+                for rid, data in rdf_map.items():
+                    data['source_file'] = filename
+                    # Avoid reaction ID conflicts across files
+                    unique_rid = f"{filename}_{rid}"
+                    combined_rdf_map[unique_rid] = data
                 
-                f.write(f"\nTotal files processed: {len(results)}\n")
-        except Exception as e:
-            raise RuntimeError(f"Error writing results: {e}")
+                self._emit(f"  Found {len(rdf_map)} reactions in {filename}")
+                
+            except Exception as e:
+                self._emit(f"  Error processing {filename}: {e}")
+                # Continue with other files
+                continue
+        
+        return combined_rdf_map
+
+    def _generate_outputs(self, rows: List[Dict[str, Any]], cas_map: Dict[str, Dict[str, str]]) -> None:
+        """Generate Markdown and JSONL outputs using ReactionMarkdownGenerator"""
+        self._emit("Generating Markdown report...")
+        
+        # Create generator instance
+        generator = ReactionMarkdownGenerator()
+        generator.cas_map = cas_map
+        
+        # Generate markdown report
+        source_name = f"RDF_Folder_{os.path.basename(self.folder_path)}"
+        generator.generate_markdown_report(rows, self.output_md_path, source_name)
+        
+        # Generate JSONL export
+        self._emit("Generating JSONL export...")
+        generator.generate_jsonl_export(rows, self.output_jsonl_path, source_name)
 
     @Slot() if Slot else (lambda f: f)
     def run(self):
@@ -110,28 +181,51 @@ class RDFWorker(QtCore.QObject):
             
             self._emit(f"Found {len(self.rdf_files)} RDF files.")
             
-            # Process each RDF file
-            results = []
-            for i, rdf_file in enumerate(self.rdf_files, 1):
-                self._emit(f"[{i}/{len(self.rdf_files)}] Processing {os.path.basename(rdf_file)}...")
-                try:
-                    result = self._process_rdf_file(rdf_file)
-                    results.append(result)
-                except Exception as e:
-                    self._emit(f"Error processing {os.path.basename(rdf_file)}: {e}")
-                    results.append({
-                        'filename': os.path.basename(rdf_file),
-                        'filepath': rdf_file,
-                        'size': 0,
-                        'status': f'error: {e}'
-                    })
+            # Process all RDF files and combine them
+            self._emit("Processing RDF files...")
+            combined_rdf_map = self._process_rdf_files()
             
-            # Write results
-            self._emit("Writing results...")
-            self._write_results(results)
+            if not combined_rdf_map:
+                if self.finished:
+                    self.finished.emit(False, "No valid reactions found in RDF files.")
+                return
+            
+            # Count MOL blocks for diagnostics
+            rct_mol_count = sum(1 for v in combined_rdf_map.values() if v.get('rct_mol'))
+            pro_mol_count = sum(1 for v in combined_rdf_map.values() if v.get('pro_mol'))
+            self._emit(f"RDF parsed. Reactions with reactant MOL blocks: {rct_mol_count}; with product MOL blocks: {pro_mol_count}")
+            self._emit(f"RDKit available: {RDKIT_AVAILABLE}")
+            
+            # Load CAS mappings
+            self._emit("Loading CAS mappings...")
+            cas_map = self._load_default_cas_maps()
+            
+            # Create minimal TXT map (since we only have RDF)
+            self._emit("Creating minimal TXT mapping...")
+            txt_map = self._create_minimal_txt_map(combined_rdf_map)
+            
+            # Assemble rows using the same pipeline as original
+            self._emit("Assembling reaction rows...")
+            rows = assemble_rows(txt_map, combined_rdf_map, cas_map, txt_preferred=False)
+            self._emit(f"Assembled {len(rows)} rows")
+            
+            # Count rows with SMILES for diagnostics
+            smi_rows = sum(1 for r in rows if (r.get('ReactantSMILES') or r.get('ProductSMILES')))
+            self._emit(f"Rows with SMILES: {smi_rows} / {len(rows)}")
+            
+            if smi_rows == 0:
+                if not RDKIT_AVAILABLE:
+                    self._emit("Note: RDKit is not available; SMILES generation from MOL blocks is disabled.")
+                elif (rct_mol_count + pro_mol_count) == 0:
+                    self._emit("Note: No MOL/CTAB blocks found in RDF content; SMILES cannot be generated.")
+                else:
+                    self._emit("Warning: MOL blocks found and RDKit available, but SMILES are empty. MOL data may be malformed.")
+            
+            # Generate outputs
+            self._generate_outputs(rows, cas_map)
             
             if self.finished:
-                self.finished.emit(True, f"Successfully processed {len(self.rdf_files)} RDF files. Results saved to {self.output_path}")
+                self.finished.emit(True, f"Successfully processed {len(self.rdf_files)} RDF files with {len(rows)} reactions.\nMarkdown: {self.output_md_path}\nJSONL: {self.output_jsonl_path}")
                 
         except Exception as e:
             msg = f"Error: {e}\n\n{traceback.format_exc()}"
@@ -148,8 +242,8 @@ class RDFProcessorWindow(QtWidgets.QWidget):
         # Input controls
         self.folder_edit = QtWidgets.QLineEdit()
         self.btn_folder = QtWidgets.QPushButton("Browse Folder...")
-        self.output_edit = QtWidgets.QLineEdit()
-        self.btn_output = QtWidgets.QPushButton("Save As...")
+        self.output_md_edit = QtWidgets.QLineEdit()
+        self.btn_output_md = QtWidgets.QPushButton("Save As...")
         
         # File list display
         self.file_list = QtWidgets.QListWidget()
@@ -169,7 +263,7 @@ class RDFProcessorWindow(QtWidgets.QWidget):
         
         # Connect signals
         self.btn_folder.clicked.connect(self.pick_folder)
-        self.btn_output.clicked.connect(self.pick_output)
+        self.btn_output_md.clicked.connect(self.pick_output)
         self.btn_run.clicked.connect(self.run_processing)
         self.btn_quit.clicked.connect(self.close)
         
@@ -203,9 +297,14 @@ class RDFProcessorWindow(QtWidgets.QWidget):
         
         # Output file selection
         output_box = QtWidgets.QHBoxLayout()
-        output_box.addWidget(self.output_edit)
-        output_box.addWidget(self.btn_output)
-        form.addRow("Output File:", output_box)
+        output_box.addWidget(self.output_md_edit)
+        output_box.addWidget(self.btn_output_md)
+        form.addRow("Output Markdown:", output_box)
+        
+        # Add note about JSONL
+        note_label = QtWidgets.QLabel("Note: JSONL file will be automatically created alongside the Markdown file")
+        note_label.setStyleSheet("font-style: italic; color: #666;")
+        form.addRow("", note_label)
         
         layout.addLayout(form)
         
@@ -246,22 +345,22 @@ class RDFProcessorWindow(QtWidgets.QWidget):
             self._update_file_list()
             
             # Suggest default output file
-            if not self.output_edit.text().strip():
-                default_output = os.path.join(path, "rdf_processing_results.txt")
-                self.output_edit.setText(default_output)
+            if not self.output_md_edit.text().strip():
+                default_output = os.path.join(path, "rdf_reactions_rich.md")
+                self.output_md_edit.setText(default_output)
 
     def pick_output(self):
-        """Select output file location"""
+        """Select output markdown file location"""
         path, _ = QtWidgets.QFileDialog.getSaveFileName(
             self,
-            "Save Results As",
+            "Save Markdown Report As",
             os.getcwd(),
-            "Text files (*.txt);;All files (*.*)"
+            "Markdown files (*.md);;All files (*.*)"
         )
         if path:
-            if not path.lower().endswith('.txt'):
-                path += '.txt'
-            self.output_edit.setText(path)
+            if not path.lower().endswith('.md'):
+                path += '.md'
+            self.output_md_edit.setText(path)
 
     def _update_file_list(self):
         """Update the list of RDF files found in the selected folder"""
@@ -299,13 +398,13 @@ class RDFProcessorWindow(QtWidgets.QWidget):
     def validate_inputs(self) -> Optional[str]:
         """Validate user inputs"""
         folder = self.folder_edit.text().strip()
-        output = self.output_edit.text().strip()
+        output_md = self.output_md_edit.text().strip()
         
         if not folder or not os.path.isdir(folder):
             return "Please select a valid folder containing RDF files."
         
-        if not output:
-            return "Please specify an output file location."
+        if not output_md:
+            return "Please specify an output Markdown file location."
         
         if not self.rdf_files:
             return "No RDF files found in the selected folder."
@@ -324,10 +423,15 @@ class RDFProcessorWindow(QtWidgets.QWidget):
         self.log.clear()
         self.log_msg("Starting RDF processing...")
         
+        # Calculate output paths
+        output_md = self.output_md_edit.text().strip()
+        output_jsonl = os.path.splitext(output_md)[0] + '.jsonl'
+        
         # Create worker and thread
         self.worker = RDFWorker(
             folder_path=self.folder_edit.text().strip(),
-            output_path=self.output_edit.text().strip()
+            output_md_path=output_md,
+            output_jsonl_path=output_jsonl
         )
         
         self.thread = QtCore.QThread(self)

@@ -919,10 +919,17 @@ class ReactionMarkdownGenerator:
         # Format catalytic system with validation
         if full_catalytic:
             markdown += self.format_compound_list(full_catalytic, "Full Catalytic System", allow_name_only=True)
-        
-        if catalyst_core:
-            markdown += self.format_compound_list(catalyst_core, "Catalyst Core", allow_name_only=True)
-        
+
+        # Compute and render ConditionCore (replaces "Catalyst Core")
+        cc_label = self._compute_condition_core_label(
+            catalyst_core=catalyst_core,
+            ligands=ligands,
+            full_catalytic=full_catalytic,
+            catalyst_generic=catalyst_generic,
+        )
+        if cc_label:
+            markdown += f"**ConditionCore:** {cc_label}\n\n"
+
         if catalyst_generic:
             markdown += f"**Generic Catalyst:** {', '.join(catalyst_generic)}\n\n"
         
@@ -959,6 +966,103 @@ class ReactionMarkdownGenerator:
         markdown += "---\n\n"
         
         return markdown
+
+    def _compute_condition_core_label(
+        self,
+        catalyst_core: List[str],
+        ligands: List[str],
+        full_catalytic: List[str],
+        catalyst_generic: List[str],
+    ) -> str:
+        """Derive a concise ConditionCore label like 'Pd/XPhos' or 'HATU/DMAP'.
+
+        Heuristics:
+        - Prefer using the Full Catalytic System list; fallback to CatalystCore + Ligands.
+        - Determine roles via CAS registry compound_type: metal/catalyst_core vs ligand vs activator.
+        - Prefer a generic metal symbol from 'catalyst_generic' or registry entry 'generic_core'.
+        - If metal and ligand present: 'Metal/Ligand'. If only metal: 'Metal'.
+          If activator + ligand present (no metal): 'Activator/Ligand'.
+        - As a last resort, join the first two components with '/'.
+        """
+
+        def parse_compounds(items: List[str]) -> List[Dict[str, str]]:
+            out = []
+            for it in items or []:
+                if '|' in it:
+                    name, cas = it.split('|', 1)
+                    cas = cas.strip()
+                    disp = self.cas_registry.get_display_name(name.strip(), cas)
+                    ctype = self.cas_registry.get_compound_type(cas) or ''
+                    entry = self.cas_registry.get_registry_entry(cas) or {}
+                    gen = (entry.get('generic_core') or '').strip()
+                    out.append({'name': disp, 'cas': cas, 'type': ctype, 'generic': gen})
+                else:
+                    # No CAS: keep name and empty cas/type; may still help as fallback
+                    out.append({'name': it.strip(), 'cas': '', 'type': '', 'generic': ''})
+            return out
+
+        # Build candidate pool
+        pool = parse_compounds(full_catalytic) if full_catalytic else (
+            parse_compounds(catalyst_core) + parse_compounds(ligands)
+        )
+
+        if not pool and not catalyst_generic:
+            return ""
+
+        # Partition by role
+        def is_metal(t: str) -> bool:
+            t2 = (t or '').lower()
+            return t2 in {"metal", "catalyst_core", "cat_core"}
+
+        def is_ligand(t: str) -> bool:
+            t2 = (t or '').lower()
+            return t2 in {"ligand", "cat_lig"}
+
+        def is_activator(t: str) -> bool:
+            t2 = (t or '').lower()
+            return t2 in {"activator", "activator_system", "activator_cat", "activator/core", "activator/core?", "activator?", "activator_core", "activator-core", "activatorbase", "activator/base", "activator/base?", "activatoradditive", "activator_additive", "activator/additive"}
+
+        metals = [c for c in pool if is_metal(c.get('type', ''))]
+        ligs = [c for c in pool if is_ligand(c.get('type', ''))]
+        acts = [c for c in pool if is_activator(c.get('type', ''))]
+
+        # Pick labels
+        def pick_metal_label() -> str:
+            # 1) Prefer explicit generic catalyst symbol if provided
+            if catalyst_generic:
+                return catalyst_generic[0]
+            # 2) Prefer registry-provided generic_core
+            for m in metals:
+                if m.get('generic'):
+                    return m['generic']
+            # 3) Derive simple symbol from name (e.g., 'Pd(OAc)2' -> 'Pd')
+            for m in metals:
+                nm = m.get('name', '')
+                m2 = re.search(r"\b(Pd|Ni|Cu|Pt|Rh|Ru|Ir|Co|Fe|Ag|Au|Mn|Cr|Mo|W|V|Ti|Zr|Hf|Sc|Y|La|Zn)\b", nm)
+                if m2:
+                    return m2.group(1)
+            # 4) Fallback to first metal name
+            if metals:
+                return metals[0].get('name', '')
+            return ""
+
+        def pick_label(items: List[Dict[str, str]]) -> str:
+            return items[0].get('name', '') if items else ''
+
+        metal_label = pick_metal_label()
+        ligand_label = pick_label(ligs)
+        activator_label = pick_label(acts)
+
+        if metal_label and ligand_label:
+            return f"{metal_label}/{ligand_label}"
+        if metal_label:
+            return metal_label
+        if activator_label and ligand_label:
+            return f"{activator_label}/{ligand_label}"
+        # Last resort: join the first two components of pool
+        if len(pool) >= 2:
+            return f"{pool[0]['name']}/{pool[1]['name']}"
+        return pool[0]['name'] if pool else ""
     
     def generate_summary_statistics(self, rows: List[Dict[str, Any]]) -> str:
         """Generate summary statistics for the markdown report with data quality metrics."""
@@ -1200,11 +1304,20 @@ class ReactionMarkdownGenerator:
             except (ValueError, TypeError):
                 return None
         
+        # Compute ConditionCore label for analysis
+        condition_core_label = self._compute_condition_core_label(
+            catalyst_core=catalyst_core,
+            ligands=ligands,
+            full_catalytic=full_catalytic,
+            catalyst_generic=catalyst_generic,
+        )
+
         # Build analysis-optimized record
         analysis_record = {
             # Basic identifiers
             'reaction_id': row.get('ReactionID', ''),
             'reaction_type': row.get('ReactionType', ''),
+            'condition_core': condition_core_label,
             
             # Catalytic system (structured)
             'catalyst': {

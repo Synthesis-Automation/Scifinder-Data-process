@@ -406,7 +406,7 @@
 {"cas": "7631-90-5", "name": "Sodium;sulfite", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "7784-09-0", "name": "Benzene, 1-(chloromethyl)-3,5-dinitro-", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "102-82-9", "name": "Tributylamine", "abbreviation": "UN2542", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "1317-61-9", "name": "Feraheme/Rienso", "abbreviation": "RB-BL", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "1317-61-9", "name": "Fe3O4", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "1671-88-1", "name": "5-Bromo-3,4-dihydroxybenzaldehyde", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "534-16-7", "name": "Silver carbonate", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "462-06-6", "name": "Fluorobenzene", "abbreviation": "C6H5F", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}

@@ -125,29 +125,32 @@ class RDFWorker(QtCore.QObject):
     def _process_rdf_files(self) -> Dict[str, Dict[str, Any]]:
         """Process all RDF files and combine them into a single RDF map"""
         combined_rdf_map: Dict[str, Dict[str, Any]] = {}
-        
+        seen_ids: set[str] = set()
         for i, rdf_file in enumerate(self.rdf_files, 1):
             filename = os.path.basename(rdf_file)
             self._emit(f"[{i}/{len(self.rdf_files)}] Processing {filename}...")
-            
             try:
                 # Parse individual RDF file
                 rdf_map = parse_rdf(rdf_file)
-                
-                # Add filename info to each reaction
+                # Merge reactions without prefixing filename to the ID; keep first occurrence only
+                added = 0
+                skipped = 0
                 for rid, data in rdf_map.items():
                     data['source_file'] = filename
-                    # Avoid reaction ID conflicts across files
-                    unique_rid = f"{filename}_{rid}"
-                    combined_rdf_map[unique_rid] = data
-                
-                self._emit(f"  Found {len(rdf_map)} reactions in {filename}")
-                
+                    if rid in seen_ids or rid in combined_rdf_map:
+                        skipped += 1
+                        continue
+                    seen_ids.add(rid)
+                    combined_rdf_map[rid] = data
+                    added += 1
+                msg_tail = f" (added {added}"
+                if skipped:
+                    msg_tail += f", skipped dups {skipped}"
+                msg_tail += ")"
+                self._emit(f"  Found {len(rdf_map)} reactions in {filename}{msg_tail}")
             except Exception as e:
                 self._emit(f"  Error processing {filename}: {e}")
-                # Continue with other files
                 continue
-        
         return combined_rdf_map
 
     def _generate_outputs(self, rows: List[Dict[str, Any]], cas_map: Dict[str, Dict[str, str]]) -> None:
@@ -208,6 +211,18 @@ class RDFWorker(QtCore.QObject):
             self._emit("Assembling reaction rows...")
             rows = assemble_rows(txt_map, combined_rdf_map, cas_map, txt_preferred=False)
             self._emit(f"Assembled {len(rows)} rows")
+
+            # Override ReactionType using the parent folder name (e.g., ...\Suzuki\2023-2025 -> 'Suzuki')
+            try:
+                norm_folder = os.path.normpath(self.folder_path)
+                parent_dir = os.path.basename(os.path.dirname(norm_folder))
+                if parent_dir:
+                    for r in rows:
+                        r['ReactionType'] = parent_dir
+                self._emit(f"Reaction type set to folder category: {parent_dir}")
+            except Exception:
+                # Non-fatal; keep existing reaction types if path parsing fails
+                pass
             
             # Count rows with SMILES for diagnostics
             smi_rows = sum(1 for r in rows if (r.get('ReactantSMILES') or r.get('ProductSMILES')))

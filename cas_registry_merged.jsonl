@@ -43,7 +43,7 @@
 {"cas": "1310-58-3", "name": "KOH", "abbreviation": "KOH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
 {"cas": "1310-66-3", "name": "LiOH", "abbreviation": "LiOH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
 {"cas": "1310-73-2", "name": "NaOH", "abbreviation": "NaOH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
-{"cas": "131274-22-1", "name": "Tri-tert-butylphosphonium tetrafluoroborate", "abbreviation": " [(t-Bu)3PH]BF4", "generic_core": null, "category_hint": "salt", "token": "tBu3P·HBF4", "compound_type": null, "sources": ["cas_dictionary"]}
+{"cas": "131274-22-1", "name": "Tri-tert-butylphosphonium tetrafluoroborate", "abbreviation": " [(t-Bu)3PH]BF4", "generic_core": null, "category_hint": "salt", "token": "tBu3P·HBF4", "compound_type": "ligand", "sources": ["cas_dictionary"]}
 {"cas": "1317-39-1", "name": "Cu2O", "abbreviation": "Cu2O", "generic_core": null, "category_hint": null, "token": null, "compound_type": "catalyst_core", "sources": ["comprehensive_registry"]}
 {"cas": "1330-20-7", "name": "Xylene", "abbreviation": "Xylene", "generic_core": null, "category_hint": null, "token": null, "compound_type": "solvent", "sources": ["comprehensive_registry"]}
 {"cas": "1336-21-6", "name": "NH4OH", "abbreviation": "NH4OH", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["comprehensive_registry"]}
@@ -245,13 +245,13 @@
 {"cas": "53199-31-8", "name": "Bis(tri-tert-butylphosphine)palladium(0)", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "951776-24-2", "name": "1,3-Bis(2,6-di-i-propylphenyl)imidazol-2-ylidene][bis(trifluoromethanesulfonyl)imide]gold(I)", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "1445085-77-7", "name": "(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "52522-40-4", "name": "Bis(dibenzylideneacetone)palladium", "abbreviation": "FT37707", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "52522-40-4", "name": "Bis(dibenzylideneacetone)palladium", "abbreviation": "Pd2(dba)3·CHCl3", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "210169-40-7", "name": "4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "16872-11-0", "name": "Tetrafluoroborate", "abbreviation": "BF4-", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "158923-11-6", "name": "(S)-1-[(RP)-2-(Dicyclohexylphosphino)ferrocenyl]ethyldi-tert-butylphosphine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "7440-05-3", "name": "Palladium", "abbreviation": "PD", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "255836-67-0", "name": "(1,1'-Binaphthalen)-2-yldi-tert-butylphosphine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "2489525-81-5", "name": "GPhos Pd G6", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "2489525-81-5", "name": "GPhos Pd G6", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": "preformred metal complex", "sources": ["user_addition", "PubChem"]}
 {"cas": "18027-10-6", "name": "Sodium trimethylsilanolate", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "110-91-8", "name": "Morpholine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "905459-27-0", "name": "1,3-Bis(2,6-diisopropylphenyl)-2H-imidazole", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
@@ -264,7 +264,7 @@
 {"cas": "75-16-1", "name": "Methyl magnesium bromide", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "75-75-2", "name": "3-Hydroxyaspartic acid", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "1310-65-2", "name": "Lithium Hydroxide", "abbreviation": "UN2679", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "857356-94-6", "name": "Di-tert-butyl[3,4,5,6-tetramethyl-2',4',6'-tris(propan-2-yl)-[1,1'-biphenyl]-2-yl]phosphane", "abbreviation": "tBuXPhos", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "857356-94-6", "name": "Di-tert-butyl[3,4,5,6-tetramethyl-2',4',6'-tris(propan-2-yl)-[1,1'-biphenyl]-2-yl]phosphane", "abbreviation": "tBuXPhos", "generic_core": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["user_addition", "PubChem"]}
 {"cas": "849924-41-0", "name": "(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "406680-94-2", "name": "(R)-N-Methyl-N-diphenylphosphino-1-[(S)-2-diphenylphosphino)ferrocenyl]ethylamine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "224311-51-7", "name": "2-(Di-tert-butylphosphino)biphenyl", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
@@ -593,7 +593,7 @@
 {"cas": "630-18-2", "name": "Pivalonitrile", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "189114-61-2", "name": "Silver", "abbreviation": "SILVER", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "7705-08-0", "name": "Iron chloride (FeCl3)", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "12678-01-2", "name": "1,10-Phenanthroline", "abbreviation": "Phenanthroline", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "12678-01-2", "name": "1,10-Phenanthroline", "abbreviation": "Phenanthroline", "generic_core": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["user_addition", "PubChem"]}
 {"cas": "58109-40-3", "name": "Diphenyliodonium", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "52462-29-0", "name": "C20H28Cl4Ru2", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "10035-10-6", "name": "Hydrogen Bromide", "abbreviation": "HBr", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
@@ -611,7 +611,7 @@
 {"cas": "108-77-0", "name": "Cyanuric chloride", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "919-30-2", "name": "(3-Aminopropyl)triethoxysilane", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "158113-12-3", "name": "Bronze", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "546-93-0", "name": "Magnesium Carbonate", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "546-93-0", "name": "Magnesium Carbonate", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": "base", "sources": ["user_addition", "PubChem"]}
 {"cas": "354-38-1", "name": "Trifluoroacetamide", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "524-38-9", "name": "N-Hydroxyphthalimide", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "2491-06-7", "name": "N,N-Dimethylglycine hydrochloride", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
@@ -635,13 +635,13 @@
 {"cas": "350-46-9", "name": "p-Fluoronitrobenzene", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "1300746-79-5", "name": "(1,10-Phenanthroline)(trifluoromethyl) copper", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "631-61-8", "name": "Acetic Acid", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "71-00-1", "name": "DL-histidine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "826-81-3", "name": "2-Methyl-8-hydroxyquinoline", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "71-00-1", "name": "DL-histidine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["user_addition", "PubChem"]}
+{"cas": "826-81-3", "name": "2-Methyl-8-hydroxyquinoline", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["user_addition", "PubChem"]}
 {"cas": "591-50-4", "name": "Iodobenzene", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "108-70-3", "name": "1,3,5-Trichlorobenzene", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "133745-75-2", "name": "N-Fluorobenzenesulfonimide", "abbreviation": "NFSI", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "1809-20-7", "name": "Diisopropyl phosphite", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
-{"cas": "43148-65-8", "name": "N1,N1,N2,N2-tetramethylcyclohexane-1,2-diamine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
+{"cas": "43148-65-8", "name": "N1,N1,N2,N2-tetramethylcyclohexane-1,2-diamine", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": "ligand", "sources": ["user_addition", "PubChem"]}
 {"cas": "7440-09-7", "name": "Potassium Cation", "abbreviation": "", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "2206-27-1", "name": "Dimethyl Sulfoxide", "abbreviation": "DMSO", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}
 {"cas": "10028-15-6", "name": "Ozone", "abbreviation": "OZONE", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "sources": ["user_addition", "PubChem"]}

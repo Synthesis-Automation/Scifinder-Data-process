@@ -18,6 +18,10 @@ compound_type and/or generic_core values. Use --fetch-smiles and/or --fetch-prop
 to add a 'smile' field and other properties conservatively; use --smiles-force or
 --props-force to overwrite.
 Writes in-place with a .bak backup by default unless --no-backup is set.
+
+How to run:
+python Process_cas_registry.py --file cas_registry_merged.jsonl --fetch-smiles --verbose
+
 """
 
 from __future__ import annotations
@@ -295,6 +299,11 @@ def process_file(
         if verbose:
             print(msg, flush=True)
 
+    def info(msg: str):
+        # Always show important messages and periodic progress when fetching
+        if fetch_smiles or fetch_props:
+            print(msg, flush=True)
+
     def _pubchem_smiles_by_cas(cas: str) -> Optional[str]:
         if not session:
             return None
@@ -459,131 +468,167 @@ def process_file(
     smiles_updates_done = 0
     props_updates_done = 0
 
-    log(f"Starting processing: {infile}")
-    with open(infile, "r", encoding="utf-8", errors="replace") as f:
-        for idx, line in enumerate(f, start=1):
-            if not line.strip():
-                if out_fp:
-                    out_fp.write(line)
-                continue
-            try:
-                obj = json.loads(line)
-            except Exception:
-                # Preserve unparseable lines verbatim
-                if out_fp:
-                    out_fp.write(line)
-                continue
-
-            stats["total"] += 1
-            name, abbr = text_fields(obj)
-            suggestion = detect_type(name, abbr)
-            existing = obj.get("compound_type")
-            # Always attempt to determine generic core metal for transition-metal containing entries
-            gen_core_suggestion = detect_generic_core(name, abbr)
-
-            # Independently update generic_core when detectable
-            if gen_core_suggestion:
-                existing_gc = obj.get("generic_core")
-                if should_update(existing_gc, force):
-                    obj["generic_core"] = gen_core_suggestion
-                    stats["generic_core_updates"] += 1
-
-            # Optionally enrich SMILES and properties before early-continue so even non-classified entries can be enriched
-            did_fetch = False
-            if (fetch_smiles or fetch_props) and (smiles_limit is None or (smiles_updates_done + props_updates_done) < smiles_limit):
+    if fetch_smiles or fetch_props:
+        info("Starting processing: {}".format(infile))
+        if not verbose:
+            info("Tip: add --verbose for per-entry logs. Use --progress-every N to tune progress prints.")
+    try:
+        with open(infile, "r", encoding="utf-8", errors="replace") as f:
+            for idx, line in enumerate(f, start=1):
+                if not line.strip():
+                    if out_fp:
+                        out_fp.write(line)
+                    continue
                 try:
-                    data: Optional[Dict[str, Any]] = None
-                    if fetch_props:
-                        data = _fetch_props_for_obj(obj)
-                    elif fetch_smiles:
-                        s = _fetch_smiles_for_obj(obj)
-                        data = {"smile": s} if s else None
-                    if data:
-                        # Apply SMILES
-                        if "smile" in data and data.get("smile"):
-                            if should_update(obj.get("smile"), smiles_force):
-                                obj["smile"] = data["smile"]
-                                stats["smiles_updated"] += 1
-                                smiles_updates_done += 1
-                                log(f"[{idx}] SMILES set for {obj.get('cas') or obj.get('name')}: {obj['smile']}")
-                            else:
-                                stats["smiles_skipped_existing"] += 1
-                                log(f"[{idx}] SMILES kept (existing) for {obj.get('cas') or obj.get('name')}")
-                        else:
-                            stats["smiles_not_found"] += 1
-                            log(f"[{idx}] SMILES not found for {obj.get('cas') or obj.get('name')}")
-                        # Apply other props (controlled by props_force)
-                        def _apply(key: str, stat_key: str):
-                            val = data.get(key)
-                            if not val:
-                                return
-                            if should_update(obj.get(key), props_force):
-                                obj[key] = val
-                                stats[stat_key] += 1
-                                stats["props_updated"] += 1
-                                log(f"[{idx}] {key} set for {obj.get('cas') or obj.get('name')}: {val}")
-                        if fetch_props:
-                            _apply("formula", "formula_updated")
-                            _apply("inchikey", "inchikey_updated")
-                            _apply("iupac_name", "iupac_name_updated")
-                            _apply("mw", "mw_updated")
-                            _apply("exact_mass", "exact_mass_updated")
-                        did_fetch = True
-                        if smiles_delay:
-                            time.sleep(smiles_delay)
+                    obj = json.loads(line)
                 except Exception:
-                    stats["smiles_errors"] += 1
-                    log(f"[{idx}] Error fetching properties for {obj.get('cas') or obj.get('name')}")
+                    # Preserve unparseable lines verbatim
+                    if out_fp:
+                        out_fp.write(line)
+                    continue
 
-            if suggestion is None:
-                stats["skipped_no_match"] += 1
+                stats["total"] += 1
+                name, abbr = text_fields(obj)
+                suggestion = detect_type(name, abbr)
+                existing = obj.get("compound_type")
+                # Always attempt to determine generic core metal for transition-metal containing entries
+                gen_core_suggestion = detect_generic_core(name, abbr)
+
+                # Independently update generic_core when detectable
+                if gen_core_suggestion:
+                    existing_gc = obj.get("generic_core")
+                    if should_update(existing_gc, force):
+                        obj["generic_core"] = gen_core_suggestion
+                        stats["generic_core_updates"] += 1
+
+                # Optionally enrich SMILES and properties before early-continue so even non-classified entries can be enriched
+                did_fetch = False
+                if (fetch_smiles or fetch_props) and (smiles_limit is None or (smiles_updates_done + props_updates_done) < smiles_limit):
+                    try:
+                        data: Optional[Dict[str, Any]] = None
+                        if fetch_props:
+                            data = _fetch_props_for_obj(obj)
+                        elif fetch_smiles:
+                            s = _fetch_smiles_for_obj(obj)
+                            data = {"smile": s} if s else None
+                        if data:
+                            # Apply SMILES
+                            if "smile" in data and data.get("smile"):
+                                if should_update(obj.get("smile"), smiles_force):
+                                    obj["smile"] = data["smile"]
+                                    stats["smiles_updated"] += 1
+                                    smiles_updates_done += 1
+                                    log(f"[{idx}] SMILES set for {obj.get('cas') or obj.get('name')}: {obj['smile']}")
+                                else:
+                                    stats["smiles_skipped_existing"] += 1
+                                    log(f"[{idx}] SMILES kept (existing) for {obj.get('cas') or obj.get('name')}")
+                            else:
+                                stats["smiles_not_found"] += 1
+                                log(f"[{idx}] SMILES not found for {obj.get('cas') or obj.get('name')}")
+                            # Apply other props (controlled by props_force)
+                            def _apply(key: str, stat_key: str):
+                                val = data.get(key)
+                                if not val:
+                                    return
+                                if should_update(obj.get(key), props_force):
+                                    obj[key] = val
+                                    stats[stat_key] += 1
+                                    stats["props_updated"] += 1
+                                    log(f"[{idx}] {key} set for {obj.get('cas') or obj.get('name')}: {val}")
+                            if fetch_props:
+                                _apply("formula", "formula_updated")
+                                _apply("inchikey", "inchikey_updated")
+                                _apply("iupac_name", "iupac_name_updated")
+                                _apply("mw", "mw_updated")
+                                _apply("exact_mass", "exact_mass_updated")
+                            did_fetch = True
+                            if smiles_delay:
+                                time.sleep(smiles_delay)
+                    except Exception:
+                        stats["smiles_errors"] += 1
+                        log(f"[{idx}] Error fetching properties for {obj.get('cas') or obj.get('name')}")
+
+                if suggestion is None:
+                    stats["skipped_no_match"] += 1
+                    if out_fp:
+                        out_fp.write(json.dumps(obj, ensure_ascii=False) + "\n")
+                    continue
+
+                if not should_update(existing, force):
+                    stats["skipped_existing"] += 1
+                    if out_fp:
+                        out_fp.write(json.dumps(obj, ensure_ascii=False) + "\n")
+                    continue
+
+                # Apply update
+                obj["compound_type"] = suggestion
+                stats["updated"] += 1
+                stats["by_type"][suggestion] = stats["by_type"].get(suggestion, 0) + 1
+                if len(stats["samples"]) < 10:
+                    stats["samples"].append(
+                        {
+                            "name": name,
+                            "abbrev": abbr,
+                            "new_type": suggestion,
+                            "prev_type": existing,
+                            "cas": obj.get("cas"),
+                        }
+                    )
+
+                # Periodic progress
+                if progress_every > 0 and (idx % progress_every == 0):
+                    msg = (
+                        f"[progress] processed {idx} lines | role updates: {stats['updated']} | "
+                        f"smiles: {stats['smiles_updated']} | props: {stats['props_updated']}"
+                    )
+                    if verbose:
+                        log(msg)
+                    else:
+                        info(msg)
+
+                # Always write the processed object
                 if out_fp:
                     out_fp.write(json.dumps(obj, ensure_ascii=False) + "\n")
-                continue
 
-            if not should_update(existing, force):
-                stats["skipped_existing"] += 1
-                if out_fp:
-                    out_fp.write(json.dumps(obj, ensure_ascii=False) + "\n")
-                continue
+        if out_fp:
+            out_fp.close()
 
-            # Apply update
-            obj["compound_type"] = suggestion
-            stats["updated"] += 1
-            stats["by_type"][suggestion] = stats["by_type"].get(suggestion, 0) + 1
-            if len(stats["samples"]) < 10:
-                stats["samples"].append(
-                    {
-                        "name": name,
-                        "abbrev": abbr,
-                        "new_type": suggestion,
-                        "prev_type": existing,
-                        "cas": obj.get("cas"),
-                    }
-                )
+        # If not dry-run, replace original with temp and create backup if needed
+        if not dry_run:
+            if backup:
+                bak_path = infile + ".bak"
+                shutil.copy2(infile, bak_path)
+            os.replace(tmp_path, infile)
+    except KeyboardInterrupt:
+        # Graceful cleanup of temp file
+        try:
+            if out_fp and not out_fp.closed:
+                out_fp.close()
+        finally:
+            if not dry_run and os.path.exists(tmp_path):
+                try:
+                    os.remove(tmp_path)
+                except Exception:
+                    pass
+        info("Interrupted by user. Temporary file cleaned up.")
+        raise
+    except Exception:
+        # On unexpected error, best-effort cleanup temp file
+        try:
+            if out_fp and not out_fp.closed:
+                out_fp.close()
+        finally:
+            if not dry_run and os.path.exists(tmp_path):
+                try:
+                    os.remove(tmp_path)
+                except Exception:
+                    pass
+        raise
 
-            # Periodic progress
-            if verbose and progress_every > 0 and (idx % progress_every == 0):
-                log(
-                    f"[progress] processed {idx} lines | role updates: {stats['updated']} | smiles: {stats['smiles_updated']} | props: {stats['props_updated']}"
-                )
-
-            if out_fp:
-                out_fp.write(json.dumps(obj, ensure_ascii=False) + "\n")
-
-    if out_fp:
-        out_fp.close()
-
-    # If not dry-run, replace original with temp and create backup if needed
-    if not dry_run:
-        if backup:
-            bak_path = infile + ".bak"
-            shutil.copy2(infile, bak_path)
-        os.replace(tmp_path, infile)
-
-    log(
-        f"Done. Total: {stats['total']}; role updates: {stats['updated']}; smiles: {stats['smiles_updated']}; props: {stats['props_updated']}"
-    )
+    if fetch_smiles or fetch_props:
+        info(
+            f"Done. Total: {stats['total']}; role updates: {stats['updated']}; smiles: {stats['smiles_updated']}; props: {stats['props_updated']}"
+        )
     return stats
 
 

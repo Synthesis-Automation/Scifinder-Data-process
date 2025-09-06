@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-06 11:39:12
+**Generated:** 2025-09-06 21:07:20
 **Source Folder:** RDF_Folder_2021-2024
 **Total Reactions:** 1343
 
@@ -6961,7 +6961,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -6997,7 +6997,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7033,7 +7033,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7069,7 +7069,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7105,7 +7105,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7141,7 +7141,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7177,7 +7177,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7213,7 +7213,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7249,7 +7249,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7285,7 +7285,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7321,7 +7321,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7357,7 +7357,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7393,7 +7393,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7429,7 +7429,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7465,7 +7465,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7501,7 +7501,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7537,7 +7537,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7573,7 +7573,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7609,7 +7609,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7645,7 +7645,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7681,7 +7681,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7717,7 +7717,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7753,7 +7753,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7789,7 +7789,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7825,7 +7825,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7861,7 +7861,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -7963,7 +7963,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -8032,7 +8032,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -8068,7 +8068,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -10887,7 +10887,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -10918,7 +10918,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -10949,7 +10949,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -10980,7 +10980,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11011,7 +11011,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11042,7 +11042,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11073,7 +11073,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11104,7 +11104,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11135,7 +11135,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11166,7 +11166,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11197,7 +11197,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11228,7 +11228,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11259,7 +11259,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11290,7 +11290,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11321,7 +11321,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11352,7 +11352,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11383,7 +11383,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11414,7 +11414,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11445,7 +11445,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11476,7 +11476,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11507,7 +11507,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11538,7 +11538,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11569,7 +11569,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11600,7 +11600,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -11631,7 +11631,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -19033,7 +19033,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Py (CAS: 110-86-1) - Role: BASE
+  - Pyridine (CAS: 110-86-1) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Titanium Tetrachloride (CAS: 7550-45-0) - Role: UNK
 

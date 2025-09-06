@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-04 10:59:26
+**Generated:** 2025-09-06 21:07:54
 **Source Folder:** RDF_Folder_2014-2024
 **Total Reactions:** 1131
 
@@ -31,8 +31,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -72,8 +71,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -112,8 +110,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -152,8 +149,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -192,8 +188,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -232,8 +227,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -271,8 +265,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -311,8 +304,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -351,8 +343,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -391,8 +382,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -431,8 +421,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -471,8 +460,7 @@
   - (R)-SEGPHOS (CAS: 244261-66-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - (R)-SEGPHOS (CAS: 244261-66-3)
+**ConditionCore:** (R)-SEGPHOS/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -495,7 +483,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -507,8 +494,7 @@
   - (R)-SEGPHOS (CAS: 244261-66-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - (R)-SEGPHOS (CAS: 244261-66-3)
+**ConditionCore:** (R)-SEGPHOS/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -531,7 +517,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -543,8 +528,7 @@
   - (R)-SEGPHOS (CAS: 244261-66-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - (R)-SEGPHOS (CAS: 244261-66-3)
+**ConditionCore:** (R)-SEGPHOS/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -567,7 +551,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -579,8 +562,7 @@
   - (R)-SEGPHOS (CAS: 244261-66-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - (R)-SEGPHOS (CAS: 244261-66-3)
+**ConditionCore:** (R)-SEGPHOS/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -603,7 +585,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '(R)-SEGPHOS' (CAS 244261-66-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -615,8 +596,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -655,8 +635,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -695,8 +674,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -735,8 +713,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -775,9 +752,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (R,R)-2,6-Bis(4-phenyl-2-oxazolin-2-yl)pyridine (CAS: 174500-20-0)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - (R,R)-2,6-Bis(4-phenyl-2-oxazolin-2-yl)pyridine (CAS: 174500-20-0)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -809,8 +784,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -849,8 +823,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -889,8 +862,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole] (CAS: 229184-98-9)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni/(3aR,3′aR,8aS,8′a’S)-2,2′-Cyclopropylidenebis[3a,8a-dihydro-8H-indeno[1,2-d]oxazole]
 
 **Generic Catalyst:** Ni
 
@@ -930,9 +902,9 @@
   - AT31522 (CAS: 542-92-7)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - AT31522 (CAS: 542-92-7)
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -966,9 +938,9 @@
   - AT31522 (CAS: 542-92-7)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - AT31522 (CAS: 542-92-7)
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -1002,9 +974,9 @@
   - AT31522 (CAS: 542-92-7)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - AT31522 (CAS: 542-92-7)
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -1036,8 +1008,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - N2H4 (CAS: 302-01-2) - Role: UNK
@@ -1068,11 +1041,12 @@
 **Full Catalytic System:**
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - NSC2807 (CAS: 1184-88-9) - Role: UNK
+  - 2,5-Bis(acetyloxy)benzoic acid (CAS: 1184-88-9) - Role: UNK
   - Tetrabutylammonium Tetrafluoroborate (CAS: 429-42-5) - Role: UNK
 
 **Solvents:**
@@ -1100,8 +1074,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -1138,9 +1111,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -1161,6 +1134,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-118-CAS-17268122
@@ -1171,9 +1147,9 @@
   - Nickel (CAS: 7718-54-9)
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: 1660-93-1)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: 1660-93-1)
+**ConditionCore:** Ni/3,4,7,8-Tetramethyl-1,10-phenanthroline
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -1190,6 +1166,9 @@
   - **Authors:** Liu, Weibing; Chen, Cui; Tan, Liquan
   - **Citation:** ChemistrySelect (2016), 1(8), 1593-1595
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '3,4,7,8-Tetramethyl-1,10-phenanthroline' (CAS 1660-93-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-118-CAS-17268125
@@ -1200,9 +1179,9 @@
   - Nickel (CAS: 7718-54-9)
   - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: 1660-93-1)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - 3,4,7,8-Tetramethyl-1,10-phenanthroline (CAS: 1660-93-1)
+**ConditionCore:** Ni/3,4,7,8-Tetramethyl-1,10-phenanthroline
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -1219,6 +1198,9 @@
   - **Authors:** Liu, Weibing; Chen, Cui; Tan, Liquan
   - **Citation:** ChemistrySelect (2016), 1(8), 1593-1595
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '3,4,7,8-Tetramethyl-1,10-phenanthroline' (CAS 1660-93-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-146-CAS-18229413
@@ -1227,11 +1209,9 @@
 
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
-  - NSC2011 (CAS: 4589-12-2)
+  - N-(pyridin-2-yl)benzamide (CAS: 4589-12-2)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - NSC2011 (CAS: 4589-12-2)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -1261,11 +1241,9 @@
 
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
-  - NSC2011 (CAS: 4589-12-2)
+  - N-(pyridin-2-yl)benzamide (CAS: 4589-12-2)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - NSC2011 (CAS: 4589-12-2)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -1297,9 +1275,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -1328,8 +1306,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1358,8 +1337,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1388,8 +1368,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1418,8 +1399,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1448,8 +1430,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1479,9 +1462,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -1512,8 +1495,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1542,8 +1526,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1572,8 +1557,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1603,9 +1589,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -1636,8 +1622,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1667,9 +1654,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -1700,8 +1687,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1730,8 +1718,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1760,8 +1749,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1790,8 +1780,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1820,8 +1811,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1850,8 +1842,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1880,8 +1873,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1910,8 +1904,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1940,8 +1935,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -1970,8 +1966,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2000,8 +1997,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2030,8 +2028,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2060,8 +2059,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2090,8 +2090,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2120,8 +2121,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2150,8 +2152,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2180,8 +2183,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2211,9 +2215,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - FI176407 (CAS: 1072067-44-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - FI176407 (CAS: 1072067-44-7)
+**ConditionCore:** Ni/FI176407
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2233,6 +2237,9 @@
   - **Authors:** Zhang, Xiaheng; MacMillan, David W. C.
   - **Citation:** Journal of the American Chemical Society (2016), 138(42), 13862-13865
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'FI176407' (CAS 1072067-44-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16305627
@@ -2243,9 +2250,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2265,6 +2272,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306554
@@ -2275,9 +2285,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2297,6 +2307,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306560
@@ -2307,9 +2320,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -2329,6 +2342,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306561
@@ -2339,9 +2355,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2361,6 +2377,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306562
@@ -2371,9 +2390,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2393,6 +2412,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306563
@@ -2403,9 +2425,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2425,6 +2447,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306565
@@ -2435,9 +2460,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2457,6 +2482,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306578
@@ -2467,9 +2495,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2489,6 +2517,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306581
@@ -2499,9 +2530,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2521,6 +2552,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306586
@@ -2531,9 +2565,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2553,6 +2587,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-16306587
@@ -2563,9 +2600,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -2585,6 +2622,9 @@
   - **Authors:** Corcoran, Emily B.; Pirnot, Michael T.; Lin, Shishi; Dreher, Spencer D.; DiRocco, Daniel A.; Davies, Ian W.; Buchwald, Stephen L.; MacMillan, David W. C.
   - **Citation:** Science (Washington, DC, United States) (2016), 353(6296), 279-283
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-1635611
@@ -2594,8 +2634,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2625,8 +2666,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2663,8 +2703,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2701,8 +2740,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2739,8 +2777,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2777,8 +2814,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2815,8 +2851,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2853,8 +2888,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2891,8 +2925,7 @@
   - CAS: 2001039-58-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2001039-58-1
+**ConditionCore:** 2001039-58-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2928,8 +2961,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -2959,8 +2993,7 @@
   - [CF3]8-Dppf (CAS: 70236-68-9)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - [CF3]8-Dppf (CAS: 70236-68-9)
+**ConditionCore:** [CF3]8-Dppf/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -2984,6 +3017,7 @@
   - **Citation:** Organometallics (2017), 36(3), 679-686
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[CF3]8-Dppf' (CAS 70236-68-9): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -2996,8 +3030,7 @@
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -3032,8 +3065,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3063,8 +3097,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3094,8 +3129,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3125,8 +3161,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3156,8 +3193,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3187,8 +3225,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3218,8 +3257,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3249,8 +3289,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3280,8 +3321,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3311,8 +3353,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3342,8 +3385,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3373,8 +3417,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3404,8 +3449,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3435,8 +3481,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3466,8 +3513,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3497,8 +3545,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3528,8 +3577,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3559,8 +3609,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3590,8 +3641,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3621,8 +3673,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3652,8 +3705,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3683,8 +3737,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3714,8 +3769,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3745,8 +3801,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3776,8 +3833,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3807,8 +3865,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3838,8 +3897,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3869,8 +3929,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3900,8 +3961,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3931,8 +3993,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3962,8 +4025,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -3993,8 +4057,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -4024,8 +4089,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -4055,8 +4121,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -4086,8 +4153,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - EtOH (CAS: 64-17-5) - Role: SOLVENT
@@ -4118,8 +4186,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -4145,7 +4212,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4157,8 +4223,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -4184,7 +4249,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4196,13 +4260,13 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - CAS: 205237-35-0
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - CAS: 205237-35-0
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -4228,8 +4292,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -4260,15 +4325,13 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - KOtBu (CAS: 865-47-4)
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** KOtBu/IPrCl
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -4290,8 +4353,6 @@
   - ⚠️ Full Catalytic System: Role conflict for 'KOtBu' (CAS 865-47-4): registry compound_type -> BASE
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'KOtBu' (CAS 865-47-4): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4304,15 +4365,13 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - KOtBu (CAS: 865-47-4)
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** KOtBu/IPrCl
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
 **Reagents:**
-  - Sodium Acetate (CAS: 127-09-3) - Role: UNK
+  - Sodium Acetate (CAS: 127-09-3) - Role: BASE
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -4334,8 +4393,6 @@
   - ⚠️ Full Catalytic System: Role conflict for 'KOtBu' (CAS 865-47-4): registry compound_type -> BASE
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'KOtBu' (CAS 865-47-4): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4347,9 +4404,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4369,6 +4426,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836186
@@ -4379,9 +4439,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -4402,6 +4462,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836188
@@ -4412,9 +4475,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4434,6 +4497,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836189
@@ -4444,9 +4510,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4466,6 +4532,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836190
@@ -4476,9 +4545,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4498,6 +4567,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836191
@@ -4508,9 +4580,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4530,6 +4602,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836192
@@ -4540,9 +4615,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4562,6 +4637,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836193
@@ -4572,9 +4650,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4594,6 +4672,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836194
@@ -4604,9 +4685,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4626,6 +4707,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836195
@@ -4636,9 +4720,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4658,6 +4742,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836196
@@ -4668,9 +4755,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4690,6 +4777,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836198
@@ -4700,9 +4790,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4722,6 +4812,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836200
@@ -4732,9 +4825,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4754,6 +4847,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836223
@@ -4764,9 +4860,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -4787,6 +4883,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836224
@@ -4797,9 +4896,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4819,6 +4918,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-17836226
@@ -4829,9 +4931,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -4851,6 +4953,9 @@
   - **Authors:** Li, Chao; Kawamata, Yu; Nakamura, Hugh; Vantourout, Julien C.; Liu, Zhiqing; Hou, Qinglong; Bao, Denghui; Starr, Jeremy T.; Chen, Jinshan; Yan, Ming; Baran, Phil S.
   - **Citation:** Angewandte Chemie, International Edition (2017), 56(42), 13088-13093
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-18589432
@@ -4862,10 +4967,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -4885,6 +4989,10 @@
   - **Authors:** Kim, Taehoon; McCarver, Stefan J.; Lee, Chulbom; MacMillan, David W. C.
   - **Citation:** Angewandte Chemie, International Edition (2018), 57(13), 3488-3492
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-18793731
@@ -4894,8 +5002,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -4927,8 +5036,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -4958,9 +5068,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -4990,9 +5100,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -5022,9 +5132,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -5054,9 +5164,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -5086,9 +5196,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -5115,14 +5225,11 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
-**Ligands:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]/dppf
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5143,9 +5250,9 @@
   - **Citation:** ACS Catalysis (2018), 8(6), 5328-5339
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -5154,14 +5261,11 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
-**Ligands:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]/dppf
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5182,9 +5286,9 @@
   - **Citation:** ACS Catalysis (2018), 8(6), 5328-5339
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -5193,14 +5297,11 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
-**Ligands:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]/dppf
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5221,9 +5322,9 @@
   - **Citation:** ACS Catalysis (2018), 8(6), 5328-5339
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -5235,8 +5336,7 @@
   - CAS: 2225857-66-7
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2225857-66-7
+**ConditionCore:** 2225857-66-7/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -5269,14 +5369,11 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
-**Ligands:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]/dppf
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5297,9 +5394,9 @@
   - **Citation:** ACS Catalysis (2018), 8(6), 5328-5339
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -5310,8 +5407,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5343,8 +5439,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5376,8 +5471,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5409,8 +5503,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5442,8 +5535,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5475,8 +5567,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5508,8 +5599,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5541,8 +5631,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5574,8 +5663,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5607,8 +5695,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5640,8 +5727,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5673,8 +5759,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5706,8 +5791,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5739,8 +5823,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -5773,9 +5856,9 @@
   - Nickel (CAS: 7718-54-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -5795,6 +5878,9 @@
   - **Authors:** Smith, Russell T.; Zhang, Xiaheng; Rincon, Juan A.; Agejas, Javier; Mateos, Carlos; Barberis, Mario; Garcia-Cerrada, Susana; de Frutos, Oscar; MacMillan, David W. C.
   - **Citation:** Journal of the American Chemical Society (2018), 140(50), 17433-17438
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-19480813
@@ -5805,9 +5891,9 @@
   - Nickel (CAS: 7718-54-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -5827,6 +5913,9 @@
   - **Authors:** Smith, Russell T.; Zhang, Xiaheng; Rincon, Juan A.; Agejas, Javier; Mateos, Carlos; Barberis, Mario; Garcia-Cerrada, Susana; de Frutos, Oscar; MacMillan, David W. C.
   - **Citation:** Journal of the American Chemical Society (2018), 140(50), 17433-17438
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-19837394
@@ -5836,8 +5925,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -5858,6 +5948,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-19963393
@@ -5868,9 +5961,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -5891,6 +5984,9 @@
   - **Authors:** Kawamata, Yu; Vantourout, Julien C.; Hickey, David P.; Bai, Peng; Chen, Longrui; Hou, Qinglong; Qiao, Wenhua; Barman, Koushik; Edwards, Martin A.; Garrido-Castro, Alberto F.; deGruyter, Justine N.; Nakamura, Hugh; Knouse, Kyle; Qin, Chuanguang; Clay, Khalyd J.; Bao, Denghui; Li, Chao; Starr, Jeremy T.; Garcia-Irizarry, Carmen; Sach, Neal; White, Henry S.; Neurock, Matthew; Minteer, Shelley D.; Baran, Phil S.
   - **Citation:** Journal of the American Chemical Society (2019), 141(15), 6392-6402
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-20020589
@@ -5901,9 +5997,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -5930,9 +6026,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -5959,9 +6055,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -5988,9 +6084,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -6017,9 +6113,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -6046,9 +6142,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -6075,9 +6171,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -6104,9 +6200,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -6133,9 +6229,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -6162,9 +6258,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium Sulfide (CAS: 1306-23-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -6193,8 +6289,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -6224,9 +6321,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6256,9 +6353,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6288,9 +6385,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6320,9 +6417,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6352,9 +6449,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6384,9 +6481,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6416,9 +6513,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6448,9 +6545,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6480,9 +6577,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6512,9 +6609,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6544,8 +6641,7 @@
   - CAS: 2380324-83-2
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2380324-83-2
+**ConditionCore:** 2380324-83-2/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -6582,9 +6678,7 @@
   - CAS: 2380324-31-0
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2379878-02-9
-  - CAS: 2380324-31-0
+**ConditionCore:** 2379878-02-9/2380324-31-0
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -6619,8 +6713,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -6650,9 +6745,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6672,6 +6767,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562262
@@ -6682,9 +6780,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6704,6 +6802,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562263
@@ -6714,9 +6815,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6736,6 +6837,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562264
@@ -6746,9 +6850,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6768,6 +6872,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562265
@@ -6778,9 +6885,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6800,6 +6907,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562266
@@ -6810,9 +6920,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6832,6 +6942,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562267
@@ -6842,9 +6955,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6864,6 +6977,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562268
@@ -6874,9 +6990,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6896,6 +7012,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562269
@@ -6906,9 +7025,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6928,6 +7047,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562270
@@ -6938,9 +7060,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6960,6 +7082,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562271
@@ -6970,9 +7095,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -6992,6 +7117,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562272
@@ -7002,9 +7130,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7024,6 +7152,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562279
@@ -7034,9 +7165,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7056,6 +7187,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562283
@@ -7066,9 +7200,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7088,6 +7222,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562284
@@ -7098,9 +7235,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7120,6 +7257,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562287
@@ -7130,9 +7270,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7152,6 +7292,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21562288
@@ -7162,9 +7305,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7184,6 +7327,9 @@
   - **Authors:** Park, Boyoung Y.; Pirnot, Michael T.; Buchwald, Stephen L.
   - **Citation:** Journal of Organic Chemistry (2020), 85(5), 3234-3244
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-21976132
@@ -7191,12 +7337,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7223,12 +7369,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7255,12 +7401,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7287,12 +7433,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7319,12 +7465,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7351,12 +7497,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -7383,12 +7529,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7415,12 +7561,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7447,12 +7593,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -7479,12 +7625,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -7511,12 +7657,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -7543,12 +7689,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -7575,12 +7721,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -7607,12 +7753,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7639,12 +7785,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7674,9 +7820,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7706,9 +7852,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7738,9 +7884,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7770,9 +7916,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7802,9 +7948,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -7833,8 +7979,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -7861,16 +8008,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -7890,6 +8035,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606459
@@ -7897,16 +8046,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -7926,6 +8073,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606460
@@ -7933,16 +8084,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -7962,6 +8111,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606461
@@ -7969,16 +8122,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -7998,6 +8149,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606462
@@ -8005,16 +8160,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8034,6 +8187,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606463
@@ -8041,16 +8198,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8070,6 +8225,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606464
@@ -8077,16 +8236,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8106,6 +8263,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606465
@@ -8113,16 +8274,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8142,6 +8301,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606466
@@ -8149,16 +8312,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8178,6 +8339,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606467
@@ -8185,16 +8350,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8214,6 +8377,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606468
@@ -8221,16 +8388,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8250,6 +8415,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606469
@@ -8257,16 +8426,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8286,6 +8453,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606470
@@ -8293,16 +8464,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8322,6 +8491,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606471
@@ -8329,16 +8502,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8358,6 +8529,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606472
@@ -8365,16 +8540,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8394,6 +8567,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606473
@@ -8401,16 +8578,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8430,6 +8605,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606474
@@ -8437,14 +8616,13 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8464,6 +8642,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606475
@@ -8471,16 +8653,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8500,6 +8680,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606476
@@ -8507,16 +8691,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8536,6 +8718,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606477
@@ -8543,16 +8729,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8572,6 +8756,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606478
@@ -8579,16 +8767,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8608,6 +8794,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606479
@@ -8615,14 +8805,13 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8642,6 +8831,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606480
@@ -8649,16 +8842,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8678,6 +8869,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606481
@@ -8685,16 +8880,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8714,6 +8907,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606482
@@ -8721,16 +8918,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8750,6 +8945,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606483
@@ -8757,16 +8956,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8786,6 +8983,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606484
@@ -8793,16 +8994,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8822,6 +9021,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606485
@@ -8829,14 +9032,13 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8856,6 +9058,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606486
@@ -8863,16 +9069,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8892,6 +9096,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606487
@@ -8899,16 +9107,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8928,6 +9134,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606488
@@ -8935,16 +9145,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -8964,6 +9172,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606489
@@ -8971,16 +9183,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9000,6 +9210,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606490
@@ -9007,16 +9221,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9036,6 +9248,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606491
@@ -9043,16 +9259,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9072,6 +9286,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606492
@@ -9079,16 +9297,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9108,6 +9324,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606493
@@ -9115,16 +9335,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9144,6 +9362,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606494
@@ -9151,16 +9373,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9180,6 +9400,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606495
@@ -9187,16 +9411,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9216,6 +9438,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606496
@@ -9223,16 +9449,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9252,6 +9476,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606497
@@ -9259,16 +9487,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9288,6 +9514,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606498
@@ -9295,16 +9525,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9324,6 +9552,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606499
@@ -9331,16 +9563,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9360,6 +9590,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606500
@@ -9367,16 +9601,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9396,6 +9628,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606501
@@ -9403,16 +9639,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9432,6 +9666,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606502
@@ -9439,16 +9677,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - MN (CAS: 7439-96-5)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - MN (CAS: 7439-96-5)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Mn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Mn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9468,6 +9704,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606503
@@ -9475,16 +9715,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9504,6 +9742,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606504
@@ -9511,16 +9753,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - MN (CAS: 7439-96-5)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - MN (CAS: 7439-96-5)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Mn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Mn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9540,6 +9780,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606505
@@ -9547,16 +9791,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9576,6 +9818,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606506
@@ -9583,16 +9829,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9612,6 +9856,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606507
@@ -9619,16 +9867,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - MN (CAS: 7439-96-5)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - MN (CAS: 7439-96-5)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Mn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Mn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9648,6 +9894,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606508
@@ -9655,16 +9905,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - MN (CAS: 7439-96-5)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - MN (CAS: 7439-96-5)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Mn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Mn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9684,6 +9932,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606509
@@ -9691,16 +9943,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9720,6 +9970,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606510
@@ -9727,16 +9981,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9756,6 +10008,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606511
@@ -9763,16 +10019,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - MN (CAS: 7439-96-5)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - MN (CAS: 7439-96-5)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Mn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Mn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9792,6 +10046,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606512
@@ -9799,16 +10057,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - MN (CAS: 7439-96-5)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - MN (CAS: 7439-96-5)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Mn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Mn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9828,6 +10084,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606513
@@ -9835,16 +10095,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9864,6 +10122,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606514
@@ -9871,16 +10133,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9900,6 +10160,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606515
@@ -9907,16 +10171,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9936,6 +10198,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606516
@@ -9943,16 +10209,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -9972,6 +10236,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22606517
@@ -9979,16 +10247,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -10008,6 +10274,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22679880
@@ -10018,9 +10288,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate (CAS: 2489240-33-5)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate (CAS: 2489240-33-5)
+**ConditionCore:** Ni/2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -10040,6 +10310,9 @@
   - **Authors:** Till, Nicholas A.; Tian, Lei; Dong, Zhe; Scholes, Gregory D.; MacMillan, David W. C.
   - **Citation:** Journal of the American Chemical Society (2020), 142(37), 15830-15841
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate' (CAS 2489240-33-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22679882
@@ -10050,9 +10323,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate (CAS: 2489240-33-5)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate (CAS: 2489240-33-5)
+**ConditionCore:** Ni/2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -10072,6 +10345,9 @@
   - **Authors:** Till, Nicholas A.; Tian, Lei; Dong, Zhe; Scholes, Gregory D.; MacMillan, David W. C.
   - **Citation:** Journal of the American Chemical Society (2020), 142(37), 15830-15841
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '2-(4-Amino-5-methylpyridin-2-yl)-5-methylpyridin-4-amine;iridium(3+);2-phenylpyridine;hexafluorophosphate' (CAS 2489240-33-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22679885
@@ -10082,9 +10358,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -10104,6 +10380,9 @@
   - **Authors:** Till, Nicholas A.; Tian, Lei; Dong, Zhe; Scholes, Gregory D.; MacMillan, David W. C.
   - **Citation:** Journal of the American Chemical Society (2020), 142(37), 15830-15841
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-22782428
@@ -10114,8 +10393,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10141,7 +10419,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10153,8 +10430,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10180,7 +10456,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10192,8 +10467,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10219,7 +10493,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10231,8 +10504,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10258,7 +10530,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10270,8 +10541,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10297,7 +10567,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10309,8 +10578,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10336,7 +10604,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10348,8 +10615,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10375,7 +10641,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10387,8 +10652,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10414,7 +10678,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10426,8 +10689,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10453,7 +10715,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10465,8 +10726,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10492,7 +10752,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10504,8 +10763,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10531,7 +10789,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10543,8 +10800,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10570,7 +10826,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10582,8 +10837,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10609,7 +10863,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10621,8 +10874,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10648,7 +10900,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10660,8 +10911,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10687,7 +10937,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10699,8 +10948,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10726,7 +10974,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10738,8 +10985,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10765,7 +11011,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10777,8 +11022,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10804,7 +11048,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10816,8 +11059,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10843,7 +11085,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10855,8 +11096,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10882,7 +11122,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10894,8 +11133,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10921,7 +11159,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10933,8 +11170,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10960,7 +11196,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -10972,8 +11207,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -10999,7 +11233,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11011,8 +11244,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -11038,7 +11270,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11050,8 +11281,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -11077,7 +11307,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11089,8 +11318,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -11116,7 +11344,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11128,9 +11355,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -11163,10 +11390,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11189,7 +11415,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11202,10 +11428,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11228,7 +11453,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11241,10 +11466,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11267,7 +11491,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11280,10 +11504,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11306,7 +11529,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11319,10 +11542,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11345,7 +11567,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11358,10 +11580,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11384,7 +11605,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11397,10 +11618,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11423,7 +11643,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11436,10 +11656,9 @@
   - DABCO (CAS: 280-57-9)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DABCO (CAS: 280-57-9)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Sulfate (CAS: 7757-82-6) - Role: UNK
@@ -11462,7 +11681,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
-  - ⚠️ Catalyst Core: Role conflict for 'DABCO' (CAS 280-57-9): registry compound_type -> BASE
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -11473,8 +11692,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -11504,9 +11724,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 2173009-61-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 2173009-61-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11527,6 +11747,9 @@
   - **Authors:** Dreher, Spencer D.; Krska, Shane W.
   - **Citation:** Accounts of Chemical Research (2021), 54(7), 1586-1596
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 2173009-61-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-23609988
@@ -11537,9 +11760,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - Rose Bengal (CAS: 632-69-9)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - Rose Bengal (CAS: 632-69-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11570,9 +11793,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-Phenylpyridine (CAS: 94928-86-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 2-Phenylpyridine (CAS: 94928-86-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11603,9 +11826,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-Phenylpyridine (CAS: 94928-86-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 2-Phenylpyridine (CAS: 94928-86-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11636,9 +11859,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - CAS: 2173009-59-9
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - CAS: 2173009-59-9
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11669,9 +11892,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 2173009-61-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 2173009-61-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11692,6 +11915,9 @@
   - **Authors:** Dreher, Spencer D.; Krska, Shane W.
   - **Citation:** Accounts of Chemical Research (2021), 54(7), 1586-1596
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 2173009-61-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-23612721
@@ -11702,9 +11928,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 2173009-61-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 2173009-61-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11725,6 +11951,9 @@
   - **Authors:** Dreher, Spencer D.; Krska, Shane W.
   - **Citation:** Accounts of Chemical Research (2021), 54(7), 1586-1596
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 2173009-61-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-23612770
@@ -11735,9 +11964,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-Phenylpyridine (CAS: 94928-86-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 2-Phenylpyridine (CAS: 94928-86-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11768,9 +11997,9 @@
   - Nickel (CAS: 7718-54-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -11793,6 +12022,9 @@
   - **Authors:** Nohira, Itsuki; Chatani, Naoto
   - **Citation:** ACS Catalysis (2021), 11(8), 4644-4649
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-23747413
@@ -11803,9 +12035,9 @@
   - Nickel (CAS: 7718-54-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -11828,6 +12060,9 @@
   - **Authors:** Nohira, Itsuki; Chatani, Naoto
   - **Citation:** ACS Catalysis (2021), 11(8), 4644-4649
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-23749523
@@ -11838,9 +12073,9 @@
   - Nickel (CAS: 7718-54-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -11863,6 +12098,9 @@
   - **Authors:** Nohira, Itsuki; Chatani, Naoto
   - **Citation:** ACS Catalysis (2021), 11(8), 4644-4649
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-23862358
@@ -11873,9 +12111,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -11897,6 +12135,9 @@
   - **Authors:** Zhu, Chen; Kale, Ajit Prabhakar; Yue, Huifeng; Rueping, Magnus
   - **Citation:** JACS Au (2021), 1(7), 1057-1065
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-24671029
@@ -11907,9 +12148,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11929,6 +12170,9 @@
   - **Authors:** Lefebvre, Quentin; Salome, Christophe; Fessard, Thomas C.
   - **Citation:** Beilstein Journal of Organic Chemistry (2020), 16982-988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-24671036
@@ -11939,9 +12183,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -11961,6 +12205,9 @@
   - **Authors:** Lefebvre, Quentin; Salome, Christophe; Fessard, Thomas C.
   - **Citation:** Beilstein Journal of Organic Chemistry (2020), 16982-988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-172-CAS-2511775
@@ -11970,8 +12217,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12000,8 +12248,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12030,8 +12279,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12060,8 +12310,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12090,8 +12341,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12120,8 +12372,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12150,8 +12403,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12180,8 +12434,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12210,8 +12465,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12240,8 +12496,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12270,8 +12527,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12302,10 +12560,9 @@
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12334,8 +12591,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12364,8 +12622,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12394,8 +12653,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12425,9 +12685,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -12458,8 +12718,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12488,8 +12749,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12518,8 +12780,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12548,8 +12811,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12578,8 +12842,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12608,8 +12873,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12638,8 +12904,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12668,8 +12935,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12699,9 +12967,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -12732,9 +13000,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -12765,8 +13033,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12795,8 +13064,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12825,8 +13095,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12855,8 +13126,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12885,8 +13157,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12916,9 +13189,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -12949,8 +13222,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -12979,8 +13253,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13010,9 +13285,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -13043,8 +13318,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13073,8 +13349,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13103,8 +13380,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13133,8 +13411,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13163,8 +13442,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13193,8 +13473,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13223,8 +13504,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13253,8 +13535,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13284,9 +13567,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -13317,8 +13600,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13347,8 +13631,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13378,9 +13663,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6) - Role: UNK
@@ -13411,8 +13696,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13441,8 +13727,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -13473,10 +13760,9 @@
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6)
-  - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -13505,12 +13791,13 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -13527,6 +13814,9 @@
   - **Authors:** Chen, Su-Qin; Jiao, Jun-Ying; Zhang, Xing-Guo; Zhang, Xiao-Hong
   - **Citation:** Tetrahedron (2019), 75(2), 246-252
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-239-CAS-19832634
@@ -13536,12 +13826,13 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -13558,6 +13849,9 @@
   - **Authors:** Chen, Su-Qin; Jiao, Jun-Ying; Zhang, Xing-Guo; Zhang, Xiao-Hong
   - **Citation:** Tetrahedron (2019), 75(2), 246-252
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-239-CAS-19832635
@@ -13567,12 +13861,13 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -13589,6 +13884,9 @@
   - **Authors:** Chen, Su-Qin; Jiao, Jun-Ying; Zhang, Xing-Guo; Zhang, Xiao-Hong
   - **Citation:** Tetrahedron (2019), 75(2), 246-252
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-239-CAS-19832640
@@ -13598,12 +13896,13 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -13620,6 +13919,9 @@
   - **Authors:** Chen, Su-Qin; Jiao, Jun-Ying; Zhang, Xing-Guo; Zhang, Xiao-Hong
   - **Citation:** Tetrahedron (2019), 75(2), 246-252
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-239-CAS-19832641
@@ -13629,12 +13931,13 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -13651,6 +13954,9 @@
   - **Authors:** Chen, Su-Qin; Jiao, Jun-Ying; Zhang, Xing-Guo; Zhang, Xiao-Hong
   - **Citation:** Tetrahedron (2019), 75(2), 246-252
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-239-CAS-19832643
@@ -13660,12 +13966,13 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -13682,6 +13989,9 @@
   - **Authors:** Chen, Su-Qin; Jiao, Jun-Ying; Zhang, Xing-Guo; Zhang, Xiao-Hong
   - **Citation:** Tetrahedron (2019), 75(2), 246-252
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-260-CAS-17897247
@@ -13691,8 +14001,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -13721,8 +14032,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -13751,8 +14063,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -13781,8 +14094,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -13811,8 +14125,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Trimethylamine (CAS: 75-50-3) - Role: UNK
@@ -13841,8 +14156,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -13863,6 +14179,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837367
@@ -13872,8 +14191,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -13894,6 +14214,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837368
@@ -13903,8 +14226,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -13925,6 +14249,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837369
@@ -13934,8 +14261,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -13956,6 +14284,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837370
@@ -13965,8 +14296,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -13987,6 +14319,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837371
@@ -13996,8 +14331,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14018,6 +14354,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837372
@@ -14027,8 +14366,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14049,6 +14389,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837373
@@ -14058,8 +14401,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14080,6 +14424,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837374
@@ -14089,8 +14436,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14111,6 +14459,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837375
@@ -14120,8 +14471,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14142,6 +14494,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837376
@@ -14151,8 +14506,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14173,6 +14529,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837377
@@ -14182,8 +14541,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14204,6 +14564,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837378
@@ -14213,8 +14576,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14235,6 +14599,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837380
@@ -14244,8 +14611,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14266,6 +14634,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837381
@@ -14275,8 +14646,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14297,6 +14669,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837382
@@ -14306,8 +14681,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14328,6 +14704,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837384
@@ -14337,8 +14716,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14359,6 +14739,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837385
@@ -14368,8 +14751,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14390,6 +14774,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837386
@@ -14399,8 +14786,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14421,6 +14809,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837387
@@ -14430,8 +14821,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14452,6 +14844,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837388
@@ -14461,8 +14856,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14483,6 +14879,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837389
@@ -14492,8 +14891,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14514,6 +14914,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837390
@@ -14523,8 +14926,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14545,6 +14949,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837391
@@ -14554,8 +14961,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14576,6 +14984,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837392
@@ -14585,8 +14996,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14607,6 +15019,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837393
@@ -14616,8 +15031,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14638,6 +15054,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837395
@@ -14647,8 +15066,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14669,6 +15089,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837397
@@ -14678,8 +15101,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14700,6 +15124,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837398
@@ -14709,8 +15136,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14731,6 +15159,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837399
@@ -14740,8 +15171,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14762,6 +15194,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837400
@@ -14771,8 +15206,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DHMO (CAS: 14314-42-2) - Role: UNK
@@ -14793,6 +15229,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837407
@@ -14802,8 +15241,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14824,6 +15264,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19837408
@@ -14833,8 +15276,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14855,6 +15299,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-298-CAS-19843113
@@ -14864,8 +15311,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zn (CAS: 7440-66-6) - Role: UNK
@@ -14886,6 +15334,9 @@
   - **Authors:** Xie, Hao; Xing, Qiaoyan; Shan, Zhifei; Xiao, Fuhong; Deng, Guo-Jun
   - **Citation:** Advanced Synthesis & Catalysis (2019), 361(8), 1896-1901
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-309-CAS-15703568
@@ -14897,9 +15348,9 @@
   - 2-Methyltetrahydrofuran (CAS: 534-22-5)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - 2-Methyltetrahydrofuran (CAS: 534-22-5)
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -14932,9 +15383,9 @@
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
   - Aluminum (CAS: 7429-90-5)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
-  - Aluminum (CAS: 7429-90-5)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -14961,9 +15412,9 @@
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
   - Aluminum (CAS: 7429-90-5)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
-  - Aluminum (CAS: 7429-90-5)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -14990,9 +15441,9 @@
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
   - Aluminum (CAS: 7429-90-5)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
-  - Aluminum (CAS: 7429-90-5)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -15018,8 +15469,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - NaBH4 (CAS: 16940-66-2) - Role: UNK
@@ -15052,10 +15504,9 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Guanidine Nitrate (CAS: 506-93-4)
-  - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -15083,10 +15534,9 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Guanidine Nitrate (CAS: 506-93-4)
-  - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -15114,10 +15564,9 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Guanidine Nitrate (CAS: 506-93-4)
-  - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -15145,10 +15594,9 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Guanidine Nitrate (CAS: 506-93-4)
-  - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -15176,10 +15624,9 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Guanidine Nitrate (CAS: 506-93-4)
-  - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -15205,8 +15652,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeOH (CAS: 67-56-1)
@@ -15232,8 +15680,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeOH (CAS: 67-56-1)
@@ -15259,8 +15708,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -15282,7 +15730,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -15294,14 +15741,13 @@
   - 1,3-bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium (CAS: 258278-28-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,3-bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium (CAS: 258278-28-3)
+**ConditionCore:** 1,3-bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
 **Reagents:**
-  - NSC-4648 (CAS: 556-91-2) - Role: UNK
+  - Aluminum tert-butoxide (CAS: 556-91-2) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -15332,9 +15778,9 @@
   - 2-Methyltetrahydrofuran (CAS: 534-22-5)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - 2-Methyltetrahydrofuran (CAS: 534-22-5)
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -15368,9 +15814,9 @@
   - 2-Methyltetrahydrofuran (CAS: 534-22-5)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - 2-Methyltetrahydrofuran (CAS: 534-22-5)
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -15404,9 +15850,9 @@
   - 2-Methyltetrahydrofuran (CAS: 534-22-5)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - 2-Methyltetrahydrofuran (CAS: 534-22-5)
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -15439,8 +15885,7 @@
   - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
+**ConditionCore:** 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -15465,6 +15910,7 @@
   - **Citation:** Synlett (2021), 32(16), 1665-1669
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane' (CAS 1902911-41-4): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -15477,8 +15923,7 @@
   - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
+**ConditionCore:** 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -15503,6 +15948,7 @@
   - **Citation:** Synlett (2021), 32(16), 1665-1669
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane' (CAS 1902911-41-4): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -15515,8 +15961,7 @@
   - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
+**ConditionCore:** 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -15541,6 +15986,7 @@
   - **Citation:** Synlett (2021), 32(16), 1665-1669
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane' (CAS 1902911-41-4): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -15553,8 +15999,7 @@
   - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane (CAS: 1902911-41-4)
+**ConditionCore:** 8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -15579,6 +16024,7 @@
   - **Citation:** Synlett (2021), 32(16), 1665-1669
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '8-(2-(Dicyclohexylphosphaneyl)phenyl)-1,3,5,7-tetramethyl-2,4,6-trioxa-8-phosphaadamantane' (CAS 1902911-41-4): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -15591,9 +16037,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-06-2
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2700228-06-2
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15623,9 +16069,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2700228-05-1
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15655,9 +16101,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2700228-05-1
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15687,9 +16133,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2700228-05-1
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15719,9 +16165,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2700228-05-1
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15751,9 +16197,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 1,6-Dioxapyrene (CAS: 191-28-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15783,9 +16229,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 1,6-Dioxapyrene (CAS: 191-28-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15815,9 +16261,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 1,6-Dioxapyrene (CAS: 191-28-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15847,9 +16293,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 1,6-Dioxapyrene (CAS: 191-28-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15879,9 +16325,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 1,6-Dioxapyrene (CAS: 191-28-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15912,10 +16358,9 @@
   - 7H3SF (CAS: 74811-65-7)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 7H3SF (CAS: 74811-65-7)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -15935,6 +16380,9 @@
   - **Authors:** Borlinghaus, Niginia; Schoenfeld, Barbara; Heitz, Stephanie; Klee, Johanna; Vukelic, Stella; Braje, Wilfried M.; Jolit, Anais
   - **Citation:** Journal of Organic Chemistry (2021), 86(23), 16535-16547
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24964283
@@ -15944,8 +16392,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -15965,6 +16414,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24969995
@@ -15974,8 +16426,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -15997,7 +16448,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16008,8 +16458,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -16035,8 +16486,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16056,6 +16508,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-25253910
@@ -16065,13 +16520,14 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - n-BuLi (CAS: 109-72-8) - Role: BASE
   - TEA (CAS: 121-44-8) - Role: BASE
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
 
 **Solvents:**
@@ -16102,8 +16558,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -16130,9 +16587,9 @@
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - (2-Thiophenecarboxylato)copper (CAS: 68986-76-5)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - (2-Thiophenecarboxylato)copper (CAS: 68986-76-5)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni, Cu
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -16154,6 +16611,9 @@
   - **Authors:** Wei, Kai-Jie; Quan, Zheng-Jun; Zhang, Zhang; Da, Yu-Xia; Wang, Xi-Cun
   - **Citation:** Synlett (2016), 27(11), 1743-1747
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-25581862
@@ -16163,8 +16623,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16186,7 +16645,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16197,8 +16655,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -16220,7 +16677,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16231,8 +16687,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16252,6 +16709,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-25757246
@@ -16261,8 +16721,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -16284,7 +16743,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16295,11 +16753,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16318,6 +16777,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-25922480
@@ -16328,16 +16790,14 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - PPh3 (CAS: 603-35-0)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - PPh3 (CAS: 603-35-0)
+**ConditionCore:** Ni/PPh3
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAC (CAS: 1112-67-0) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
   - Hydrogen selenide (CAS: 7782-49-2) - Role: UNK
 
 **Solvents:**
@@ -16357,7 +16817,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16368,11 +16827,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16391,6 +16851,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26088366
@@ -16400,11 +16863,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16423,6 +16887,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26135525
@@ -16432,8 +16899,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16455,7 +16921,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16466,8 +16931,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16487,6 +16953,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26198624
@@ -16496,11 +16965,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16519,6 +16989,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26255926
@@ -16528,11 +17001,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16551,6 +17025,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26384823
@@ -16560,8 +17037,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16583,7 +17059,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16594,8 +17069,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16615,6 +17091,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26525810
@@ -16624,8 +17103,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16647,7 +17125,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16658,8 +17135,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16679,6 +17157,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26749989
@@ -16688,8 +17169,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16709,6 +17191,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-26752912
@@ -16718,8 +17203,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16741,7 +17225,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16752,8 +17235,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16773,6 +17257,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-27048343
@@ -16782,8 +17269,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
@@ -16815,8 +17301,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16836,6 +17323,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-27053489
@@ -16845,8 +17335,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16868,7 +17357,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16879,8 +17367,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -16906,8 +17395,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16929,7 +17417,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16940,8 +17427,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -16961,6 +17449,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-27419914
@@ -16970,8 +17461,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16993,7 +17483,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17004,8 +17493,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17025,6 +17515,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-27578708
@@ -17034,8 +17527,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17055,6 +17549,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-27845596
@@ -17064,8 +17561,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -17087,7 +17583,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17098,8 +17593,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -17121,7 +17615,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17132,8 +17625,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -17155,7 +17647,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17166,8 +17657,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17189,7 +17679,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17200,8 +17689,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17221,6 +17711,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-28042865
@@ -17230,8 +17723,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17253,7 +17745,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17264,8 +17755,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17285,6 +17777,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-28088524
@@ -17294,8 +17789,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17317,7 +17811,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17328,8 +17821,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17349,6 +17843,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-28481599
@@ -17358,8 +17855,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -17385,8 +17883,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17406,6 +17905,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-28632839
@@ -17415,8 +17917,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17436,6 +17939,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-28717185
@@ -17446,9 +17952,9 @@
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - (2-Thiophenecarboxylato)copper (CAS: 68986-76-5)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - (2-Thiophenecarboxylato)copper (CAS: 68986-76-5)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni, Cu
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -17470,6 +17976,9 @@
   - **Authors:** Wei, Kai-Jie; Quan, Zheng-Jun; Zhang, Zhang; Da, Yu-Xia; Wang, Xi-Cun
   - **Citation:** Synlett (2016), 27(11), 1743-1747
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-28775420
@@ -17479,8 +17988,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17502,7 +18010,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17515,15 +18022,12 @@
   - Iridium(3+);1,2,3,5,5-pentamethylcyclopenta-1,3-diene;dichloride (CAS: 12354-84-6)
   - Dichloronickel hexahydrate (CAS: 26042-64-8)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Iridium(3+);1,2,3,5,5-pentamethylcyclopenta-1,3-diene;dichloride (CAS: 12354-84-6)
-  - Dichloronickel hexahydrate (CAS: 26042-64-8)
+**ConditionCore:** Ni
 
-**Generic Catalyst:** Ni
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
 
 **Solvents:**
   - iPrOH (CAS: 67-63-0)
@@ -17549,8 +18053,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17572,7 +18075,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17583,8 +18085,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -17610,8 +18113,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17631,6 +18135,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-29014551
@@ -17640,8 +18147,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17663,7 +18169,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17674,8 +18179,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17697,7 +18201,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17709,16 +18212,14 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - PPh3 (CAS: 603-35-0)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - PPh3 (CAS: 603-35-0)
+**ConditionCore:** Ni/PPh3
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAC (CAS: 1112-67-0) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
   - Hydrogen selenide (CAS: 7782-49-2) - Role: UNK
 
 **Solvents:**
@@ -17738,7 +18239,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17749,8 +18249,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -17772,7 +18271,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17783,8 +18281,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17806,7 +18303,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17818,8 +18314,7 @@
   - IPrCl (CAS: 250285-32-6)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - IPrCl (CAS: 250285-32-6)
+**ConditionCore:** IPrCl/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -17845,7 +18340,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'IPrCl' (CAS 250285-32-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17856,8 +18350,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -17877,6 +18372,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-29391450
@@ -17886,11 +18384,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -17909,6 +18408,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-29450261
@@ -17918,8 +18420,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -17941,7 +18442,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -17952,11 +18452,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -17975,6 +18476,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-29467598
@@ -17984,8 +18488,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18007,7 +18510,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18019,9 +18521,9 @@
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - (2-Thiophenecarboxylato)copper (CAS: 68986-76-5)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - (2-Thiophenecarboxylato)copper (CAS: 68986-76-5)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni, Cu
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -18043,6 +18545,9 @@
   - **Authors:** Wei, Kai-Jie; Quan, Zheng-Jun; Zhang, Zhang; Da, Yu-Xia; Wang, Xi-Cun
   - **Citation:** Synlett (2016), 27(11), 1743-1747
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-29571978
@@ -18052,8 +18557,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -18075,7 +18579,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18086,8 +18589,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -18107,6 +18611,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-29889991
@@ -18116,8 +18623,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18139,7 +18645,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18150,8 +18655,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18173,7 +18677,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18184,11 +18687,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18207,6 +18711,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-30228344
@@ -18216,8 +18723,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -18237,6 +18745,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-30371183
@@ -18246,8 +18757,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18269,7 +18779,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18280,11 +18789,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18303,6 +18813,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-30430251
@@ -18310,16 +18823,14 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - Zn (CAS: 7440-66-6)
+  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
-  - Zn (CAS: 7440-66-6)
-  - BBBPY (CAS: 72914-19-3)
-  - CAS: 2256751-76-3
+**ConditionCore:** Zn/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Zn, Ni
 
 **Reagents:**
   - BTMG (CAS: 29166-72-1) - Role: UNK
@@ -18339,6 +18850,10 @@
   - **Authors:** Han, Dongyang; Li, Sasa; Xia, Siqi; Su, Mincong; Jin, Jian
   - **Citation:** Chemistry - A European Journal (2020), 26(54), 12349-12354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-30485484
@@ -18348,11 +18863,12 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18371,6 +18887,9 @@
   - **Authors:** Gong, Hai-Peng; Quan, Zheng-Jun; Wang, Xi-Cun
   - **Citation:** Applied Organometallic Chemistry (2016), 30(11), 949-953
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-30492863
@@ -18380,8 +18899,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18403,7 +18921,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18414,8 +18931,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18437,7 +18953,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18448,8 +18963,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18471,7 +18985,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18482,8 +18995,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -18505,7 +19017,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18516,8 +19027,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -18537,6 +19049,9 @@
   - **Authors:** Weng, Wei-Zhi; Xie, Jian; Zhang, Bo
   - **Citation:** Organic & Biomolecular Chemistry (2018), 16(21), 3983-3988
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-30774882
@@ -18546,8 +19061,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18569,7 +19083,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18580,8 +19093,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -18608,9 +19122,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18640,9 +19154,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18672,9 +19186,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18704,9 +19218,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18736,9 +19250,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18768,9 +19282,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18800,9 +19314,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18832,9 +19346,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18864,9 +19378,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18896,9 +19410,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18928,9 +19442,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate) (CAS: 60804-74-2)
+**ConditionCore:** Ni/Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)
+
+**Generic Catalyst:** Ni, Ru
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -18949,6 +19463,9 @@
   - **Authors:** Cordell, Morgan J.; Adams, Matt R.; Vincent-Rocan, Jean-Francois; Riley, John G.
   - **Citation:** European Journal of Organic Chemistry (2022), 2022(4), e202101143
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(2,2'-bipyridine)ruthenium(II) Bis(hexafluorophosphate)' (CAS 60804-74-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529597
@@ -18958,8 +19475,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -18979,6 +19497,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529603
@@ -18988,8 +19509,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -19009,6 +19531,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529604
@@ -19018,8 +19543,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -19039,6 +19565,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529605
@@ -19048,8 +19577,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -19069,6 +19599,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529633
@@ -19078,8 +19611,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -19099,6 +19633,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529636
@@ -19108,8 +19645,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -19129,6 +19667,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529648
@@ -19138,8 +19679,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -19159,6 +19701,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31529649
@@ -19168,8 +19713,9 @@
 **Full Catalytic System:**
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
 
-**Catalyst Core:**
-  - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
+**ConditionCore:** Ni/Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
@@ -19189,6 +19735,9 @@
   - **Authors:** Chen, Lepeng; Lv, Ningning; Zhen, Qianqian; Chen, Zhongyan; Ge, Jingyuan; Chen, Jiuxi
   - **Citation:** Organic Chemistry Frontiers (2022), 9(7), 1955-1959
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel' (CAS 15629-92-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-31533164
@@ -19199,15 +19748,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 96%
@@ -19231,15 +19780,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 92%
@@ -19263,15 +19812,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 94%
@@ -19295,15 +19844,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 91%
@@ -19327,15 +19876,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 63%
@@ -19359,15 +19908,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 86%
@@ -19391,15 +19940,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 62%
@@ -19423,15 +19972,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 86%
@@ -19455,15 +20004,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 89%
@@ -19487,15 +20036,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 83%
@@ -19519,15 +20068,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 73%
@@ -19551,15 +20100,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 93%
@@ -19583,15 +20132,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 87%
@@ -19615,15 +20164,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 63%
@@ -19647,15 +20196,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 82%
@@ -19679,15 +20228,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 71%
@@ -19711,15 +20260,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 91%
@@ -19743,15 +20292,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 86%
@@ -19775,15 +20324,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 76%
@@ -19807,15 +20356,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 90%
@@ -19839,15 +20388,15 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2763483-69-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
 
 **Solvents:**
-  - NSC-7195 (CAS: 121-69-7)
+  - N,N-Dimethylaniline (CAS: 121-69-7)
 
 **Reaction Conditions:**
   - Yield: 91%
@@ -19871,9 +20420,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - DMAP (CAS: 1122-58-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - DMAP (CAS: 1122-58-3)
+**ConditionCore:** Ni/DMAP
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -19893,7 +20442,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'DMAP' (CAS 1122-58-3): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'DMAP' (CAS 1122-58-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19905,8 +20453,7 @@
   - Bipyridine (CAS: 366-18-7)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - Bipyridine (CAS: 366-18-7)
+**ConditionCore:** Bipyridine/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -19932,7 +20479,6 @@
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'Bipyridine' (CAS 366-18-7): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'Bipyridine' (CAS 366-18-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19944,9 +20490,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -19968,6 +20514,9 @@
   - **Authors:** Li, Rui; Yang, Chen-Xi; Niu, Bai-Hua; Li, Li-Juan; Ma, Ji-Mei; Li, Zi-Long; Jiang, Hong; Cheng, Wan-Min
   - **Citation:** Organic Chemistry Frontiers (2022), 9(14), 3847-3853
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32730737
@@ -19978,9 +20527,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -20002,6 +20551,9 @@
   - **Authors:** Li, Rui; Yang, Chen-Xi; Niu, Bai-Hua; Li, Li-Juan; Ma, Ji-Mei; Li, Zi-Long; Jiang, Hong; Cheng, Wan-Min
   - **Citation:** Organic Chemistry Frontiers (2022), 9(14), 3847-3853
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32730738
@@ -20012,9 +20564,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -20036,6 +20588,9 @@
   - **Authors:** Li, Rui; Yang, Chen-Xi; Niu, Bai-Hua; Li, Li-Juan; Ma, Ji-Mei; Li, Zi-Long; Jiang, Hong; Cheng, Wan-Min
   - **Citation:** Organic Chemistry Frontiers (2022), 9(14), 3847-3853
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32730739
@@ -20046,9 +20601,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -20070,6 +20625,9 @@
   - **Authors:** Li, Rui; Yang, Chen-Xi; Niu, Bai-Hua; Li, Li-Juan; Ma, Ji-Mei; Li, Zi-Long; Jiang, Hong; Cheng, Wan-Min
   - **Citation:** Organic Chemistry Frontiers (2022), 9(14), 3847-3853
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32730741
@@ -20080,9 +20638,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -20104,6 +20662,9 @@
   - **Authors:** Li, Rui; Yang, Chen-Xi; Niu, Bai-Hua; Li, Li-Juan; Ma, Ji-Mei; Li, Zi-Long; Jiang, Hong; Cheng, Wan-Min
   - **Citation:** Organic Chemistry Frontiers (2022), 9(14), 3847-3853
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868741
@@ -20115,13 +20676,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20139,6 +20699,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868742
@@ -20150,13 +20714,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20174,6 +20737,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868743
@@ -20185,13 +20752,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20209,6 +20775,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868744
@@ -20220,13 +20790,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20244,6 +20813,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868745
@@ -20255,13 +20828,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20279,6 +20851,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868746
@@ -20290,13 +20866,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20314,6 +20889,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868747
@@ -20325,13 +20904,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20349,6 +20927,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868748
@@ -20360,13 +20942,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20384,6 +20965,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-32868750
@@ -20395,13 +20980,12 @@
   - B6161 (CAS: 1092775-62-6)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - B6161 (CAS: 1092775-62-6)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/B6161
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
-  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: UNK
+  - Tetrabutylammonium dibutyl phosphate (CAS: 29536-33-2) - Role: CAT_LIG
 
 **Solvents:**
   - (Trifluoromethyl)benzene (CAS: 98-08-8)
@@ -20419,6 +21003,10 @@
   - **Authors:** Turksoy, Abdurrahman; Bouayad-Gervais, Samir; Schoenebeck, Franziska
   - **Citation:** Chemistry - A European Journal (2022), 28(46), e202201435
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'B6161' (CAS 1092775-62-6): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33082843
@@ -20428,8 +21016,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20458,8 +21047,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20488,8 +21078,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20518,8 +21109,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20548,8 +21140,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20578,8 +21171,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20608,8 +21202,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20638,8 +21233,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20669,8 +21265,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20700,8 +21297,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20731,8 +21329,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20762,8 +21361,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20793,8 +21393,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20824,8 +21425,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -20856,9 +21458,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -20882,6 +21482,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432152
@@ -20892,9 +21495,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -20918,6 +21519,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432154
@@ -20928,9 +21532,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -20954,6 +21556,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432155
@@ -20964,9 +21569,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -20990,6 +21593,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432157
@@ -21000,9 +21606,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21026,6 +21630,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432158
@@ -21036,9 +21643,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21062,6 +21667,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432159
@@ -21072,9 +21680,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21098,6 +21704,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432162
@@ -21108,9 +21717,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21134,6 +21741,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432163
@@ -21144,9 +21754,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21170,6 +21778,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432164
@@ -21180,9 +21791,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21206,6 +21815,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432166
@@ -21216,9 +21828,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21242,6 +21852,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432175
@@ -21252,9 +21865,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21278,6 +21889,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432221
@@ -21288,9 +21902,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21314,6 +21926,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432223
@@ -21324,9 +21939,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21350,6 +21963,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432226
@@ -21360,9 +21976,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21386,6 +22000,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432227
@@ -21396,9 +22013,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21422,6 +22037,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432228
@@ -21432,9 +22050,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21458,6 +22074,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432229
@@ -21468,9 +22087,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21494,6 +22111,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432231
@@ -21504,9 +22124,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21530,6 +22148,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432233
@@ -21540,9 +22161,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21566,6 +22185,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432248
@@ -21576,9 +22198,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21602,6 +22222,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432249
@@ -21612,9 +22235,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21638,6 +22259,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432255
@@ -21648,9 +22272,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21674,6 +22296,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432256
@@ -21684,9 +22309,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21710,6 +22333,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432257
@@ -21720,9 +22346,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21746,6 +22370,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432262
@@ -21756,9 +22383,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21782,6 +22407,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432367
@@ -21792,9 +22420,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21817,6 +22443,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432369
@@ -21827,9 +22456,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21852,6 +22479,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432371
@@ -21862,9 +22492,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21887,6 +22515,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432373
@@ -21897,9 +22528,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21922,6 +22551,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432374
@@ -21932,9 +22564,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21957,6 +22587,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432375
@@ -21967,9 +22600,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -21992,6 +22623,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432376
@@ -22002,9 +22636,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22027,6 +22659,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432377
@@ -22037,9 +22672,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22062,6 +22695,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432378
@@ -22072,9 +22708,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22097,6 +22731,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432379
@@ -22107,9 +22744,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22132,6 +22767,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432380
@@ -22142,9 +22780,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22167,6 +22803,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432381
@@ -22177,9 +22816,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22202,6 +22839,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432382
@@ -22212,9 +22852,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22237,6 +22875,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432383
@@ -22247,9 +22888,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22272,6 +22911,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432384
@@ -22282,9 +22924,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22307,6 +22947,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432385
@@ -22317,9 +22960,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22342,6 +22983,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432386
@@ -22352,9 +22996,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22377,6 +23019,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432387
@@ -22387,9 +23032,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22412,6 +23055,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432388
@@ -22422,9 +23068,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22447,6 +23091,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432389
@@ -22457,9 +23104,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22482,6 +23127,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432390
@@ -22492,9 +23140,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22517,6 +23163,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432391
@@ -22527,9 +23176,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22552,6 +23199,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432393
@@ -22562,9 +23212,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22587,6 +23235,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432394
@@ -22597,9 +23248,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22622,6 +23271,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432395
@@ -22632,9 +23284,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22657,6 +23307,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432396
@@ -22667,9 +23320,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22692,6 +23343,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432397
@@ -22702,9 +23356,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22727,6 +23379,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432398
@@ -22737,9 +23392,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22762,6 +23415,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432399
@@ -22772,9 +23428,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22797,6 +23451,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432400
@@ -22807,9 +23464,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22832,6 +23487,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432401
@@ -22842,9 +23500,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22867,6 +23523,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432402
@@ -22877,9 +23536,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22902,6 +23559,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432403
@@ -22912,9 +23572,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22937,6 +23595,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432408
@@ -22947,9 +23608,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -22972,6 +23631,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33432409
@@ -22982,9 +23644,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -23007,6 +23667,9 @@
   - **Authors:** Song, Geyang; Nong, Ding-Zhan; Li, Jing-Sheng; Li, Gang; Zhang, Wei; Cao, Rui; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Journal of Organic Chemistry (2022), 87(15), 10285-10297
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-33455866
@@ -23016,14 +23679,13 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - AMPD (CAS: 10294-26-5) - Role: UNK
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Solvents:**
@@ -23050,14 +23712,13 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - AMPD (CAS: 10294-26-5) - Role: UNK
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Solvents:**
@@ -23084,14 +23745,13 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - AMPD (CAS: 10294-26-5) - Role: UNK
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Solvents:**
@@ -23118,14 +23778,13 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - AMPD (CAS: 10294-26-5) - Role: UNK
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Solvents:**
@@ -23152,14 +23811,13 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - AMPD (CAS: 10294-26-5) - Role: UNK
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Solvents:**
@@ -23186,14 +23844,13 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
+**ConditionCore:** Ni
 
 **Generic Catalyst:** Ni
 
 **Reagents:**
   - AMPD (CAS: 10294-26-5) - Role: UNK
-  - PIV (CAS: 75-98-9) - Role: UNK
+  - PivOH (CAS: 75-98-9) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
 **Solvents:**
@@ -23220,16 +23877,16 @@
 **Full Catalytic System:**
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** 2661321-37-3/2764968-01-4
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23250,9 +23907,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23263,16 +23921,16 @@
 **Full Catalytic System:**
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** 2661321-37-3/2764968-01-4
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23293,9 +23951,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23306,16 +23965,16 @@
 **Full Catalytic System:**
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** 2661321-37-3/2764968-01-4
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23336,9 +23995,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23349,16 +24009,16 @@
 **Full Catalytic System:**
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** 2661321-37-3/2764968-01-4
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23379,9 +24039,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23392,16 +24053,16 @@
 **Full Catalytic System:**
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** 2661321-37-3/2764968-01-4
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23422,9 +24083,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23435,16 +24097,16 @@
 **Full Catalytic System:**
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** 2661321-37-3/2764968-01-4
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23465,9 +24127,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23478,16 +24141,16 @@
 **Full Catalytic System:**
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** 2661321-37-3/2764968-01-4
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23508,9 +24171,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23522,17 +24186,18 @@
   - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - O,O-tert-Butyl O-(2-ethylhexyl) peroxycarbonate (CAS: 34443-12-4) - Role: UNK
@@ -23557,9 +24222,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23571,17 +24237,18 @@
   - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - O,O-tert-Butyl O-(2-ethylhexyl) peroxycarbonate (CAS: 34443-12-4) - Role: UNK
@@ -23606,9 +24273,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23620,17 +24288,18 @@
   - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - O,O-tert-Butyl O-(2-ethylhexyl) peroxycarbonate (CAS: 34443-12-4) - Role: UNK
@@ -23655,9 +24324,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23669,17 +24339,18 @@
   - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - O,O-tert-Butyl O-(2-ethylhexyl) peroxycarbonate (CAS: 34443-12-4) - Role: UNK
@@ -23704,9 +24375,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23718,17 +24390,18 @@
   - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
   - CAS: 2661321-37-3
   - CAS: 2764968-01-4
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
-  - Tetrakis(acetonitrile)copper(I) tetrafluoroborate (CAS: 15418-29-8)
-  - CAS: 2661321-37-3
-  - CAS: 2764968-01-4
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
+
+**ConditionCore:** Cu/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+
+**Generic Catalyst:** Cu
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+  - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
 **Reagents:**
   - O,O-tert-Butyl O-(2-ethylhexyl) peroxycarbonate (CAS: 34443-12-4) - Role: UNK
@@ -23753,9 +24426,10 @@
   - **Citation:** Organic Letters (2022), 24(36), 6571-6575
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
+  - ⚠️ Ligands: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -23766,8 +24440,7 @@
 **Full Catalytic System:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -23789,7 +24462,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -23801,8 +24473,7 @@
   - Duroquinone (CAS: 527-17-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - Duroquinone (CAS: 527-17-3)
+**ConditionCore:** Duroquinone/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -23837,8 +24508,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -23869,8 +24541,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -23901,8 +24574,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -23933,8 +24607,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -23965,8 +24640,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -23997,8 +24673,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24029,8 +24706,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24061,8 +24739,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24093,8 +24772,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24125,8 +24805,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24157,8 +24838,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24189,8 +24871,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24221,8 +24904,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24253,8 +24937,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24285,8 +24970,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24317,8 +25003,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24349,8 +25036,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24381,8 +25069,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24413,8 +25102,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24445,8 +25135,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24477,8 +25168,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24509,8 +25201,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24541,8 +25234,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24573,8 +25267,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24605,8 +25300,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -24639,10 +25335,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24663,6 +25358,10 @@
   - **Authors:** Bradley, Robert D.; Bahamonde, Ana
   - **Citation:** Organic Letters (2022), 24(39), 7134-7139
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-34330052
@@ -24674,10 +25373,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24695,6 +25393,10 @@
   - **Authors:** Bradley, Robert D.; Bahamonde, Ana
   - **Citation:** Organic Letters (2022), 24(39), 7134-7139
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-34330057
@@ -24706,10 +25408,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24730,6 +25431,10 @@
   - **Authors:** Bradley, Robert D.; Bahamonde, Ana
   - **Citation:** Organic Letters (2022), 24(39), 7134-7139
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-34408118
@@ -24740,9 +25445,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24770,9 +25475,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24800,9 +25505,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24830,9 +25535,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24860,9 +25565,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24890,9 +25595,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24920,9 +25625,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24950,9 +25655,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -24980,9 +25685,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25010,9 +25715,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25040,9 +25745,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25070,9 +25775,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25100,9 +25805,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25130,9 +25835,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25160,9 +25865,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25190,9 +25895,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25220,9 +25925,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25250,9 +25955,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25280,9 +25985,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25310,9 +26015,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25340,9 +26045,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25370,9 +26075,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25400,9 +26105,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25430,9 +26135,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25460,9 +26165,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25490,9 +26195,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25520,9 +26225,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25550,9 +26255,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25580,9 +26285,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25610,9 +26315,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25640,9 +26345,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25670,9 +26375,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25700,9 +26405,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25730,9 +26435,9 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - CuI (CAS: 7681-65-4)
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Ni
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
@@ -25760,9 +26465,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -25792,9 +26497,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -25824,9 +26529,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -25856,9 +26561,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -25888,9 +26593,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -25920,9 +26625,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -25952,9 +26657,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -25984,9 +26689,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26016,9 +26721,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26048,9 +26753,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26080,9 +26785,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26112,9 +26817,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26144,9 +26849,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26176,9 +26881,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26208,9 +26913,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26240,9 +26945,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26272,9 +26977,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26304,9 +27009,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26336,9 +27041,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26368,9 +27073,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26400,9 +27105,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26432,9 +27137,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 2259313-99-8
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -26464,8 +27169,7 @@
   - BBBPY (CAS: 72914-19-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** BBBPY/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26490,6 +27194,7 @@
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26502,8 +27207,7 @@
   - BBBPY (CAS: 72914-19-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** BBBPY/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26528,6 +27232,7 @@
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26540,8 +27245,7 @@
   - BBBPY (CAS: 72914-19-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** BBBPY/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26566,6 +27270,7 @@
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26578,8 +27283,7 @@
   - BBBPY (CAS: 72914-19-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** BBBPY/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26604,6 +27308,7 @@
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26616,9 +27321,9 @@
   - Nickel (CAS: 7718-54-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -26639,6 +27344,9 @@
   - **Authors:** Luo, Hang; Wang, Guohua; Feng, Yunhui; Zheng, Wanyao; Kong, Lingya; Ma, Yunpeng; Matsunaga, Shigeki; Lin, Luqing
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35219836
@@ -26649,9 +27357,9 @@
   - Nickel (CAS: 7718-54-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -26672,6 +27380,9 @@
   - **Authors:** Luo, Hang; Wang, Guohua; Feng, Yunhui; Zheng, Wanyao; Kong, Lingya; Ma, Yunpeng; Matsunaga, Shigeki; Lin, Luqing
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35219870
@@ -26682,8 +27393,7 @@
   - BBBPY (CAS: 72914-19-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** BBBPY/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26708,6 +27418,7 @@
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26720,9 +27431,9 @@
   - Nickel (CAS: 7718-54-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -26743,6 +27454,9 @@
   - **Authors:** Luo, Hang; Wang, Guohua; Feng, Yunhui; Zheng, Wanyao; Kong, Lingya; Ma, Yunpeng; Matsunaga, Shigeki; Lin, Luqing
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35219910
@@ -26753,9 +27467,9 @@
   - Nickel (CAS: 7718-54-9)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DBU (CAS: 6674-22-2) - Role: BASE
@@ -26776,6 +27490,9 @@
   - **Authors:** Luo, Hang; Wang, Guohua; Feng, Yunhui; Zheng, Wanyao; Kong, Lingya; Ma, Yunpeng; Matsunaga, Shigeki; Lin, Luqing
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202385
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35275924
@@ -26786,8 +27503,7 @@
   - C24H1P (CAS: 247940-06-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - C24H1P (CAS: 247940-06-3)
+**ConditionCore:** C24H1P/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26812,6 +27528,7 @@
   - **Citation:** Journal of the American Chemical Society (2022), 144(42), 19635-19648
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26825,10 +27542,9 @@
   - Bipyridine (CAS: 366-18-7)
   - CAS: 1639932-26-5
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Bipyridine (CAS: 366-18-7)
-  - CAS: 1639932-26-5
+**ConditionCore:** Ni/Bipyridine
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - ABCO (CAS: 100-76-5) - Role: UNK
@@ -26850,7 +27566,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'Bipyridine' (CAS 366-18-7): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'Bipyridine' (CAS 366-18-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -26862,8 +27577,7 @@
   - BBBPY (CAS: 72914-19-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** BBBPY/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26889,6 +27603,7 @@
   - **Citation:** Green Chemistry (2023), 25(6), 2361-2367
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26901,8 +27616,7 @@
   - BBBPY (CAS: 72914-19-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** BBBPY/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26928,6 +27642,7 @@
   - **Citation:** Green Chemistry (2023), 25(6), 2361-2367
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---
@@ -26940,8 +27655,7 @@
   - CAS: 2900355-72-6
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2900355-72-6
+**ConditionCore:** 2900355-72-6/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -26974,8 +27688,7 @@
   - CAS: 2900355-80-6
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2900355-80-6
+**ConditionCore:** 2900355-80-6/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -27008,8 +27721,7 @@
   - CAS: 2900355-76-0
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2900355-76-0
+**ConditionCore:** 2900355-76-0/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -27042,9 +27754,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27071,9 +27783,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27100,9 +27812,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27129,9 +27841,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27158,9 +27870,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27187,9 +27899,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27216,9 +27928,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27245,9 +27957,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27274,9 +27986,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27303,9 +28015,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27332,9 +28044,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27361,9 +28073,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27390,9 +28102,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27419,9 +28131,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27448,9 +28160,9 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - Cadmium acetate (CAS: 543-90-8)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -27477,9 +28189,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27502,6 +28212,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36091254
@@ -27512,9 +28225,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27537,6 +28248,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36091256
@@ -27547,9 +28261,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27572,6 +28284,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36091257
@@ -27582,9 +28297,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27607,6 +28320,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36091264
@@ -27617,9 +28333,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27642,6 +28356,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36091266
@@ -27652,9 +28369,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27677,6 +28392,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36091273
@@ -27687,9 +28405,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27712,6 +28428,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36091274
@@ -27722,9 +28441,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - Bis(diphenylphosphino)methane (CAS: 2071-20-7)
+**ConditionCore:** Ni/Bis(diphenylphosphino)methane
 
 **Generic Catalyst:** Ni
 
@@ -27747,6 +28464,9 @@
   - **Authors:** Li, Wenwei; Wang, Ruxue; Li, Zhefeng; Chen, Jiuxi; Zhang, Yuhong; Lv, Ningning
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(29), 4360-4363
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(diphenylphosphino)methane' (CAS 2071-20-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36411193
@@ -27754,14 +28474,11 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - dppf (CAS: 12150-46-8)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
-
-**Catalyst Core:**
   - dppf (CAS: 12150-46-8)
+  - bidentate phosphine (CAS: unknown)
 
-**Ligands:**
-  - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
+**ConditionCore:** 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]/dppf
 
 **Reagents:**
   - Lithium (CAS: 1907-33-1) - Role: UNK
@@ -27782,9 +28499,9 @@
   - **Citation:** Angewandte Chemie, International Edition (2023), 62(23), e202300686
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: No valid CAS for 'bidentate phosphine' — kept as name-only
 
 ---
 
@@ -27795,8 +28512,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -27822,8 +28540,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -27849,8 +28568,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -27876,8 +28596,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -27903,8 +28624,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -27930,8 +28652,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -27957,8 +28680,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -27984,8 +28708,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28011,8 +28736,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28038,8 +28764,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28065,8 +28792,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Lithium Chloride (CAS: 7447-41-8) - Role: UNK
@@ -28095,8 +28823,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28122,8 +28851,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28149,8 +28879,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28176,8 +28907,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28203,8 +28935,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28230,8 +28963,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28257,8 +28991,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28284,8 +29019,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28311,8 +29047,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28338,8 +29075,9 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -28366,9 +29104,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28390,6 +29128,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529221
@@ -28400,9 +29141,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28424,6 +29165,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529222
@@ -28434,9 +29178,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28458,6 +29202,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529224
@@ -28468,9 +29215,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28492,6 +29239,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529225
@@ -28502,9 +29252,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28526,6 +29276,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529227
@@ -28536,9 +29289,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28560,6 +29313,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529228
@@ -28570,9 +29326,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28594,6 +29350,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529229
@@ -28604,9 +29363,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28628,6 +29387,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529230
@@ -28638,9 +29400,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28662,6 +29424,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529231
@@ -28672,9 +29437,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
 
 **Generic Catalyst:** Ni
 
@@ -28693,6 +29456,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529232
@@ -28703,9 +29469,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28727,6 +29493,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529233
@@ -28737,9 +29506,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28761,6 +29530,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529234
@@ -28771,9 +29543,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28795,6 +29567,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529235
@@ -28805,9 +29580,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28829,6 +29604,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529236
@@ -28839,9 +29617,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28864,6 +29642,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529237
@@ -28874,9 +29655,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28898,6 +29679,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529238
@@ -28908,9 +29692,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28932,6 +29716,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529239
@@ -28942,9 +29729,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -28966,6 +29753,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529240
@@ -28976,9 +29766,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29000,6 +29790,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529241
@@ -29010,9 +29803,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29034,6 +29827,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529242
@@ -29044,9 +29840,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29068,6 +29864,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529243
@@ -29078,9 +29877,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29102,6 +29901,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529244
@@ -29112,9 +29914,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29136,6 +29938,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529245
@@ -29146,9 +29951,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29170,6 +29975,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529246
@@ -29180,9 +29988,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29204,6 +30012,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529247
@@ -29214,9 +30025,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29238,6 +30049,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529248
@@ -29248,9 +30062,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29272,6 +30086,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529250
@@ -29282,9 +30099,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29306,6 +30123,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529251
@@ -29316,9 +30136,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29340,6 +30160,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529252
@@ -29350,9 +30173,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29374,6 +30197,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529254
@@ -29384,9 +30210,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29408,6 +30234,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529255
@@ -29418,9 +30247,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29442,6 +30271,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529270
@@ -29452,9 +30284,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29476,6 +30308,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529273
@@ -29486,9 +30321,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29510,6 +30345,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529274
@@ -29520,9 +30358,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29544,6 +30382,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529275
@@ -29554,9 +30395,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29578,6 +30419,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529276
@@ -29588,9 +30432,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - TBAI (CAS: 311-28-4) - Role: UNK
@@ -29612,6 +30456,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36529285
@@ -29622,9 +30469,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/BBBPY
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Pyrimidine, 1,4,5,6-tetrahydro-1,2-dimethyl- (CAS: 4271-96-9) - Role: UNK
@@ -29645,6 +30492,9 @@
   - **Authors:** Song, Geyang; Li, Qi; Nong, Ding-Zhan; Song, Jiameng; Li, Gang; Wang, Chao; Xiao, Jianliang; Xue, Dong
   - **Citation:** Chemistry - A European Journal (2023), 29(37), e202300458
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36703436
@@ -29655,8 +30505,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29692,8 +30541,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29729,8 +30577,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29766,8 +30613,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29803,8 +30649,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29840,8 +30685,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29877,8 +30721,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29914,8 +30757,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29951,8 +30793,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -29988,8 +30829,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30025,8 +30865,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30062,8 +30901,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30099,8 +30937,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30136,8 +30973,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30173,8 +31009,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30210,8 +31045,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30247,8 +31081,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30284,8 +31117,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30321,8 +31153,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30358,8 +31189,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30395,8 +31225,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30432,8 +31261,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30469,8 +31297,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30506,8 +31333,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30543,8 +31369,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30580,8 +31405,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30617,8 +31441,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30654,8 +31477,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30691,8 +31513,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30728,8 +31549,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30766,8 +31586,7 @@
   - CAS: 2088024-91-1
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2088024-91-1
+**ConditionCore:** 2088024-91-1/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -30803,9 +31622,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -30835,9 +31654,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -30867,9 +31686,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -30899,9 +31718,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -30931,9 +31750,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -30963,9 +31782,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -30995,9 +31814,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31027,9 +31846,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31059,9 +31878,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31091,9 +31910,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31123,9 +31942,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31155,9 +31974,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31187,9 +32006,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31219,9 +32038,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31251,9 +32070,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31283,9 +32102,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31315,9 +32134,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31347,9 +32166,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31379,9 +32198,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31411,9 +32230,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31443,9 +32262,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31475,9 +32294,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31507,9 +32326,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31539,9 +32358,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31571,9 +32390,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31603,9 +32422,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31635,9 +32454,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31667,9 +32486,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31699,9 +32518,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31731,12 +32550,12 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - UN2542 (CAS: 102-82-9) - Role: UNK
+  - Tributylamine (CAS: 102-82-9) - Role: UNK
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
 
 **Solvents:**
@@ -31764,9 +32583,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31796,12 +32615,12 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
-  - UN2542 (CAS: 102-82-9) - Role: UNK
+  - Tributylamine (CAS: 102-82-9) - Role: UNK
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
 
 **Solvents:**
@@ -31829,9 +32648,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31861,9 +32680,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31893,9 +32712,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31925,9 +32744,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -31957,9 +32776,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -31989,9 +32808,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -32021,9 +32840,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -32053,9 +32872,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -32085,8 +32904,7 @@
   - CAS: 2962934-03-6
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**Catalyst Core:**
-  - CAS: 2962934-03-6
+**ConditionCore:** 2962934-03-6/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -32122,9 +32940,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 61228-18-0
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 61228-18-0
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -32154,9 +32972,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 61228-18-0
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 61228-18-0
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -32186,9 +33004,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2950191-68-9
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - CAS: 2950191-68-9
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -32218,9 +33036,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32247,9 +33065,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32276,9 +33094,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32305,9 +33123,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32334,9 +33152,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32363,9 +33181,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32392,9 +33210,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32421,9 +33239,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32450,9 +33268,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32479,9 +33297,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -32508,9 +33326,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -32540,9 +33358,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -32572,9 +33390,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -32601,18 +33419,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32637,18 +33452,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32673,18 +33485,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32709,18 +33518,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32745,18 +33551,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32781,18 +33584,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32817,18 +33617,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32853,18 +33650,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32889,18 +33683,15 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
+  - Fe3O4 (CAS: 1317-61-9)
   - Ni (CAS: 7440-02-0)
   - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - Cu (CAS: 7440-50-8)
-  - Fe3O4 (CAS: 1317-61-9)
-  - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
-  - Metasilicic acid (CAS: 7631-86-9)
+**ConditionCore:** Fe
+
+**Generic Catalyst:** Fe, Ni, Cu
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -32928,9 +33719,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -32947,6 +33738,9 @@
   - **Authors:** Koranteng, Ernest; Shu, Zhen-Cao; Liu, Yi-Yin; Yang, Qian; Shi, Bin; Wu, Qiang-Xian; Tan, Fen; Lu, Liang-Qiu; Xiao, Wen-Jing
   - **Citation:** Chinese Journal of Chemistry (2024), 42(3), 264-270
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-38896815
@@ -32957,9 +33751,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Bipyridine (CAS: 366-18-7)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Bipyridine (CAS: 366-18-7)
+**ConditionCore:** Ni/Bipyridine
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - BP-30240 (CAS: 7550-35-8) - Role: UNK
@@ -32981,7 +33775,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'Bipyridine' (CAS 366-18-7): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'Bipyridine' (CAS 366-18-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -32993,9 +33786,9 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33022,11 +33815,12 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - dppf (CAS: 12150-46-8)
+**ConditionCore:** Ni/dppf
 
 **Generic Catalyst:** Ni
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Silver carbonate (CAS: 534-16-7) - Role: UNK
@@ -33049,7 +33843,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33061,11 +33854,12 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - dppf (CAS: 12150-46-8)
+**ConditionCore:** Ni/dppf
 
 **Generic Catalyst:** Ni
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Silver carbonate (CAS: 534-16-7) - Role: UNK
@@ -33088,7 +33882,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33100,11 +33893,12 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - dppf (CAS: 12150-46-8)
+**ConditionCore:** Ni/dppf
 
 **Generic Catalyst:** Ni
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Silver carbonate (CAS: 534-16-7) - Role: UNK
@@ -33127,7 +33921,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33139,11 +33932,12 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - dppf (CAS: 12150-46-8)
+**ConditionCore:** Ni/dppf
 
 **Generic Catalyst:** Ni
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Silver carbonate (CAS: 534-16-7) - Role: UNK
@@ -33166,7 +33960,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33178,11 +33971,12 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - dppf (CAS: 12150-46-8)
+**ConditionCore:** Ni/dppf
 
 **Generic Catalyst:** Ni
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Silver carbonate (CAS: 534-16-7) - Role: UNK
@@ -33205,7 +33999,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33217,8 +34010,11 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
+**ConditionCore:** Ni/dppf
+
+**Generic Catalyst:** Ni
+
+**Ligands:**
   - dppf (CAS: 12150-46-8)
 
 **Reagents:**
@@ -33241,7 +34037,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33253,8 +34048,11 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
+**ConditionCore:** Ni/dppf
+
+**Generic Catalyst:** Ni
+
+**Ligands:**
   - dppf (CAS: 12150-46-8)
 
 **Reagents:**
@@ -33277,7 +34075,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33289,8 +34086,11 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
+**ConditionCore:** Ni/dppf
+
+**Generic Catalyst:** Ni
+
+**Ligands:**
   - dppf (CAS: 12150-46-8)
 
 **Reagents:**
@@ -33313,7 +34113,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33325,8 +34124,11 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - dppf (CAS: 12150-46-8)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
+**ConditionCore:** Ni/dppf
+
+**Generic Catalyst:** Ni
+
+**Ligands:**
   - dppf (CAS: 12150-46-8)
 
 **Reagents:**
@@ -33349,7 +34151,6 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
-  - ⚠️ Catalyst Core: Role conflict for 'dppf' (CAS 12150-46-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33361,9 +34162,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33391,9 +34192,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33421,9 +34222,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33451,9 +34252,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33481,9 +34282,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33511,9 +34312,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33541,9 +34342,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33571,9 +34372,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33601,9 +34402,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33631,9 +34432,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33661,9 +34462,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33691,9 +34492,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33721,9 +34522,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33751,9 +34552,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33781,9 +34582,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33811,9 +34612,9 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Ni (CAS: 7440-02-0)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33841,9 +34642,9 @@
   - Nickel (CAS: 7718-54-9)
   - CAS: 154769-61-6
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
-  - CAS: 154769-61-6
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33870,8 +34671,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33897,8 +34699,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33924,8 +34727,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33951,8 +34755,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - DMAc (CAS: 127-19-5)
@@ -33978,8 +34783,9 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**Catalyst Core:**
-  - Nickel (CAS: 7718-54-9)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -34009,9 +34815,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - HCN (CAS: 143334-20-7)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - DABCO (CAS: 280-57-9) - Role: BASE
@@ -34038,12 +34844,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34067,12 +34873,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34096,12 +34902,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34125,12 +34931,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34154,12 +34960,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34183,12 +34989,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34212,12 +35018,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34241,12 +35047,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34270,12 +35076,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34299,12 +35105,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34328,12 +35134,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34357,12 +35163,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34386,12 +35192,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34415,12 +35221,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34444,12 +35250,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34473,12 +35279,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34502,12 +35308,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34531,12 +35337,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34560,12 +35366,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34589,12 +35395,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34618,12 +35424,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34647,12 +35453,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34676,12 +35482,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34705,12 +35511,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34734,12 +35540,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34763,12 +35569,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34792,12 +35598,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34821,12 +35627,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34850,12 +35656,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34879,12 +35685,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34908,12 +35714,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34937,12 +35743,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34966,12 +35772,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -34995,12 +35801,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -35024,12 +35830,12 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Zn (CAS: 7440-66-6)
+  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - Zn (CAS: 7440-66-6)
+**ConditionCore:** Zn
+
+**Generic Catalyst:** Zn, Ni
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -35056,9 +35862,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - 4,7-Diphenyl-1,10-phenanthroline (CAS: 1662-01-7)
 
-**Catalyst Core:**
-  - Ni(OAc)2 (CAS: 373-02-4)
-  - 4,7-Diphenyl-1,10-phenanthroline (CAS: 1662-01-7)
+**ConditionCore:** Ni/4,7-Diphenyl-1,10-phenanthroline
 
 **Generic Catalyst:** Ni
 
@@ -35080,6 +35884,9 @@
   - **Authors:** Wang, Gai-Rong; Guo, Peng; Pu, Guoliang; Wang, Pan; Wang, An-Jun; Liu, Peijun; Jia, Jia; Li, Xuefei; He, Chun-Yang
   - **Citation:** Organic Chemistry Frontiers (2024), 11(17), 4722-4729
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,7-Diphenyl-1,10-phenanthroline' (CAS 1662-01-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41498131
@@ -35090,9 +35897,9 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Dimethyl-2,2'-bipyridine (CAS: 1134-35-6)
+**ConditionCore:** Ni/4,4'-Dimethyl-2,2'-bipyridine
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Sodium Iodide (CAS: 7681-82-5) - Role: UNK
@@ -35114,6 +35921,9 @@
   - **Authors:** Song, Geyang; Song, Jiameng; Dong, Jianyang; Li, Gang; Fan, Juan; Xue, Dong
   - **Citation:** Organometallics (2024), 43(16), 1706-1712
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethyl-2,2'-bipyridine' (CAS 1134-35-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541825
@@ -35122,13 +35932,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35149,6 +35958,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541833
@@ -35157,13 +35969,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35184,6 +35995,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541834
@@ -35192,13 +36006,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35219,6 +36032,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541835
@@ -35227,13 +36043,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35254,6 +36069,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541836
@@ -35262,13 +36080,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35289,6 +36106,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541839
@@ -35297,13 +36117,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35324,6 +36143,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541840
@@ -35332,13 +36154,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35359,6 +36180,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541842
@@ -35367,13 +36191,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35394,6 +36217,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541844
@@ -35402,13 +36228,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35429,6 +36254,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541845
@@ -35437,13 +36265,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35464,6 +36291,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541846
@@ -35472,13 +36302,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35499,6 +36328,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541847
@@ -35507,13 +36339,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35534,6 +36365,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541848
@@ -35542,13 +36376,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35569,6 +36402,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541849
@@ -35577,13 +36413,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35604,6 +36439,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541852
@@ -35612,13 +36450,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35639,6 +36476,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541856
@@ -35647,13 +36487,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35674,6 +36513,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41541857
@@ -35682,13 +36524,12 @@
 
 **Full Catalytic System:**
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
+  - Pyrrolidine (CAS: 123-75-1)
   - PF6 (CAS: 870987-63-6)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - UN1922 (CAS: 123-75-1)
-  - PF6 (CAS: 870987-63-6)
+**ConditionCore:** Ni/PF6
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - MTBD (CAS: 84030-20-6) - Role: UNK
@@ -35709,6 +36550,9 @@
   - **Authors:** Niyogi, Sovan; Mondal, Ayan; Nandy, Monosij; Pal, Souvik; Khatua, Arindam; Bisai, Alakesh
   - **Citation:** Organic Letters (2024), 26(41), 8643-8647
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'PF6' (CAS 870987-63-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41630313
@@ -35718,8 +36562,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35746,8 +36591,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35774,8 +36620,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35802,8 +36649,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35830,8 +36678,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35858,8 +36707,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35886,8 +36736,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35914,8 +36765,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35942,8 +36794,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35970,8 +36823,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -35998,8 +36852,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -36026,8 +36881,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -36054,8 +36910,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -36082,8 +36939,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -36110,8 +36968,9 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**Catalyst Core:**
-  - Diiron nickel tetraoxide (CAS: 12168-54-6)
+**ConditionCore:** Ni
+
+**Generic Catalyst:** Ni
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -36140,10 +36999,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36163,6 +37021,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506077
@@ -36174,10 +37036,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36197,6 +37058,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506079
@@ -36208,10 +37073,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36231,6 +37095,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506080
@@ -36242,10 +37110,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36265,6 +37132,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506081
@@ -36276,10 +37147,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36299,6 +37169,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506082
@@ -36310,10 +37184,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36333,6 +37206,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506083
@@ -36344,10 +37221,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36367,6 +37243,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506084
@@ -36378,10 +37258,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36401,6 +37280,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506085
@@ -36412,10 +37295,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36435,6 +37317,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506086
@@ -36446,10 +37332,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36469,6 +37354,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506087
@@ -36480,10 +37369,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36503,6 +37391,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506088
@@ -36514,10 +37406,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - KHCO3 (CAS: 298-14-6) - Role: BASE
@@ -36537,6 +37428,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506089
@@ -36548,10 +37443,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36571,6 +37465,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506090
@@ -36582,10 +37480,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36605,6 +37502,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506091
@@ -36616,10 +37517,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36639,6 +37539,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506092
@@ -36650,10 +37554,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36673,6 +37576,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506093
@@ -36684,10 +37591,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36707,6 +37613,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506094
@@ -36718,10 +37628,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36741,6 +37650,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506095
@@ -36752,10 +37665,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36775,6 +37687,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506096
@@ -36786,10 +37702,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36809,6 +37724,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506098
@@ -36820,10 +37739,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36843,6 +37761,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506099
@@ -36854,10 +37776,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36877,6 +37798,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506101
@@ -36888,10 +37813,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36911,6 +37835,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506102
@@ -36922,10 +37850,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36945,6 +37872,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506103
@@ -36956,10 +37887,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36979,6 +37909,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42506104
@@ -36990,10 +37924,9 @@
   - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
   - BBBPY (CAS: 72914-19-3)
 
-**Catalyst Core:**
-  - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide (CAS: 676525-77-2)
-  - BBBPY (CAS: 72914-19-3)
+**ConditionCore:** Ni/4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide
+
+**Generic Catalyst:** Ni, Ir
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -37013,6 +37946,10 @@
   - **Authors:** Liang, Kevin J.; Taylor, Olivia R.; Lopez, Angie L.; Woo, Russell J.; Bahamonde, Ana
   - **Citation:** Chemistry - A European Journal (2024), 30(67), e202402524
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Di-tert-butyl-2,2'-bipyridine; bis[2-(pyridin-2-yl)phenyl]iridiumylium; hexafluoro-lambda5-phosphanuide' (CAS 676525-77-2): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'BBBPY' (CAS 72914-19-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292108
@@ -37025,11 +37962,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37049,6 +37984,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292109
@@ -37061,11 +37999,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37085,6 +38021,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292111
@@ -37097,11 +38036,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37121,6 +38058,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292112
@@ -37133,11 +38073,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37157,6 +38095,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292115
@@ -37169,11 +38110,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37193,6 +38132,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292116
@@ -37205,11 +38147,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37229,6 +38169,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292119
@@ -37241,11 +38184,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37265,6 +38206,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292123
@@ -37277,11 +38221,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37301,6 +38243,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292124
@@ -37313,11 +38258,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37337,6 +38280,9 @@
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45292127
@@ -37349,11 +38295,9 @@
   - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**Catalyst Core:**
-  - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
-  - TBAC (CAS: 1112-67-0)
-  - 4,4'-Dimethoxy-2,2'-bipyridyl (CAS: 17217-57-1)
-  - 4CzIPN (CAS: 1416881-52-1)
+**ConditionCore:** Ni/4,4'-Dimethoxy-2,2'-bipyridyl
+
+**Generic Catalyst:** Ni
 
 **Reagents:**
   - Guanidine, N,N,N',N'-tetramethyl-;n,n,n,n-tetramethyl-guanidin (CAS: 80-70-6) - Role: UNK
@@ -37372,6 +38316,9 @@
   - **Title:** Ni-photoredox-catalyzed amide arylation reaction using amidyl radical formation via PCET
   - **Authors:** Nishino, Sodai; Kurahashi, Takuya
   - **Citation:** Chemistry Letters (2024), 53(5), upae088
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Dimethoxy-2,2'-bipyridyl' (CAS 17217-57-1): registry compound_type -> CAT_LIG
 
 ---
 

@@ -1,5 +1,6 @@
 """
-CLI utility to (re)assign compound_type values in cas_registry_merged.jsonl.
+CLI utility to (re)assign compound_type values in cas_registry_merged.jsonl,
+and to set a generic_core (e.g., Pd, Ni, Cu) for transition-metal-containing entries.
 
 Heuristics (priority order):
 1) Ligand (phosphorus-based): if name/abbrev includes phosphine patterns
@@ -10,7 +11,8 @@ Heuristics (priority order):
 3) Metal: if name/abbrev clearly mentions a transition metal (Pd, Ni, Cu, Pt, Rh, Ru, Ir,
    Co, Fe, Ag, Au, Mn, Cr, Mo, W, V, Ti, Zr, Hf, Sc, Y, La, Zn) using symbols or names.
 
-Default behavior only fills empty/unknown compound_type. Use --force to overwrite.
+Default behavior only fills empty/unknown fields. Use --force to overwrite existing
+compound_type and/or generic_core values.
 Writes in-place with a .bak backup by default unless --no-backup is set.
 """
 
@@ -22,7 +24,7 @@ import os
 import re
 import shutil
 import sys
-from typing import Dict, Any, Iterable, Tuple
+from typing import Dict, Any, Iterable, Tuple, Optional
 
 
 def compile_patterns() -> Dict[str, Iterable[re.Pattern]]:
@@ -99,6 +101,8 @@ def compile_patterns() -> Dict[str, Iterable[re.Pattern]]:
         "n_ligand": n_ligand,
         "metal_sym": sym_patterns,
         "metal_name": metal_fullnames,
+        # Provide the ordered list of symbols for reverse-mapping
+        "metal_symbols": metal_symbols,
     }
 
 
@@ -153,6 +157,53 @@ def detect_type(name: str, abbrev: str) -> str | None:
     return None
 
 
+def detect_generic_core(name: str, abbrev: str) -> Optional[str]:
+    """Detect a generic core metal symbol (e.g., 'Cu', 'Pd') from name/abbrev.
+
+    Strategy:
+    - Prefer explicit element symbols with safe boundaries (Pd, Ni, Cu, ...)
+    - Otherwise match full element names (copper, palladium, ...)
+    Returns the first symbol found or None.
+    """
+    # 1) Check symbols with safe boundaries against the original (case-sensitive)
+    for sym in PATTERNS.get("metal_symbols", []):
+        rx = re.compile(rf"(^|[^A-Za-z]){re.escape(sym)}([^A-Za-z]|$)")
+        if (name and rx.search(name)) or (abbrev and rx.search(abbrev)):
+            return sym
+
+    # 2) Check full names (case-insensitive) and map to symbols
+    name_map = {
+        "palladium": "Pd",
+        "nickel": "Ni",
+        "copper": "Cu",
+        "platinum": "Pt",
+        "rhodium": "Rh",
+        "ruthenium": "Ru",
+        "iridium": "Ir",
+        "cobalt": "Co",
+        "iron": "Fe",
+        "silver": "Ag",
+        "gold": "Au",
+        "manganese": "Mn",
+        "chromium": "Cr",
+        "molybdenum": "Mo",
+        "tungsten": "W",
+        "vanadium": "V",
+        "titanium": "Ti",
+        "zirconium": "Zr",
+        "hafnium": "Hf",
+        "scandium": "Sc",
+        "yttrium": "Y",
+        "lanthanum": "La",
+        "zinc": "Zn",
+    }
+    combined = f"{name} {abbrev}".lower()
+    for key, sym in name_map.items():
+        if key in combined:
+            return sym
+    return None
+
+
 def should_update(existing: Any, force: bool) -> bool:
     if force:
         return True
@@ -182,7 +233,8 @@ def process_file(
         "skipped_no_match": 0,
         "skipped_existing": 0,
         "by_type": {"ligand": 0, "metal": 0},
-        "samples": [],
+    "samples": [],
+    "generic_core_updates": 0,
     }
 
     if not os.path.exists(infile):
@@ -214,6 +266,15 @@ def process_file(
             name, abbr = text_fields(obj)
             suggestion = detect_type(name, abbr)
             existing = obj.get("compound_type")
+            # Always attempt to determine generic core metal for transition-metal containing entries
+            gen_core_suggestion = detect_generic_core(name, abbr)
+
+            # Independently update generic_core when detectable
+            if gen_core_suggestion:
+                existing_gc = obj.get("generic_core")
+                if should_update(existing_gc, force):
+                    obj["generic_core"] = gen_core_suggestion
+                    stats["generic_core_updates"] += 1
 
             if suggestion is None:
                 stats["skipped_no_match"] += 1
@@ -308,6 +369,7 @@ def main(argv: list[str] | None = None) -> int:
                 "skipped_no_match": stats["skipped_no_match"],
                 "skipped_existing": stats["skipped_existing"],
                 "by_type": stats["by_type"],
+                "generic_core_updates": stats.get("generic_core_updates", 0),
                 "samples": stats["samples"],
             },
             ensure_ascii=False,

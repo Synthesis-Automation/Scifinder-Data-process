@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-04 12:13:38
+**Generated:** 2025-09-06 11:39:12
 **Source Folder:** RDF_Folder_2021-2024
 **Total Reactions:** 1343
 
@@ -36,7 +36,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -70,9 +70,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -95,7 +95,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(5), 2455-2463
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -105,9 +105,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -130,7 +130,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(5), 2455-2463
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -245,15 +245,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -271,7 +271,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -281,15 +281,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -307,7 +307,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -317,15 +317,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -343,7 +343,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -353,15 +353,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -379,7 +379,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -394,6 +394,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -424,15 +427,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -450,7 +453,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -460,15 +463,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -486,7 +489,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -501,6 +504,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -531,15 +537,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -558,7 +564,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -568,15 +574,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -594,7 +600,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -604,15 +610,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -630,7 +636,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -645,6 +651,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -675,15 +684,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -701,7 +710,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -711,15 +720,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -737,7 +746,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -747,15 +756,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -773,7 +782,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -783,15 +792,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -809,7 +818,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -819,15 +828,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -845,7 +854,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -860,6 +869,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -890,15 +902,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -916,7 +928,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -931,6 +943,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -961,15 +976,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -987,7 +1002,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -1002,6 +1017,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -1032,15 +1050,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -1058,7 +1076,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -1073,6 +1091,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -1103,15 +1124,15 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - DMSO (CAS: 67-68-5)
@@ -1129,7 +1150,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1408-1418
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -1249,7 +1270,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -1357,7 +1380,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/XantPhos
+**ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -1388,9 +1413,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -1411,7 +1438,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(1), 429-445
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -1524,9 +1551,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -1549,7 +1576,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(7), 3493-3497
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -1559,9 +1586,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -1584,7 +1611,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(7), 3493-3497
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -2732,7 +2759,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -2764,9 +2793,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -2789,7 +2818,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(13), 7205-7212
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -2799,9 +2828,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -2824,7 +2853,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(13), 7205-7212
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -2834,9 +2863,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -2859,7 +2888,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(13), 7205-7212
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -2869,9 +2898,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -2894,7 +2923,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(13), 7205-7212
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -2907,7 +2936,9 @@
   - PD (CAS: 7440-05-3)
   - Phenanthroline (CAS: 66-71-7)
 
-**ConditionCore:** CuI/Phenanthroline
+**ConditionCore:** Cu/Phenanthroline
+
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -3249,7 +3280,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/XantPhos
+**ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -3382,7 +3415,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -3414,7 +3447,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -3446,7 +3479,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -3649,7 +3682,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -3671,6 +3704,9 @@
   - **Title:** Regioselective C-H Thioarylation of Electron-Rich Arenes by Iron(III) Triflimide Catalysis
   - **Authors:** Dodds, Amy C.; Sutherland, Andrew
   - **Citation:** Journal of Organic Chemistry (2021), 86(8), 5922-5932
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
 
 ---
 
@@ -3788,6 +3824,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -3817,9 +3856,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -3842,7 +3881,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(22), 12376-12380
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -3887,9 +3926,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -3912,7 +3951,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(22), 12376-12380
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -3929,7 +3968,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -3966,7 +4005,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -4064,9 +4103,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -4089,7 +4128,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(23), 12835-12840
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4171,7 +4210,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -4309,6 +4350,8 @@
 
 **ConditionCore:** Pd/C24H1P
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -4342,6 +4385,8 @@
   - C24H1P (CAS: 247940-06-3)
 
 **ConditionCore:** Pd/C24H1P
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4379,7 +4424,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -4408,6 +4453,8 @@
   - C24H1P (CAS: 247940-06-3)
 
 **ConditionCore:** Pd/C24H1P
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4443,6 +4490,8 @@
 
 **ConditionCore:** Pd/C24H1P
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -4476,6 +4525,8 @@
   - C24H1P (CAS: 247940-06-3)
 
 **ConditionCore:** Pd/C24H1P
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4545,7 +4596,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -4571,9 +4622,11 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -4594,7 +4647,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(17), 4678-4684
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4728,6 +4781,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5219,7 +5275,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5290,7 +5346,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/PPh3
+**ConditionCore:** Pd/PPh3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -5323,13 +5381,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5350,7 +5410,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5360,13 +5420,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5387,7 +5449,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5397,13 +5459,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5424,7 +5488,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5434,13 +5498,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5461,7 +5527,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5471,13 +5537,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5498,7 +5566,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5508,13 +5576,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5535,7 +5605,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5545,13 +5615,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5572,7 +5644,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5582,13 +5654,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5609,7 +5683,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5619,13 +5693,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5646,7 +5722,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5656,13 +5732,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5683,7 +5761,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5693,13 +5771,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5720,7 +5800,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5730,13 +5810,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5757,7 +5839,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5767,13 +5849,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5794,7 +5878,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5804,13 +5888,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5831,7 +5917,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5841,13 +5927,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5868,7 +5956,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5878,13 +5966,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5905,7 +5995,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5915,13 +6005,15 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
-  - E-539 (CAS: 7772-98-7) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
+  - Sodium Thiosulfate (CAS: 7772-98-7) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -5942,7 +6034,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(24), 3516-3527
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -5953,7 +6045,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -5985,7 +6079,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -6015,9 +6111,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6044,9 +6142,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6073,9 +6173,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6102,9 +6204,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6131,9 +6235,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6160,9 +6266,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6189,9 +6297,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6218,9 +6328,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6247,9 +6359,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6276,9 +6390,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6305,9 +6421,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6334,9 +6452,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6363,9 +6483,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6392,9 +6514,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6421,9 +6545,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6450,9 +6576,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6479,9 +6607,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6508,9 +6638,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6537,9 +6669,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6566,9 +6700,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6595,9 +6731,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6624,9 +6762,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6653,9 +6793,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6682,9 +6824,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6711,9 +6855,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6740,9 +6886,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -6805,9 +6953,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -6831,7 +6979,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -6841,9 +6989,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -6867,7 +7015,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -6877,9 +7025,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -6903,7 +7051,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -6913,9 +7061,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -6939,7 +7087,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -6949,9 +7097,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -6975,7 +7123,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -6985,9 +7133,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7011,7 +7159,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7021,9 +7169,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7047,7 +7195,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7057,9 +7205,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7083,7 +7231,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7093,9 +7241,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7119,7 +7267,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7129,9 +7277,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7155,7 +7303,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7165,9 +7313,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7191,7 +7339,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7201,9 +7349,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7227,7 +7375,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7237,9 +7385,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7263,7 +7411,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7273,9 +7421,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7299,7 +7447,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7309,9 +7457,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7335,7 +7483,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7345,9 +7493,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7371,7 +7519,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7381,9 +7529,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7407,7 +7555,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7417,9 +7565,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7443,7 +7591,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7453,9 +7601,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7479,7 +7627,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7489,9 +7637,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7515,7 +7663,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7525,9 +7673,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7551,7 +7699,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7561,9 +7709,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7587,7 +7735,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7597,9 +7745,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7623,7 +7771,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7633,9 +7781,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7659,7 +7807,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7669,9 +7817,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7695,7 +7843,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7705,9 +7853,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7731,7 +7879,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7807,9 +7955,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7833,7 +7981,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7876,9 +8024,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7902,7 +8050,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7912,9 +8060,9 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - (R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide (CAS: 2241598-31-0)
+  - ZhangPhos series (CAS: 2241598-31-0)
 
-**ConditionCore:** Pd/(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide
+**ConditionCore:** Pd/ZhangPhos series
 
 **Generic Catalyst:** Pd
 
@@ -7938,7 +8086,7 @@
   - **Citation:** Organic Chemistry Frontiers (2021), 8(21), 6067-6073
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '(R)-N-[(R)-(3,5-Di-tert-butyl-4-methoxyphenyl)[2-(dicyclohexylphosphino)phenyl]methyl]-2-methylpropane-2-sulfinamide' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'ZhangPhos series' (CAS 2241598-31-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -8195,7 +8343,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8217,6 +8365,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224525
@@ -8227,7 +8378,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8249,6 +8400,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224530
@@ -8259,7 +8413,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8281,6 +8435,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224531
@@ -8291,7 +8448,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8313,6 +8470,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224532
@@ -8323,7 +8483,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8345,6 +8505,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224533
@@ -8355,7 +8518,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8377,6 +8540,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224535
@@ -8387,7 +8553,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8409,6 +8575,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224536
@@ -8419,7 +8588,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8441,6 +8610,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224537
@@ -8451,7 +8623,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8473,6 +8645,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224538
@@ -8483,7 +8658,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8505,6 +8680,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224539
@@ -8515,7 +8693,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8537,6 +8715,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224541
@@ -8547,7 +8728,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8569,6 +8750,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224542
@@ -8579,7 +8763,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8601,6 +8785,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224543
@@ -8611,7 +8798,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8633,6 +8820,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224544
@@ -8643,7 +8833,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8665,6 +8855,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224545
@@ -8675,7 +8868,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8697,6 +8890,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224546
@@ -8707,7 +8903,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8729,6 +8925,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224547
@@ -8739,7 +8938,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8761,6 +8960,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224548
@@ -8771,7 +8973,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8793,6 +8995,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224549
@@ -8803,7 +9008,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8825,6 +9030,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224550
@@ -8835,7 +9043,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8857,6 +9065,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224551
@@ -8867,7 +9078,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8889,6 +9100,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224552
@@ -8899,7 +9113,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8921,6 +9135,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224553
@@ -8931,7 +9148,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8953,6 +9170,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224554
@@ -8963,7 +9183,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -8985,6 +9205,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224555
@@ -8995,7 +9218,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9017,6 +9240,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224556
@@ -9027,7 +9253,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9049,6 +9275,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224557
@@ -9059,7 +9288,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9081,6 +9310,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224558
@@ -9091,7 +9323,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9113,6 +9345,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224559
@@ -9123,7 +9358,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9145,6 +9380,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224560
@@ -9155,7 +9393,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9177,6 +9415,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224561
@@ -9187,7 +9428,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9209,6 +9450,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224562
@@ -9219,7 +9463,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9241,6 +9485,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224563
@@ -9251,7 +9498,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9273,6 +9520,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224565
@@ -9283,7 +9533,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9305,6 +9555,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224566
@@ -9315,7 +9568,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9337,6 +9590,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224567
@@ -9347,7 +9603,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9369,6 +9625,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224568
@@ -9379,7 +9638,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9401,6 +9660,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224569
@@ -9411,7 +9673,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9433,6 +9695,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224570
@@ -9443,7 +9708,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9465,6 +9730,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224571
@@ -9475,7 +9743,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9497,6 +9765,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224572
@@ -9507,7 +9778,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9529,6 +9800,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224581
@@ -9539,7 +9813,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9561,6 +9835,9 @@
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-24224584
@@ -9571,7 +9848,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -9592,6 +9869,9 @@
   - **Title:** Enantioselective Synthesis of Atropisomeric Biaryls by Pd-Catalyzed Asymmetric Buchwald-Hartwig Amination
   - **Authors:** Zhang, Peng; Wang, Xiao-Mei; Xu, Qi; Guo, Chang-Qiu; Wang, Peng; Lu, Chuan-Jun; Liu, Ren-Rong
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(40), 21718-21722
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
 
 ---
 
@@ -9985,7 +10265,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -10018,7 +10298,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -10047,7 +10327,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Potassium Metabisulfite (CAS: 16731-55-8) - Role: UNK
@@ -10075,7 +10357,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Potassium Metabisulfite (CAS: 16731-55-8) - Role: UNK
@@ -10103,7 +10387,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Potassium Metabisulfite (CAS: 16731-55-8) - Role: UNK
@@ -10131,7 +10417,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Potassium Metabisulfite (CAS: 16731-55-8) - Role: UNK
@@ -10159,7 +10447,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Potassium Metabisulfite (CAS: 16731-55-8) - Role: UNK
@@ -10188,7 +10478,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Copper bromide (CuBr2)
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - Potassium Metabisulfite (CAS: 16731-55-8) - Role: UNK
@@ -10216,7 +10508,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Potassium Metabisulfite (CAS: 16731-55-8) - Role: UNK
@@ -10278,7 +10572,9 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - DIPA (CAS: 108-18-9) - Role: BASE
@@ -10315,7 +10611,9 @@
   - DMEDA (CAS: 110-70-3)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** CuI/DMEDA
+**ConditionCore:** Cu/DMEDA
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10352,7 +10650,9 @@
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
 
-**ConditionCore:** CuI/DMEDA
+**ConditionCore:** Cu/DMEDA
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10389,7 +10689,9 @@
   - DMEDA (CAS: 110-70-3)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** CuI/DMEDA
+**ConditionCore:** Cu/DMEDA
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10426,7 +10728,9 @@
   - DMEDA (CAS: 110-70-3)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** CuI/DMEDA
+**ConditionCore:** Cu/DMEDA
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10463,7 +10767,9 @@
   - DMEDA (CAS: 110-70-3)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** CuI/DMEDA
+**ConditionCore:** Cu/DMEDA
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10500,7 +10806,9 @@
   - DMEDA (CAS: 110-70-3)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** CuI/DMEDA
+**ConditionCore:** Cu/DMEDA
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10537,7 +10845,9 @@
   - DMEDA (CAS: 110-70-3)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** CuI/DMEDA
+**ConditionCore:** Cu/DMEDA
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -11353,7 +11663,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - UN1922 (CAS: 123-75-1) - Role: UNK
+  - Pyrrolidine (CAS: 123-75-1) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -11631,7 +11941,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11663,7 +11973,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11695,7 +12005,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11727,7 +12037,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11759,7 +12069,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11791,7 +12101,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11824,7 +12134,7 @@
 
 **Reagents:**
   - 2625446-11-7 (CAS: 2625446-11-7) - Role: UNK
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11856,7 +12166,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11888,7 +12198,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11920,7 +12230,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11952,7 +12262,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -11984,7 +12294,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -12016,7 +12326,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -12048,7 +12358,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -12080,7 +12390,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -12112,7 +12422,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -12144,7 +12454,7 @@
 **Generic Catalyst:** Cu, Pd
 
 **Reagents:**
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -12273,9 +12583,11 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12297,7 +12609,7 @@
   - **Citation:** Chemistry - A European Journal (2021), 27(69), 17412-17419
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -12314,7 +12626,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - Calcium Carbonate (CAS: 471-34-1) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -12352,6 +12664,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -12521,6 +12836,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
@@ -12556,6 +12874,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
@@ -12588,6 +12909,8 @@
   - XantPhos (CAS: 161265-03-8)
 
 **ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Solvents:**
   - MeCN (CAS: 75-05-8)
@@ -12715,7 +13038,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -12746,9 +13071,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - EFED (CAS: 101-02-0)
+  - POPh3 (CAS: 101-02-0)
 
-**ConditionCore:** Pd/EFED
+**ConditionCore:** Pd/POPh3
 
 **Generic Catalyst:** Pd
 
@@ -12773,7 +13098,7 @@
   - **Citation:** Journal of Organic Chemistry (2022), 87(5), 2864-2872
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'EFED' (CAS 101-02-0): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'POPh3' (CAS 101-02-0): registry compound_type -> CAT_LIG
 
 ---
 
@@ -12824,7 +13149,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -12861,7 +13186,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -12934,7 +13259,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -13104,9 +13429,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13129,7 +13454,7 @@
   - **Citation:** Chemistry - A European Journal (2022), 28(12), e202104214
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13315,7 +13640,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -13445,9 +13772,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13473,7 +13800,7 @@
   - **Citation:** Journal of the American Chemical Society (2022), 144(1), 106-112
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13589,7 +13916,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -13623,7 +13952,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -13656,9 +13987,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13681,7 +14012,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(5), e202113207
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13691,9 +14022,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13716,7 +14047,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(5), e202113207
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13726,9 +14057,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13751,7 +14082,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(5), e202113207
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13761,9 +14092,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13786,7 +14117,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(5), e202113207
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13796,9 +14127,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13821,7 +14152,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(5), e202113207
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13831,9 +14162,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13856,7 +14187,7 @@
   - **Citation:** Chemistry - A European Journal (2022), 28(13), e202104408
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13866,9 +14197,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13891,7 +14222,7 @@
   - **Citation:** Chemistry - A European Journal (2022), 28(13), e202104408
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13901,9 +14232,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13926,7 +14257,7 @@
   - **Citation:** Chemistry - A European Journal (2022), 28(13), e202104408
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13936,9 +14267,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13961,7 +14292,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(11), e202116681
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13971,9 +14302,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -13996,7 +14327,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(11), e202116681
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14006,9 +14337,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -14031,7 +14362,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(11), e202116681
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14041,9 +14372,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -14066,7 +14397,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(11), e202116681
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14076,9 +14407,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -14101,7 +14432,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(11), e202116681
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14117,7 +14448,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -14179,7 +14510,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - 1,3-Bis(2,6-di-i-propylphenyl)imidazol-2-ylidene][bis(trifluoromethanesulfonyl)imide]gold(I) (CAS: 951776-24-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -14209,9 +14542,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -14234,7 +14567,7 @@
   - **Citation:** ACS Catalysis (2022), 12(8), 4688-4695
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14244,9 +14577,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -14269,7 +14602,7 @@
   - **Citation:** ACS Catalysis (2022), 12(8), 4688-4695
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14315,9 +14648,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -14340,7 +14673,7 @@
   - **Citation:** Journal of the American Chemical Society (2022), 144(4), 1748-1757
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14352,7 +14685,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -14624,6 +14959,8 @@
 
 **ConditionCore:** Pd/XPhos
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -14657,6 +14994,8 @@
 
 **ConditionCore:** Pd/XPhos
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -14688,7 +15027,9 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - XantPhos (CAS: 161265-03-8)
 
-**ConditionCore:** PdCl2(PPh3)2/XantPhos
+**ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -14860,9 +15201,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -14883,7 +15226,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(19), e202115140
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14893,9 +15236,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -14916,7 +15261,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(19), e202115140
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14926,9 +15271,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -14949,7 +15296,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(19), e202115140
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14962,6 +15309,8 @@
   - XantPhos (CAS: 161265-03-8)
 
 **ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
@@ -15031,7 +15380,12 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - dppf (CAS: 12150-46-8)
 
-**ConditionCore:** PdCl2(dppf)/dppf
+**ConditionCore:** Pd/dppf
+
+**Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -15062,9 +15416,11 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -15085,7 +15441,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2022), 58(32), 5001-5004
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -15642,9 +15998,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -15667,7 +16023,7 @@
   - **Citation:** Organic Letters (2021), 23(17), 6697-6702
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -15677,9 +16033,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -15702,7 +16058,7 @@
   - **Citation:** Organic Letters (2021), 23(17), 6697-6702
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -15748,6 +16104,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -15850,9 +16209,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -15875,7 +16234,7 @@
   - **Citation:** Organic Letters (2022), 24(21), 3797-3801
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -15887,7 +16246,9 @@
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
   - Cetyltrimethylammonium (CAS: 57-09-0)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)/Cetyltrimethylammonium
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -15958,7 +16319,7 @@
 **ConditionCore:** 1,3-Bis(2,6-diisopropylphenyl)-2H-imidazole
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
 
 **Solvents:**
@@ -15992,7 +16353,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
 
 **Solvents:**
@@ -16027,7 +16388,7 @@
 **ConditionCore:** 1,3-Bis(2,6-diisopropylphenyl)-2H-imidazole
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - Biphenyl (CAS: 92-52-4) - Role: UNK
 
@@ -16059,7 +16420,7 @@
 **ConditionCore:** 1,3-Bis(2,6-diisopropylphenyl)-2H-imidazole
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
 
 **Solvents:**
@@ -16467,9 +16828,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -16492,7 +16853,7 @@
   - **Citation:** Chemistry - A European Journal (2022), 28(37), e202200510
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16502,9 +16863,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -16527,7 +16888,7 @@
   - **Citation:** Chemistry - A European Journal (2022), 28(37), e202200510
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -16575,6 +16936,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -16613,6 +16977,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Ac2O (CAS: 108-24-7) - Role: SOLVENT
@@ -16923,7 +17290,9 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16952,7 +17321,9 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -16981,7 +17352,9 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -18128,7 +18501,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -18159,9 +18534,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -18184,7 +18559,7 @@
   - **Citation:** Organic Letters (2022), 24(37), 6869-6873
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18264,9 +18639,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -18289,7 +18664,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2022), 58(67), 9377-9380
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18304,6 +18679,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -18333,10 +18711,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PtBu3 (CAS: 13716-12-6)
   - Pd (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **ConditionCore:** Pd/PtBu3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -18366,10 +18746,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PtBu3 (CAS: 13716-12-6)
   - Pd (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **ConditionCore:** Pd/PtBu3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -18432,9 +18814,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -18456,7 +18840,7 @@
   - **Citation:** Journal of the American Chemical Society (2022), 144(39), 17897-17904
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18606,9 +18990,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -18630,7 +19016,7 @@
   - **Citation:** Journal of the American Chemical Society (2022), 144(39), 17897-17904
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18685,6 +19071,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -18716,7 +19105,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -18748,7 +19139,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -18779,9 +19172,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -18804,7 +19197,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18814,9 +19207,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -18839,7 +19232,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18849,9 +19242,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -18874,7 +19267,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18884,9 +19277,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -18909,7 +19302,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18919,9 +19312,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -18944,7 +19337,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18954,9 +19347,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -18979,7 +19372,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -18989,9 +19382,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19014,7 +19407,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19024,9 +19417,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19049,7 +19442,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19059,9 +19452,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19084,7 +19477,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19094,9 +19487,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19119,7 +19512,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19129,9 +19522,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19154,7 +19547,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19164,9 +19557,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19189,7 +19582,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19199,9 +19592,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19224,7 +19617,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19234,9 +19627,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19259,7 +19652,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19269,9 +19662,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19294,7 +19687,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19304,9 +19697,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19329,7 +19722,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19339,9 +19732,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19364,7 +19757,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19374,9 +19767,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19399,7 +19792,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19409,9 +19802,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19434,7 +19827,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19444,9 +19837,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19469,7 +19862,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19479,9 +19872,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19504,7 +19897,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19514,9 +19907,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19539,7 +19932,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19549,9 +19942,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19574,7 +19967,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19584,9 +19977,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19609,7 +20002,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19619,9 +20012,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19644,7 +20037,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19654,9 +20047,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19679,7 +20072,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19689,9 +20082,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19714,7 +20107,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19724,9 +20117,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19749,7 +20142,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19759,9 +20152,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19784,7 +20177,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19794,9 +20187,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19819,7 +20212,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19829,9 +20222,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19854,7 +20247,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19864,9 +20257,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19889,7 +20282,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19899,9 +20292,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19924,7 +20317,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19934,9 +20327,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19959,7 +20352,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19969,9 +20362,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -19994,7 +20387,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20004,9 +20397,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -20029,7 +20422,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20039,9 +20432,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -20064,7 +20457,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20074,9 +20467,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -20099,7 +20492,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20109,9 +20502,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -20134,7 +20527,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20144,9 +20537,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine} (CAS: 210169-40-7)
+  - (S)-DTBM-SEGPHOS (CAS: 210169-40-7)
 
-**ConditionCore:** Pd/4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}
+**ConditionCore:** Pd/(S)-DTBM-SEGPHOS
 
 **Generic Catalyst:** Pd
 
@@ -20169,7 +20562,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(44), e202212101
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '4,4'-Bi-1,3-benzodioxole-5,5'-diylbis{bis[4-methoxy-3,5-bis(2-methyl-2-propanyl)phenyl]phosphine}' (CAS 210169-40-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for '(S)-DTBM-SEGPHOS' (CAS 210169-40-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20553,9 +20946,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -20580,7 +20973,7 @@
   - **Citation:** Journal of the American Chemical Society (2021), 143(47), 19769-19777
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20801,9 +21194,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -20826,7 +21219,7 @@
   - **Citation:** Journal of the American Chemical Society (2021), 143(33), 13342-13349
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20838,7 +21231,9 @@
   - CuI (CAS: 7681-65-4)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** CuI
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu
 
 **Reagents:**
   - DIPA (CAS: 108-18-9) - Role: BASE
@@ -21150,9 +21545,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -21176,7 +21571,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(27), e202202614
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -21186,9 +21581,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -21212,7 +21607,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(27), e202202614
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -21222,9 +21617,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -21248,7 +21643,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(27), e202202614
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -21257,10 +21652,15 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - dppf (CAS: 12150-46-8)
   - Pd (CAS: 32005-36-0)
+  - dppf (CAS: 12150-46-8)
 
 **ConditionCore:** Pd/dppf
+
+**Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -21463,9 +21863,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -21488,7 +21888,7 @@
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202636
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22139,7 +22539,9 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -22238,6 +22640,8 @@
 
 **ConditionCore:** Pd/SPhos
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
@@ -22269,7 +22673,9 @@
   - PD (CAS: 7440-05-3)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** PD/RuPhos
+**ConditionCore:** Pd/RuPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -22302,7 +22708,9 @@
   - PD (CAS: 7440-05-3)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** PD/RuPhos
+**ConditionCore:** Pd/RuPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -22333,9 +22741,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22358,7 +22766,7 @@
   - **Citation:** Chemistry - A European Journal (2023), 29(1), e202202636
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22435,9 +22843,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22460,7 +22868,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(6), 720-723
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22471,7 +22879,9 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** GPhos Pd G6
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: UNK
@@ -22500,7 +22910,9 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** GPhos Pd G6
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: UNK
@@ -22529,7 +22941,9 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** GPhos Pd G6
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: UNK
@@ -22558,7 +22972,9 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** GPhos Pd G6
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: UNK
@@ -22587,7 +23003,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Phenol (CAS: 108-95-2) - Role: UNK
@@ -22620,7 +23038,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Potassium;phenol (CAS: 100-67-4) - Role: UNK
@@ -22680,9 +23100,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22705,7 +23125,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(3), 1607-1616
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22715,9 +23135,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22740,7 +23160,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(3), 1607-1616
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22750,9 +23170,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22775,7 +23195,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(3), 1607-1616
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22785,9 +23205,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22810,7 +23230,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(3), 1607-1616
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22820,9 +23240,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22845,7 +23265,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(3), 1607-1616
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -22855,9 +23275,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -22880,7 +23300,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(52), e202213697
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -23381,9 +23801,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -23406,7 +23826,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2023), 62(4), e202216838
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -23452,9 +23872,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -23477,7 +23897,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2023), 62(7), e202216473
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -23700,6 +24120,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -23734,6 +24157,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -23770,6 +24196,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -23805,6 +24234,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -23839,6 +24271,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -23904,9 +24339,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -23930,7 +24365,7 @@
   - **Citation:** Journal of Organic Chemistry (2022), 87(9), 5744-5759
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24007,9 +24442,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -24032,7 +24467,7 @@
   - **Citation:** Nature Communications (2023), 14(1), 1678
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24115,9 +24550,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -24140,7 +24575,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2022), 61(50), e202213157
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24150,9 +24585,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -24175,7 +24610,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(7), 4224-4233
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24185,9 +24620,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -24210,7 +24645,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(7), 4224-4233
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24220,9 +24655,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -24245,7 +24680,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(7), 4224-4233
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24255,9 +24690,11 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -24278,7 +24715,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2023), 62(18), e202300178
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24358,9 +24795,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -24383,7 +24820,7 @@
   - **Citation:** Journal of the American Chemical Society (2022), 144(50), 22976-22984
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24393,9 +24830,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -24418,7 +24855,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(19), 2815-2818
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -24462,9 +24899,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBHP (CAS: 75-91-2) - Role: UNK
@@ -24492,9 +24931,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - FP54981 (CAS: 42196-31-6)
+  - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** FP54981
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBHP (CAS: 75-91-2) - Role: UNK
@@ -24529,7 +24970,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - DavePhos (CAS: 213697-53-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -24883,7 +25324,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -24915,7 +25356,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -24947,7 +25388,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -25751,10 +26192,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PtBu3 (CAS: 13716-12-6)
   - Pd (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **ConditionCore:** Pd/PtBu3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -25865,6 +26308,8 @@
 
 **ConditionCore:** Pd/RuPhos
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - TFA (CAS: 76-05-1) - Role: SOLVENT
@@ -25899,6 +26344,8 @@
   - RuPhos (CAS: 787618-22-8)
 
 **ConditionCore:** Pd/RuPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TFA (CAS: 76-05-1) - Role: SOLVENT
@@ -26032,10 +26479,10 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26055,7 +26502,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'NaOtBu' (CAS 865-48-5): registry compound_type -> BASE
 
 ---
@@ -26066,10 +26513,10 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26089,7 +26536,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'NaOtBu' (CAS 865-48-5): registry compound_type -> BASE
 
 ---
@@ -26100,10 +26547,10 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
   - NaOtBu (CAS: 865-48-5)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26123,7 +26570,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(49), 7643-7646
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'NaOtBu' (CAS 865-48-5): registry compound_type -> BASE
 
 ---
@@ -26264,10 +26711,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PtBu3 (CAS: 13716-12-6)
   - Pd (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **ConditionCore:** Pd/PtBu3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -26369,7 +26818,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium Chloride (CAS: 7647-14-5) - Role: UNK
@@ -26501,9 +26952,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26526,7 +26977,7 @@
   - **Citation:** Organic Letters (2023), 25(30), 5597-5601
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -26536,9 +26987,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26561,7 +27012,7 @@
   - **Citation:** Organic Letters (2023), 25(30), 5597-5601
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -26571,9 +27022,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26596,7 +27047,7 @@
   - **Citation:** Organic Letters (2023), 25(30), 5597-5601
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -26673,9 +27124,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26698,7 +27149,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -26708,9 +27159,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -26733,7 +27184,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2023), 59(71), 10604-10607
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -27329,6 +27780,8 @@
 
 **ConditionCore:** Pd/XantPhos
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -27362,6 +27815,8 @@
 
 **ConditionCore:** Pd/XantPhos
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -27394,6 +27849,8 @@
   - XantPhos (CAS: 161265-03-8)
 
 **ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -28216,7 +28673,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -28250,7 +28709,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -28281,11 +28742,13 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - LiHMDS (CAS: 4039-32-1)
   - Pd (CAS: 32005-36-0)
+  - LiHMDS (CAS: 4039-32-1)
   - RuPhos (CAS: 787618-22-8)
 
 **ConditionCore:** Pd/RuPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -28388,10 +28851,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PtBu3 (CAS: 13716-12-6)
   - Pd (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **ConditionCore:** Pd/PtBu3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -28421,10 +28886,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PtBu3 (CAS: 13716-12-6)
   - Pd (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **ConditionCore:** Pd/PtBu3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -28454,10 +28921,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PtBu3 (CAS: 13716-12-6)
   - Pd (CAS: 32005-36-0)
+  - PtBu3 (CAS: 13716-12-6)
 
 **ConditionCore:** Pd/PtBu3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -28492,6 +28961,8 @@
 
 **ConditionCore:** Pd
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
@@ -28518,9 +28989,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -28543,7 +29014,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(21), 11504-11511
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -28658,9 +29129,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -28683,7 +29154,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(21), 11504-11511
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -28833,9 +29304,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -28858,7 +29329,7 @@
   - **Citation:** ACS Catalysis (2022), 12(12), 7269-7277
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -29001,7 +29472,9 @@
   - PD (CAS: 7440-05-3)
   - DACH (CAS: 1121-22-8)
 
-**ConditionCore:** CuI
+**ConditionCore:** Cu
+
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -30017,6 +30490,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -30087,6 +30563,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -30121,6 +30600,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -30222,7 +30704,9 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -30257,7 +30741,9 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -30295,7 +30781,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -30327,7 +30813,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -30359,7 +30845,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -30392,7 +30878,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - NSC84270 (CAS: 13400-13-0) - Role: UNK
+  - CsF (CAS: 13400-13-0) - Role: UNK
   - Zinc Chloride (CAS: 7646-85-7) - Role: UNK
   - Water (CAS: 7732-18-5) - Role: SOLVENT
 
@@ -30423,7 +30909,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -30454,7 +30942,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -30486,7 +30976,9 @@
   - Pd (CAS: 32005-36-0)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -30505,6 +30997,9 @@
   - **Title:** Two-Chamber-Enabled Hydrogenation Reactions Using Al-H2O/NaOH: Access to Pharmaceuticals
   - **Authors:** Iqubal, Ashif; Halder, Pallabi; Das, Parthasarathi
   - **Citation:** Journal of Organic Chemistry (2023), 88(24), 17047-17061
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
 
 ---
 
@@ -31295,10 +31790,12 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -31329,7 +31826,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -31399,7 +31898,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
@@ -31463,6 +31962,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31497,6 +31999,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -31533,6 +32038,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31567,6 +32075,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -31603,6 +32114,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31637,6 +32151,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -31673,6 +32190,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31707,6 +32227,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -31743,6 +32266,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31777,6 +32303,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -31813,6 +32342,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31847,6 +32379,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -31883,6 +32418,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31917,6 +32455,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -31953,6 +32494,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -31987,6 +32531,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32023,6 +32570,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32057,6 +32607,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32093,6 +32646,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32127,6 +32683,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32163,6 +32722,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32197,6 +32759,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32233,6 +32798,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32267,6 +32835,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32303,6 +32874,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32337,6 +32911,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32373,6 +32950,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32407,6 +32987,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32443,6 +33026,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32478,6 +33064,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
+
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
 
@@ -32512,6 +33101,9 @@
 **ConditionCore:** Pd/dppp
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppp (CAS: 6737-42-4)
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -32578,9 +33170,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -32603,7 +33195,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(11), 6036-6041
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -32996,11 +33588,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33021,7 +33613,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33031,11 +33623,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33056,7 +33648,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33066,11 +33658,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33091,7 +33683,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33101,11 +33693,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33126,7 +33718,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33136,11 +33728,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33161,7 +33753,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33171,11 +33763,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33196,7 +33788,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33206,11 +33798,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33231,7 +33823,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33241,11 +33833,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33266,7 +33858,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33276,11 +33868,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33301,7 +33893,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33311,11 +33903,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33336,7 +33928,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33346,11 +33938,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33371,7 +33963,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33381,11 +33973,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33406,7 +33998,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33416,11 +34008,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33441,7 +34033,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33451,11 +34043,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33476,7 +34068,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33486,11 +34078,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33511,7 +34103,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33521,11 +34113,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33546,7 +34138,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33556,11 +34148,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33581,7 +34173,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33591,11 +34183,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33616,7 +34208,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33626,11 +34218,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33651,7 +34243,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33661,11 +34253,11 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -33686,7 +34278,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -33704,7 +34296,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33741,7 +34333,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33778,7 +34370,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33815,7 +34407,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33852,7 +34444,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33889,7 +34481,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33926,7 +34518,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33963,7 +34555,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -34000,7 +34592,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -34037,7 +34629,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - CID 24204 (CAS: 7558-80-7) - Role: UNK
+  - NaH2PO4 (CAS: 7558-80-7) - Role: BASE
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -34066,11 +34658,11 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -34091,7 +34683,7 @@
   - **Citation:** Organic Chemistry Frontiers (2024), 11(4), 1057-1061
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -34140,6 +34732,8 @@
   - XPhos (CAS: 564483-19-8)
 
 **ConditionCore:** Pd/XPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -34205,7 +34799,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -34237,9 +34833,11 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -34260,7 +34858,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(11), e202316596
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -34270,9 +34868,11 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -34293,7 +34893,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(11), e202316596
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -34478,9 +35078,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -34503,7 +35103,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(6), 3970-3976
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -34513,9 +35113,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -34538,7 +35138,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(6), 3970-3976
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -34548,9 +35148,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -34573,7 +35173,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(11), 6036-6041
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -34805,6 +35405,9 @@
 
 **Generic Catalyst:** Pd
 
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
+
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
@@ -34834,9 +35437,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -34859,7 +35462,7 @@
   - **Citation:** Organic Letters (2024), 26(4), 939-944
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -34900,10 +35503,15 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - dppf (CAS: 12150-46-8)
   - Pd (CAS: 32005-36-0)
+  - dppf (CAS: 12150-46-8)
 
 **ConditionCore:** Pd/dppf
+
+**Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -34967,7 +35575,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -34999,7 +35609,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -35031,7 +35643,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -35124,9 +35738,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -35149,7 +35763,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(14), e202401117
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -35166,7 +35780,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -35233,7 +35847,9 @@
   - PD (CAS: 7440-05-3)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** PD/DMAP
+**ConditionCore:** Pd/DMAP
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -35268,7 +35884,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -35301,7 +35919,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -35334,7 +35954,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -35367,7 +35989,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -35400,7 +36024,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -35433,7 +36059,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -35536,7 +36164,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -35603,7 +36233,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -35776,7 +36408,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/XantPhos
+**ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -35875,7 +36509,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/XantPhos
+**ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -35908,7 +36544,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - XantPhos (CAS: 161265-03-8)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/XantPhos
+**ConditionCore:** Pd/XantPhos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -36237,7 +36875,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -36259,6 +36897,9 @@
   - **Authors:** Zhang, Peng; Guo, Chang-Qiu; Yao, Wang; Lu, Chuan-Jun; Li, Yingzi; Paton, Robert S.; Liu, Ren-Rong
   - **Citation:** ACS Catalysis (2023), 13(11), 7680-7690
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40129233
@@ -36269,7 +36910,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -36291,6 +36932,9 @@
   - **Authors:** Zhang, Peng; Guo, Chang-Qiu; Yao, Wang; Lu, Chuan-Jun; Li, Yingzi; Paton, Robert S.; Liu, Ren-Rong
   - **Citation:** ACS Catalysis (2023), 13(11), 7680-7690
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40129279
@@ -36301,7 +36945,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
 
 **Generic Catalyst:** Pd
 
@@ -36325,6 +36969,9 @@
   - **Authors:** Zhang, Peng; Guo, Chang-Qiu; Yao, Wang; Lu, Chuan-Jun; Li, Yingzi; Paton, Robert S.; Liu, Ren-Rong
   - **Citation:** ACS Catalysis (2023), 13(11), 7680-7690
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40178545
@@ -36336,6 +36983,8 @@
   - IMD (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -36397,7 +37046,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
@@ -36817,7 +37468,9 @@
   - Pd (CAS: 32005-36-0)
   - BINAP (CAS: 76189-56-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/BINAP
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -36838,6 +37491,9 @@
   - **Authors:** Talukdar, Vishal; Mondal, Krishanu; Halder, Pallabi; Das, Parthasarathi
   - **Citation:** Journal of Organic Chemistry (2024), 89(11), 7455-7471
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'BINAP' (CAS 76189-56-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40479714
@@ -36847,7 +37503,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -36878,7 +37536,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37499,7 +38159,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -37565,10 +38227,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PPh3 (CAS: 603-35-0)
   - Pd (CAS: 32005-36-0)
+  - PPh3 (CAS: 603-35-0)
 
 **ConditionCore:** Pd/PPh3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -37599,10 +38263,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - PPh3 (CAS: 603-35-0)
   - Pd (CAS: 32005-36-0)
+  - PPh3 (CAS: 603-35-0)
 
 **ConditionCore:** Pd/PPh3
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -37667,7 +38333,9 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - H2 (CAS: 1333-74-0) - Role: UNK
@@ -37733,9 +38401,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37756,7 +38426,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(9), 5852-5860
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -37766,9 +38436,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37789,7 +38461,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(9), 5852-5860
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -37799,9 +38471,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37822,7 +38496,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(9), 5852-5860
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -37832,9 +38506,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37855,7 +38531,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(9), 5852-5860
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -37865,9 +38541,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37888,7 +38566,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(9), 5852-5860
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -37898,9 +38576,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -37921,7 +38601,7 @@
   - **Citation:** Journal of Organic Chemistry (2023), 88(9), 5852-5860
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -38070,7 +38750,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -38104,7 +38786,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -38170,10 +38854,12 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - UN2679 (CAS: 1310-65-2) - Role: UNK
+  - Lithium Hydroxide (CAS: 1310-65-2) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - TFA (CAS: 76-05-1) - Role: SOLVENT
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -38210,10 +38896,12 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - UN2679 (CAS: 1310-65-2) - Role: UNK
+  - Lithium Hydroxide (CAS: 1310-65-2) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - TFA (CAS: 76-05-1) - Role: SOLVENT
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -38250,7 +38938,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -38284,7 +38974,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -38749,7 +39441,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -38781,7 +39475,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -38813,7 +39509,9 @@
 **Full Catalytic System:**
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -38884,6 +39582,9 @@
 **ConditionCore:** Pd/dppf
 
 **Generic Catalyst:** Pd
+
+**Ligands:**
+  - dppf (CAS: 12150-46-8)
 
 **Reagents:**
   - Sodium Chloride (CAS: 7647-14-5) - Role: UNK
@@ -38993,7 +39694,9 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** PdCl2(dppf)
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -39156,9 +39859,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -39181,7 +39884,7 @@
   - **Citation:** Chemistry - A European Journal (2024), 30(18), e202303953
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -39191,11 +39894,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - P2297 (CAS: 312959-24-3)
+  - QPhos (CAS: 312959-24-3)
 
-**ConditionCore:** Pd/P2297
+**ConditionCore:** Pd/QPhos
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - KOtBu (CAS: 865-47-4) - Role: BASE
@@ -39216,7 +39919,7 @@
   - **Citation:** Chemistry - A European Journal (2024), 30(18), e202303953
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'P2297' (CAS 312959-24-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'QPhos' (CAS 312959-24-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -39226,9 +39929,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -39251,7 +39954,7 @@
   - **Citation:** Chemistry - A European Journal (2024), 30(18), e202303953
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -39262,7 +39965,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -39294,7 +39999,9 @@
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -39329,11 +40036,11 @@
 
 **ConditionCore:** Pd
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Ag
 
 **Reagents:**
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
-  - INS-948 (CAS: 7782-44-7) - Role: UNK
+  - O2 (CAS: 7782-44-7) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -39395,7 +40102,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39428,7 +40137,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39461,7 +40172,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39494,7 +40207,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39527,7 +40242,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39560,7 +40277,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39593,7 +40312,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39626,7 +40347,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39659,7 +40382,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39692,7 +40417,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39725,7 +40452,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39758,7 +40487,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39791,7 +40522,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39824,7 +40557,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39857,7 +40592,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39890,7 +40627,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39923,7 +40662,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39956,7 +40697,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -39989,7 +40732,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40022,7 +40767,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40055,7 +40802,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40088,7 +40837,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40121,7 +40872,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40154,7 +40907,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40187,7 +40942,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40220,7 +40977,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40253,7 +41012,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40286,7 +41047,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -40319,7 +41082,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40352,7 +41117,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -40385,7 +41152,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40418,7 +41187,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40451,7 +41222,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40484,7 +41257,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -40517,7 +41292,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -40550,7 +41327,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40583,7 +41362,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -40616,7 +41397,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40649,7 +41432,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40682,7 +41467,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40715,7 +41502,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40748,7 +41537,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40781,7 +41572,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40814,7 +41607,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40847,7 +41642,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40880,7 +41677,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40913,7 +41712,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40946,7 +41747,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -40979,7 +41782,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41012,7 +41817,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41045,7 +41852,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41078,7 +41887,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41111,7 +41922,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 950982-66-8
 
-**ConditionCore:** Pd2(dba)3·CHCl3
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41141,7 +41954,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41174,7 +41989,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41207,7 +42024,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41240,7 +42059,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41273,7 +42094,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41306,7 +42129,9 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - (R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine (CAS: 849924-41-0)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+**ConditionCore:** Pd/(R)-1-{(SP)-2-[Di(2-furyl)phosphino]ferrocenyl}ethyldi-tert-butylphosphine
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41341,6 +42166,8 @@
 
 **ConditionCore:** Pd/(R)-N-Methyl-N-diphenylphosphino-1-[(S)-2-diphenylphosphino)ferrocenyl]ethylamine
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
@@ -41373,6 +42200,8 @@
   - (R)-Phanephos (CAS: 364732-88-7)
 
 **ConditionCore:** Pd/(R)-Phanephos
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -41782,9 +42611,11 @@
 
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41806,7 +42637,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'Bis(tri-tert-butylphosphine)palladium(0)' (CAS 53199-31-8): registry compound_type -> CAT_LIG
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -41818,7 +42649,9 @@
   - (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate (CAS: 1445085-77-7)
   - RuPhos (CAS: 787618-22-8)
 
-**ConditionCore:** (2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate/RuPhos
+**ConditionCore:** Pd/(2-Dicyclohexylphosphino-2,6-diisopropoxy-1,1-biphenyl)(2-(2-amino-1,1-biphenyl))palladium(II) methanesulfonate
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -41850,9 +42683,11 @@
 
 **Full Catalytic System:**
   - Bis(tri-tert-butylphosphine)palladium(0) (CAS: 53199-31-8)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Bis(tri-tert-butylphosphine)palladium(0)/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/Bis(tri-tert-butylphosphine)palladium(0)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -41874,7 +42709,7 @@
 
 **Data Quality Warnings:**
   - ⚠️ Full Catalytic System: Role conflict for 'Bis(tri-tert-butylphosphine)palladium(0)' (CAS 53199-31-8): registry compound_type -> CAT_LIG
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -41926,7 +42761,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -41956,9 +42791,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -41981,7 +42816,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42024,8 +42859,10 @@
 
 **ConditionCore:** Pd
 
+**Generic Catalyst:** Pd
+
 **Reagents:**
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1) - Role: CAT_LIG
+  - P(tBu)3·HBF4 (CAS: 131274-22-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -42051,9 +42888,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -42075,7 +42914,7 @@
   - **Citation:** Journal of the American Chemical Society (2024), 146(43), 29383-29390
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42085,12 +42924,14 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
-  - C19359 (CAS: 12125-02-9) - Role: UNK
+  - Monochloramine (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -42110,7 +42951,7 @@
   - **Citation:** Journal of the American Chemical Society (2024), 146(43), 29383-29390
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42120,9 +42961,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42145,7 +42986,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42155,9 +42996,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42180,7 +43021,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42190,9 +43031,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42215,7 +43056,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42225,9 +43066,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42250,7 +43091,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42260,9 +43101,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42285,7 +43126,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42295,9 +43136,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42320,7 +43161,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42330,9 +43171,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42355,7 +43196,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42365,9 +43206,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42390,7 +43231,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42435,9 +43276,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42460,7 +43301,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42470,9 +43311,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42495,7 +43336,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42505,9 +43346,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42530,7 +43371,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42540,9 +43381,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42565,7 +43406,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42575,9 +43416,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42600,7 +43441,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42610,9 +43451,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42635,7 +43476,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42645,9 +43486,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42670,7 +43511,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42680,9 +43521,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -42705,7 +43546,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43485,9 +44326,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43510,7 +44351,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43520,9 +44361,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43545,7 +44386,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43555,9 +44396,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43580,7 +44421,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43590,10 +44431,10 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
   - SPhos (CAS: 657408-07-6)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43616,7 +44457,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'SPhos' (CAS 657408-07-6): registry compound_type -> CAT_LIG
 
 ---
@@ -43627,9 +44468,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43652,7 +44493,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(18), e202402020
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43662,9 +44503,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43687,7 +44528,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(30), e202405412
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43697,9 +44538,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43722,7 +44563,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(30), e202405412
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43839,9 +44680,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -43865,7 +44706,7 @@
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(41), 5391-5394
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -43945,7 +44786,9 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** GPhos Pd G6
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: UNK
@@ -43974,7 +44817,9 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** GPhos Pd G6
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: UNK
@@ -44003,7 +44848,9 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** GPhos Pd G6
+**ConditionCore:** Pd
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Sodium trimethylsilanolate (CAS: 18027-10-6) - Role: UNK
@@ -44389,9 +45236,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -44414,7 +45261,7 @@
   - **Citation:** Nature Communications (2024), 15(1), 9611
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -44580,9 +45427,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44603,7 +45452,7 @@
   - **Citation:** Journal of the American Chemical Society (2024), 146(45), 31230-31239
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -44613,9 +45462,11 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd2(dba)3·CHCl3/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -44636,7 +45487,7 @@
   - **Citation:** Journal of the American Chemical Society (2024), 146(45), 31230-31239
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -44996,9 +45847,11 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -45019,7 +45872,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(36), e202407279
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -45029,9 +45882,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -45054,7 +45907,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(3), 1505-1511
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -45064,9 +45917,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -45091,7 +45944,7 @@
   - **Citation:** Journal of the American Chemical Society (2023), 145(3), 1505-1511
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -45569,9 +46422,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  -  [(t-Bu)3PH]BF4 (CAS: 131274-22-1)
+  - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Pd/ [(t-Bu)3PH]BF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
 
 **Generic Catalyst:** Pd
 
@@ -45594,7 +46447,7 @@
   - **Citation:** Chemistry - A European Journal (2024), 30(55), e202402470
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for ' [(t-Bu)3PH]BF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'P(tBu)3·HBF4' (CAS 131274-22-1): registry compound_type -> CAT_LIG
 
 ---
 

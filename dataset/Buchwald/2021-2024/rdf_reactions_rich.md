@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-06 21:07:20
+**Generated:** 2025-09-07 11:36:34
 **Source Folder:** RDF_Folder_2021-2024
 **Total Reactions:** 1343
 
@@ -3891,9 +3891,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - C24H1P (CAS: 247940-06-3)
+  - CyJohnPhos (CAS: 247940-06-3)
 
-**ConditionCore:** Pd/C24H1P
+**ConditionCore:** Pd/CyJohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -3916,7 +3916,7 @@
   - **Citation:** Organic Letters (2021), 23(9), 3729-3734
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'CyJohnPhos' (CAS 247940-06-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4346,9 +4346,9 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - C24H1P (CAS: 247940-06-3)
+  - CyJohnPhos (CAS: 247940-06-3)
 
-**ConditionCore:** Pd/C24H1P
+**ConditionCore:** Pd/CyJohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -4372,7 +4372,7 @@
   - **Citation:** Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'CyJohnPhos' (CAS 247940-06-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4382,9 +4382,9 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - C24H1P (CAS: 247940-06-3)
+  - CyJohnPhos (CAS: 247940-06-3)
 
-**ConditionCore:** Pd/C24H1P
+**ConditionCore:** Pd/CyJohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -4408,7 +4408,7 @@
   - **Citation:** Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'CyJohnPhos' (CAS 247940-06-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4450,9 +4450,9 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - C24H1P (CAS: 247940-06-3)
+  - CyJohnPhos (CAS: 247940-06-3)
 
-**ConditionCore:** Pd/C24H1P
+**ConditionCore:** Pd/CyJohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -4476,7 +4476,7 @@
   - **Citation:** Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'CyJohnPhos' (CAS 247940-06-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4486,9 +4486,9 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - C24H1P (CAS: 247940-06-3)
+  - CyJohnPhos (CAS: 247940-06-3)
 
-**ConditionCore:** Pd/C24H1P
+**ConditionCore:** Pd/CyJohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -4512,7 +4512,7 @@
   - **Citation:** Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'CyJohnPhos' (CAS 247940-06-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4522,9 +4522,9 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - C24H1P (CAS: 247940-06-3)
+  - CyJohnPhos (CAS: 247940-06-3)
 
-**ConditionCore:** Pd/C24H1P
+**ConditionCore:** Pd/CyJohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -4548,7 +4548,7 @@
   - **Citation:** Advanced Synthesis & Catalysis (2021), 363(11), 2843-2849
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'CyJohnPhos' (CAS 247940-06-3): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4849,7 +4849,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -4881,7 +4881,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -4913,7 +4913,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -4945,7 +4945,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -4977,7 +4977,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -5009,7 +5009,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -5041,7 +5041,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -5073,7 +5073,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -5105,7 +5105,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -5137,7 +5137,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -5169,7 +5169,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -10327,7 +10327,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -10357,7 +10357,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -10387,7 +10387,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -10417,7 +10417,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -10447,7 +10447,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -10478,7 +10478,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -10508,7 +10508,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - CAS: 283175-97-3
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -10572,7 +10572,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -11656,7 +11656,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -14510,7 +14510,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - 1,3-Bis(2,6-di-i-propylphenyl)imidazol-2-ylidene][bis(trifluoromethanesulfonyl)imide]gold(I) (CAS: 951776-24-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd, Au
 
@@ -15027,7 +15027,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - XantPhos (CAS: 161265-03-8)
 
-**ConditionCore:** Pd/XantPhos
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -15380,7 +15380,7 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - dppf (CAS: 12150-46-8)
 
-**ConditionCore:** Pd/dppf
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -17222,7 +17222,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -17290,7 +17290,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17321,7 +17321,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17352,7 +17352,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -22539,7 +22539,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -22879,7 +22879,7 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** GPhos Pd G6
 
 **Generic Catalyst:** Pd
 
@@ -22910,7 +22910,7 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** GPhos Pd G6
 
 **Generic Catalyst:** Pd
 
@@ -22941,7 +22941,7 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** GPhos Pd G6
 
 **Generic Catalyst:** Pd
 
@@ -22972,7 +22972,7 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** GPhos Pd G6
 
 **Generic Catalyst:** Pd
 
@@ -23836,7 +23836,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -30704,7 +30704,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -30741,7 +30741,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -37633,7 +37633,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -37666,7 +37666,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -37699,7 +37699,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -37732,7 +37732,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -37765,7 +37765,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -37798,7 +37798,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - BINAP (CAS: 76189-55-4)
+  - (+/-)BINAP (CAS: 76189-55-4)
 
 **ConditionCore:** Pd
 
@@ -37837,7 +37837,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - BINAP (CAS: 76189-55-4) - Role: UNK
+  - (+/-)BINAP (CAS: 76189-55-4) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -37870,7 +37870,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - BINAP (CAS: 76189-55-4) - Role: UNK
+  - (+/-)BINAP (CAS: 76189-55-4) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -37903,7 +37903,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - BINAP (CAS: 76189-55-4) - Role: UNK
+  - (+/-)BINAP (CAS: 76189-55-4) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -39694,7 +39694,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -44786,7 +44786,7 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** GPhos Pd G6
 
 **Generic Catalyst:** Pd
 
@@ -44817,7 +44817,7 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** GPhos Pd G6
 
 **Generic Catalyst:** Pd
 
@@ -44848,7 +44848,7 @@
 **Full Catalytic System:**
   - GPhos Pd G6 (CAS: 2489525-81-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** GPhos Pd G6
 
 **Generic Catalyst:** Pd
 

@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-06 21:03:41
+**Generated:** 2025-09-08 23:29:15
 **Source Folder:** RDF_Folder_2023-2025
 **Total Reactions:** 3857
 
@@ -2231,7 +2231,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -6004,7 +6004,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -6036,7 +6036,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -6385,7 +6385,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -8351,7 +8351,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -8383,7 +8383,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -9539,7 +9539,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -10944,7 +10944,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -11153,7 +11153,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -11185,7 +11185,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -11308,7 +11308,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -11719,7 +11719,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -13045,7 +13045,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -13077,7 +13077,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -13109,7 +13109,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -13140,7 +13140,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -13172,7 +13172,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** Pd/DMAP
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -14077,7 +14077,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -14987,7 +14987,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -15298,7 +15298,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -16253,7 +16253,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16452,7 +16452,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16484,7 +16484,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16516,7 +16516,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16548,7 +16548,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16703,7 +16703,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16735,7 +16735,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16946,7 +16946,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -17206,7 +17206,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17270,7 +17270,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17715,7 +17715,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17746,7 +17746,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -18534,7 +18534,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -18565,7 +18565,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -18596,7 +18596,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -18664,7 +18664,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -19709,7 +19709,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -19742,7 +19742,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -19775,7 +19775,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -19807,7 +19807,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -19874,7 +19874,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -19941,7 +19941,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -20127,7 +20127,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -20158,7 +20158,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -20189,7 +20189,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -20554,7 +20554,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -20709,7 +20709,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -22060,7 +22060,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -22122,7 +22122,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -22629,7 +22629,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -22662,7 +22662,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -22695,7 +22695,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -22728,7 +22728,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -22761,7 +22761,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -22794,7 +22794,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -22827,7 +22827,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -22891,7 +22891,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -23236,7 +23236,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -23807,7 +23807,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -24151,7 +24151,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -24468,7 +24468,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -26408,7 +26408,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -26439,7 +26439,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -28499,7 +28499,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28537,7 +28537,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28575,7 +28575,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28613,7 +28613,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28651,7 +28651,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28688,7 +28688,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - TfOH (CAS: 1493-13-6) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
@@ -28726,7 +28726,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - TfOH (CAS: 1493-13-6) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
@@ -28765,7 +28765,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28803,7 +28803,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28841,7 +28841,7 @@
 
 **Reagents:**
   - Zinc iodide (CAS: 10139-47-6) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -28903,7 +28903,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -29088,7 +29088,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -29122,7 +29122,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -29156,7 +29156,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -29190,7 +29190,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -29349,7 +29349,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29381,7 +29381,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29413,7 +29413,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29445,7 +29445,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29477,7 +29477,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29509,7 +29509,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29541,7 +29541,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29573,7 +29573,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29605,7 +29605,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29637,7 +29637,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29669,7 +29669,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29701,7 +29701,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29733,7 +29733,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29765,7 +29765,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29893,7 +29893,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29925,7 +29925,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29957,7 +29957,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -29989,7 +29989,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -33654,7 +33654,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -33686,7 +33686,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -33718,7 +33718,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -33750,7 +33750,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -35911,7 +35911,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -36042,7 +36042,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
   - 77-76-9 (CAS: 77-76-9) - Role: UNK
@@ -36142,7 +36142,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -37514,7 +37514,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -37546,7 +37546,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -38670,7 +38670,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -38702,7 +38702,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -41962,7 +41962,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -41994,7 +41994,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -42626,7 +42626,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -43267,7 +43267,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -43905,7 +43905,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -43940,7 +43940,7 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - 4-Bromoaniline (CAS: 95464-05-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -43973,7 +43973,7 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - 4-Bromoaniline (CAS: 95464-05-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -44006,7 +44006,7 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - 4-Bromoaniline (CAS: 95464-05-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -44039,7 +44039,7 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - 4-Bromoaniline (CAS: 95464-05-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -44072,7 +44072,7 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - 4-Bromoaniline (CAS: 95464-05-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -44586,7 +44586,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -44618,7 +44618,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -44870,7 +44870,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -44907,7 +44907,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -44944,7 +44944,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -44981,7 +44981,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45018,7 +45018,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45055,7 +45055,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45092,7 +45092,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45129,7 +45129,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45166,7 +45166,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45203,7 +45203,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45240,7 +45240,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45277,7 +45277,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -45314,7 +45314,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -49521,7 +49521,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -49582,7 +49582,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -49612,7 +49612,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -49653,7 +49653,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -49694,7 +49694,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -49735,7 +49735,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -49776,7 +49776,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -49817,7 +49817,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -49858,7 +49858,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -49899,7 +49899,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -50333,7 +50333,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50365,7 +50365,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50397,7 +50397,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50429,7 +50429,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50461,7 +50461,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50493,7 +50493,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50525,7 +50525,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50557,7 +50557,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50589,7 +50589,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50621,7 +50621,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50653,7 +50653,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50685,7 +50685,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50717,7 +50717,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50749,7 +50749,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50781,7 +50781,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50813,7 +50813,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50845,7 +50845,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50877,7 +50877,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50909,7 +50909,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50941,7 +50941,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -50973,7 +50973,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -51005,7 +51005,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -51037,7 +51037,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -51069,7 +51069,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -51101,7 +51101,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -51133,7 +51133,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -51261,7 +51261,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -53436,7 +53436,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -53473,7 +53473,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -53510,7 +53510,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -53547,7 +53547,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -53584,7 +53584,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -53621,7 +53621,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -53658,7 +53658,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -54440,7 +54440,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -54533,7 +54533,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -56203,7 +56203,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -56235,7 +56235,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -56267,7 +56267,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -56299,7 +56299,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -56331,7 +56331,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -57370,7 +57370,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -57406,7 +57406,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -57442,7 +57442,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -57478,7 +57478,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -57514,7 +57514,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -58227,7 +58227,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -59170,7 +59170,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59202,7 +59202,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59234,7 +59234,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59266,7 +59266,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59298,7 +59298,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59330,7 +59330,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59362,7 +59362,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59394,7 +59394,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -59803,7 +59803,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -59834,7 +59834,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -59865,7 +59865,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -59896,7 +59896,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -59956,7 +59956,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -59994,7 +59994,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -60032,7 +60032,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -60070,7 +60070,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -60108,7 +60108,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -60146,7 +60146,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -60184,7 +60184,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -60222,7 +60222,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -60260,7 +60260,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -62364,7 +62364,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -63297,7 +63297,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -65289,7 +65289,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -65698,7 +65698,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67317,7 +67317,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - H2SO4 (CAS: 7664-93-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67354,7 +67354,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - H2SO4 (CAS: 7664-93-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67391,7 +67391,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - H2SO4 (CAS: 7664-93-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67428,7 +67428,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - H2SO4 (CAS: 7664-93-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67465,7 +67465,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - H2SO4 (CAS: 7664-93-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67812,7 +67812,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67847,7 +67847,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67882,7 +67882,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -67917,7 +67917,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -68018,7 +68018,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -68046,7 +68046,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -68335,7 +68335,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -69408,7 +69408,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -69741,7 +69741,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -69773,7 +69773,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -69805,7 +69805,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -70786,7 +70786,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
@@ -70817,7 +70817,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
@@ -72362,7 +72362,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -72395,7 +72395,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -72627,7 +72627,7 @@
 
 **Reagents:**
   - n-BuLi (CAS: 109-72-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - MnO2 (CAS: 1313-13-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
@@ -74728,7 +74728,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -74795,12 +74795,12 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -75233,7 +75233,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -75389,7 +75389,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -75420,7 +75420,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -75451,7 +75451,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -75482,7 +75482,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -75513,7 +75513,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -76384,7 +76384,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - SPhos (CAS: 564483-18-7)
 
-**ConditionCore:** Pd/SPhos
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -79065,12 +79065,12 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -79098,12 +79098,12 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -79161,7 +79161,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -79792,7 +79792,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -79915,7 +79915,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -79979,7 +79979,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -81485,7 +81485,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -81517,7 +81517,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -81729,7 +81729,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -81760,7 +81760,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -81791,7 +81791,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -81822,7 +81822,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -81853,7 +81853,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -81884,7 +81884,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -82017,7 +82017,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -83885,7 +83885,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -84449,7 +84449,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -84546,7 +84546,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -84617,7 +84617,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -84974,12 +84974,12 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -85213,7 +85213,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85371,7 +85371,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85403,7 +85403,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85435,7 +85435,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85467,7 +85467,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85499,7 +85499,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85531,7 +85531,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85563,7 +85563,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85595,7 +85595,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -85627,7 +85627,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -85910,7 +85910,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -86252,7 +86252,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -87386,7 +87386,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -87418,7 +87418,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -87790,12 +87790,12 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -87824,12 +87824,12 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - DMF (CAS: 68-12-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 12408-02-5 (CAS: 12408-02-5) - Role: UNK
   - Lithium Hydroxide (CAS: 1310-65-2) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -88189,7 +88189,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -88220,7 +88220,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -89324,7 +89324,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -89356,7 +89356,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -89757,7 +89757,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -89912,7 +89912,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -89976,7 +89976,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -90011,7 +90011,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -90670,7 +90670,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90699,7 +90699,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90731,7 +90731,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90763,7 +90763,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90795,7 +90795,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90827,7 +90827,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90859,7 +90859,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90891,7 +90891,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -90923,7 +90923,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -91110,7 +91110,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -92443,7 +92443,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -92869,7 +92869,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -94059,7 +94059,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -94586,7 +94586,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -95407,7 +95407,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -95439,7 +95439,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -95471,7 +95471,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -96482,7 +96482,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -96514,7 +96514,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -96551,7 +96551,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -96588,7 +96588,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -96625,7 +96625,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -96662,7 +96662,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -96729,7 +96729,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -96760,7 +96760,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -97528,7 +97528,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -97656,7 +97656,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -97885,7 +97885,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -97918,7 +97918,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -98203,7 +98203,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -98235,7 +98235,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -98267,7 +98267,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -98299,7 +98299,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -98331,7 +98331,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
@@ -101515,7 +101515,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -101551,7 +101551,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -101587,7 +101587,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -101623,7 +101623,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -101659,7 +101659,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -101695,7 +101695,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -101731,7 +101731,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -102169,7 +102169,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -102201,7 +102201,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -102233,7 +102233,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -102265,7 +102265,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -103052,7 +103052,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -104010,7 +104010,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -104135,7 +104135,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104227,7 +104227,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104264,7 +104264,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -104512,7 +104512,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104543,7 +104543,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104575,7 +104575,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104730,7 +104730,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -104766,7 +104766,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104802,7 +104802,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104838,7 +104838,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104874,7 +104874,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -104910,7 +104910,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Pd/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -105928,7 +105928,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -105960,7 +105960,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -105992,7 +105992,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106024,7 +106024,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106056,7 +106056,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106088,7 +106088,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106120,7 +106120,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106152,7 +106152,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106184,7 +106184,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106216,7 +106216,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106248,7 +106248,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106280,7 +106280,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106312,7 +106312,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106344,7 +106344,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106376,7 +106376,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106408,7 +106408,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106440,7 +106440,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106472,7 +106472,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106504,7 +106504,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106536,7 +106536,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106568,7 +106568,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106600,7 +106600,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106632,7 +106632,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106664,7 +106664,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106696,7 +106696,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106728,7 +106728,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106760,7 +106760,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106792,7 +106792,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106824,7 +106824,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106856,7 +106856,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106888,7 +106888,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106920,7 +106920,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -106952,7 +106952,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107015,7 +107015,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107047,7 +107047,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107203,7 +107203,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107603,7 +107603,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107635,7 +107635,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107667,7 +107667,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107699,7 +107699,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107731,7 +107731,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107763,7 +107763,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107795,7 +107795,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107827,7 +107827,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107859,7 +107859,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107891,7 +107891,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107923,7 +107923,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107955,7 +107955,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -107987,7 +107987,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108019,7 +108019,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108051,7 +108051,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108083,7 +108083,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108115,7 +108115,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108147,7 +108147,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108179,7 +108179,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108211,7 +108211,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108243,7 +108243,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108275,7 +108275,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108307,7 +108307,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108339,7 +108339,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108371,7 +108371,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108403,7 +108403,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -108959,7 +108959,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -110601,7 +110601,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -111092,7 +111092,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -111124,7 +111124,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -111156,7 +111156,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -112171,7 +112171,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -113791,7 +113791,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -113829,7 +113829,7 @@
 **Generic Catalyst:** Pd, Cu
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
 
 **Solvents:**
   - THF (CAS: 96-47-9)
@@ -114413,7 +114413,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -114968,7 +114968,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -116459,7 +116459,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -116491,7 +116491,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -116523,7 +116523,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -116555,7 +116555,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -116587,7 +116587,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -116724,7 +116724,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -116755,7 +116755,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -116786,7 +116786,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -117723,7 +117723,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -117756,7 +117756,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PCy3 (CAS: 2622-14-2)
 
-**ConditionCore:** Pd/PCy3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -117792,7 +117792,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PCy3 (CAS: 2622-14-2)
 
-**ConditionCore:** Pd/PCy3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -117828,7 +117828,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PCy3 (CAS: 2622-14-2)
 
-**ConditionCore:** Pd/PCy3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -117866,7 +117866,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -117897,7 +117897,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -117928,7 +117928,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -117956,7 +117956,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -117988,7 +117988,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118020,7 +118020,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118052,7 +118052,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118084,7 +118084,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118116,7 +118116,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118148,7 +118148,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118180,7 +118180,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118212,7 +118212,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118244,7 +118244,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118276,7 +118276,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -118338,7 +118338,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -118685,7 +118685,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -120418,7 +120418,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - Tri-o-tolylphosphine (CAS: 6163-58-2)
 
-**ConditionCore:** Pd/Tri-o-tolylphosphine
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -120726,7 +120726,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -120758,7 +120758,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -120790,7 +120790,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -120822,7 +120822,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -121301,7 +121301,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -122416,7 +122416,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -122547,7 +122547,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -123605,7 +123605,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -124017,7 +124017,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 151-21-3 (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
@@ -124051,7 +124051,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 151-21-3 (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
@@ -124085,7 +124085,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 151-21-3 (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
@@ -124119,7 +124119,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 151-21-3 (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
@@ -124153,7 +124153,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 151-21-3 (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
@@ -124187,7 +124187,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - 151-21-3 (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
@@ -124221,7 +124221,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -124258,7 +124258,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -124295,7 +124295,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -124332,7 +124332,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -124369,7 +124369,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
@@ -124400,7 +124400,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 

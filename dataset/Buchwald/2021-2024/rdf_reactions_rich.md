@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-07 11:36:34
+**Generated:** 2025-09-08 23:29:51
 **Source Folder:** RDF_Folder_2021-2024
 **Total Reactions:** 1343
 
@@ -36,7 +36,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - HCl (CAS: 7647-01-0) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
@@ -1161,9 +1161,9 @@
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - 1,5-Anhydroglucitol (CAS: 9004-64-2)
-  - Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane (CAS: 742103-27-1)
+  - cBRIDP (CAS: 742103-27-1)
 
-**ConditionCore:** Pd/Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane
+**ConditionCore:** Pd/cBRIDP
 
 **Generic Catalyst:** Pd
 
@@ -1186,7 +1186,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1357-1370
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane' (CAS 742103-27-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'cBRIDP' (CAS 742103-27-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -1197,9 +1197,9 @@
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - 1,5-Anhydroglucitol (CAS: 9004-64-2)
-  - Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane (CAS: 742103-27-1)
+  - cBRIDP (CAS: 742103-27-1)
 
-**ConditionCore:** Pd/Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane
+**ConditionCore:** Pd/cBRIDP
 
 **Generic Catalyst:** Pd
 
@@ -1222,7 +1222,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1357-1370
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane' (CAS 742103-27-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'cBRIDP' (CAS 742103-27-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -1233,9 +1233,9 @@
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - 1,5-Anhydroglucitol (CAS: 9004-64-2)
-  - Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane (CAS: 742103-27-1)
+  - cBRIDP (CAS: 742103-27-1)
 
-**ConditionCore:** Pd/Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane
+**ConditionCore:** Pd/cBRIDP
 
 **Generic Catalyst:** Pd
 
@@ -1258,7 +1258,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(2), 1357-1370
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane' (CAS 742103-27-1): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'cBRIDP' (CAS 742103-27-1): registry compound_type -> CAT_LIG
 
 ---
 
@@ -2757,9 +2757,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -2783,7 +2783,7 @@
   - **Citation:** Chemistry - A European Journal (2021), 27(11), 3861-3868
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -3345,7 +3345,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -3377,7 +3377,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -3716,7 +3716,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -3968,7 +3968,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -4005,7 +4005,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -4041,7 +4041,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Di-tert-butyl(1-methyl-2,2-diphenylcyclopropyl)phosphane (CAS: 742103-27-1) - Role: CAT_LIG
+  - cBRIDP (CAS: 742103-27-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -4173,9 +4173,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -4198,7 +4198,7 @@
   - **Citation:** Angewandte Chemie, International Edition (2021), 60(24), 13677-13681
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -4558,7 +4558,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -5275,7 +5275,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -12479,7 +12479,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -12626,7 +12626,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Calcium Carbonate (CAS: 471-34-1) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -12697,9 +12697,9 @@
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -12722,7 +12722,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(23), 16259-16267
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -12732,9 +12732,9 @@
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -12757,7 +12757,7 @@
   - **Citation:** Journal of Organic Chemistry (2021), 86(23), 16259-16267
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -13005,7 +13005,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -13149,7 +13149,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -13186,7 +13186,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -13259,7 +13259,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -13675,7 +13675,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -13707,7 +13707,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -13810,9 +13810,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -13835,7 +13835,7 @@
   - **Citation:** European Journal of Organic Chemistry (2021), 2021(36), 5073-5079
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -14448,7 +14448,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -14720,7 +14720,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Cs2CO3 (CAS: 534-17-8)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -14787,7 +14787,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -14820,7 +14820,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -14854,7 +14854,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -14891,7 +14891,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -14923,7 +14923,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15451,7 +15451,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15483,7 +15483,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15515,7 +15515,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15547,7 +15547,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15579,7 +15579,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15611,7 +15611,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15643,7 +15643,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15675,7 +15675,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15707,7 +15707,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15739,7 +15739,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15771,7 +15771,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15803,7 +15803,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15835,7 +15835,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15867,7 +15867,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15899,7 +15899,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -15931,7 +15931,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -16319,7 +16319,7 @@
 **ConditionCore:** 1,3-Bis(2,6-diisopropylphenyl)-2H-imidazole
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
 
 **Solvents:**
@@ -16353,7 +16353,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
 
 **Solvents:**
@@ -16388,7 +16388,7 @@
 **ConditionCore:** 1,3-Bis(2,6-diisopropylphenyl)-2H-imidazole
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
   - Biphenyl (CAS: 92-52-4) - Role: UNK
 
@@ -16420,7 +16420,7 @@
 **ConditionCore:** 1,3-Bis(2,6-diisopropylphenyl)-2H-imidazole
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - LiHMDS (CAS: 4039-32-1) - Role: BASE
 
 **Solvents:**
@@ -16691,7 +16691,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -16898,7 +16898,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -17187,7 +17187,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -17570,7 +17570,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -17603,7 +17603,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -17636,7 +17636,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -18059,7 +18059,7 @@
 
 **Reagents:**
   - NaOtBu (CAS: 865-48-5) - Role: BASE
-  - IMD (CAS: 98327-87-8) - Role: UNK
+  - Imidazole (CAS: 98327-87-8) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -20572,7 +20572,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -20640,7 +20640,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -20777,9 +20777,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -20802,7 +20802,7 @@
   - **Citation:** European Journal of Medicinal Chemistry (2022), 243114696
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20812,9 +20812,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -20837,7 +20837,7 @@
   - **Citation:** European Journal of Medicinal Chemistry (2022), 243114696
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20882,7 +20882,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -20914,7 +20914,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -21090,7 +21090,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -21513,7 +21513,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -23907,7 +23907,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -24047,7 +24047,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -24375,7 +24375,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -24970,7 +24970,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - DavePhos (CAS: 213697-53-1) - Role: CAT_LIG
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
@@ -24998,7 +24998,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -25030,7 +25030,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -25062,7 +25062,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -25094,7 +25094,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -25126,7 +25126,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -26616,7 +26616,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -26680,7 +26680,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -27092,7 +27092,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -29374,7 +29374,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -29403,7 +29403,7 @@
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -29437,7 +29437,7 @@
 
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -31045,7 +31045,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -31077,7 +31077,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -31720,7 +31720,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -31795,7 +31795,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -31859,7 +31859,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -31898,7 +31898,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
@@ -33205,7 +33205,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -33390,7 +33390,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -33422,7 +33422,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -33454,7 +33454,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -33486,7 +33486,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -34766,7 +34766,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -35472,7 +35472,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -35542,7 +35542,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -35676,7 +35676,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -35708,9 +35708,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/IMD
+**ConditionCore:** Thiophene-3-carboxylic acid/Imidazole
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35780,7 +35780,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -36441,7 +36441,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -36474,7 +36474,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -36980,7 +36980,7 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -37569,7 +37569,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -37601,7 +37601,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -37965,7 +37965,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -37997,7 +37997,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -38029,7 +38029,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -38061,7 +38061,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -38093,7 +38093,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -38125,7 +38125,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -38300,7 +38300,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -38716,7 +38716,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -38820,7 +38820,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -39008,9 +39008,9 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -39034,7 +39034,7 @@
   - **Citation:** Journal of Medicinal Chemistry (2021), 64(20), 15053-15068
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -39767,7 +39767,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - IMD (CAS: 98327-87-8) - Role: UNK
+  - Imidazole (CAS: 98327-87-8) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -39834,7 +39834,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - IMD (CAS: 98327-87-8) - Role: UNK
+  - Imidazole (CAS: 98327-87-8) - Role: UNK
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -42337,9 +42337,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -42362,7 +42362,7 @@
   - **Citation:** European Journal of Medicinal Chemistry (2023), 257115488
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -42547,7 +42547,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -42579,7 +42579,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -42761,7 +42761,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -42931,7 +42931,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOtBu (CAS: 865-48-5) - Role: BASE
 
 **Solvents:**
@@ -44913,7 +44913,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -44945,7 +44945,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -44977,7 +44977,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -45009,7 +45009,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -45041,7 +45041,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -45073,7 +45073,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -45105,7 +45105,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -45137,7 +45137,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -45169,7 +45169,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -45201,9 +45201,9 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - 2-(Di-tert-butylphosphino)biphenyl (CAS: 224311-51-7)
+  - JohnPhos (CAS: 224311-51-7)
 
-**ConditionCore:** Pd/2-(Di-tert-butylphosphino)biphenyl
+**ConditionCore:** Pd/JohnPhos
 
 **Generic Catalyst:** Pd
 
@@ -45226,7 +45226,7 @@
   - **Citation:** Journal of the American Chemical Society (2024), 146(51), 35377-35389
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for '2-(Di-tert-butylphosphino)biphenyl' (CAS 224311-51-7): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'JohnPhos' (CAS 224311-51-7): registry compound_type -> CAT_LIG
 
 ---
 

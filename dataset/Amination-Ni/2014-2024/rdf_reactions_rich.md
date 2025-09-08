@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-06 21:07:54
+**Generated:** 2025-09-08 23:30:16
 **Source Folder:** RDF_Folder_2014-2024
 **Total Reactions:** 1131
 
@@ -16527,7 +16527,7 @@
 **Reagents:**
   - n-BuLi (CAS: 109-72-8) - Role: BASE
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
 
 **Solvents:**
@@ -16758,7 +16758,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16832,7 +16832,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16868,7 +16868,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -16970,7 +16970,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -17006,7 +17006,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18389,7 +18389,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18457,7 +18457,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18692,7 +18692,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18794,7 +18794,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -18868,7 +18868,7 @@
 **Generic Catalyst:** Ni
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -27500,10 +27500,10 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - C24H1P (CAS: 247940-06-3)
+  - CyJohnPhos (CAS: 247940-06-3)
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
 
-**ConditionCore:** C24H1P/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
+**ConditionCore:** CyJohnPhos/1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]
 
 **Ligands:**
   - 1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine] (CAS: 1295-35-8)
@@ -27528,7 +27528,7 @@
   - **Citation:** Journal of the American Chemical Society (2022), 144(42), 19635-19648
 
 **Data Quality Warnings:**
-  - ⚠️ Full Catalytic System: Role conflict for 'C24H1P' (CAS 247940-06-3): registry compound_type -> CAT_LIG
+  - ⚠️ Full Catalytic System: Role conflict for 'CyJohnPhos' (CAS 247940-06-3): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for '1,1′-[(4R)-[4,4′-Bi-1,3-benzodioxole]-5,5′-diyl]bis[1,1-diphenylphosphine]' (CAS 1295-35-8): registry compound_type -> CAT_LIG
 
 ---

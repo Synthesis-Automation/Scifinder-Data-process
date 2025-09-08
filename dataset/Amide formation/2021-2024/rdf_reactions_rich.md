@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-06 21:05:38
+**Generated:** 2025-09-08 23:31:02
 **Source Folder:** RDF_Folder_2021-2024
 **Total Reactions:** 3848
 
@@ -2480,7 +2480,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Cu, Pd
 
@@ -6764,7 +6764,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -6804,7 +6804,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -7264,7 +7264,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -7337,7 +7337,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
   - PD (CAS: 7440-05-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -7375,7 +7375,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
   - PD (CAS: 7440-05-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -8078,7 +8078,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -8113,7 +8113,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -8148,7 +8148,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -12719,7 +12719,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
@@ -12983,7 +12983,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -13021,7 +13021,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -13059,7 +13059,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -13097,7 +13097,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -13361,7 +13361,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -13752,7 +13752,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -13791,7 +13791,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -13831,13 +13831,13 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Phosphorus oxychloride (CAS: 10025-87-3) - Role: CAT_LIG
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - E261 (CAS: 127-08-2) - Role: UNK
   - KHMDS (CAS: 40949-94-8) - Role: BASE
   - DIEA (CAS: 7087-68-5) - Role: BASE
@@ -15904,7 +15904,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -15996,7 +15996,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16059,7 +16059,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16194,7 +16194,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16438,7 +16438,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -16703,7 +16703,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - DIEA (CAS: 7087-68-5) - Role: BASE
@@ -16735,7 +16735,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16874,7 +16874,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -16952,7 +16952,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17094,7 +17094,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17127,7 +17127,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -17160,7 +17160,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17223,7 +17223,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17256,7 +17256,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -17320,7 +17320,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -17359,7 +17359,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -17391,7 +17391,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -17423,7 +17423,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -18083,7 +18083,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -18174,7 +18174,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -18209,7 +18209,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -20211,7 +20211,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
@@ -20245,7 +20245,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -20279,7 +20279,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -20313,7 +20313,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -20347,7 +20347,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -20381,7 +20381,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -26033,7 +26033,7 @@
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Lithium Hydroxide (CAS: 1310-65-2) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK
@@ -28108,7 +28108,7 @@
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Lithium Hydroxide (CAS: 1310-65-2) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - HATU (CAS: 148893-10-1) - Role: UNK
@@ -29698,7 +29698,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -40811,9 +40811,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/IMD
+**ConditionCore:** Thiophene-3-carboxylic acid/Imidazole
 
 **Reagents:**
   - Piperidine (CAS: 110-89-4) - Role: BASE
@@ -41101,7 +41101,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Cu/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -41614,7 +41614,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -41653,7 +41653,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -42804,9 +42804,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/IMD
+**ConditionCore:** Thiophene-3-carboxylic acid/Imidazole
 
 **Reagents:**
   - Piperidine (CAS: 110-89-4) - Role: BASE
@@ -46616,7 +46616,7 @@
   - PdCl2(dppf) (CAS: 72287-26-4)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -48204,7 +48204,7 @@
 **Reagents:**
   - DEA (CAS: 109-89-7) - Role: BASE
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
@@ -48242,7 +48242,7 @@
 **Reagents:**
   - DEA (CAS: 109-89-7) - Role: BASE
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
@@ -48280,7 +48280,7 @@
 **Reagents:**
   - DEA (CAS: 109-89-7) - Role: BASE
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
@@ -48318,7 +48318,7 @@
 **Reagents:**
   - DEA (CAS: 109-89-7) - Role: BASE
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
@@ -49146,7 +49146,7 @@
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -49184,7 +49184,7 @@
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -49222,7 +49222,7 @@
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -49260,7 +49260,7 @@
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -52363,7 +52363,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -53879,7 +53879,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -54164,7 +54164,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -56030,7 +56030,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -56245,7 +56245,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -56835,7 +56835,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Cu, Pd
 
@@ -56868,7 +56868,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Cu, Pd
 
@@ -56901,7 +56901,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Cu, Pd
 
@@ -56977,7 +56977,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -57250,7 +57250,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -57319,7 +57319,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -57874,7 +57874,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -57980,7 +57980,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -58282,7 +58282,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -58386,7 +58386,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -59233,7 +59233,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -59406,7 +59406,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -59444,7 +59444,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -59479,7 +59479,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -59751,7 +59751,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -59893,7 +59893,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -61760,7 +61760,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -62798,7 +62798,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -65740,7 +65740,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -66089,7 +66089,7 @@
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - 541-41-3 (CAS: 541-41-3) - Role: UNK
@@ -66161,7 +66161,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -66473,7 +66473,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -66646,7 +66646,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -66684,7 +66684,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -66851,7 +66851,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -66924,7 +66924,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -67034,7 +67034,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -67107,7 +67107,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -67627,7 +67627,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -68081,7 +68081,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
   - DHMO (CAS: 14314-42-2) - Role: UNK
@@ -68120,7 +68120,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -68298,7 +68298,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -68688,7 +68688,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -68903,7 +68903,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -68941,7 +68941,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -69013,7 +69013,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -69048,7 +69048,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -69293,7 +69293,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -69364,7 +69364,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -69534,7 +69534,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -69676,7 +69676,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -69742,7 +69742,7 @@
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - 541-41-3 (CAS: 541-41-3) - Role: UNK
@@ -69882,7 +69882,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -70216,7 +70216,7 @@
 
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: UNK
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - 541-41-3 (CAS: 541-41-3) - Role: UNK
@@ -70254,7 +70254,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -70427,7 +70427,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -70530,7 +70530,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -70566,7 +70566,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Cu2O (CAS: 1317-39-1) - Role: CAT_CORE
 
@@ -70737,7 +70737,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -76513,7 +76513,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
   - PD (CAS: 7440-05-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -76590,7 +76590,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
   - PD (CAS: 7440-05-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -76627,7 +76627,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
   - PD (CAS: 7440-05-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -76664,7 +76664,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
   - PD (CAS: 7440-05-3)
-  - IMD (CAS: 98327-87-8)
+  - Imidazole (CAS: 98327-87-8)
 
 **ConditionCore:** Pd
 
@@ -76734,7 +76734,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -78432,7 +78432,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
 
@@ -78459,7 +78459,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - CDI (CAS: 530-62-1) - Role: UNK
 
 **Solvents:**
@@ -78486,7 +78486,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - CDI (CAS: 530-62-1) - Role: UNK
 
 **Solvents:**
@@ -78513,7 +78513,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - CDI (CAS: 530-62-1) - Role: UNK
 
 **Solvents:**
@@ -78540,7 +78540,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - CDI (CAS: 530-62-1) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -79061,7 +79061,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 
@@ -80390,7 +80390,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK
@@ -81485,7 +81485,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -86204,7 +86204,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Cu/PPh3
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -91011,7 +91011,7 @@
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Cu
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -94561,7 +94561,7 @@
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Thionyl Chloride (CAS: 7719-09-7) - Role: UNK
 
 **Solvents:**
@@ -94588,7 +94588,7 @@
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Thionyl Chloride (CAS: 7719-09-7) - Role: UNK
 
 **Solvents:**
@@ -94615,7 +94615,7 @@
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Thionyl Chloride (CAS: 7719-09-7) - Role: UNK
 
 **Solvents:**
@@ -94642,7 +94642,7 @@
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Thionyl Chloride (CAS: 7719-09-7) - Role: UNK
 
 **Solvents:**
@@ -95093,7 +95093,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
 
@@ -102575,7 +102575,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
   - HOAt (CAS: 39968-33-7) - Role: UNK
@@ -103152,7 +103152,7 @@
 **Reagents:**
   - N-Methylmorpholine (CAS: 109-02-4) - Role: UNK
   - TEA (CAS: 121-44-8) - Role: BASE
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - H2 (CAS: 1333-74-0) - Role: UNK
   - NaBH4 (CAS: 16940-66-2) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK
@@ -109871,7 +109871,7 @@
 **Full Catalytic System:**
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Pd
 
@@ -111858,7 +111858,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** Cu/DMAP
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -111896,7 +111896,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** Cu/DMAP
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -111934,7 +111934,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** Cu/DMAP
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -111972,7 +111972,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** Cu/DMAP
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -112010,7 +112010,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** Cu/DMAP
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -112048,7 +112048,7 @@
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
   - DMAP (CAS: 1122-58-3)
 
-**ConditionCore:** Cu/DMAP
+**ConditionCore:** PdCl2(PPh3)2
 
 **Generic Catalyst:** Cu, Pd
 
@@ -115522,7 +115522,7 @@
 **ConditionCore:** DMF
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - Fe (CAS: 7439-89-6) - Role: UNK
   - Indole-3-acetamide (CAS: 79-37-8) - Role: UNK
@@ -115560,7 +115560,7 @@
 **ConditionCore:** DMF
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - Fe (CAS: 7439-89-6) - Role: UNK
   - Indole-3-acetamide (CAS: 79-37-8) - Role: UNK
@@ -115598,7 +115598,7 @@
 **ConditionCore:** DMF
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - Fe (CAS: 7439-89-6) - Role: UNK
   - Indole-3-acetamide (CAS: 79-37-8) - Role: UNK
@@ -115636,7 +115636,7 @@
 **ConditionCore:** DMF
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - Fe (CAS: 7439-89-6) - Role: UNK
   - Indole-3-acetamide (CAS: 79-37-8) - Role: UNK
@@ -115674,7 +115674,7 @@
 **ConditionCore:** DMF
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - Fe (CAS: 7439-89-6) - Role: UNK
   - Indole-3-acetamide (CAS: 79-37-8) - Role: UNK
@@ -115712,7 +115712,7 @@
 **ConditionCore:** DMF
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
   - Fe (CAS: 7439-89-6) - Role: UNK
   - Indole-3-acetamide (CAS: 79-37-8) - Role: UNK
@@ -120257,7 +120257,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HOBt (CAS: 2592-95-2) - Role: UNK
   - EDC·HCl (CAS: 25952-53-8) - Role: UNK
 
@@ -125164,7 +125164,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - Benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate (CAS: 128625-52-5) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
 
@@ -128183,7 +128183,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
 
@@ -128210,7 +128210,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
 
@@ -128237,7 +128237,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
 
@@ -128264,7 +128264,7 @@
 **Type:** Amide formation
 
 **Reagents:**
-  - Monochloramine (CAS: 12125-02-9) - Role: UNK
+  - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - HATU (CAS: 148893-10-1) - Role: UNK
   - DIEA (CAS: 7087-68-5) - Role: BASE
 
@@ -128964,7 +128964,7 @@
 **Full Catalytic System:**
   - PdCl2(dppf) (CAS: 72287-26-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** PdCl2(dppf)
 
 **Generic Catalyst:** Pd
 

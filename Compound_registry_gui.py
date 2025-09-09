@@ -16,7 +16,7 @@ from typing import List
 from PyQt6.QtCore import QThread, pyqtSignal, QObject
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit,
-    QPushButton, QFileDialog, QPlainTextEdit, QMessageBox, QCheckBox, QProgressBar, QComboBox
+    QPushButton, QFileDialog, QPlainTextEdit, QMessageBox, QProgressBar
 )
 
 from Compound_registry_generator import ComprehensiveCASRegistry
@@ -92,33 +92,6 @@ class CASRegistryGUI(QWidget, LogMixin):
         text_row.addWidget(QLabel("Scan")); text_row.addWidget(self.add_text_input,1); text_row.addWidget(txt_browse); text_row.addWidget(scan_btn)
         layout.addLayout(text_row)
 
-        # Processing controls (compact)
-        proc_flags = QHBoxLayout()
-        proc_flags.addWidget(QLabel("Classify / Enrich:"))
-        self.proc_force_chk = QCheckBox("Force Type")
-        self.proc_fetch_smiles_chk = QCheckBox("SMILES")
-        self.proc_smiles_force_chk = QCheckBox("SMILES Force")
-        self.proc_fetch_props_chk = QCheckBox("Props")
-        self.proc_props_force_chk = QCheckBox("Props Force")
-        self.proc_dry_chk = QCheckBox("Dry")
-        for w in (self.proc_force_chk, self.proc_fetch_smiles_chk, self.proc_smiles_force_chk, self.proc_fetch_props_chk, self.proc_props_force_chk, self.proc_dry_chk):
-            proc_flags.addWidget(w)
-        layout.addLayout(proc_flags)
-
-        proc_opts = QHBoxLayout()
-        self.proc_source_combo = QComboBox(); self.proc_source_combo.addItems(["auto","pubchem","cactus"])
-        self.proc_limit_input = QLineEdit(); self.proc_limit_input.setPlaceholderText("SMILES limit")
-        self.proc_delay_input = QLineEdit(); self.proc_delay_input.setPlaceholderText("Delay 0.2")
-        self.proc_prog_every_input = QLineEdit(); self.proc_prog_every_input.setPlaceholderText("Progress 50")
-        run_btn = QPushButton("Process Registry")
-        run_btn.clicked.connect(self.on_process_registry)
-        proc_opts.addWidget(QLabel("Src")); proc_opts.addWidget(self.proc_source_combo)
-        proc_opts.addWidget(self.proc_limit_input)
-        proc_opts.addWidget(self.proc_delay_input)
-        proc_opts.addWidget(self.proc_prog_every_input)
-        proc_opts.addWidget(run_btn)
-        layout.addLayout(proc_opts)
-
         # Log view
         self.log_view = QPlainTextEdit(); self.log_view.setReadOnly(True); self.log_view.setMaximumBlockCount(4000)
         layout.addWidget(QLabel("Log"))
@@ -140,9 +113,24 @@ class CASRegistryGUI(QWidget, LogMixin):
             return
         reg_path = self._resolve_registry_path()
         def task(signals: WorkerSignals):
-            added, skipped = self.registry.add_to_jsonl_registry(reg_path, [cas], dry_run=False)
+            class Streamer:
+                def __init__(self, emit):
+                    self._buf=''; self.emit=emit
+                def write(self, data):
+                    self._buf += data
+                    while '\n' in self._buf:
+                        line, self._buf = self._buf.split('\n',1)
+                        if line.strip():
+                            self.emit(line)
+                def flush(self):
+                    if self._buf.strip():
+                        self.emit(self._buf.strip()); self._buf=''
+            streamer = Streamer(signals.message.emit)
+            with contextlib.redirect_stdout(streamer):
+                added, skipped = self.registry.add_to_jsonl_registry(reg_path, [cas], dry_run=False)
+            streamer.flush()
             return (added, skipped)
-        self._run_thread(task, lambda res: self.log(f"Added CAS: added={res[0]} skipped={res[1]}") )
+        self._run_thread(task, lambda res: self._post_add_process(reg_path, f"Added CAS: added={res[0]} skipped={res[1]}") )
 
     def on_add_text(self):
         path = self.add_text_input.text().strip()
@@ -155,71 +143,73 @@ class CASRegistryGUI(QWidget, LogMixin):
         self.log(f"Scanning file for CAS: {os.path.basename(path)}")
         def task(signals: WorkerSignals):
             extracted = self.registry.extract_cas_from_text(path)
-            added, skipped = self.registry.add_to_jsonl_registry(reg_path, extracted, dry_run=False)
+            class Streamer:
+                def __init__(self, emit):
+                    self._buf=''; self.emit=emit
+                def write(self, data):
+                    self._buf += data
+                    while '\n' in self._buf:
+                        line, self._buf = self._buf.split('\n',1)
+                        if line.strip():
+                            self.emit(line)
+                def flush(self):
+                    if self._buf.strip():
+                        self.emit(self._buf.strip()); self._buf=''
+            streamer = Streamer(signals.message.emit)
+            with contextlib.redirect_stdout(streamer):
+                added, skipped = self.registry.add_to_jsonl_registry(reg_path, extracted, dry_run=False)
+            streamer.flush()
             return (len(extracted), added, skipped)
-        self._run_thread(task, lambda res: self.log(f"Scan done: found={res[0]} added={res[1]} skipped={res[2]}") )
+        self._run_thread(task, lambda res: self._post_add_process(reg_path, f"Scan done: found={res[0]} added={res[1]} skipped={res[2]}") )
 
-    # Removed legacy bulk operations
-
-    def on_process_registry(self):
-        reg_path = self._resolve_registry_path()
+    # Automatic post-add processing (assign type + fetch SMILES with defaults)
+    def _post_add_process(self, reg_path: str, prefix_log: str):
+        self.log(prefix_log)
         if not os.path.exists(reg_path):
-            self.log(f"Registry file not found: {reg_path}")
             return
-        force = self.proc_force_chk.isChecked()
-        fetch_smiles = self.proc_fetch_smiles_chk.isChecked()
-        smiles_force = self.proc_smiles_force_chk.isChecked()
-        fetch_props = self.proc_fetch_props_chk.isChecked()
-        props_force = self.proc_props_force_chk.isChecked()
-        dry_run = self.proc_dry_chk.isChecked()
-        source = self.proc_source_combo.currentText()
-        try:
-            limit_txt = self.proc_limit_input.text().strip()
-            smiles_limit = int(limit_txt) if limit_txt else None
-        except ValueError:
-            self.log("Invalid SMILES limit; ignoring")
-            smiles_limit = None
-        try:
-            delay_txt = self.proc_delay_input.text().strip()
-            smiles_delay = float(delay_txt) if delay_txt else 0.2
-        except ValueError:
-            self.log("Invalid delay; using 0.2")
-            smiles_delay = 0.2
-        try:
-            prog_txt = self.proc_prog_every_input.text().strip()
-            progress_every = int(prog_txt) if prog_txt else 50
-        except ValueError:
-            self.log("Invalid progress value; using 50")
-            progress_every = 50
-
-        self.log(f"Processing registry (dry={dry_run}, force={force}, smiles={fetch_smiles}, props={fetch_props})")
+        self.log("Running automatic classification & SMILES enrichment...")
         def task(signals: WorkerSignals):
-            buf = io.StringIO()
-            with contextlib.redirect_stdout(buf):
+            class Streamer:
+                def __init__(self, emit):
+                    self._buf = ''
+                    self.emit = emit
+                def write(self, data):
+                    self._buf += data
+                    while '\n' in self._buf:
+                        line, self._buf = self._buf.split('\n',1)
+                        if line.strip():
+                            self.emit(line)
+                def flush(self):
+                    if self._buf.strip():
+                        self.emit(self._buf.strip())
+                        self._buf = ''
+            streamer = Streamer(signals.message.emit)
+            with contextlib.redirect_stdout(streamer):
                 stats = process_registry_file(
                     infile=reg_path,
-                    force=force,
-                    dry_run=dry_run,
-                    backup=not dry_run,
-                    fetch_smiles=fetch_smiles,
-                    smiles_force=smiles_force,
-                    smiles_source=source,
+                    force=False,
+                    dry_run=False,
+                    backup=True,
+                    fetch_smiles=True,
+                    smiles_force=False,
+                    smiles_source="auto",
                     request_timeout=8.0,
-                    smiles_delay=smiles_delay,
-                    smiles_limit=smiles_limit,
-                    fetch_props=fetch_props,
-                    props_force=props_force,
+                    smiles_delay=0.2,
+                    smiles_limit=None,
+                    fetch_props=True,
+                    props_force=False,
                     verbose=True,
-                    progress_every=progress_every,
+                    progress_every=50,
                 )
-            out_text = buf.getvalue().strip()
-            if out_text:
-                for line in out_text.splitlines():
-                    signals.message.emit(line)
+            streamer.flush()
             return stats
-        def on_done(stats):
-            self.log(f"Process complete: total={stats['total']} updated={stats['updated']} smiles={stats.get('smiles_updated',0)} props={stats.get('props_updated',0)} generic_core={stats.get('generic_core_updates',0)}")
-        self._run_thread(task, on_done)
+        def done(stats):
+            self.log(
+                f"Auto process complete: total={stats['total']} type_updates={stats['updated']} smiles={stats.get('smiles_updated',0)} props={stats.get('props_updated',0)}"
+            )
+            if stats.get('smiles_updated',0) == 0 and stats.get('props_updated',0) == 0:
+                self.log("Note: No SMILES/properties updated. Ensure 'requests' is installed and you have internet access. Run 'pip install requests' if missing.")
+        self._run_thread(task, done)
 
     # ---- Thread helpers ----
     def _run_thread(self, fn, on_result=None):

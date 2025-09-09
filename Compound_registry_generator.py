@@ -965,11 +965,21 @@ def main():
     parser.add_argument('--registry', help='Path to cas_registry_merged.jsonl (default: ./cas_registry_merged.jsonl)')
     parser.add_argument('--dry-run', action='store_true', help='Show actions without writing JSONL')
     parser.add_argument('--update-existing', action='store_true', help='Update existing entries (fill missing fields) instead of adding new ones. If used without inputs, updates all entries in the registry.')
+    parser.add_argument('--gui', action='store_true', help='Launch PyQt6 GUI instead of CLI operations')
     
     args = parser.parse_args()
     
     registry = ComprehensiveCASRegistry()
     
+    # GUI mode takes precedence
+    if args.gui:
+        try:
+            from Compound_registry_gui import launch_gui  # type: ignore
+        except Exception as e:
+            print(f"Failed to import GUI module: {e}")
+            sys.exit(1)
+        sys.exit(launch_gui())
+
     if args.validate:
         cas = args.validate.strip()
         print(f"Validating CAS: {cas}")

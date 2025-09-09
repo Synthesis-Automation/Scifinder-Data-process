@@ -33,13 +33,15 @@ Usage:
     python cas_registry_tool.py --build-registry folder_with_cas_maps
 """
 
+from __future__ import annotations
+
 import argparse
 import csv
 import json
 import os
 import re
 import sys
-from typing import Dict, List, Optional, Tuple, Any, Iterable
+from typing import Dict, List, Optional, Tuple, Any, Iterable, Callable
 from pathlib import Path
 
 # Try to import requests for online lookup
@@ -469,51 +471,62 @@ class ComprehensiveCASRegistry:
         if not REQUESTS_AVAILABLE:
             return None
 
-        try:
-            # Prefer RN (CAS Registry Number) cross-reference endpoint for reliability
-            props_url = (
-                f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RN/{cas}/"
-                "property/Title,IUPACName,MolecularFormula,MolecularWeight,IsomericSMILES/JSON"
-            )
-            resp = requests.get(props_url, timeout=12)
-            title = iupac = formula = mw = smiles = ""
-            if resp.status_code == 200:
-                data = resp.json() or {}
-                props_list = (data.get('PropertyTable') or {}).get('Properties') or []
-                if props_list:
-                    props = props_list[0]
-                    title = (props.get('Title') or '').strip()
-                    iupac = (props.get('IUPACName') or '').strip()
-                    formula = (props.get('MolecularFormula') or '').strip()
-                    mw = props.get('MolecularWeight')
-                    smiles = (props.get('IsomericSMILES') or '').strip()
+        user_agent = "Scifinder-Data-Process/1.0 (+https://github.com/Synthesis-Automation)"
+        headers = {"User-Agent": user_agent, "Accept": "application/json"}
 
-            # Try synonyms for abbreviations/common names
-            syns: List[str] = []
+        # Simple retry logic (network hiccups)
+        last_err: Optional[str] = None
+        for attempt in range(2):
             try:
-                syns_url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RN/{cas}/synonyms/JSON"
-                r2 = requests.get(syns_url, timeout=10)
-                if r2.status_code == 200:
-                    d2 = r2.json() or {}
-                    infos = (d2.get('InformationList') or {}).get('Information') or []
-                    if infos and 'Synonym' in infos[0]:
-                        syns = [s for s in infos[0]['Synonym'] if isinstance(s, str)]
-            except Exception:
-                pass
+                props_url = (
+                    f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RN/{cas}/"
+                    "property/Title,IUPACName,MolecularFormula,MolecularWeight,IsomericSMILES/JSON"
+                )
+                resp = requests.get(props_url, timeout=12, headers=headers)
+                title = iupac = formula = smiles = ""
+                mw: Optional[Any] = None
+                if resp.status_code == 200:
+                    data = resp.json() or {}
+                    props_list = (data.get('PropertyTable') or {}).get('Properties') or []
+                    if props_list:
+                        props = props_list[0]
+                        title = (props.get('Title') or '').strip()
+                        iupac = (props.get('IUPACName') or '').strip()
+                        formula = (props.get('MolecularFormula') or '').strip()
+                        mw = props.get('MolecularWeight')
+                        # Try both SMILES field names
+                        smiles = (props.get('IsomericSMILES') or props.get('SMILES') or '').strip()
+                else:
+                    last_err = f"status {resp.status_code}"
 
-            if any([title, iupac, formula, smiles]) or syns:
-                return {
-                    'name': title or iupac or (syns[0] if syns else ''),
-                    'iupac_name': iupac,
-                    'formula': formula,
-                    'molecular_weight': mw,
-                    'smiles': smiles,
-                    'synonyms': syns,
-                    'source': 'PubChem',
-                }
-        except Exception as e:
-            print(f"PubChem lookup failed for {cas}: {e}")
+                # Synonyms
+                syns: List[str] = []
+                try:
+                    syns_url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/xref/RN/{cas}/synonyms/JSON"
+                    r2 = requests.get(syns_url, timeout=10, headers=headers)
+                    if r2.status_code == 200:
+                        d2 = r2.json() or {}
+                        infos = (d2.get('InformationList') or {}).get('Information') or []
+                        if infos and 'Synonym' in infos[0]:
+                            syns = [s for s in infos[0]['Synonym'] if isinstance(s, str)]
+                except Exception as se:  # noqa: F841
+                    pass
 
+                if any([title, iupac, formula, smiles]) or syns:
+                    return {
+                        'name': title or iupac or (syns[0] if syns else ''),
+                        'iupac_name': iupac,
+                        'formula': formula,
+                        'molecular_weight': mw,
+                        'smiles': smiles,
+                        'synonyms': syns,
+                        'source': 'PubChem',
+                    }
+            except Exception as e:
+                last_err = str(e)
+            # brief backoff only if first attempt failed and second to retry
+        if last_err and os.environ.get('CAS_DEBUG'):
+            print(f"[DEBUG] PubChem lookup failed for {cas}: {last_err}")
         return None
     
     def lookup_chemspider(self, cas: str) -> Optional[Dict[str, Any]]:
@@ -747,25 +760,35 @@ class ComprehensiveCASRegistry:
 
         name = base_name.strip() if base_name else ''
 
-        # Manual correction name if known
+        # Manual correction name if known (still allow enrichment from PubChem)
+        manual_used = False
         if cas in self.manual_corrections:
             name = self.manual_corrections[cas]
+            manual_used = True
             warnings.append("Name from manual corrections")
 
-        # Online lookup (if missing name)
+        # Always attempt PubChem lookup for enrichment (unless requests unavailable)
+        online = self.lookup_pubchem(cas)
         syns: List[str] = []
-        if not name:
-            online = self.lookup_pubchem(cas)
-            if online:
-                if online.get('name'):
-                    name = online['name']
-                    warnings.append("Name from PubChem")
-                syns = list(online.get('synonyms') or [])
-        else:
-            # Even if we have a name, try synonyms to find abbrev
-            online = self.lookup_pubchem(cas)
-            if online:
-                syns = list(online.get('synonyms') or [])
+        formula: Optional[str] = None
+        mw: Optional[Any] = None
+        smiles: Optional[str] = None
+        if online:
+            syns = list(online.get('synonyms') or [])
+            formula = online.get('formula') or None
+            mw = online.get('molecular_weight') or None
+            smiles = online.get('smiles') or None
+            if not manual_used and online.get('name') and (not name or name.lower() == cas.lower()):
+                name = online['name']
+                warnings.append("Name from PubChem")
+            # If manual name used but differs from PubChem primary name, keep manual but note availability
+            elif manual_used and online.get('name') and online['name'].lower() != name.lower():
+                warnings.append("PubChem name differs (kept manual)")
+        
+        # If no manual correction and no PubChem data, reject the compound
+        if not manual_used and not online:
+            warnings.append("No PubChem data found; compound rejected")
+            return {}, warnings
 
         ctype = self.get_compound_type(cas)
         abbreviation = self._choose_abbreviation(cas, name, syns)
@@ -778,11 +801,14 @@ class ComprehensiveCASRegistry:
             'category_hint': None,
             'token': None,
             'compound_type': ctype,
-            'sources': ['user_addition'] + ([online['source']] if 'online' in locals() and online else [])
+            'sources': ['user_addition'] + ([online['source']] if online else []),
+            'formula': formula,
+            'molecular_weight': mw,
+            'smile': smiles,
         }
         return entry, warnings
 
-    def add_to_jsonl_registry(self, registry_path: str, cas_items: Iterable[str], dry_run: bool = False) -> Tuple[int, int]:
+    def add_to_jsonl_registry(self, registry_path: str, cas_items: Iterable[str], dry_run: bool = False, progress_cb: Optional[Callable[[str], None]] = None) -> Tuple[int, int]:
         """Add new CAS entries to a JSONL registry if missing.
 
         Returns (added_count, skipped_existing_count).
@@ -796,13 +822,15 @@ class ComprehensiveCASRegistry:
                 continue
             if cas in reg and reg[cas]:
                 skipped += 1
-                print(f"Skip (exists): {cas}")
+                msg = f"Skip (exists): {cas}"
+                (progress_cb or print)(msg)
                 continue
             entry, warns = self._build_jsonl_entry(cas)
             if not entry:
-                print(f"Skip (invalid): {cas} | {'; '.join(warns)}")
+                msg = f"Skip (invalid): {cas} | {'; '.join(warns)}"
+                (progress_cb or print)(msg)
                 continue
-            print(f"Add: {cas} → {entry.get('name','')} {'| ' + '; '.join(warns) if warns else ''}")
+            (progress_cb or print)(f"Add: {cas} → {entry.get('name','')} {'| ' + '; '.join(warns) if warns else ''}")
             if not dry_run:
                 self._append_jsonl(registry_path, entry)
             added += 1
@@ -838,6 +866,7 @@ class ComprehensiveCASRegistry:
         registry_path: str,
         cas_items: Optional[Iterable[str]] = None,
         dry_run: bool = False,
+        progress_cb: Optional[Callable[[str], None]] = None,
     ) -> Tuple[int, int]:
         """Update existing JSONL entries with missing fields filled from lookups.
 
@@ -893,12 +922,12 @@ class ComprehensiveCASRegistry:
         for cas in sorted(target_set):
             if cas not in cas_to_index:
                 not_found += 1
-                print(f"Skip (not found): {cas}")
+                (progress_cb or print)(f"Skip (not found): {cas}")
                 continue
             idx = cas_to_index[cas]
             obj = entries[idx]
             if not isinstance(obj, dict):
-                print(f"Skip (corrupt line) at {idx+1}")
+                (progress_cb or print)(f"Skip (corrupt line) at {idx+1}")
                 continue
 
             # Build a candidate entry from lookups
@@ -907,8 +936,8 @@ class ComprehensiveCASRegistry:
                 # Nothing to merge
                 continue
 
-            # Merge conservatively
-            updatable_keys = ['name','abbreviation','generic_core','category_hint','token','compound_type']
+            # Merge conservatively (extended with new chemical properties)
+            updatable_keys = ['name','abbreviation','generic_core','category_hint','token','compound_type','formula','molecular_weight','smile']
             diffs: List[Tuple[str, Any, Any]] = []
             for k in updatable_keys:
                 old = obj.get(k)
@@ -934,9 +963,9 @@ class ComprehensiveCASRegistry:
 
             if diffs:
                 # Report diff
-                print(f"Update: {cas}")
+                (progress_cb or print)(f"Update: {cas}")
                 for k, old, new in diffs:
-                    print(f"  - {k}: {old!r} -> {new!r}")
+                    (progress_cb or print)(f"  - {k}: {old!r} -> {new!r}")
                 if not dry_run:
                     # Persist the updated object back into the line buffer
                     lines[idx] = json.dumps(obj, ensure_ascii=False)
@@ -1054,69 +1083,218 @@ def main():
             print(f"Done. Added: {added}; Skipped existing: {skipped}")
     
     else:
-        # Interactive fallback: prompt for CAS/CSV/Text if no args provided
-        print("Interactive mode: add CAS entries to a JSONL registry.")
-        print("- Enter a single CAS RN (e.g., 7718-54-9), or")
-        print("- Enter a path to a CSV file (first column contains CAS RNs), or")
-        print("- Enter a path to a text file (we'll extract CAS RNs via regex)")
+        # Launch GUI (PyQt6) when no CLI args. Falls back to text mode on import failure.
         try:
-            user_inp = input("CAS/CSV/Text path (blank to exit): ").strip()
-        except (EOFError, KeyboardInterrupt):
-            print("\nCancelled.")
-            return
-        if not user_inp:
-            print("No input provided. Exiting.")
-            return
-
-        # Determine input type
-        todo: List[str] = []
-        is_cas = bool(re.match(r'^\d{2,7}-\d{2}-\d$', user_inp)) and registry.calculate_cas_checksum(user_inp)
-        if is_cas:
-            todo = [user_inp]
-        elif os.path.isfile(user_inp):
-            # Try CSV first; fallback to generic text extraction
+            launch_gui(registry)
+        except Exception as e:  # Broad catch to provide simple fallback
+            print(f"GUI failed ({e}). Falling back to minimal interactive mode.")
             try:
-                with open(user_inp, 'r', encoding='utf-8') as f:
-                    sniffer = csv.Sniffer()
-                    sample = f.read(1024)
-                    f.seek(0)
-                    is_csv = False
-                    try:
-                        dialect = sniffer.sniff(sample)
-                        is_csv = True
-                    except Exception:
-                        is_csv = False
-                    if is_csv:
-                        reader = csv.reader(f, dialect)
-                        for row in reader:
-                            if not row:
-                                continue
-                            todo.append((row[0] or '').strip())
-                    else:
-                        # Generic text
-                        extracted = registry.extract_cas_from_text(user_inp)
-                        if not extracted:
-                            print("No valid CAS found in text file.")
-                            return
-                        todo.extend(extracted)
-            except Exception as e:
-                print(f"Failed to read file: {e}")
+                user_inp = input("Enter a CAS (blank to exit): ").strip()
+            except Exception:
                 return
-        else:
-            print("Input is neither a valid CAS RN nor an existing CSV path. Exiting.")
-            return
-
-        default_registry = os.path.join(os.getcwd(), 'cas_registry_merged.jsonl')
-        try:
-            reg_inp = input(f"Registry path [{default_registry}]: ").strip()
-        except (EOFError, KeyboardInterrupt):
-            print("\nCancelled.")
-            return
-        reg_path = reg_inp or default_registry
-        print(f"Target JSONL: {reg_path}")
-        added, skipped = registry.add_to_jsonl_registry(reg_path, todo, dry_run=False)
-        print(f"Done. Added: {added}; Skipped existing: {skipped}")
+            if not user_inp:
+                return
+            if registry.validate_cas_format(user_inp) and registry.calculate_cas_checksum(user_inp):
+                reg_path = os.path.join(os.getcwd(), 'cas_registry_merged.jsonl')
+                added, skipped = registry.add_to_jsonl_registry(reg_path, [user_inp], dry_run=False)
+                print(f"Done. Added: {added}; Skipped existing: {skipped}")
+            else:
+                print("Invalid CAS.")
 
 
-if __name__ == '__main__':
+# ---------------- GUI IMPLEMENTATION (PyQt6) ---------------- #
+def launch_gui(registry: Optional['ComprehensiveCASRegistry'] = None) -> None:
+    """Launch a PyQt6 GUI for adding / updating CAS entries from text or markdown.
+
+    Features:
+    - Select a .txt/.md file; extract CAS RNs (with checksum) using existing logic.
+    - Display unique CAS list with counts.
+    - Choose registry JSONL path (defaults to ./cas_registry_merged.jsonl).
+    - Mode: Add new entries OR Update existing (fill missing fields).
+    - Dry run option.
+    - Progress / log panel.
+    - Non-blocking worker thread to avoid UI freeze.
+
+    PyQt6 is imported lazily to avoid import cost headless (tests/CI).
+    """
+    if registry is None:
+        registry = ComprehensiveCASRegistry()
+
+    try:
+        from PyQt6 import QtWidgets, QtCore
+    except ImportError as ie:  # pragma: no cover
+        raise RuntimeError("PyQt6 not installed; cannot start GUI") from ie
+
+    class Worker(QtCore.QThread):
+        progress = QtCore.pyqtSignal(str)
+        finished = QtCore.pyqtSignal(int, int, str)  # (countA, countB, mode)
+
+        def __init__(self, mode: str, reg_path: str, cas_list: list[str], dry: bool, parent=None):
+            super().__init__(parent)
+            self.mode = mode
+            self.reg_path = reg_path
+            self.cas_list = cas_list
+            self.dry = dry
+
+        def run(self):  # noqa: D401
+            try:
+                if self.mode == 'add':
+                    added, skipped = registry.add_to_jsonl_registry(
+                        self.reg_path,
+                        self.cas_list,
+                        dry_run=self.dry,
+                        progress_cb=lambda m: self.progress.emit(m)
+                    )
+                    self.finished.emit(added, skipped, self.mode)
+                else:
+                    updated, not_found = registry.update_jsonl_registry(
+                        self.reg_path,
+                        self.cas_list,
+                        dry_run=self.dry,
+                        progress_cb=lambda m: self.progress.emit(m)
+                    )
+                    self.finished.emit(updated, not_found, self.mode)
+            except Exception as e:  # pragma: no cover - runtime safety
+                self.progress.emit(f"Error: {e}")
+
+    class MainWin(QtWidgets.QWidget):
+        def __init__(self):
+            super().__init__()
+            self.setWindowTitle("CAS Registry Generator")
+            self.resize(820, 600)
+            self.worker: Worker | None = None
+            self._build_ui()
+
+        def _build_ui(self):
+            lay = QtWidgets.QVBoxLayout(self)
+
+            # File selection row
+            file_row = QtWidgets.QHBoxLayout()
+            self.file_edit = QtWidgets.QLineEdit()
+            self.file_btn = QtWidgets.QPushButton("Select Text/Markdown…")
+            self.file_btn.clicked.connect(self.select_file)
+            file_row.addWidget(QtWidgets.QLabel("Source File:"))
+            file_row.addWidget(self.file_edit, 1)
+            file_row.addWidget(self.file_btn)
+            lay.addLayout(file_row)
+
+            # Registry selection
+            reg_row = QtWidgets.QHBoxLayout()
+            self.registry_edit = QtWidgets.QLineEdit(os.path.join(os.getcwd(), 'cas_registry_merged.jsonl'))
+            self.registry_btn = QtWidgets.QPushButton("Select Registry…")
+            self.registry_btn.clicked.connect(self.select_registry)
+            reg_row.addWidget(QtWidgets.QLabel("Registry JSONL:"))
+            reg_row.addWidget(self.registry_edit, 1)
+            reg_row.addWidget(self.registry_btn)
+            lay.addLayout(reg_row)
+
+            # Mode + options
+            opt_row = QtWidgets.QHBoxLayout()
+            self.mode_add = QtWidgets.QRadioButton("Add New")
+            self.mode_update = QtWidgets.QRadioButton("Update Existing")
+            self.mode_add.setChecked(True)
+            opt_row.addWidget(self.mode_add)
+            opt_row.addWidget(self.mode_update)
+            self.dry_check = QtWidgets.QCheckBox("Dry Run")
+            opt_row.addWidget(self.dry_check)
+            opt_row.addStretch(1)
+            lay.addLayout(opt_row)
+
+            # CAS list (auto-extracted on file selection)
+            cas_group = QtWidgets.QGroupBox("CAS Numbers (auto-extracted on file selection)")
+            v2 = QtWidgets.QVBoxLayout(cas_group)
+            self.cas_list = QtWidgets.QListWidget()
+            self.cas_list.setSelectionMode(QtWidgets.QAbstractItemView.SelectionMode.ExtendedSelection)
+            v2.addWidget(self.cas_list)
+            lay.addWidget(cas_group, 1)
+
+            # Log panel
+            log_group = QtWidgets.QGroupBox("Log / Progress")
+            v3 = QtWidgets.QVBoxLayout(log_group)
+            self.log = QtWidgets.QPlainTextEdit()
+            self.log.setReadOnly(True)
+            v3.addWidget(self.log)
+            lay.addWidget(log_group, 2)
+
+            # Action buttons
+            act_row = QtWidgets.QHBoxLayout()
+            self.run_btn = QtWidgets.QPushButton("Run")
+            self.run_btn.clicked.connect(self.run_action)
+            self.stop_btn = QtWidgets.QPushButton("Stop")
+            self.stop_btn.setEnabled(False)
+            self.stop_btn.clicked.connect(self.stop_worker)
+            act_row.addStretch(1)
+            act_row.addWidget(self.run_btn)
+            act_row.addWidget(self.stop_btn)
+            lay.addLayout(act_row)
+
+        # --- Slots ---
+        def select_file(self):
+            path, _ = QtWidgets.QFileDialog.getOpenFileName(self, "Select text/markdown file", "", "Text/Markdown (*.txt *.md *.markdown);;All Files (*)")
+            if path:
+                self.file_edit.setText(path)
+                # Auto extract CAS immediately
+                self.extract_cas()
+
+        def select_registry(self):
+            path, _ = QtWidgets.QFileDialog.getSaveFileName(self, "Select / Create registry JSONL", self.registry_edit.text(), "JSONL (*.jsonl);;All Files (*)")
+            if path:
+                self.registry_edit.setText(path)
+
+        def extract_cas(self):
+            path = self.file_edit.text().strip()
+            if not path or not os.path.isfile(path):
+                self._log("No valid file selected.")
+                return
+            cas_list = registry.extract_cas_from_text(path)
+            self.cas_list.clear()
+            for cas in cas_list:
+                self.cas_list.addItem(cas)
+            self._log(f"Extracted {len(cas_list)} CAS numbers.")
+
+        def run_action(self):
+            if self.worker and self.worker.isRunning():
+                self._log("Worker already running.")
+                return
+            cas_items = [self.cas_list.item(i).text() for i in range(self.cas_list.count())]
+            if not cas_items:
+                self._log("No CAS to process.")
+                return
+            mode = 'add' if self.mode_add.isChecked() else 'update'
+            reg_path = self.registry_edit.text().strip()
+            dry = self.dry_check.isChecked()
+            self._log(f"Starting {mode} on {len(cas_items)} CAS | dry={dry}")
+            self.run_btn.setEnabled(False)
+            self.stop_btn.setEnabled(True)
+            self.worker = Worker(mode, reg_path, cas_items, dry)
+            self.worker.progress.connect(self._log)
+            self.worker.finished.connect(self._on_finished)
+            self.worker.start()
+
+        def stop_worker(self):  # pragma: no cover
+            if self.worker and self.worker.isRunning():
+                self.worker.terminate()
+                self._log("Worker terminated.")
+            self.run_btn.setEnabled(True)
+            self.stop_btn.setEnabled(False)
+
+        def _on_finished(self, a: int, b: int, mode: str):
+            if mode == 'add':
+                self._log(f"Done. Added: {a}; Skipped existing: {b}")
+            else:
+                self._log(f"Done. Updated: {a}; Not found: {b}")
+            self.run_btn.setEnabled(True)
+            self.stop_btn.setEnabled(False)
+
+        def _log(self, msg: str):
+            self.log.appendPlainText(msg)
+            self.log.verticalScrollBar().setValue(self.log.verticalScrollBar().maximum())
+
+    app = QtWidgets.QApplication.instance() or QtWidgets.QApplication(sys.argv)
+    win = MainWin()
+    win.show()
+    app.exec()
+
+
+if __name__ == '__main__':  # Placed at end so launch_gui is defined
     main()

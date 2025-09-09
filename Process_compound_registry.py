@@ -20,7 +20,7 @@ to add a 'smile' field and other properties conservatively; use --smiles-force o
 Writes in-place with a .bak backup by default unless --no-backup is set.
 
 How to run:
-python Process_cas_registry.py --file cas_registry_merged.jsonl --fetch-smiles --verbose
+python Process_compound_registry.py --file cas_registry_merged.jsonl --fetch-smiles --verbose
 
 """
 

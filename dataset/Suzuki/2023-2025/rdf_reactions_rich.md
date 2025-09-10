@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-08 23:29:15
+**Generated:** 2025-09-10 13:54:12
 **Source Folder:** RDF_Folder_2023-2025
 **Total Reactions:** 3857
 
@@ -291,7 +291,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -326,7 +326,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -361,7 +361,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -396,7 +396,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -431,7 +431,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -466,7 +466,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -501,7 +501,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -536,7 +536,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -571,7 +571,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -606,7 +606,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 1318-23-6
+  - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
 **ConditionCore:** Pd
@@ -640,7 +640,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9004-34-6
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
   - FS-4075 (CAS: 9012-76-4)
 
 **ConditionCore:** Pd
@@ -673,7 +673,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9004-34-6
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
   - FS-4075 (CAS: 9012-76-4)
 
 **ConditionCore:** Pd
@@ -706,7 +706,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9004-34-6
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
   - FS-4075 (CAS: 9012-76-4)
 
 **ConditionCore:** Pd
@@ -1516,7 +1516,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -1549,7 +1549,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -1582,7 +1582,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -1615,7 +1615,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -1648,7 +1648,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -1681,7 +1681,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -1714,7 +1714,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -1747,7 +1747,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -2295,7 +2295,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2328,7 +2328,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2361,7 +2361,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2394,7 +2394,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2427,7 +2427,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2460,7 +2460,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2493,7 +2493,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2526,7 +2526,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -2927,8 +2927,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
-  - CAS: 10043-11-5
+  - CPTMO (CAS: 2530-87-2)
+  - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
 **ConditionCore:** Pd
@@ -2962,8 +2962,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
-  - CAS: 10043-11-5
+  - CPTMO (CAS: 2530-87-2)
+  - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
 **ConditionCore:** Pd
@@ -2997,8 +2997,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
-  - CAS: 10043-11-5
+  - CPTMO (CAS: 2530-87-2)
+  - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
 **ConditionCore:** Pd
@@ -3032,8 +3032,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
-  - CAS: 10043-11-5
+  - CPTMO (CAS: 2530-87-2)
+  - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
 **ConditionCore:** Pd
@@ -3067,8 +3067,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
-  - CAS: 10043-11-5
+  - CPTMO (CAS: 2530-87-2)
+  - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
 **ConditionCore:** Pd
@@ -4182,7 +4182,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 7191-90-4
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
 **ConditionCore:** Pd
@@ -4217,7 +4217,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
-  - CAS: 7191-90-4
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
 **ConditionCore:** Ni
@@ -4251,8 +4251,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 7191-90-4
-  - CAS: 7440-18-8
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
+  - RU (CAS: 7440-18-8)
   - Methane (CAS: 1034343-98-0)
 
 **ConditionCore:** Pd
@@ -4286,8 +4286,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 7191-90-4
-  - CAS: 20074-52-6
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
+  - Ferric cation (CAS: 20074-52-6)
   - Methane (CAS: 1034343-98-0)
 
 **ConditionCore:** Pd
@@ -4322,7 +4322,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 7191-90-4
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
 **ConditionCore:** Pd
@@ -4357,7 +4357,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 7191-90-4
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
 **ConditionCore:** Pd
@@ -4392,7 +4392,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 7191-90-4
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
 **ConditionCore:** Pd
@@ -4724,7 +4724,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4758,7 +4758,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4792,7 +4792,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4826,7 +4826,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4860,7 +4860,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4894,7 +4894,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4928,7 +4928,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4962,7 +4962,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -4996,7 +4996,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -5030,7 +5030,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -5064,7 +5064,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -5098,7 +5098,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -5132,7 +5132,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -5679,8 +5679,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Palladium(2+);2-phenylaniline;dichloride (CAS: 847616-85-7)
   - Tri-o-tolylphosphine (CAS: 6163-58-2)
-  - CAS: 847616-85-7
 
 **ConditionCore:** Pd/Tri-o-tolylphosphine
 
@@ -6164,7 +6164,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -6597,7 +6597,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6629,7 +6629,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6661,7 +6661,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6693,7 +6693,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6725,7 +6725,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6757,7 +6757,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6789,7 +6789,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6821,7 +6821,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6853,7 +6853,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6885,7 +6885,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6917,7 +6917,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6949,7 +6949,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -6981,7 +6981,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 13689-20-8
+  - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
 **ConditionCore:** Pd
 
@@ -7834,9 +7834,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1445085-55-1
+  - XPhos Palladacycle (CAS: 1445085-55-1)
 
-**ConditionCore:** 1445085-55-1
+**ConditionCore:** XPhos Palladacycle
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -7960,7 +7960,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -7993,7 +7993,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -8026,7 +8026,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -8059,7 +8059,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -8092,7 +8092,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -8125,7 +8125,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -8158,7 +8158,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -8444,7 +8444,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2418557-65-8
+  - N2,N2,N7,N7-Tetrabenzyl-1-(3-(dicyclohexylphosphino)-2,4-dimethoxyphenyl)naphthalene-2,7-diamine (CAS: 2418557-65-8)
 
 **ConditionCore:** Pd
 
@@ -8677,10 +8677,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 27081-10-3
+  - Cycloheptatrienylium, tetrafluoroborate(1-) (1:1) (CAS: 27081-10-3)
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** 27081-10-3/Thiophene-3-carboxylic acid
+**ConditionCore:** Cycloheptatrienylium, tetrafluoroborate(1-) (1:1)/Thiophene-3-carboxylic acid
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8830,7 +8830,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -8864,7 +8864,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -8898,7 +8898,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -8932,7 +8932,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -8966,7 +8966,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9000,7 +9000,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9034,7 +9034,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9068,7 +9068,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9102,7 +9102,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9136,7 +9136,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9170,7 +9170,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9204,7 +9204,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9238,7 +9238,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9272,7 +9272,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9306,7 +9306,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9340,7 +9340,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9374,7 +9374,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9012-36-6
+  - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
 **ConditionCore:** Pd
@@ -9408,7 +9408,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 2248160-18-9
+  - Ethyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 2248160-18-9)
 
 **ConditionCore:** Pd
 
@@ -9698,9 +9698,9 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 39366-43-3
+  - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
 **ConditionCore:** Fe
 
@@ -9734,9 +9734,9 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 39366-43-3
+  - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
 **ConditionCore:** Fe
 
@@ -9770,9 +9770,9 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 39366-43-3
+  - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
 **ConditionCore:** Fe
 
@@ -9806,9 +9806,9 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 39366-43-3
+  - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
 **ConditionCore:** Fe
 
@@ -9842,9 +9842,9 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 39366-43-3
+  - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
 **ConditionCore:** Fe
 
@@ -9878,9 +9878,9 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 39366-43-3
+  - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
 **ConditionCore:** Fe
 
@@ -9914,9 +9914,9 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 39366-43-3
+  - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
 **ConditionCore:** Fe
 
@@ -9987,7 +9987,7 @@
 **Generic Catalyst:** Pd, Fe
 
 **Reagents:**
-  - 1309573-60-1 (CAS: 1309573-60-1) - Role: UNK
+  - 2-(Trifluoromethyl)pyridin-4-amine (CAS: 1309573-60-1) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -10024,7 +10024,7 @@
 **Generic Catalyst:** Pd, Fe
 
 **Reagents:**
-  - 1309573-60-1 (CAS: 1309573-60-1) - Role: UNK
+  - 2-(Trifluoromethyl)pyridin-4-amine (CAS: 1309573-60-1) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -10061,7 +10061,7 @@
 **Generic Catalyst:** Pd, Fe
 
 **Reagents:**
-  - 1309573-60-1 (CAS: 1309573-60-1) - Role: UNK
+  - 2-(Trifluoromethyl)pyridin-4-amine (CAS: 1309573-60-1) - Role: UNK
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -10090,7 +10090,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10122,7 +10122,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10154,7 +10154,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10186,7 +10186,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10218,7 +10218,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10250,7 +10250,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10282,7 +10282,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10314,7 +10314,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10346,7 +10346,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10378,7 +10378,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10410,7 +10410,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10442,7 +10442,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10474,7 +10474,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10506,7 +10506,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10538,7 +10538,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10570,7 +10570,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -10812,7 +10812,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
+  - CPTMO (CAS: 2530-87-2)
   - CAS: 1256930-63-8
 
 **ConditionCore:** Pd
@@ -10846,7 +10846,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
+  - CPTMO (CAS: 2530-87-2)
   - CAS: 1256930-63-8
 
 **ConditionCore:** Pd
@@ -10880,7 +10880,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 2530-87-2
+  - CPTMO (CAS: 2530-87-2)
   - CAS: 1256930-63-8
 
 **ConditionCore:** Pd
@@ -11280,7 +11280,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -11369,7 +11369,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 111-78-4
+  - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
 **ConditionCore:** Pd
@@ -11401,7 +11401,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 111-78-4
+  - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-68-4
 
 **ConditionCore:** Pd
@@ -11433,7 +11433,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 111-78-4
+  - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
 **ConditionCore:** Pd
@@ -11465,7 +11465,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 111-78-4
+  - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
 **ConditionCore:** Pd
@@ -11497,7 +11497,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 111-78-4
+  - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
 **ConditionCore:** Pd
@@ -11529,7 +11529,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 111-78-4
+  - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
 **ConditionCore:** Pd
@@ -11561,7 +11561,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 111-78-4
+  - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-72-0
 
 **ConditionCore:** Pd
@@ -12333,7 +12333,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 321921-71-5
+  - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
 **ConditionCore:** Pd
 
@@ -12369,7 +12369,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 321921-71-5
+  - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
 **ConditionCore:** Pd
 
@@ -12438,7 +12438,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 321921-71-5
+  - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
 **ConditionCore:** Pd
 
@@ -13238,7 +13238,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 321921-71-5
+  - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
 **ConditionCore:** Pd
 
@@ -14780,7 +14780,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 321921-71-5
+  - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
 **ConditionCore:** Pd
 
@@ -15553,7 +15553,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15585,7 +15585,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15617,7 +15617,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15649,7 +15649,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15681,7 +15681,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15713,7 +15713,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15745,7 +15745,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15777,7 +15777,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15809,7 +15809,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15841,7 +15841,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15873,7 +15873,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15905,7 +15905,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15937,7 +15937,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -15969,7 +15969,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -16001,7 +16001,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -16033,7 +16033,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1260119-00-3
+  - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
 **ConditionCore:** Pd
 
@@ -16097,8 +16097,8 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
-  - CAS: 25014-41-9
+  - Ethanolamine (CAS: 141-43-5)
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -16130,8 +16130,8 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
-  - CAS: 25014-41-9
+  - Ethanolamine (CAS: 141-43-5)
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -16578,9 +16578,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
+  - PD (CAS: 1314-08-5)
 
-**ConditionCore:** 1314-08-5
+**ConditionCore:** PD
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16607,9 +16607,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
+  - PD (CAS: 1314-08-5)
 
-**ConditionCore:** 1314-08-5
+**ConditionCore:** PD
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16636,9 +16636,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
+  - PD (CAS: 1314-08-5)
 
-**ConditionCore:** 1314-08-5
+**ConditionCore:** PD
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16796,9 +16796,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
+  - PD (CAS: 1314-08-5)
 
-**ConditionCore:** 1314-08-5
+**ConditionCore:** PD
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16825,9 +16825,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
+  - PD (CAS: 1314-08-5)
 
-**ConditionCore:** 1314-08-5
+**ConditionCore:** PD
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16854,9 +16854,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
+  - PD (CAS: 1314-08-5)
 
-**ConditionCore:** 1314-08-5
+**ConditionCore:** PD
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16977,7 +16977,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1314-23-4
+  - Zirconium oxide (ZrO) (CAS: 1314-23-4)
 
 **ConditionCore:** Pd
 
@@ -17010,7 +17010,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1314-23-4
+  - Zirconium oxide (ZrO) (CAS: 1314-23-4)
 
 **ConditionCore:** Pd
 
@@ -17043,7 +17043,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1314-23-4
+  - Zirconium oxide (ZrO) (CAS: 1314-23-4)
 
 **ConditionCore:** Pd
 
@@ -17076,7 +17076,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1314-23-4
+  - Zirconium oxide (ZrO) (CAS: 1314-23-4)
 
 **ConditionCore:** Pd
 
@@ -17109,7 +17109,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1314-23-4
+  - Zirconium oxide (ZrO) (CAS: 1314-23-4)
 
 **ConditionCore:** Pd
 
@@ -17142,7 +17142,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1314-23-4
+  - Zirconium oxide (ZrO) (CAS: 1314-23-4)
 
 **ConditionCore:** Pd
 
@@ -17787,7 +17787,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 12230-71-6 (CAS: 12230-71-6) - Role: UNK
+  - Barium hydroxide (Ba(OH)2), monohydrate (CAS: 12230-71-6) - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -17815,9 +17815,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -17845,10 +17845,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17876,10 +17876,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17907,10 +17907,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17938,10 +17938,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17969,10 +17969,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18000,10 +18000,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18031,10 +18031,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18062,10 +18062,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18093,10 +18093,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18124,10 +18124,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18155,10 +18155,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18186,10 +18186,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18217,10 +18217,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** 14220-64-5/2925303-71-3
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18347,7 +18347,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 9000-90-2
+  - alpha-Amylase (CAS: 9000-90-2)
 
 **ConditionCore:** Pd
 
@@ -18379,7 +18379,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 9000-90-2
+  - alpha-Amylase (CAS: 9000-90-2)
 
 **ConditionCore:** Pd
 
@@ -18411,7 +18411,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 9000-90-2
+  - alpha-Amylase (CAS: 9000-90-2)
 
 **ConditionCore:** Pd
 
@@ -18442,9 +18442,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 16065-88-6
+  - Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II) (CAS: 16065-88-6)
 
-**ConditionCore:** 16065-88-6
+**ConditionCore:** Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II)
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -18472,9 +18472,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 16065-88-6
+  - Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II) (CAS: 16065-88-6)
 
-**ConditionCore:** 16065-88-6
+**ConditionCore:** Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II)
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -18502,9 +18502,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 16065-88-6
+  - Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II) (CAS: 16065-88-6)
 
-**ConditionCore:** 16065-88-6
+**ConditionCore:** Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II)
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -18542,7 +18542,7 @@
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
-  - CAS: 4348-76-9
+  - 2-O-Rhamnopyranosyl-rhamnopyranosyl-3-hydroxyldecanoyl-3-hydroxydecanoate (CAS: 4348-76-9)
 
 **Reaction Conditions:**
   - Yield: 82%
@@ -18573,7 +18573,7 @@
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
-  - CAS: 4348-76-9
+  - 2-O-Rhamnopyranosyl-rhamnopyranosyl-3-hydroxyldecanoyl-3-hydroxydecanoate (CAS: 4348-76-9)
 
 **Reaction Conditions:**
   - Yield: 89%
@@ -18604,7 +18604,7 @@
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
-  - CAS: 4348-76-9
+  - 2-O-Rhamnopyranosyl-rhamnopyranosyl-3-hydroxyldecanoyl-3-hydroxydecanoate (CAS: 4348-76-9)
 
 **Reaction Conditions:**
   - Yield: 81%
@@ -18638,7 +18638,7 @@
   - HCl (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
-  - CAS: 4348-76-9
+  - 2-O-Rhamnopyranosyl-rhamnopyranosyl-3-hydroxyldecanoyl-3-hydroxydecanoate (CAS: 4348-76-9)
 
 **Reaction Conditions:**
   - Yield: 86%
@@ -18672,7 +18672,7 @@
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
-  - CAS: 4348-76-9
+  - 2-O-Rhamnopyranosyl-rhamnopyranosyl-3-hydroxyldecanoyl-3-hydroxydecanoate (CAS: 4348-76-9)
 
 **Reaction Conditions:**
   - Yield: 90%
@@ -19553,9 +19553,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19585,9 +19585,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -20312,9 +20312,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20342,9 +20342,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20372,9 +20372,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20402,9 +20402,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20432,9 +20432,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20462,9 +20462,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20492,9 +20492,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20522,9 +20522,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -26416,7 +26416,7 @@
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
-  - CAS: 7228-35-5
+  - 1,3-Benzodioxole, 5-methoxy- (CAS: 7228-35-5)
 
 **Reaction Conditions:**
   - Yield: 80%
@@ -27465,7 +27465,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 10534-59-5 (CAS: 10534-59-5) - Role: UNK
+  - PIONA (CAS: 10534-59-5) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - AcOH (CAS: 64-19-7) - Role: SOLVENT
 
@@ -27493,7 +27493,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-33-7
+  - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
 **ConditionCore:** Pd
@@ -27526,7 +27526,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-33-7
+  - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
 **ConditionCore:** Pd
@@ -27559,7 +27559,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-33-7
+  - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
 **ConditionCore:** Pd
@@ -27592,7 +27592,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 7440-33-7
+  - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
 **ConditionCore:** Pd
@@ -30936,7 +30936,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -30970,7 +30970,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31004,7 +31004,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31038,7 +31038,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31072,7 +31072,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31106,7 +31106,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31140,7 +31140,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31174,7 +31174,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31208,7 +31208,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31242,7 +31242,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31276,7 +31276,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31310,7 +31310,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31344,7 +31344,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31378,7 +31378,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31412,7 +31412,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31446,7 +31446,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31480,7 +31480,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31514,7 +31514,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31548,7 +31548,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31582,7 +31582,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31616,7 +31616,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31650,7 +31650,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31684,7 +31684,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31718,7 +31718,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31752,7 +31752,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31786,7 +31786,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -31820,7 +31820,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - CAS: 143597-70-0
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
 **ConditionCore:** Pd
 
@@ -33099,7 +33099,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33133,7 +33133,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33167,7 +33167,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33201,7 +33201,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33235,7 +33235,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33269,7 +33269,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33303,7 +33303,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33337,7 +33337,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33371,7 +33371,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33405,7 +33405,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Cu (CAS: 7440-50-8)
-  - CAS: 57709-62-3
+  - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
 **ConditionCore:** Fe
 
@@ -33818,10 +33818,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 121-33-5
+  - MLI (CAS: 121-33-5)
   - PPh3 (CAS: 603-35-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 11114-20-8
+  - 2-Amino-3-(1-benzothiophen-3-yl)propanoic acid (CAS: 11114-20-8)
 
 **ConditionCore:** Fe/PPh3
 
@@ -33858,10 +33858,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 121-33-5
+  - MLI (CAS: 121-33-5)
   - PPh3 (CAS: 603-35-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 11114-20-8
+  - 2-Amino-3-(1-benzothiophen-3-yl)propanoic acid (CAS: 11114-20-8)
 
 **ConditionCore:** Fe/PPh3
 
@@ -33898,10 +33898,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 121-33-5
+  - MLI (CAS: 121-33-5)
   - PPh3 (CAS: 603-35-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 11114-20-8
+  - 2-Amino-3-(1-benzothiophen-3-yl)propanoic acid (CAS: 11114-20-8)
 
 **ConditionCore:** Fe/PPh3
 
@@ -33938,10 +33938,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 121-33-5
+  - MLI (CAS: 121-33-5)
   - PPh3 (CAS: 603-35-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 11114-20-8
+  - 2-Amino-3-(1-benzothiophen-3-yl)propanoic acid (CAS: 11114-20-8)
 
 **ConditionCore:** Fe/PPh3
 
@@ -33978,10 +33978,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 121-33-5
+  - MLI (CAS: 121-33-5)
   - PPh3 (CAS: 603-35-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
-  - CAS: 11114-20-8
+  - 2-Amino-3-(1-benzothiophen-3-yl)propanoic acid (CAS: 11114-20-8)
 
 **ConditionCore:** Fe/PPh3
 
@@ -36045,7 +36045,7 @@
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
   - NaOH (CAS: 1310-73-2) - Role: BASE
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
-  - 77-76-9 (CAS: 77-76-9) - Role: UNK
+  - 2,2-Dimethoxypropane (CAS: 77-76-9) - Role: UNK
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -36057,7 +36057,7 @@
   - Yield: 81%
 
 **SMILES:**
-  - Reactants: `OB(O)c1ccccc1.O=Cc1ccc2ccccc2c1Br.C[CH](C)[Mg][Br]`
+  - Reactants: `OB(O)c1ccccc1.O=Cc1ccc2ccccc2c1Br.CC(C)[Mg]Br`
   - Products: `C=C(C)C(=O)c1ccc2ccccc2c1-c1ccccc1`
 
 **Reference:**
@@ -36116,7 +36116,7 @@
 **Solvents:**
   - PhMe (CAS: 108-88-3)
   - Water (CAS: 7732-18-5)
-  - CAS: 1309573-60-1
+  - 2-(Trifluoromethyl)pyridin-4-amine (CAS: 1309573-60-1)
 
 **Reaction Conditions:**
   - Yield: 82%
@@ -37638,8 +37638,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9002-89-5
-  - CAS: 9004-34-6
+  - Acetaldehyde (CAS: 9002-89-5)
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
 **ConditionCore:** Pd
 
@@ -37672,8 +37672,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9002-89-5
-  - CAS: 9004-34-6
+  - Acetaldehyde (CAS: 9002-89-5)
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
 **ConditionCore:** Pd
 
@@ -37706,8 +37706,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9002-89-5
-  - CAS: 9004-34-6
+  - Acetaldehyde (CAS: 9002-89-5)
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
 **ConditionCore:** Pd
 
@@ -37740,8 +37740,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9002-89-5
-  - CAS: 9004-34-6
+  - Acetaldehyde (CAS: 9002-89-5)
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
 **ConditionCore:** Pd
 
@@ -37774,8 +37774,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9002-89-5
-  - CAS: 9004-34-6
+  - Acetaldehyde (CAS: 9002-89-5)
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
 **ConditionCore:** Pd
 
@@ -37808,8 +37808,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9002-89-5
-  - CAS: 9004-34-6
+  - Acetaldehyde (CAS: 9002-89-5)
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
 **ConditionCore:** Pd
 
@@ -37842,8 +37842,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 9002-89-5
-  - CAS: 9004-34-6
+  - Acetaldehyde (CAS: 9002-89-5)
+  - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
 **ConditionCore:** Pd
 
@@ -37876,7 +37876,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -37909,7 +37909,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -37942,7 +37942,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -37975,7 +37975,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38008,7 +38008,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38041,7 +38041,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38074,7 +38074,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38107,7 +38107,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38140,7 +38140,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38173,7 +38173,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38206,7 +38206,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38239,7 +38239,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38272,7 +38272,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38305,7 +38305,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38338,7 +38338,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38371,7 +38371,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38404,7 +38404,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38437,7 +38437,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38470,7 +38470,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38503,7 +38503,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -38536,7 +38536,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
 
 **ConditionCore:** Pd
 
@@ -39459,7 +39459,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39494,7 +39494,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39529,7 +39529,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39564,7 +39564,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39599,7 +39599,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39634,7 +39634,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39669,7 +39669,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39704,7 +39704,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39739,7 +39739,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39774,7 +39774,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39809,7 +39809,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -39844,7 +39844,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 113-00-8
+  - GAI (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Fe
@@ -40221,8 +40221,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40256,8 +40256,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40291,8 +40291,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40326,8 +40326,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40361,8 +40361,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40396,8 +40396,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40431,8 +40431,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40466,8 +40466,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40501,8 +40501,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40536,8 +40536,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -40571,8 +40571,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 7440-57-5
-  - CAS: 14059-33-7
+  - GOLD (CAS: 7440-57-5)
+  - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
 **ConditionCore:** Pd
 
@@ -43716,7 +43716,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -43747,7 +43747,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -43847,7 +43847,7 @@
   - K2CO3 (CAS: 584-08-7) - Role: BASE
 
 **Solvents:**
-  - CAS: 112-49-2
+  - TEGDME (CAS: 112-49-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -43869,10 +43869,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
   - SPhos (CAS: 564483-18-7)
-  - CAS: 1310584-14-5
 
-**ConditionCore:** SPhos/1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane/SPhos
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45740,9 +45740,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45770,9 +45770,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45953,10 +45953,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45983,10 +45983,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46013,10 +46013,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46043,10 +46043,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46073,10 +46073,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46103,10 +46103,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46133,10 +46133,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46163,10 +46163,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46193,10 +46193,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 12107-56-1
+  - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** 12107-56-1/2127834-82-4
+**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -48831,7 +48831,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 57-13-6
+  - Urea (CAS: 57-13-6)
 
 **ConditionCore:** Pd
 
@@ -51194,7 +51194,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 57-13-6
+  - Urea (CAS: 57-13-6)
 
 **ConditionCore:** Pd
 
@@ -51227,7 +51227,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 57-13-6
+  - Urea (CAS: 57-13-6)
 
 **ConditionCore:** Pd
 
@@ -51616,7 +51616,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -51648,7 +51648,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -51680,7 +51680,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -51712,7 +51712,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -51744,7 +51744,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -51776,7 +51776,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -51808,7 +51808,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -51840,7 +51840,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 100-26-5
+  - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
 **ConditionCore:** Pd
 
@@ -54562,10 +54562,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
-  - CAS: 12037-29-5
+  - PD (CAS: 1314-08-5)
+  - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** 1314-08-5/12037-29-5
+**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54593,10 +54593,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
-  - CAS: 12037-29-5
+  - PD (CAS: 1314-08-5)
+  - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** 1314-08-5/12037-29-5
+**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54624,10 +54624,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
-  - CAS: 12037-29-5
+  - PD (CAS: 1314-08-5)
+  - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** 1314-08-5/12037-29-5
+**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54655,10 +54655,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
-  - CAS: 12037-29-5
+  - PD (CAS: 1314-08-5)
+  - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** 1314-08-5/12037-29-5
+**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54686,10 +54686,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
-  - CAS: 12037-29-5
+  - PD (CAS: 1314-08-5)
+  - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** 1314-08-5/12037-29-5
+**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54717,10 +54717,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1314-08-5
-  - CAS: 12037-29-5
+  - PD (CAS: 1314-08-5)
+  - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** 1314-08-5/12037-29-5
+**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -57592,8 +57592,8 @@
   - Yield: 82%
 
 **SMILES:**
-  - Reactants: `OB(O)c1ccccc1F.Cc1cccc(Br)c1C(=O)NC[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92`
-  - Products: `Cc1cccc(-c2ccccc2F)c1C(=O)NC[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92`
+  - Reactants: `OB(O)c1ccccc1F.CC1=CC=CC(Br)=C1C(=O)NC[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29`
+  - Products: `CC1=CC=CC(C2=C(F)C=CC=C2)=C1C(=O)NC[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29`
 
 **Reference:**
   - **Title:** Synthesis of Ferrocene 1,3-Derivatives by Distal C-H Activation
@@ -58569,9 +58569,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58599,9 +58599,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58629,9 +58629,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58659,9 +58659,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58689,9 +58689,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58719,9 +58719,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58749,9 +58749,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58779,9 +58779,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58809,9 +58809,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58839,9 +58839,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -59425,7 +59425,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 57-13-6
+  - Urea (CAS: 57-13-6)
 
 **ConditionCore:** Pd
 
@@ -59458,7 +59458,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 57-13-6
+  - Urea (CAS: 57-13-6)
 
 **ConditionCore:** Pd
 
@@ -60301,7 +60301,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 151-21-3 (CAS: 151-21-3) - Role: BASE
+  - Lauryl sulfate (CAS: 151-21-3) - Role: BASE
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -60333,7 +60333,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 151-21-3 (CAS: 151-21-3) - Role: BASE
+  - Lauryl sulfate (CAS: 151-21-3) - Role: BASE
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -60365,7 +60365,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 151-21-3 (CAS: 151-21-3) - Role: BASE
+  - Lauryl sulfate (CAS: 151-21-3) - Role: BASE
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
 
 **Solvents:**
@@ -62655,7 +62655,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62689,7 +62689,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62723,7 +62723,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62757,7 +62757,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62791,7 +62791,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62825,7 +62825,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62859,7 +62859,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62893,7 +62893,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62927,7 +62927,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62961,7 +62961,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -62995,7 +62995,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -63029,7 +63029,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - TBAB (CAS: 1643-19-2)
-  - CAS: 25014-41-9
+  - VCN (CAS: 25014-41-9)
 
 **ConditionCore:** Pd
 
@@ -65532,7 +65532,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -65565,7 +65565,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -65598,7 +65598,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -65631,7 +65631,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -65664,7 +65664,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12063-10-4
+  - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
 **ConditionCore:** Pd
 
@@ -65860,9 +65860,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65890,9 +65890,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65920,9 +65920,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65984,7 +65984,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
   - HCl (CAS: 7647-01-0) - Role: UNK
 
 **Solvents:**
@@ -66011,7 +66011,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 251320-86-2
+  - MEPHOS (CAS: 251320-86-2)
 
 **ConditionCore:** Pd
 
@@ -66589,7 +66589,7 @@
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
-  - 20667-12-3 (CAS: 20667-12-3) - Role: UNK
+  - Silver(1+) oxide (CAS: 20667-12-3) - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -68464,10 +68464,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68496,10 +68496,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68528,10 +68528,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68560,10 +68560,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68592,10 +68592,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68624,10 +68624,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68656,10 +68656,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68688,10 +68688,10 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 19455-23-3 (CAS: 19455-23-3) - Role: UNK
+  - Potassium Trimethylacetate (CAS: 19455-23-3) - Role: UNK
 
 **Solvents:**
-  - CAS: 108-29-2
+  - Gamma-Valerolactone (CAS: 108-29-2)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -68817,7 +68817,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -68847,7 +68847,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -69114,9 +69114,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -69144,8 +69144,8 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 1314-08-5
   - HCN (CAS: 143334-20-7)
 
 **ConditionCore:** Ti
@@ -69175,8 +69175,8 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 1314-08-5
   - HCN (CAS: 143334-20-7)
 
 **ConditionCore:** Ti
@@ -69206,8 +69206,8 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 1314-08-5
   - HCN (CAS: 143334-20-7)
 
 **ConditionCore:** Ti
@@ -69237,8 +69237,8 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - Titanium dioxide (CAS: 13463-67-7)
-  - CAS: 1314-08-5
   - HCN (CAS: 143334-20-7)
 
 **ConditionCore:** Ti
@@ -69413,7 +69413,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -69903,7 +69903,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 57-13-6
+  - Urea (CAS: 57-13-6)
 
 **ConditionCore:** Pd
 
@@ -70787,7 +70787,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -70818,7 +70818,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
   - 1,2-Dimethoxyethane (CAS: 110-71-4)
@@ -72778,7 +72778,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -72810,7 +72810,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -72842,7 +72842,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -72874,7 +72874,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -72906,7 +72906,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -72938,7 +72938,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -72970,7 +72970,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73002,7 +73002,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73034,7 +73034,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73066,7 +73066,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73098,7 +73098,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73130,7 +73130,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73162,7 +73162,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73194,7 +73194,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73226,7 +73226,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73258,7 +73258,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73290,7 +73290,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1135-32-6
+  - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
 **ConditionCore:** Pd
 
@@ -73322,14 +73322,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73355,14 +73355,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73388,14 +73388,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73421,14 +73421,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73454,14 +73454,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73487,14 +73487,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73520,14 +73520,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73553,14 +73553,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73586,14 +73586,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73619,14 +73619,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73652,14 +73652,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73685,14 +73685,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73718,14 +73718,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73751,14 +73751,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -73784,14 +73784,14 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 434336-16-0
+  - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
 **ConditionCore:** Pd
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 20442-70-0 (CAS: 20442-70-0) - Role: UNK
+  - Cesium pivalate (CAS: 20442-70-0) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
 
 **Solvents:**
@@ -75049,7 +75049,7 @@
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
-  - CAS: 25154-53-4
+  - 1,1-Dimethoxyethane (CAS: 25154-53-4)
   - Water (CAS: 7732-18-5)
 
 **Reaction Conditions:**
@@ -75326,7 +75326,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 119171-18-5
+  - 1-Methyl-3-propylimidazolium Iodide (CAS: 119171-18-5)
 
 **ConditionCore:** Pd
 
@@ -76546,7 +76546,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 64-10-8
+  - PHU (CAS: 64-10-8)
 
 **ConditionCore:** Pd
 
@@ -76885,7 +76885,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -76919,7 +76919,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -76953,7 +76953,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -76987,7 +76987,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -77021,7 +77021,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -77055,7 +77055,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -77089,7 +77089,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -77123,7 +77123,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -77157,7 +77157,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 143-24-8
+  - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
 **ConditionCore:** Pd
@@ -79250,9 +79250,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -80195,9 +80195,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80228,9 +80228,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80261,9 +80261,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80294,9 +80294,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80327,9 +80327,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80360,9 +80360,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80393,9 +80393,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80426,9 +80426,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80459,9 +80459,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80492,9 +80492,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80525,9 +80525,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80558,9 +80558,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80591,9 +80591,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80624,9 +80624,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80657,9 +80657,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80690,9 +80690,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80723,9 +80723,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80756,9 +80756,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80789,9 +80789,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80822,9 +80822,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80855,9 +80855,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80888,9 +80888,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80921,9 +80921,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80954,9 +80954,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80987,9 +80987,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81020,9 +81020,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81053,9 +81053,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81086,9 +81086,9 @@
 
 **Full Catalytic System:**
   - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
-  - CAS: 93634-87-8
+  - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/93634-87-8
+**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81890,7 +81890,7 @@
 
 **Solvents:**
   - Glycerol (CAS: 56-81-5)
-  - CAS: 102-71-6
+  - Triethanolamine (CAS: 102-71-6)
 
 **Reaction Conditions:**
   - Yield: 2%
@@ -81919,13 +81919,13 @@
 **Generic Catalyst:** Cu
 
 **Reagents:**
-  - 1111-78-0 (CAS: 1111-78-0) - Role: UNK
+  - VQO (CAS: 1111-78-0) - Role: UNK
   - DMAP (CAS: 1122-58-3) - Role: CAT_LIG
   - Sodium Sulfide (CAS: 1313-82-2) - Role: UNK
   - PIDA (CAS: 3240-34-4) - Role: UNK
   - K2CO3 (CAS: 584-08-7) - Role: BASE
   - Zn (CAS: 7440-66-6) - Role: UNK
-  - 7487-88-9 (CAS: 7487-88-9) - Role: UNK
+  - Amitrole (CAS: 7487-88-9) - Role: UNK
   - Titanium Tetrachloride (CAS: 7550-45-0) - Role: UNK
 
 **Solvents:**
@@ -82049,7 +82049,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82083,7 +82083,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82117,7 +82117,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82151,7 +82151,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82185,7 +82185,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82219,7 +82219,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82253,7 +82253,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82287,7 +82287,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -82321,7 +82321,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - CAS: 12736-97-9
-  - CAS: 86389-83-5
+  - LDP (CAS: 86389-83-5)
 
 **ConditionCore:** Pd
 
@@ -83860,7 +83860,7 @@
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
-  - CAS: 115-10-6
+  - Dimethyl Ether (CAS: 115-10-6)
   - EtOH (CAS: 64-17-5)
   - Water (CAS: 7732-18-5)
 
@@ -84133,7 +84133,7 @@
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
-  - 7790-99-0 (CAS: 7790-99-0) - Role: UNK
+  - Squalane (CAS: 7790-99-0) - Role: UNK
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -84163,7 +84163,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1119-94-4
+  - DTAC (CAS: 1119-94-4)
 
 **ConditionCore:** Pd
 
@@ -84195,7 +84195,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1119-94-4
+  - DTAC (CAS: 1119-94-4)
 
 **ConditionCore:** Pd
 
@@ -84227,7 +84227,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1119-94-4
+  - DTAC (CAS: 1119-94-4)
 
 **ConditionCore:** Pd
 
@@ -84259,7 +84259,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1119-94-4
+  - DTAC (CAS: 1119-94-4)
 
 **ConditionCore:** Pd
 
@@ -84291,7 +84291,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1119-94-4
+  - DTAC (CAS: 1119-94-4)
 
 **ConditionCore:** Pd
 
@@ -84323,7 +84323,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1119-94-4
+  - DTAC (CAS: 1119-94-4)
 
 **ConditionCore:** Pd
 
@@ -86570,7 +86570,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86602,7 +86602,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86634,7 +86634,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86666,7 +86666,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86698,7 +86698,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86730,7 +86730,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86762,7 +86762,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86794,7 +86794,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86826,7 +86826,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86858,7 +86858,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86890,7 +86890,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86922,7 +86922,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -86954,7 +86954,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 535-87-5
+  - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
 **ConditionCore:** Pd
 
@@ -87142,7 +87142,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 1373165-93-5
+  - 2-Mesityl-1H-indene-3-yldicyclohexylphosphine (CAS: 1373165-93-5)
 
 **ConditionCore:** Pd
 
@@ -87449,7 +87449,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87483,7 +87483,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87517,7 +87517,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87551,7 +87551,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87585,7 +87585,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87619,7 +87619,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87653,7 +87653,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87687,7 +87687,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87721,7 +87721,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87755,7 +87755,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 1344-28-1
+  - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
 **ConditionCore:** Pd
@@ -87830,7 +87830,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 12408-02-5 (CAS: 12408-02-5) - Role: UNK
+  - Hydrogen cation (CAS: 12408-02-5) - Role: UNK
   - Lithium Hydroxide (CAS: 1310-65-2) - Role: UNK
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
   - NaH (CAS: 7646-69-7) - Role: BASE
@@ -88570,7 +88570,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - CAS: 251320-86-2
+  - MEPHOS (CAS: 251320-86-2)
 
 **ConditionCore:** Pd
 
@@ -88602,7 +88602,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - CAS: 819867-23-7
+  - Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine (CAS: 819867-23-7)
 
 **ConditionCore:** Pd
 
@@ -88634,7 +88634,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - CAS: 819867-23-7
+  - Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine (CAS: 819867-23-7)
 
 **ConditionCore:** Pd
 
@@ -89449,7 +89449,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 1220349-00-7
+  - tert-Butyldicyclohexylphosphonium tetrafluoroborate (CAS: 1220349-00-7)
 
 **ConditionCore:** Pd
 
@@ -89482,7 +89482,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - CAS: 1220349-00-7
+  - tert-Butyldicyclohexylphosphonium tetrafluoroborate (CAS: 1220349-00-7)
 
 **ConditionCore:** Pd
 
@@ -90257,7 +90257,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90289,7 +90289,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90321,7 +90321,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90353,7 +90353,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90385,7 +90385,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90417,7 +90417,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90449,7 +90449,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90481,7 +90481,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 13709-38-1
+  - Lanthanum trifluoride (CAS: 13709-38-1)
 
 **ConditionCore:** Pd
 
@@ -90513,7 +90513,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - CAS: 1246888-90-3
+  - 3-(tert-Butyl)-4-(2,6-dimethoxyphenyl)-2,3-dihydrobenzo[d][1,3]oxaphosphole (CAS: 1246888-90-3)
 
 **ConditionCore:** Pd
 
@@ -91604,10 +91604,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91637,10 +91637,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91670,10 +91670,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91703,10 +91703,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91736,10 +91736,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91769,10 +91769,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91802,10 +91802,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91835,10 +91835,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91868,10 +91868,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91901,10 +91901,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91934,10 +91934,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91967,10 +91967,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92000,10 +92000,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92033,10 +92033,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92066,10 +92066,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92130,10 +92130,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
-  - CAS: 29934-17-6
 
-**ConditionCore:** PPh3/29934-17-6
+**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92473,9 +92473,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -92504,9 +92504,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -93127,7 +93127,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 13845-36-8 (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -93162,7 +93162,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 13845-36-8 (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -93197,7 +93197,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 13845-36-8 (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -93232,7 +93232,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - 13845-36-8 (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -96455,7 +96455,7 @@
 **ConditionCore:** Thiophene-3-carboxylic acid
 
 **Reagents:**
-  - 17194-00-2 (CAS: 17194-00-2) - Role: UNK
+  - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -96821,7 +96821,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - CAS: 113978-91-9
+  - Tri-n-butylphosphonium tetrafluoroborate (CAS: 113978-91-9)
 
 **ConditionCore:** Pd
 
@@ -97194,9 +97194,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97224,9 +97224,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97254,9 +97254,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97284,9 +97284,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97314,9 +97314,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97344,9 +97344,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -99625,9 +99625,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99659,9 +99659,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99693,9 +99693,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99727,9 +99727,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99761,9 +99761,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99795,9 +99795,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99829,9 +99829,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99863,9 +99863,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99897,9 +99897,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99931,9 +99931,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99965,9 +99965,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -99999,9 +99999,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -100033,9 +100033,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -100067,9 +100067,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - CAS: 1307-96-6
-  - CAS: 1314-08-5
+  - Cobalt(II) oxide (CAS: 1307-96-6)
 
 **ConditionCore:** Pd
 
@@ -100103,7 +100103,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100136,7 +100136,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100169,7 +100169,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100202,7 +100202,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100235,7 +100235,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100268,7 +100268,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100301,7 +100301,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100334,7 +100334,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100367,7 +100367,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100400,7 +100400,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100433,7 +100433,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100466,7 +100466,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100499,7 +100499,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100532,7 +100532,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100596,7 +100596,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100629,7 +100629,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100662,7 +100662,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100695,7 +100695,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100728,7 +100728,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100761,7 +100761,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100794,7 +100794,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100827,7 +100827,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100860,7 +100860,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100893,7 +100893,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -100926,7 +100926,7 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - CAS: 72-19-5
+  - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
 **ConditionCore:** Fe
 
@@ -102492,8 +102492,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102527,8 +102527,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102562,8 +102562,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102597,8 +102597,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102632,8 +102632,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102667,8 +102667,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102702,8 +102702,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102737,8 +102737,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102772,8 +102772,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102807,8 +102807,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102842,8 +102842,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102877,8 +102877,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102912,8 +102912,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102947,8 +102947,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -102982,8 +102982,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -103017,8 +103017,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 12068-86-9
-  - CAS: 60835-75-8
+  - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - AJU (CAS: 60835-75-8)
 
 **ConditionCore:** Pd
 
@@ -103697,7 +103697,7 @@
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
 
 **Solvents:**
-  - CAS: 115-10-6
+  - Dimethyl Ether (CAS: 115-10-6)
   - EtOH (CAS: 64-17-5)
 
 **Reaction Conditions:**
@@ -104279,8 +104279,8 @@
   - Yield: 93%
 
 **SMILES:**
-  - Reactants: `OB(O)c1ccccc1.Brc1cc(Br)cc([C@]2(C3=[O]->[Rh+2]456<-[O]=C([O-]->[Rh+2]4(<-[O]=C([O-]->5)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)(<-[O]=C([O-]->6)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)<-[O-]3)[C@@]3(c4cc(Br)cc(Br)c4)CC3(c3ccccc3)c3ccccc3)CC2(c2ccccc2)c2ccccc2)c1`
-  - Products: `c1ccc(-c2cc(-c3ccccc3)cc([C@]3(C4=[O]->[Rh+2]567<-[O]=C([O-]->[Rh+2]5(<-[O]=C([O-]->6)[C@@]5(c6cc(-c8ccccc8)cc(-c8ccccc8)c6)CC5(c5ccccc5)c5ccccc5)(<-[O]=C([O-]->7)[C@@]5(c6cc(-c7ccccc7)cc(-c7ccccc7)c6)CC5(c5ccccc5)c5ccccc5)<-[O-]4)[C@@]4(c5cc(-c6ccccc6)cc(-c6ccccc6)c5)CC4(c4ccccc4)c4ccccc4)CC3(c3ccccc3)c3ccccc3)c2)cc1`
+  - Reactants: `OB(O)c1ccccc1.Brc1cc(Br)cc([C@]2(C3=O->[Rh+2]456<-O=C([O-]->[Rh+2]4(<-O=C([O-]->5)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)(<-O=C([O-]->6)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)<-[O-]3)[C@@]3(c4cc(Br)cc(Br)c4)CC3(c3ccccc3)c3ccccc3)CC2(c2ccccc2)c2ccccc2)c1`
+  - Products: `c1ccc(-c2cc(-c3ccccc3)cc([C@]3(C4=O->[Rh+2]567<-O=C([O-]->[Rh+2]5(<-O=C([O-]->6)[C@@]5(c6cc(-c8ccccc8)cc(-c8ccccc8)c6)CC5(c5ccccc5)c5ccccc5)(<-O=C([O-]->7)[C@@]5(c6cc(-c7ccccc7)cc(-c7ccccc7)c6)CC5(c5ccccc5)c5ccccc5)<-[O-]4)[C@@]4(c5cc(-c6ccccc6)cc(-c6ccccc6)c5)CC4(c4ccccc4)c4ccccc4)CC3(c3ccccc3)c3ccccc3)c2)cc1`
 
 **Reference:**
   - **Title:** Asymmetric dearomative single-atom skeletal editing of indoles and pyrroles
@@ -104695,10 +104695,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 14220-64-5
+  - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** 14220-64-5/P(tBu)3·HBF4
+**ConditionCore:** Bis(cyanophenyl)palladium dichloride/P(tBu)3·HBF4
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -105127,7 +105127,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -105161,7 +105161,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -105195,7 +105195,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -105229,7 +105229,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -105263,7 +105263,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -105297,7 +105297,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -105331,7 +105331,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -105365,7 +105365,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Ceria (CAS: 1306-38-3)
-  - CAS: 7440-57-5
+  - GOLD (CAS: 7440-57-5)
 
 **ConditionCore:** Pd
 
@@ -107234,7 +107234,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12022-43-4
+  - Lanthanum orthoferrite (CAS: 12022-43-4)
 
 **ConditionCore:** Pd
 
@@ -107267,7 +107267,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12022-43-4
+  - Lanthanum orthoferrite (CAS: 12022-43-4)
 
 **ConditionCore:** Pd
 
@@ -107300,7 +107300,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12022-43-4
+  - Lanthanum orthoferrite (CAS: 12022-43-4)
 
 **ConditionCore:** Pd
 
@@ -107333,7 +107333,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12022-43-4
+  - Lanthanum orthoferrite (CAS: 12022-43-4)
 
 **ConditionCore:** Pd
 
@@ -107366,7 +107366,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12022-43-4
+  - Lanthanum orthoferrite (CAS: 12022-43-4)
 
 **ConditionCore:** Pd
 
@@ -107399,7 +107399,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12022-43-4
+  - Lanthanum orthoferrite (CAS: 12022-43-4)
 
 **ConditionCore:** Pd
 
@@ -108622,7 +108622,7 @@
 
 **Solvents:**
   - Water (CAS: 7732-18-5)
-  - CAS: 25154-53-4
+  - 1,1-Dimethoxyethane (CAS: 25154-53-4)
 
 **Reaction Conditions:**
   - Yield: 92%
@@ -108990,9 +108990,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 1310584-14-5
+  - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** 1310584-14-5
+**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -109280,7 +109280,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109313,7 +109313,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109346,7 +109346,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109379,7 +109379,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109412,7 +109412,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109445,7 +109445,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109478,7 +109478,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109511,7 +109511,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109544,7 +109544,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109577,7 +109577,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109610,7 +109610,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109643,7 +109643,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109676,7 +109676,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109709,7 +109709,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109742,7 +109742,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109775,7 +109775,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109808,7 +109808,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109841,7 +109841,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109874,7 +109874,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -109907,7 +109907,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 141-43-5
+  - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
 **ConditionCore:** Pd
@@ -110662,7 +110662,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110695,7 +110695,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110728,7 +110728,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110761,7 +110761,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110794,7 +110794,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110827,7 +110827,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110860,7 +110860,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110893,7 +110893,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110926,7 +110926,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110959,7 +110959,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -110992,7 +110992,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -111025,7 +111025,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -111058,7 +111058,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 11099-11-9
+  - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
 **ConditionCore:** Pd
 
@@ -113228,8 +113228,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Citric Acid (CAS: 77-92-9)
-  - CAS: 9000-11-7
-  - CAS: 9002-89-5
+  - Carmellose (CAS: 9000-11-7)
+  - Acetaldehyde (CAS: 9002-89-5)
 
 **ConditionCore:** Pd
 
@@ -113262,8 +113262,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Citric Acid (CAS: 77-92-9)
-  - CAS: 9000-11-7
-  - CAS: 9002-89-5
+  - Carmellose (CAS: 9000-11-7)
+  - Acetaldehyde (CAS: 9002-89-5)
 
 **ConditionCore:** Pd
 
@@ -113296,8 +113296,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Citric Acid (CAS: 77-92-9)
-  - CAS: 9000-11-7
-  - CAS: 9002-89-5
+  - Carmellose (CAS: 9000-11-7)
+  - Acetaldehyde (CAS: 9002-89-5)
 
 **ConditionCore:** Pd
 
@@ -113330,8 +113330,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Citric Acid (CAS: 77-92-9)
-  - CAS: 9000-11-7
-  - CAS: 9002-89-5
+  - Carmellose (CAS: 9000-11-7)
+  - Acetaldehyde (CAS: 9002-89-5)
 
 **ConditionCore:** Pd
 
@@ -113364,8 +113364,8 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Citric Acid (CAS: 77-92-9)
-  - CAS: 9000-11-7
-  - CAS: 9002-89-5
+  - Carmellose (CAS: 9000-11-7)
+  - Acetaldehyde (CAS: 9002-89-5)
 
 **ConditionCore:** Pd
 
@@ -115588,7 +115588,7 @@
 
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
-  - CAS: 913706-72-6
+  - 1-[(3aR,8aR)-Tetrahydro-2,2-dimethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[4,5-e][1,3,2]dioxaphosphepin-6-yl]pyrrolidine (CAS: 913706-72-6)
 
 **ConditionCore:** Pd
 
@@ -115691,7 +115691,7 @@
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - 714951-87-8 (CAS: 714951-87-8) - Role: UNK
+  - Bis(1-adamantyl)-butylphosphanium;iodide (CAS: 714951-87-8) - Role: UNK
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -115782,7 +115782,7 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - CAS: 740815-37-6
+  - 2-(di-tert-butylphosphino)-N-phenylindole (CAS: 740815-37-6)
 
 **ConditionCore:** Pd
 
@@ -115815,7 +115815,7 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - CAS: 740815-37-6
+  - 2-(di-tert-butylphosphino)-N-phenylindole (CAS: 740815-37-6)
 
 **ConditionCore:** Pd
 
@@ -115848,7 +115848,7 @@
 
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
-  - CAS: 740815-37-6
+  - 2-(di-tert-butylphosphino)-N-phenylindole (CAS: 740815-37-6)
 
 **ConditionCore:** Pd
 
@@ -120230,8 +120230,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 91-56-5
-  - CAS: 1309-38-2
+  - Isatin (CAS: 91-56-5)
+  - Feraheme/Rienso (CAS: 1309-38-2)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Pd
@@ -120264,8 +120264,8 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 91-56-5
-  - CAS: 1309-38-2
+  - Isatin (CAS: 91-56-5)
+  - Feraheme/Rienso (CAS: 1309-38-2)
   - Metasilicic acid (CAS: 7631-86-9)
 
 **ConditionCore:** Pd
@@ -120948,9 +120948,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -121366,9 +121366,9 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - CAS: 887919-35-9
+  - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** 887919-35-9
+**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -121550,7 +121550,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 14814-09-6
+  - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
 **ConditionCore:** Fe
 
@@ -121585,7 +121585,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 14814-09-6
+  - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
 **ConditionCore:** Fe
 
@@ -121620,7 +121620,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 14814-09-6
+  - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
 **ConditionCore:** Fe
 
@@ -121655,7 +121655,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 14814-09-6
+  - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
 **ConditionCore:** Fe
 
@@ -121690,7 +121690,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 14814-09-6
+  - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
 **ConditionCore:** Fe
 
@@ -122579,7 +122579,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122611,7 +122611,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122643,7 +122643,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122675,7 +122675,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122707,7 +122707,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122739,7 +122739,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122771,7 +122771,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122803,7 +122803,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122835,7 +122835,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122867,7 +122867,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122899,7 +122899,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122931,7 +122931,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -122963,7 +122963,7 @@
 
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
-  - CAS: 670-96-2
+  - PIY (CAS: 670-96-2)
 
 **ConditionCore:** Pd
 
@@ -123055,7 +123055,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 31024-56-3
+  - Aminopropyltrimethoxysilane (CAS: 31024-56-3)
 
 **ConditionCore:** Pd
 
@@ -123086,7 +123086,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 31024-56-3
+  - Aminopropyltrimethoxysilane (CAS: 31024-56-3)
 
 **ConditionCore:** Pd
 
@@ -123117,7 +123117,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
-  - CAS: 31024-56-3
+  - Aminopropyltrimethoxysilane (CAS: 31024-56-3)
 
 **ConditionCore:** Pd
 
@@ -124010,7 +124010,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 5848-65-7
+  - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
 **ConditionCore:** Pd
 
@@ -124018,7 +124018,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 151-21-3 (CAS: 151-21-3) - Role: UNK
+  - Lauryl sulfate (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -124044,7 +124044,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 5848-65-7
+  - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
 **ConditionCore:** Pd
 
@@ -124052,7 +124052,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 151-21-3 (CAS: 151-21-3) - Role: UNK
+  - Lauryl sulfate (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -124078,7 +124078,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 5848-65-7
+  - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
 **ConditionCore:** Pd
 
@@ -124086,7 +124086,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 151-21-3 (CAS: 151-21-3) - Role: UNK
+  - Lauryl sulfate (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -124112,7 +124112,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 5848-65-7
+  - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
 **ConditionCore:** Pd
 
@@ -124120,7 +124120,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 151-21-3 (CAS: 151-21-3) - Role: UNK
+  - Lauryl sulfate (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -124146,7 +124146,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 5848-65-7
+  - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
 **ConditionCore:** Pd
 
@@ -124154,7 +124154,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 151-21-3 (CAS: 151-21-3) - Role: UNK
+  - Lauryl sulfate (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -124180,7 +124180,7 @@
 
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - CAS: 5848-65-7
+  - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
 **ConditionCore:** Pd
 
@@ -124188,7 +124188,7 @@
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
-  - 151-21-3 (CAS: 151-21-3) - Role: UNK
+  - Lauryl sulfate (CAS: 151-21-3) - Role: UNK
 
 **Solvents:**
   - CyOMe (CAS: 5614-37-9)
@@ -124431,7 +124431,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12174-11-7
+  - Dialuminum;dimagnesium;dioxido(oxo)silane (CAS: 12174-11-7)
   - CAS: 29254-21-5
 
 **ConditionCore:** Pd
@@ -124464,7 +124464,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12174-11-7
+  - Dialuminum;dimagnesium;dioxido(oxo)silane (CAS: 12174-11-7)
   - CAS: 29254-21-5
 
 **ConditionCore:** Pd
@@ -124497,7 +124497,7 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - CAS: 12174-11-7
+  - Dialuminum;dimagnesium;dioxido(oxo)silane (CAS: 12174-11-7)
   - CAS: 29254-21-5
 
 **ConditionCore:** Pd

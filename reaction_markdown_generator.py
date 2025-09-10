@@ -980,7 +980,7 @@ class ReactionMarkdownGenerator:
         - Prefer using the Full Catalytic System list; fallback to CatalystCore + Ligands.
         - Determine roles via CAS registry compound_type: metal/catalyst_core vs ligand vs activator.
         - Prefer a generic metal symbol from 'catalyst_generic' or registry entry 'generic_core'.
-                - NEW: If any entry is a preformed metal–ligand complex (compound_type == 'preformed metal–ligand catalyst'),
+                - NEW: If any entry is a preformed metal complex (compound_type == 'preformed metal complex'),
                     use the complex name(s) directly (e.g., 'PdCl2(dppf)') and do not add extra ligands.
         - If metal and ligand present: 'Metal/Ligand'. If only metal: 'Metal'.
           If activator + ligand present (no metal): 'Activator/Ligand'.
@@ -1027,8 +1027,8 @@ class ReactionMarkdownGenerator:
         def is_preformed_complex(t: str) -> bool:
             # Normalize various hyphens/dashes and whitespace; compare loosely
             t2 = (t or '').lower().replace('\u2013', '-').replace('\u2014', '-').strip()
-            return t2 == 'preformed metal-ligand catalyst' or (
-                'preformed' in t2 and 'ligand' in t2 and 'catalyst' in t2
+            return t2 == 'preformed metal complex' or t2 == 'preformed metal-ligand catalyst' or (
+                'preformed' in t2 and 'metal' in t2 and ('complex' in t2 or 'catalyst' in t2)
             )
 
         metals = [c for c in pool if is_metal(c.get('type', ''))]
@@ -1036,7 +1036,7 @@ class ReactionMarkdownGenerator:
         acts = [c for c in pool if is_activator(c.get('type', ''))]
         preformed = [c for c in pool if is_preformed_complex(c.get('type', ''))]
 
-        # If there are any preformed metal–ligand complexes, prefer using them directly
+        # If there are any preformed metal complexes, prefer using them directly
         if preformed:
             labels = [c.get('name', '') for c in preformed if c.get('name')]
             # If no names found (unlikely), fall back to CAS or empty-safe strings

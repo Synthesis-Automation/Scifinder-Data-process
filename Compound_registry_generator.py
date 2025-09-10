@@ -801,7 +801,6 @@ class ComprehensiveCASRegistry:
             'category_hint': None,
             'token': None,
             'compound_type': ctype,
-            'sources': ['user_addition'] + ([online['source']] if online else []),
             'formula': formula,
             'molecular_weight': mw,
             'smile': smiles,
@@ -874,7 +873,6 @@ class ComprehensiveCASRegistry:
         - Never change 'cas'.
         - Only fill fields that are missing/empty in existing entry: name, abbreviation,
           generic_core, category_hint, token, compound_type.
-        - 'sources' will be the union of existing and new sources (order-preserving).
 
         Returns (updated_count, not_found_count).
         """
@@ -947,19 +945,6 @@ class ComprehensiveCASRegistry:
                 if empty_old and new not in (None, ''):
                     diffs.append((k, old, new))
                     obj[k] = new
-
-            # Merge sources as union preserving order
-            old_sources = obj.get('sources')
-            new_sources = candidate.get('sources') or []
-            if not isinstance(old_sources, list):
-                old_sources = []
-            merged_sources: List[str] = []
-            for s in (old_sources + new_sources):
-                if s and s not in merged_sources:
-                    merged_sources.append(s)
-            if merged_sources != old_sources:
-                diffs.append(('sources', old_sources, merged_sources))
-                obj['sources'] = merged_sources
 
             if diffs:
                 # Report diff

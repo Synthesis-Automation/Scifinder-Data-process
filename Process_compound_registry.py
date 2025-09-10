@@ -21,6 +21,7 @@ Writes in-place with a .bak backup by default unless --no-backup is set.
 
 How to run:
 python Process_compound_registry.py --file cas_registry_merged.jsonl --fetch-smiles --verbose
+python Process_compound_registry.py --file cas_registry_merged.jsonl --start-row 700 --fetch-smiles --verbose
 
 """
 
@@ -242,12 +243,17 @@ def process_file(
     # additional properties beyond SMILES
     fetch_props: bool = False,
     props_force: bool = False,
+    # processing control
+    start_row: int = 1,
     # logging
     verbose: bool = False,
     progress_every: int = 50,
 ) -> Dict[str, Any]:
     """Process JSONL registry and update compound_type in-place unless dry_run.
 
+    Args:
+        start_row: Start processing from this row number (1-indexed, default: 1).
+    
     Returns stats with counts and sample changes.
     """
     stats = {
@@ -469,12 +475,18 @@ def process_file(
     props_updates_done = 0
 
     if fetch_smiles or fetch_props:
-        info("Starting processing: {}".format(infile))
+        info("Starting processing: {} (from row {})".format(infile, start_row))
         if not verbose:
             info("Tip: add --verbose for per-entry logs. Use --progress-every N to tune progress prints.")
     try:
         with open(infile, "r", encoding="utf-8", errors="replace") as f:
             for idx, line in enumerate(f, start=1):
+                # Skip rows before start_row, but always write them to output
+                if idx < start_row:
+                    if out_fp:
+                        out_fp.write(line)
+                    continue
+                    
                 if not line.strip():
                     if out_fp:
                         out_fp.write(line)
@@ -715,6 +727,13 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Overwrite existing non-empty property fields (formula, InChIKey, etc.)",
     )
+    # Processing control
+    p.add_argument(
+        "--start-row",
+        type=int,
+        default=1,
+        help="Start processing from this row number (1-indexed, default: 1)",
+    )
     args = p.parse_args(argv)
 
     try:
@@ -731,6 +750,7 @@ def main(argv: list[str] | None = None) -> int:
             smiles_limit=args.smiles_limit,
             fetch_props=args.fetch_props,
             props_force=args.props_force,
+            start_row=args.start_row,
             verbose=args.verbose,
             progress_every=args.progress_every,
         )

@@ -114,3 +114,42 @@ pytest -q
 ```
 
 The tests do not require RDKit; when RDKit is available, SMILES extraction is also exercised.
+
+## RDF-only GUI
+
+Use a lightweight GUI to process a folder of `.rdf` files and generate Markdown and JSONL:
+
+```powershell
+python .\Scifinder_rdf_processer.py
+```
+
+- Select a folder containing `.rdf` files
+- Output Markdown path also produces a sibling `.jsonl`
+- RDKit is optional; SMILES fields are blank when RDKit is unavailable
+
+## Temperature/Time Overrides
+
+`Scifinder_rdf_processer.py` enriches `Temperature_C` and `Time_h` using `dataset/temp_time.md` by matching blocks that start with:
+
+```
+CAS Reaction Number: <ID>
+```
+
+Within each block, it:
+- Sums times in h/hr/hrs/hour, min/mins/minute (minutes → hours), and d/day/days (×24); treats "overnight" as 16 h
+- Takes the max numeric Celsius (e.g., `80 °C` or `100 C`); if only `rt`/`room temperature` appears, uses 25 °C
+- These values override RDF-derived heuristics and flow into both Markdown and JSONL outputs
+
+Keep this file updated at: `dataset/temp_time.md`
+
+## RTF Folder → Markdown
+
+Combine all `.rtf` files’ text in a folder into a single Markdown file (images ignored):
+
+```powershell
+python .\rtf_folder_to_md.py
+```
+
+- Pick a folder (optionally recurse subfolders)
+- See per-file log lines and a progress bar during extraction
+- Output is a `.md` with per-file sections

@@ -1075,8 +1075,33 @@ class ReactionMarkdownGenerator:
         if metal_label and ligand_label:
             return f"{metal_label}/{ligand_label}"
         if metal_label:
-            # Requirement: when a metal is identified but no ligand resolved, emit a canonical placeholder '/*'
-            # to make the absence explicit (e.g., 'Pd/*'). Skip placeholder for preformed complexes handled earlier.
+            # Enhancement: if multiple distinct metals present and no ligand, join them with '+' before placeholder.
+            if len(metals) > 1:
+                metal_syms: List[str] = []
+                seen = set()
+                metal_regex = re.compile(r"\b(Pd|Ni|Cu|Pt|Rh|Ru|Ir|Co|Fe|Ag|Au|Mn|Cr|Mo|W|V|Ti|Zr|Hf|Sc|Y|La|Zn)\b")
+                for m in metals:
+                    sym = ''
+                    # Prefer generic field
+                    if m.get('generic'):
+                        sym = m['generic']
+                    else:
+                        nm = m.get('name','')
+                        mr = metal_regex.search(nm)
+                        if mr:
+                            sym = mr.group(1)
+                        else:
+                            # fallback: first token up to space or punctuation (trim long names)
+                            tok = re.split(r"[\s,;/]", nm.strip())[0]
+                            sym = tok[:3] if tok else ''
+                    if sym and sym not in seen:
+                        seen.add(sym)
+                        metal_syms.append(sym)
+                    if len(metal_syms) >= 3:  # cap to avoid excessively long labels
+                        break
+                if metal_syms and '+'.join(metal_syms) != metal_label:
+                    metal_label = '+'.join(metal_syms)
+            # Requirement: when a metal is identified but no ligand resolved, emit a canonical placeholder '/*'.
             return f"{metal_label}/*"
         if activator_label and ligand_label:
             return f"{activator_label}/{ligand_label}"

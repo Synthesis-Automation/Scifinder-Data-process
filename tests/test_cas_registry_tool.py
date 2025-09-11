@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from cas_registry_tool import ComprehensiveCASRegistry
+from Compound_registry_generator import ComprehensiveCASRegistry
 
 
 def test_extract_cas_from_text(tmp_path: Path):

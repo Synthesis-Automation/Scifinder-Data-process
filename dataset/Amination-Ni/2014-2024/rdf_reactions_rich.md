@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-08 23:30:16
+**Generated:** 2025-09-11 22:28:48
 **Source Folder:** RDF_Folder_2014-2024
 **Total Reactions:** 1131
 
@@ -752,7 +752,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - (R,R)-2,6-Bis(4-phenyl-2-oxazolin-2-yl)pyridine (CAS: 174500-20-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1008,7 +1008,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1041,7 +1041,7 @@
 **Full Catalytic System:**
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1211,7 +1211,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - N-(pyridin-2-yl)benzamide (CAS: 4589-12-2)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1243,7 +1243,7 @@
   - Ni(OAc)2 (CAS: 373-02-4)
   - N-(pyridin-2-yl)benzamide (CAS: 4589-12-2)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1275,7 +1275,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1306,7 +1306,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1337,7 +1337,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1368,7 +1368,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1399,7 +1399,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1430,7 +1430,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1462,7 +1462,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1495,7 +1495,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1526,7 +1526,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1557,7 +1557,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1589,7 +1589,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1622,7 +1622,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1654,7 +1654,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1687,7 +1687,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1718,7 +1718,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1749,7 +1749,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1780,7 +1780,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1811,7 +1811,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1842,7 +1842,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1873,7 +1873,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1904,7 +1904,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1935,7 +1935,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1966,7 +1966,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -1997,7 +1997,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2028,7 +2028,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2059,7 +2059,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2090,7 +2090,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2121,7 +2121,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2152,7 +2152,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2183,7 +2183,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2634,7 +2634,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -2961,7 +2961,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3065,7 +3065,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3097,7 +3097,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3129,7 +3129,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3161,7 +3161,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3193,7 +3193,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3225,7 +3225,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3257,7 +3257,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3289,7 +3289,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3321,7 +3321,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3353,7 +3353,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3385,7 +3385,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3417,7 +3417,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3449,7 +3449,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3481,7 +3481,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3513,7 +3513,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3545,7 +3545,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3577,7 +3577,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3609,7 +3609,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3641,7 +3641,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3673,7 +3673,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3705,7 +3705,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3737,7 +3737,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3769,7 +3769,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3801,7 +3801,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3833,7 +3833,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3865,7 +3865,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3897,7 +3897,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3929,7 +3929,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3961,7 +3961,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -3993,7 +3993,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -4025,7 +4025,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -4057,7 +4057,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -4089,7 +4089,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -4121,7 +4121,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -4153,7 +4153,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -4260,7 +4260,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - CAS: 205237-35-0
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -4292,7 +4292,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5002,7 +5002,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5036,7 +5036,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5068,7 +5068,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5100,7 +5100,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5132,7 +5132,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5164,7 +5164,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5196,7 +5196,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - Miyake Polymerization Organophotoredox catalyst (CAS: 1934269-97-2)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5407,7 +5407,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5439,7 +5439,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5471,7 +5471,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5503,7 +5503,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5535,7 +5535,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5567,7 +5567,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5599,7 +5599,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5631,7 +5631,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5663,7 +5663,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5695,7 +5695,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5727,7 +5727,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5759,7 +5759,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5791,7 +5791,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5823,7 +5823,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -5997,7 +5997,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6026,7 +6026,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6055,7 +6055,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6084,7 +6084,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6113,7 +6113,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6142,7 +6142,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6171,7 +6171,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6200,7 +6200,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6229,7 +6229,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6258,7 +6258,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium Sulfide (CAS: 1306-23-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6289,7 +6289,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6321,7 +6321,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6353,7 +6353,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6385,7 +6385,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6417,7 +6417,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6449,7 +6449,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6481,7 +6481,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6513,7 +6513,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6545,7 +6545,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6577,7 +6577,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6609,7 +6609,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -6713,7 +6713,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -7340,7 +7340,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7372,7 +7372,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7404,7 +7404,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7436,7 +7436,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7468,7 +7468,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7500,7 +7500,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7532,7 +7532,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7564,7 +7564,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7596,7 +7596,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7628,7 +7628,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7660,7 +7660,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7692,7 +7692,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7724,7 +7724,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7756,7 +7756,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7788,7 +7788,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -7820,7 +7820,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -7852,7 +7852,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -7884,7 +7884,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -7916,7 +7916,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -7948,7 +7948,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -7979,7 +7979,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -9677,7 +9677,7 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - MN (CAS: 7439-96-5)
+  - Mn (CAS: 7439-96-5)
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
@@ -9753,7 +9753,7 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - MN (CAS: 7439-96-5)
+  - Mn (CAS: 7439-96-5)
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
@@ -9867,7 +9867,7 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - MN (CAS: 7439-96-5)
+  - Mn (CAS: 7439-96-5)
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
@@ -9905,7 +9905,7 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - MN (CAS: 7439-96-5)
+  - Mn (CAS: 7439-96-5)
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
@@ -10019,7 +10019,7 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - MN (CAS: 7439-96-5)
+  - Mn (CAS: 7439-96-5)
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
@@ -10057,7 +10057,7 @@
 **Type:** Amination-Ni
 
 **Full Catalytic System:**
-  - MN (CAS: 7439-96-5)
+  - Mn (CAS: 7439-96-5)
   - Dichloro(1,1'-(1,3-propanediyl)bis(1,1-diphenylphosphine-kappaP))nickel (CAS: 15629-92-2)
   - BBBPY (CAS: 72914-19-3)
   - CAS: 2256751-76-3
@@ -11355,7 +11355,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -11692,7 +11692,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -11760,7 +11760,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - Rose Bengal (CAS: 632-69-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -11793,7 +11793,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-Phenylpyridine (CAS: 94928-86-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -11826,7 +11826,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-Phenylpyridine (CAS: 94928-86-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -11859,7 +11859,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - CAS: 2173009-59-9
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -11964,7 +11964,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 2-Phenylpyridine (CAS: 94928-86-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12217,7 +12217,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12248,7 +12248,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12279,7 +12279,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12310,7 +12310,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12341,7 +12341,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12372,7 +12372,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12403,7 +12403,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12434,7 +12434,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12465,7 +12465,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12496,7 +12496,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12527,7 +12527,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12560,7 +12560,7 @@
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12591,7 +12591,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12622,7 +12622,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12653,7 +12653,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12685,7 +12685,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12718,7 +12718,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12749,7 +12749,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12780,7 +12780,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12811,7 +12811,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12842,7 +12842,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12873,7 +12873,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12904,7 +12904,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12935,7 +12935,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -12967,7 +12967,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13000,7 +13000,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13033,7 +13033,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13064,7 +13064,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13095,7 +13095,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13126,7 +13126,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13157,7 +13157,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13189,7 +13189,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13222,7 +13222,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13253,7 +13253,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13285,7 +13285,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13318,7 +13318,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13349,7 +13349,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13380,7 +13380,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13411,7 +13411,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13442,7 +13442,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13473,7 +13473,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13504,7 +13504,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13535,7 +13535,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13567,7 +13567,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13600,7 +13600,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13631,7 +13631,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13663,7 +13663,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13696,7 +13696,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13727,7 +13727,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -13760,7 +13760,7 @@
   - 2,2,4'-Trimethylpropionanilide (CAS: 24388-23-6)
   - 1,3-Bis(2,6-diisopropylphenyl)-4,5-dihydro-1H-imidazol-3-ium chloride (CAS: 258278-25-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -14001,7 +14001,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -14032,7 +14032,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -14063,7 +14063,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -14094,7 +14094,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -14125,7 +14125,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15383,7 +15383,7 @@
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15412,7 +15412,7 @@
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15441,7 +15441,7 @@
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15469,7 +15469,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15504,7 +15504,7 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15534,7 +15534,7 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15564,7 +15564,7 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15594,7 +15594,7 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15624,7 +15624,7 @@
   - Guanidine Nitrate (CAS: 506-93-4)
   - (3-Chloropropyl)triethoxysilane (CAS: 5089-70-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15652,7 +15652,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -15680,7 +15680,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16037,7 +16037,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-06-2
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16069,7 +16069,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16101,7 +16101,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16133,7 +16133,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16165,7 +16165,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2700228-05-1
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16197,7 +16197,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16229,7 +16229,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16261,7 +16261,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16293,7 +16293,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16325,7 +16325,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 1,6-Dioxapyrene (CAS: 191-28-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16355,7 +16355,7 @@
 
 **Full Catalytic System:**
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
-  - 7H3SF (CAS: 74811-65-7)
+  - Sodium carboxymethyl cellulose (CAS: 74811-65-7)
   - PF6 (CAS: 870987-63-6)
 
 **ConditionCore:** Ni/PF6
@@ -16458,7 +16458,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16466,6 +16466,7 @@
   - EtOH (CAS: 64-17-5)
 
 **Reaction Conditions:**
+  - Time: 0.1 hours
   - Yield: 97%
 
 **SMILES:**
@@ -16520,7 +16521,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16558,7 +16559,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -16566,6 +16567,7 @@
   - EtOH (CAS: 64-17-5)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 95%
 
 **SMILES:**
@@ -17269,7 +17271,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -17367,7 +17369,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -17375,6 +17377,7 @@
   - EtOH (CAS: 64-17-5)
 
 **Reaction Conditions:**
+  - Time: 0.133 hours
   - Yield: 94%
 
 **SMILES:**
@@ -17855,7 +17858,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -17863,6 +17866,7 @@
   - EtOH (CAS: 64-17-5)
 
 **Reaction Conditions:**
+  - Time: 0.133 hours
   - Yield: 99%
 
 **SMILES:**
@@ -18022,7 +18026,7 @@
   - Iridium(3+);1,2,3,5,5-pentamethylcyclopenta-1,3-diene;dichloride (CAS: 12354-84-6)
   - Dichloronickel hexahydrate (CAS: 26042-64-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Ir/*
 
 **Generic Catalyst:** Ni, Ir
 
@@ -18085,7 +18089,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -18093,6 +18097,7 @@
   - EtOH (CAS: 64-17-5)
 
 **Reaction Conditions:**
+  - Time: 0.083 hours
   - Yield: 96%
 
 **SMILES:**
@@ -19093,7 +19098,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19101,6 +19106,7 @@
   - EtOH (CAS: 64-17-5)
 
 **Reaction Conditions:**
+  - Time: 0.133 hours
   - Yield: 98%
 
 **SMILES:**
@@ -19122,7 +19128,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19154,7 +19160,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19186,7 +19192,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19218,7 +19224,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19250,7 +19256,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19282,7 +19288,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19314,7 +19320,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19346,7 +19352,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19378,7 +19384,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19410,7 +19416,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19748,7 +19754,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19780,7 +19786,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19812,7 +19818,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19844,7 +19850,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19876,7 +19882,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19908,7 +19914,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19940,7 +19946,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -19972,7 +19978,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20004,7 +20010,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20036,7 +20042,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20068,7 +20074,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20100,7 +20106,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20132,7 +20138,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20164,7 +20170,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20196,7 +20202,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20228,7 +20234,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20260,7 +20266,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20292,7 +20298,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20324,7 +20330,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20356,7 +20362,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -20388,7 +20394,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2763483-69-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21016,7 +21022,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21047,7 +21053,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21078,7 +21084,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21109,7 +21115,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21140,7 +21146,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21171,7 +21177,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21202,7 +21208,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21233,7 +21239,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21265,7 +21271,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21297,7 +21303,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21329,7 +21335,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21361,7 +21367,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21393,7 +21399,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -21425,7 +21431,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -23679,7 +23685,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -23712,7 +23718,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -23745,7 +23751,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -23778,7 +23784,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -23811,7 +23817,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -23844,7 +23850,7 @@
 **Full Catalytic System:**
   - Ni(OAc)2 (CAS: 373-02-4)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24508,7 +24514,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24541,7 +24547,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24574,7 +24580,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24607,7 +24613,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24640,7 +24646,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24673,7 +24679,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24706,7 +24712,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24739,7 +24745,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24772,7 +24778,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24805,7 +24811,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24838,7 +24844,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24871,7 +24877,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24904,7 +24910,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24937,7 +24943,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -24970,7 +24976,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25003,7 +25009,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25036,7 +25042,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25069,7 +25075,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25102,7 +25108,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25135,7 +25141,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25168,7 +25174,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25201,7 +25207,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25234,7 +25240,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25267,7 +25273,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25300,7 +25306,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -25445,7 +25451,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25475,7 +25481,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25505,7 +25511,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25535,7 +25541,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25565,7 +25571,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25595,7 +25601,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25625,7 +25631,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25655,7 +25661,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25685,7 +25691,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25715,7 +25721,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25745,7 +25751,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25775,7 +25781,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25805,7 +25811,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25835,7 +25841,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25865,7 +25871,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25895,7 +25901,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25925,7 +25931,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25955,7 +25961,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -25985,7 +25991,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26015,7 +26021,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26045,7 +26051,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26075,7 +26081,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26105,7 +26111,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26135,7 +26141,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26165,7 +26171,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26195,7 +26201,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26225,7 +26231,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26255,7 +26261,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26285,7 +26291,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26315,7 +26321,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26345,7 +26351,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26375,7 +26381,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26405,7 +26411,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26435,7 +26441,7 @@
   - CuI (CAS: 7681-65-4)
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu+Ni/*
 
 **Generic Catalyst:** Cu, Ni
 
@@ -26465,7 +26471,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26497,7 +26503,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26529,7 +26535,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26561,7 +26567,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26593,7 +26599,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26625,7 +26631,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26657,7 +26663,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26689,7 +26695,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26721,7 +26727,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26753,7 +26759,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26785,7 +26791,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26817,7 +26823,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26849,7 +26855,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26881,7 +26887,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26913,7 +26919,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26945,7 +26951,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -26977,7 +26983,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27009,7 +27015,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27041,7 +27047,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27073,7 +27079,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27105,7 +27111,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27137,7 +27143,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 2259313-99-8
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27754,7 +27760,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27783,7 +27789,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27812,7 +27818,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27841,7 +27847,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27870,7 +27876,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27899,7 +27905,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27928,7 +27934,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27957,7 +27963,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -27986,7 +27992,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28015,7 +28021,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28044,7 +28050,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28073,7 +28079,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28102,7 +28108,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28131,7 +28137,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28160,7 +28166,7 @@
   - Nickel (CAS: 7718-54-9)
   - Cadmium acetate (CAS: 543-90-8)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28512,7 +28518,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28540,7 +28546,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28568,7 +28574,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28596,7 +28602,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28624,7 +28630,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28652,7 +28658,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28680,7 +28686,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28708,7 +28714,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28736,7 +28742,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28764,7 +28770,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28792,7 +28798,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28823,7 +28829,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28851,7 +28857,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28879,7 +28885,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28907,7 +28913,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28935,7 +28941,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28963,7 +28969,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -28991,7 +28997,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -29019,7 +29025,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -29047,7 +29053,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -29075,7 +29081,7 @@
 **Full Catalytic System:**
   - Ni (CAS: 7440-02-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31622,7 +31628,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31654,7 +31660,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31686,7 +31692,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31718,7 +31724,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31750,7 +31756,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31782,7 +31788,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31814,7 +31820,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31846,7 +31852,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31878,7 +31884,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31910,7 +31916,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31942,7 +31948,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -31974,7 +31980,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32006,7 +32012,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32038,7 +32044,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32070,7 +32076,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32102,7 +32108,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32134,7 +32140,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32166,7 +32172,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32198,7 +32204,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32230,7 +32236,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32262,7 +32268,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32294,7 +32300,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32326,7 +32332,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32358,7 +32364,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32390,7 +32396,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32422,7 +32428,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32454,7 +32460,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32486,7 +32492,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32518,7 +32524,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32550,7 +32556,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32583,7 +32589,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32615,7 +32621,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32648,7 +32654,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32680,7 +32686,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32712,7 +32718,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32744,7 +32750,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32776,7 +32782,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32808,7 +32814,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32840,7 +32846,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32872,7 +32878,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32940,7 +32946,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 61228-18-0
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -32972,7 +32978,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 61228-18-0
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33004,7 +33010,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - CAS: 2950191-68-9
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33036,7 +33042,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33065,7 +33071,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33094,7 +33100,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33123,7 +33129,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33152,7 +33158,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33181,7 +33187,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33210,7 +33216,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33239,7 +33245,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33268,7 +33274,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33297,7 +33303,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33326,7 +33332,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33358,7 +33364,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33390,7 +33396,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -33425,7 +33431,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33458,7 +33464,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33491,7 +33497,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33524,7 +33530,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33557,7 +33563,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33590,7 +33596,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33623,7 +33629,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33656,7 +33662,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33689,7 +33695,7 @@
   - 5-Bromo-3,4-dihydroxybenzaldehyde (CAS: 1671-88-1)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Ni+Cu/*
 
 **Generic Catalyst:** Fe, Ni, Cu
 
@@ -33786,7 +33792,7 @@
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
   - 4CzIPN (CAS: 1416881-52-1)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34162,7 +34168,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34192,7 +34198,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34222,7 +34228,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34252,7 +34258,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34282,7 +34288,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34312,7 +34318,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34342,7 +34348,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34372,7 +34378,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34402,7 +34408,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34432,7 +34438,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34462,7 +34468,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34492,7 +34498,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34522,7 +34528,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34552,7 +34558,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34582,7 +34588,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34612,7 +34618,7 @@
   - Ni (CAS: 7440-02-0)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34642,7 +34648,7 @@
   - Nickel (CAS: 7718-54-9)
   - CAS: 154769-61-6
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34671,7 +34677,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34699,7 +34705,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34727,7 +34733,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34755,7 +34761,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34783,7 +34789,7 @@
 **Full Catalytic System:**
   - Nickel (CAS: 7718-54-9)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34815,7 +34821,7 @@
   - Dichloronickel;1,2-dimethoxyethane (CAS: 29046-78-4)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -34847,7 +34853,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -34876,7 +34882,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -34905,7 +34911,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -34934,7 +34940,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -34963,7 +34969,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -34992,7 +34998,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35021,7 +35027,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35050,7 +35056,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35079,7 +35085,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35108,7 +35114,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35137,7 +35143,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35166,7 +35172,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35195,7 +35201,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35224,7 +35230,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35253,7 +35259,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35282,7 +35288,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35311,7 +35317,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35340,7 +35346,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35369,7 +35375,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35398,7 +35404,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35427,7 +35433,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35456,7 +35462,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35485,7 +35491,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35514,7 +35520,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35543,7 +35549,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35572,7 +35578,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35601,7 +35607,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35630,7 +35636,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35659,7 +35665,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35688,7 +35694,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35717,7 +35723,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35746,7 +35752,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35775,7 +35781,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35804,7 +35810,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -35833,7 +35839,7 @@
   - Zn (CAS: 7440-66-6)
   - Dibromonickel;1,2-dimethoxyethane (CAS: 28923-39-9)
 
-**ConditionCore:** Zn
+**ConditionCore:** Zn/*
 
 **Generic Catalyst:** Zn, Ni
 
@@ -36562,7 +36568,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36591,7 +36597,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36620,7 +36626,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36649,7 +36655,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36678,7 +36684,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36707,7 +36713,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36736,7 +36742,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36765,7 +36771,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36794,7 +36800,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36823,7 +36829,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36852,7 +36858,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36881,7 +36887,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36910,7 +36916,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36939,7 +36945,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 
@@ -36968,7 +36974,7 @@
 **Full Catalytic System:**
   - Diiron nickel tetraoxide (CAS: 12168-54-6)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni/*
 
 **Generic Catalyst:** Ni
 

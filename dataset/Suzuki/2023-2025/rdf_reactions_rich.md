@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-10 13:54:12
+**Generated:** 2025-09-12 00:18:13
 **Source Folder:** RDF_Folder_2023-2025
 **Total Reactions:** 3857
 
@@ -67,7 +67,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95,7 +95,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123,7 +123,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -151,7 +151,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -179,7 +179,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -207,7 +207,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -235,7 +235,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -263,7 +263,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -294,7 +294,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -329,7 +329,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -364,7 +364,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -399,7 +399,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -434,7 +434,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -469,7 +469,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -504,7 +504,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -539,7 +539,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -574,7 +574,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -609,7 +609,7 @@
   - Aluminium hydroxide oxide (CAS: 1318-23-6)
   - CAS: 1422447-26-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -643,7 +643,7 @@
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
   - FS-4075 (CAS: 9012-76-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -676,7 +676,7 @@
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
   - FS-4075 (CAS: 9012-76-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -709,7 +709,7 @@
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
   - FS-4075 (CAS: 9012-76-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -741,7 +741,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -774,7 +774,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -807,7 +807,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -840,7 +840,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -873,7 +873,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -906,7 +906,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -939,7 +939,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -972,7 +972,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1005,7 +1005,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1801427-52-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1035,9 +1035,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1065,9 +1067,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1095,9 +1099,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1125,9 +1131,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1155,9 +1163,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1185,9 +1195,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1215,9 +1227,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1245,9 +1259,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1275,9 +1291,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1305,9 +1323,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1335,9 +1355,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1365,9 +1387,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1395,9 +1419,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1425,9 +1451,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1455,9 +1483,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1485,9 +1515,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -1518,9 +1550,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1551,9 +1583,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1584,9 +1616,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1617,9 +1649,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1650,9 +1682,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1683,9 +1715,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1716,9 +1748,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1749,9 +1781,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -1781,7 +1813,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1812,7 +1844,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1843,7 +1875,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1874,7 +1906,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1905,7 +1937,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1936,7 +1968,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1969,7 +2001,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2002,7 +2034,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2035,7 +2067,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2068,7 +2100,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2101,7 +2133,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2134,7 +2166,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2167,7 +2199,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2200,7 +2232,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2851536-79-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2264,7 +2296,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 154769-61-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2297,9 +2329,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2330,9 +2362,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2363,9 +2395,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2396,9 +2428,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2429,9 +2461,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2462,9 +2494,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2495,9 +2527,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2528,9 +2560,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2558,9 +2590,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Lithium Hydroxide (CAS: 1310-65-2) - Role: UNK
@@ -2593,9 +2627,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -2624,9 +2660,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -2655,9 +2693,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2685,9 +2725,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2715,9 +2757,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2745,9 +2789,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2775,9 +2821,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2805,9 +2853,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2835,9 +2885,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2867,7 +2919,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2896,9 +2948,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -2931,7 +2985,7 @@
   - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2966,7 +3020,7 @@
   - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3001,7 +3055,7 @@
   - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3036,7 +3090,7 @@
   - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3071,7 +3125,7 @@
   - BN (CAS: 10043-11-5)
   - CAS: 1674385-58-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3137,9 +3191,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -3166,9 +3222,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3196,9 +3254,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3226,9 +3286,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3256,9 +3318,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3286,9 +3350,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3316,9 +3382,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3346,9 +3414,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3376,9 +3446,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3406,9 +3478,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3436,9 +3510,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3466,9 +3542,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3496,9 +3574,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3526,9 +3606,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3556,9 +3638,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3586,9 +3670,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3616,9 +3702,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3646,9 +3734,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3676,9 +3766,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3708,7 +3800,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3740,7 +3832,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3772,7 +3864,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3804,7 +3896,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3836,7 +3928,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3868,7 +3960,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3900,7 +3992,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3932,7 +4024,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3964,7 +4056,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3996,7 +4088,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4028,7 +4120,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4060,7 +4152,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4090,9 +4182,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -4119,9 +4213,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -4150,7 +4246,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4185,7 +4281,7 @@
   - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cu/*
 
 **Generic Catalyst:** Pd, Cu
 
@@ -4220,7 +4316,7 @@
   - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -4251,13 +4347,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - RU (CAS: 7440-18-8)
+  - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Ru/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Ru
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -4290,7 +4386,7 @@
   - Ferric cation (CAS: 20074-52-6)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4325,7 +4421,7 @@
   - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cu/*
 
 **Generic Catalyst:** Pd, Cu
 
@@ -4360,7 +4456,7 @@
   - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cu/*
 
 **Generic Catalyst:** Pd, Cu
 
@@ -4395,7 +4491,7 @@
   - N-(2-hydroxybenzal)-o-phenylenediamine (CAS: 7191-90-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cu/*
 
 **Generic Catalyst:** Pd, Cu
 
@@ -4428,7 +4524,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4461,7 +4557,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4494,7 +4590,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4527,7 +4623,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4560,7 +4656,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4593,7 +4689,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4626,7 +4722,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4659,7 +4755,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4692,7 +4788,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1831882-75-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4726,7 +4822,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4760,7 +4856,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4794,7 +4890,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4828,7 +4924,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4862,7 +4958,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4896,7 +4992,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4930,7 +5026,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4964,7 +5060,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -4998,7 +5094,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -5032,7 +5128,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -5066,7 +5162,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -5100,7 +5196,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -5134,7 +5230,7 @@
   - Oxo(oxoferriooxy)iron;oxozinc (CAS: 12063-19-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
 **Generic Catalyst:** Pd, Fe
 
@@ -5164,9 +5260,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5193,9 +5291,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5222,9 +5322,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5251,9 +5353,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5280,9 +5384,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5309,9 +5415,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5338,9 +5446,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5367,9 +5477,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -5396,9 +5508,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -5427,9 +5541,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -5458,9 +5574,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -5489,9 +5607,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -5520,9 +5640,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -5551,9 +5673,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -5580,9 +5704,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -5612,7 +5738,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5716,7 +5842,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5748,7 +5874,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5780,7 +5906,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5812,7 +5938,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5844,7 +5970,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5876,7 +6002,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5908,7 +6034,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5940,7 +6066,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5972,7 +6098,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6066,9 +6192,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -6096,9 +6224,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -6130,9 +6260,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6159,9 +6291,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -6189,9 +6323,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -6220,9 +6356,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6250,9 +6388,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6416,7 +6556,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6446,9 +6586,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6476,9 +6618,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6506,9 +6650,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6536,9 +6682,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6566,9 +6714,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -6599,7 +6749,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6621,6 +6771,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315574
@@ -6631,7 +6784,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6653,6 +6806,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315577
@@ -6663,7 +6819,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6685,6 +6841,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315579
@@ -6695,7 +6854,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6717,6 +6876,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315580
@@ -6727,7 +6889,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6749,6 +6911,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315581
@@ -6759,7 +6924,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6781,6 +6946,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315582
@@ -6791,7 +6959,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6813,6 +6981,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315585
@@ -6823,7 +6994,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6845,6 +7016,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315586
@@ -6855,7 +7029,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6877,6 +7051,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315587
@@ -6887,7 +7064,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6909,6 +7086,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315588
@@ -6919,7 +7099,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6941,6 +7121,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315597
@@ -6951,7 +7134,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -6973,6 +7156,9 @@
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35315599
@@ -6983,7 +7169,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Cyclohexyldiphenylphosphine oxide (CAS: 13689-20-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Cyclohexyldiphenylphosphine oxide
 
 **Generic Catalyst:** Pd
 
@@ -7004,6 +7190,9 @@
   - **Title:** A tertiary phosphine oxide ligand-based recyclable system for the Suzuki-Miyaura and Negishi reactions: evidence for pseudo-homogeneous catalysis
   - **Authors:** King, Andrew K.; Brar, Aneelman; Findlater, Michael
   - **Citation:** Catalysis Science & Technology (2023), 13(2), 301-304
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Cyclohexyldiphenylphosphine oxide' (CAS 13689-20-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -7857,6 +8046,9 @@
   - **Authors:** Hachey, Austin C.; Fenton, Alexander D.; Heidary, David K.; Glazer, Edith C.
   - **Citation:** Journal of Medicinal Chemistry (2023), 66(1), 398-412
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'XPhos Palladacycle' (CAS 1445085-55-1): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35331751
@@ -7864,9 +8056,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -7894,9 +8088,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -7926,7 +8122,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -7962,7 +8158,7 @@
   - PD (CAS: 7440-05-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -7995,7 +8191,7 @@
   - PD (CAS: 7440-05-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8028,7 +8224,7 @@
   - PD (CAS: 7440-05-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8061,7 +8257,7 @@
   - PD (CAS: 7440-05-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8094,7 +8290,7 @@
   - PD (CAS: 7440-05-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8127,7 +8323,7 @@
   - PD (CAS: 7440-05-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8160,7 +8356,7 @@
   - PD (CAS: 7440-05-3)
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8190,9 +8386,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8220,9 +8418,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8318,7 +8518,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8413,9 +8613,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8446,7 +8648,7 @@
   - PD (CAS: 7440-05-3)
   - N2,N2,N7,N7-Tetrabenzyl-1-(3-(dicyclohexylphosphino)-2,4-dimethoxyphenyl)naphthalene-2,7-diamine (CAS: 2418557-65-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/N2,N2,N7,N7-Tetrabenzyl-1-(3-(dicyclohexylphosphino)-2,4-dimethoxyphenyl)naphthalene-2,7-diamine
 
 **Generic Catalyst:** Pd
 
@@ -8469,6 +8671,9 @@
   - **Title:** Introducing Savie: A Biodegradable Surfactant Enabling Chemo- and Biocatalysis & Related Reactions in Recyclable Water
   - **Authors:** Kincaid, Joseph R. A.; Wong, Madison J.; Akporji, Nnamdi; Gallou, Fabrice; Fialho, David M.; Lipshutz, Bruce H.
   - **Citation:** Journal of the American Chemical Society (2023), 145(7), 4266-4278
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'N2,N2,N7,N7-Tetrabenzyl-1-(3-(dicyclohexylphosphino)-2,4-dimethoxyphenyl)naphthalene-2,7-diamine' (CAS 2418557-65-8): registry compound_type -> CAT_LIG
 
 ---
 
@@ -8513,9 +8718,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8544,9 +8751,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8647,9 +8856,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8677,10 +8888,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - Cycloheptatrienylium, tetrafluoroborate(1-) (1:1) (CAS: 27081-10-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cycloheptatrienylium, tetrafluoroborate(1-) (1:1)/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8709,9 +8922,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8739,9 +8954,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8769,9 +8986,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -8799,9 +9018,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -8833,7 +9054,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8867,7 +9088,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8901,7 +9122,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8935,7 +9156,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -8969,7 +9190,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9003,7 +9224,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9037,7 +9258,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9071,7 +9292,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9105,7 +9326,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9139,7 +9360,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9173,7 +9394,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9207,7 +9428,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9241,7 +9462,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9275,7 +9496,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9309,7 +9530,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9343,7 +9564,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9377,7 +9598,7 @@
   - 4-Hexylacetophenone (CAS: 9012-36-6)
   - CAS: 1487462-44-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9410,7 +9631,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Ethyl bicyclo[2.2.1]hept-2-ene-2-carboxylate (CAS: 2248160-18-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9439,9 +9660,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -9473,7 +9696,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 2849346-28-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9505,7 +9728,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 2907709-55-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9534,9 +9757,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -9600,9 +9825,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -9632,9 +9859,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9667,7 +9896,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9702,9 +9931,9 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd+Au/*
 
-**Generic Catalyst:** Fe, Pd
+**Generic Catalyst:** Fe, Pd, Au
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9738,9 +9967,9 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd+Au/*
 
-**Generic Catalyst:** Fe, Pd
+**Generic Catalyst:** Fe, Pd, Au
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9774,9 +10003,9 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd+Au/*
 
-**Generic Catalyst:** Fe, Pd
+**Generic Catalyst:** Fe, Pd, Au
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9810,9 +10039,9 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd+Au/*
 
-**Generic Catalyst:** Fe, Pd
+**Generic Catalyst:** Fe, Pd, Au
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9846,9 +10075,9 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd+Au/*
 
-**Generic Catalyst:** Fe, Pd
+**Generic Catalyst:** Fe, Pd, Au
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9882,9 +10111,9 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd+Au/*
 
-**Generic Catalyst:** Fe, Pd
+**Generic Catalyst:** Fe, Pd, Au
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9918,9 +10147,9 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aluminum magnesium hydroxide (CAS: 39366-43-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd+Au/*
 
-**Generic Catalyst:** Fe, Pd
+**Generic Catalyst:** Fe, Pd, Au
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9948,9 +10177,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10092,9 +10323,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10124,9 +10355,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10156,9 +10387,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10188,9 +10419,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10220,9 +10451,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10252,9 +10483,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10284,9 +10515,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10316,9 +10547,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10348,9 +10579,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10380,9 +10611,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10412,9 +10643,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10444,9 +10675,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10476,9 +10707,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10508,9 +10739,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10540,9 +10771,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10572,9 +10803,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10601,9 +10832,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10631,9 +10864,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -10661,9 +10896,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -10691,9 +10928,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -10721,9 +10960,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -10751,9 +10992,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -10781,9 +11024,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -10815,7 +11060,7 @@
   - CPTMO (CAS: 2530-87-2)
   - CAS: 1256930-63-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10849,7 +11094,7 @@
   - CPTMO (CAS: 2530-87-2)
   - CAS: 1256930-63-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10883,7 +11128,7 @@
   - CPTMO (CAS: 2530-87-2)
   - CAS: 1256930-63-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10913,9 +11158,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -11086,9 +11333,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11215,9 +11464,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11244,9 +11495,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -11275,9 +11528,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -11338,9 +11593,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11372,7 +11629,7 @@
   - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11404,7 +11661,7 @@
   - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-68-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11436,7 +11693,7 @@
   - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11468,7 +11725,7 @@
   - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11500,7 +11757,7 @@
   - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11532,7 +11789,7 @@
   - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-71-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11564,7 +11821,7 @@
   - 1,5Cyclooctadiene (CAS: 111-78-4)
   - CAS: 2914225-72-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11592,9 +11849,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -11622,9 +11881,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -11750,9 +12011,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11781,9 +12044,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -11811,9 +12076,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -11841,9 +12108,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11871,9 +12140,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11901,9 +12172,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11931,9 +12204,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -11961,9 +12236,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -11991,9 +12268,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -12057,9 +12336,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -12086,9 +12367,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -12115,9 +12398,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -12144,9 +12429,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -12174,9 +12461,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -12207,7 +12496,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -12239,7 +12528,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -12271,7 +12560,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -12302,7 +12591,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12335,7 +12624,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(adamantan-1-yl)(butyl)phosphane
 
 **Generic Catalyst:** Pd
 
@@ -12361,6 +12650,9 @@
   - **Authors:** Li, Xiang; Wang, Gao-Wei; Liu, Li-Xia; Yu, Chang-Bin; Zhou, Yong-Gui
   - **Citation:** Angewandte Chemie, International Edition (2023), 62(16), e202301337
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(adamantan-1-yl)(butyl)phosphane' (CAS 321921-71-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35943029
@@ -12371,7 +12663,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(adamantan-1-yl)(butyl)phosphane
 
 **Generic Catalyst:** Pd
 
@@ -12397,6 +12689,9 @@
   - **Authors:** Li, Xiang; Wang, Gao-Wei; Liu, Li-Xia; Yu, Chang-Bin; Zhou, Yong-Gui
   - **Citation:** Angewandte Chemie, International Edition (2023), 62(16), e202301337
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(adamantan-1-yl)(butyl)phosphane' (CAS 321921-71-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35943032
@@ -12404,9 +12699,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaH (CAS: 7646-69-7) - Role: BASE
@@ -12440,7 +12737,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(adamantan-1-yl)(butyl)phosphane
 
 **Generic Catalyst:** Pd
 
@@ -12466,6 +12763,9 @@
   - **Authors:** Li, Xiang; Wang, Gao-Wei; Liu, Li-Xia; Yu, Chang-Bin; Zhou, Yong-Gui
   - **Citation:** Angewandte Chemie, International Edition (2023), 62(16), e202301337
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(adamantan-1-yl)(butyl)phosphane' (CAS 321921-71-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-35943035
@@ -12473,9 +12773,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaH (CAS: 7646-69-7) - Role: BASE
@@ -12509,7 +12811,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12542,7 +12844,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12575,7 +12877,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12608,7 +12910,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12641,7 +12943,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12674,7 +12976,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12707,7 +13009,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12740,7 +13042,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12773,7 +13075,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-34-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12806,7 +13108,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-42-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12839,7 +13141,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-22-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12872,7 +13174,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-26-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12905,7 +13207,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2919338-36-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13208,9 +13510,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -13240,7 +13544,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(adamantan-1-yl)(butyl)phosphane
 
 **Generic Catalyst:** Pd
 
@@ -13263,6 +13567,9 @@
   - **Authors:** Tan, Xuefeng; Wang, Qingli; Sun, Jianwei
   - **Citation:** Nature Communications (2023), 14(1), 357
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(adamantan-1-yl)(butyl)phosphane' (CAS 321921-71-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36025053
@@ -13270,9 +13577,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -13337,9 +13646,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -13366,9 +13677,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -13395,9 +13708,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -13425,9 +13740,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -13455,9 +13772,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -13487,7 +13806,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13515,7 +13834,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13543,7 +13862,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13571,7 +13890,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13603,7 +13922,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13635,7 +13954,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13667,7 +13986,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13696,9 +14015,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -13728,7 +14049,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13760,7 +14081,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13792,7 +14113,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13824,7 +14145,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13856,7 +14177,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13888,7 +14209,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13920,7 +14241,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13950,9 +14271,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -13981,7 +14304,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14013,7 +14336,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14045,7 +14368,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14217,7 +14540,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14247,9 +14570,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14279,7 +14604,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14311,7 +14636,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14343,7 +14668,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14375,7 +14700,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14406,7 +14731,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14438,7 +14763,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14470,7 +14795,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14500,9 +14825,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14531,9 +14858,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14562,9 +14891,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14595,7 +14926,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14626,7 +14957,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14655,9 +14986,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14686,9 +15019,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14717,9 +15052,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14748,9 +15085,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -14782,7 +15121,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Bis(adamantan-1-yl)(butyl)phosphane (CAS: 321921-71-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(adamantan-1-yl)(butyl)phosphane
 
 **Generic Catalyst:** Pd
 
@@ -14804,6 +15143,9 @@
   - **Authors:** Wang, Yucheng; Wang, Bo; Ren, Zhihui; Guan, Zheng-Hui
   - **Citation:** Asian Journal of Organic Chemistry (2023), 12(3), e202300021
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(adamantan-1-yl)(butyl)phosphane' (CAS 321921-71-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36217972
@@ -14811,9 +15153,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -14840,9 +15184,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -14869,9 +15215,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -14898,9 +15246,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -14927,9 +15277,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -14956,9 +15308,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -15017,9 +15371,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -15046,9 +15402,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -15075,9 +15433,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -15104,9 +15464,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -15135,7 +15497,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15201,9 +15563,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15231,9 +15595,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -15330,7 +15696,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15362,7 +15728,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15394,7 +15760,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15426,7 +15792,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15458,7 +15824,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15490,7 +15856,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15522,7 +15888,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15555,9 +15921,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15587,9 +15953,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15619,9 +15985,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15651,9 +16017,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15683,9 +16049,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15715,9 +16081,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15747,9 +16113,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15779,9 +16145,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15811,9 +16177,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15843,9 +16209,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15875,9 +16241,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15907,9 +16273,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15939,9 +16305,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -15971,9 +16337,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -16003,9 +16369,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -16035,9 +16401,9 @@
   - PD (CAS: 7440-05-3)
   - 2-Aminoterephthalic acid;zirconium;octahydrate (CAS: 1260119-00-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Zr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Zr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -16066,7 +16432,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16100,7 +16466,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16133,7 +16499,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16162,9 +16528,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -16191,9 +16559,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -16325,7 +16695,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16355,9 +16725,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -16386,9 +16758,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -16419,7 +16793,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16580,7 +16954,9 @@
 **Full Catalytic System:**
   - PD (CAS: 1314-08-5)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16609,7 +16985,9 @@
 **Full Catalytic System:**
   - PD (CAS: 1314-08-5)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16638,7 +17016,9 @@
 **Full Catalytic System:**
   - PD (CAS: 1314-08-5)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16765,9 +17145,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -16798,7 +17180,9 @@
 **Full Catalytic System:**
   - PD (CAS: 1314-08-5)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16827,7 +17211,9 @@
 **Full Catalytic System:**
   - PD (CAS: 1314-08-5)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16856,7 +17242,9 @@
 **Full Catalytic System:**
   - PD (CAS: 1314-08-5)
 
-**ConditionCore:** PD
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -16883,9 +17271,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -16914,9 +17304,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -16976,12 +17368,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - PD (CAS: 7440-05-3)
   - Zirconium oxide (ZrO) (CAS: 1314-23-4)
+  - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Zr+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Zr, Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17009,12 +17401,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - PD (CAS: 7440-05-3)
   - Zirconium oxide (ZrO) (CAS: 1314-23-4)
+  - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Zr+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Zr, Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17042,12 +17434,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - PD (CAS: 7440-05-3)
   - Zirconium oxide (ZrO) (CAS: 1314-23-4)
+  - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Zr+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Zr, Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17075,12 +17467,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - PD (CAS: 7440-05-3)
   - Zirconium oxide (ZrO) (CAS: 1314-23-4)
+  - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Zr+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Zr, Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17108,12 +17500,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - PD (CAS: 7440-05-3)
   - Zirconium oxide (ZrO) (CAS: 1314-23-4)
+  - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Zr+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Zr, Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17141,12 +17533,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - PD (CAS: 7440-05-3)
   - Zirconium oxide (ZrO) (CAS: 1314-23-4)
+  - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Zr+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Zr, Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17174,9 +17566,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17239,7 +17633,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2244507-23-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -17300,9 +17694,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17330,9 +17726,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17362,9 +17760,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17394,9 +17794,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17426,9 +17828,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17458,9 +17862,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17490,9 +17896,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17522,9 +17930,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17554,9 +17964,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17586,9 +17998,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17618,9 +18032,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17650,9 +18066,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -17681,9 +18099,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -17817,7 +18237,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -17838,6 +18260,9 @@
   - **Authors:** Waddell, Lachlan J. N.; Senkans, Maisie R.; Sutherland, Andrew
   - **Citation:** Journal of Organic Chemistry (2023), 88(11), 7208-7218
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36487404
@@ -17848,7 +18273,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17879,7 +18306,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17910,7 +18339,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17941,7 +18372,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -17972,7 +18405,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18003,7 +18438,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18034,7 +18471,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18065,7 +18504,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18096,7 +18537,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18127,7 +18570,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18158,7 +18603,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18189,7 +18636,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18220,7 +18669,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - CAS: 2925303-71-3
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/2925303-71-3
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -18284,9 +18735,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -18315,9 +18768,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -18349,7 +18804,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - alpha-Amylase (CAS: 9000-90-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18381,7 +18836,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - alpha-Amylase (CAS: 9000-90-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18413,7 +18868,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - alpha-Amylase (CAS: 9000-90-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18444,7 +18899,9 @@
 **Full Catalytic System:**
   - Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II) (CAS: 16065-88-6)
 
-**ConditionCore:** Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II)
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -18474,7 +18931,9 @@
 **Full Catalytic System:**
   - Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II) (CAS: 16065-88-6)
 
-**ConditionCore:** Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II)
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -18504,7 +18963,9 @@
 **Full Catalytic System:**
   - Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II) (CAS: 16065-88-6)
 
-**ConditionCore:** Allyl(1,3-bis(2,6-diisopropylphenyl)imidazol-2-ylidene)chloropalladium(II)
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -18695,7 +19156,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18726,7 +19187,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18757,7 +19218,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18788,7 +19249,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18819,7 +19280,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18850,7 +19311,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18881,7 +19342,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18912,7 +19373,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18943,7 +19404,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18974,7 +19435,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -19005,7 +19466,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -19036,7 +19497,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -19067,7 +19528,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -19098,7 +19559,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -19129,7 +19590,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -19158,9 +19619,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19187,9 +19650,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19216,9 +19681,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19245,9 +19712,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19274,9 +19743,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19303,9 +19774,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19332,9 +19805,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19361,9 +19836,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19390,9 +19867,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19454,9 +19933,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -19487,9 +19968,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -19520,9 +20003,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -19555,7 +20040,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19578,6 +20065,9 @@
   - **Authors:** Vietor, Jan; Gege, Christian; Stiller, Tanja; Busch, Romy; Schallmayer, Espen; Kohlhof, Hella; Hoefner, Georg; Pabel, Joerg; Marschner, Julian A.; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2023), 66(9), 6391-6402
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36588902
@@ -19587,7 +20077,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -19609,6 +20101,9 @@
   - **Title:** Development of a Potent Nurr1 Agonist Tool for In Vivo Applications
   - **Authors:** Vietor, Jan; Gege, Christian; Stiller, Tanja; Busch, Romy; Schallmayer, Espen; Kohlhof, Hella; Hoefner, Georg; Pabel, Joerg; Marschner, Julian A.; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2023), 66(9), 6391-6402
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
 
 ---
 
@@ -19677,9 +20172,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -19971,9 +20468,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -20002,9 +20501,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -20033,9 +20534,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -20064,9 +20567,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -20095,9 +20600,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -20218,9 +20725,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -20249,9 +20758,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -20282,9 +20793,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -20314,7 +20827,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20335,6 +20850,9 @@
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36696293
@@ -20344,7 +20862,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20365,6 +20885,9 @@
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36696302
@@ -20374,7 +20897,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20395,6 +20920,9 @@
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36696305
@@ -20404,7 +20932,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20425,6 +20955,9 @@
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36696306
@@ -20434,7 +20967,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20455,6 +20990,9 @@
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36696315
@@ -20464,7 +21002,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20485,6 +21025,9 @@
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36696317
@@ -20494,7 +21037,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20515,6 +21060,9 @@
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-36696323
@@ -20524,7 +21072,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -20544,6 +21094,9 @@
   - **Title:** Synthesis of Fluorenones and Xanthones through Intramolecular C-F Arylation
   - **Authors:** Hamada, Shusuke; Yoshida, Suguru
   - **Citation:** Bulletin of the Chemical Society of Japan (2023), 96(5), 401-405
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
 
 ---
 
@@ -20584,9 +21137,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -20614,9 +21169,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -20645,9 +21202,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -20677,7 +21236,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -20740,9 +21299,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -20774,7 +21335,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2960271-97-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -20806,7 +21367,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -20838,7 +21399,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -20870,7 +21431,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -20902,7 +21463,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -20934,7 +21495,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -20966,7 +21527,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -20998,7 +21559,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -21030,7 +21591,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -21062,7 +21623,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -21094,7 +21655,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -21128,7 +21689,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - CAS: 2945090-02-6
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -22090,9 +22651,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -22152,9 +22715,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -22181,9 +22746,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22213,9 +22780,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22245,9 +22814,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22277,9 +22848,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22309,9 +22882,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22341,9 +22916,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22373,9 +22950,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22405,9 +22984,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22437,9 +23018,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22469,9 +23052,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22501,9 +23086,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22533,9 +23120,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22565,9 +23154,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Imidazole (CAS: 288-32-4) - Role: UNK
@@ -22597,9 +23188,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -22858,9 +23451,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -22921,9 +23516,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -22951,9 +23548,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23203,9 +23802,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23267,9 +23868,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23298,9 +23901,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23329,9 +23934,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23360,9 +23967,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23391,9 +24000,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23422,9 +24033,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
@@ -23451,9 +24064,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23482,9 +24097,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23513,9 +24130,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23544,9 +24163,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23575,9 +24196,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
@@ -23604,9 +24227,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -23705,9 +24330,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23837,9 +24464,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23867,9 +24496,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23898,9 +24529,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23929,9 +24562,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23999,7 +24634,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2928475-21-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24028,9 +24663,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -24058,9 +24695,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -24089,9 +24728,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24119,9 +24760,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24184,7 +24827,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24215,9 +24858,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24245,9 +24890,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24315,9 +24962,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - HOBt (CAS: 2592-95-2) - Role: UNK
@@ -24349,10 +24998,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - TsOH (CAS: 104-15-4)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/TsOH
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -24497,9 +25148,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -24528,10 +25181,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - PPh3 (CAS: 603-35-0)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PPh3/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -24564,7 +25219,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24595,7 +25250,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24626,7 +25281,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24657,7 +25312,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24688,7 +25343,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24719,7 +25374,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24750,7 +25405,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24781,7 +25436,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24812,7 +25467,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24843,7 +25498,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24874,7 +25529,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24905,7 +25560,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24936,7 +25591,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24967,7 +25622,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24998,7 +25653,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25029,7 +25684,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25058,9 +25713,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -25090,7 +25747,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25505,9 +26162,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25537,9 +26196,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25569,9 +26230,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25603,7 +26266,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25633,9 +26296,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25663,9 +26328,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -25758,9 +26425,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25788,9 +26457,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25818,9 +26489,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25848,9 +26521,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25878,9 +26553,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25908,9 +26585,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25938,9 +26617,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25968,9 +26649,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -25998,9 +26681,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -26028,9 +26713,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -26058,9 +26745,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -26088,9 +26777,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -26118,9 +26809,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -26148,9 +26841,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -26181,7 +26876,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2954730-92-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26214,7 +26909,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2954730-92-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26247,7 +26942,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2954730-92-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26280,7 +26975,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2954730-92-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26313,7 +27008,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2954730-92-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26346,7 +27041,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2954730-92-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26376,9 +27071,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -26508,7 +27205,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26539,7 +27236,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26571,7 +27268,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26602,7 +27299,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26634,7 +27331,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26665,7 +27362,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26697,7 +27394,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26729,7 +27426,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26761,7 +27458,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26793,7 +27490,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26825,7 +27522,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26857,7 +27554,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27118,7 +27815,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27149,7 +27846,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27180,7 +27877,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27211,7 +27908,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27242,7 +27939,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27273,7 +27970,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27304,7 +28001,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27335,7 +28032,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27366,7 +28063,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27397,7 +28094,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27426,9 +28123,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27460,7 +28159,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27496,9 +28195,9 @@
   - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+W/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, W
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27529,9 +28228,9 @@
   - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+W/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, W
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27562,9 +28261,9 @@
   - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+W/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, W
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27595,9 +28294,9 @@
   - Tungsten (CAS: 7440-33-7)
   - Guaiacol (CAS: 25233-30-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+W/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, W
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27624,9 +28323,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27654,9 +28355,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27684,9 +28387,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27714,9 +28419,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27744,9 +28451,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -27777,7 +28486,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2956652-30-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27817,7 +28526,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2956652-30-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27857,7 +28566,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2956652-30-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27897,7 +28606,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2956652-30-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27937,7 +28646,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2956652-28-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27974,9 +28683,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -28005,9 +28716,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -28036,9 +28749,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -28065,9 +28780,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -28870,9 +29587,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -28933,9 +29652,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -28964,9 +29685,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -28995,9 +29718,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -29026,9 +29751,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -29056,9 +29783,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -29225,7 +29954,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -29256,7 +29985,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -29285,9 +30014,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -29316,9 +30047,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -29831,9 +30564,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -29861,9 +30596,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -30019,9 +30756,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30052,7 +30791,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -30085,7 +30824,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -30186,9 +30925,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -30253,9 +30994,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30282,9 +31025,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30311,9 +31056,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30340,9 +31087,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30369,9 +31118,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30398,9 +31149,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30427,9 +31180,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30456,9 +31211,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30485,9 +31242,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30514,9 +31273,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -30543,9 +31304,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30573,9 +31336,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30603,9 +31368,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30633,9 +31400,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30663,9 +31432,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30693,9 +31464,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30723,9 +31496,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30753,9 +31528,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30783,9 +31560,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30813,9 +31592,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30843,9 +31624,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30873,9 +31656,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30903,9 +31688,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -30934,13 +31721,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -30968,13 +31755,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31002,13 +31789,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31036,13 +31823,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31070,13 +31857,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31104,13 +31891,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31138,13 +31925,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31172,13 +31959,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31206,13 +31993,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31240,13 +32027,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31274,13 +32061,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31308,13 +32095,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31342,13 +32129,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31376,13 +32163,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31410,13 +32197,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31444,13 +32231,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31478,13 +32265,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31512,13 +32299,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31546,13 +32333,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31580,13 +32367,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31614,13 +32401,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31648,13 +32435,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31682,13 +32469,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31716,13 +32503,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31750,13 +32537,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31784,13 +32571,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -31818,13 +32605,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
+  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
   - (3-Aminopropyl)triethoxysilane (CAS: 919-30-2)
   - Aluminum (CAS: 7429-90-5)
-  - Chromium(3+) zinc hydroxide (1/1/5) (CAS: 143597-70-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cr/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Cr
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -32939,7 +33726,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2952592-72-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -32971,7 +33758,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2952592-72-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33003,7 +33790,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2952592-72-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33032,9 +33819,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -33066,7 +33855,7 @@
   - PD (CAS: 7440-05-3)
   - Desitin (CAS: 1314-13-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33101,7 +33890,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33123,6 +33912,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425172
@@ -33135,7 +33927,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33157,6 +33949,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425175
@@ -33169,7 +33964,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33191,6 +33986,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425176
@@ -33203,7 +34001,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33225,6 +34023,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425177
@@ -33237,7 +34038,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33259,6 +34060,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425180
@@ -33271,7 +34075,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33293,6 +34097,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425181
@@ -33305,7 +34112,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33327,6 +34134,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425183
@@ -33339,7 +34149,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33361,6 +34171,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425184
@@ -33373,7 +34186,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33395,6 +34208,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37425185
@@ -33407,7 +34223,7 @@
   - Cu (CAS: 7440-50-8)
   - 1,10-Phenanthroline-2,9-dicarboxaldehyde (CAS: 57709-62-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe/1,10-Phenanthroline-2,9-dicarboxaldehyde
 
 **Generic Catalyst:** Fe, Pd, Cu
 
@@ -33429,6 +34245,9 @@
   - **Authors:** Karimi-Nami, Rahman; Keypour, Hassan; Rabiei, Khadijeh; Kouhdareh, Jamal; Alavinia, Sedigheh; Karakaya, Idris
   - **Citation:** Polycyclic Aromatic Compounds (2024), 44(6), 4065-4080
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1,10-Phenanthroline-2,9-dicarboxaldehyde' (CAS 57709-62-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-37434968
@@ -33438,7 +34257,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33469,9 +34288,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -33499,9 +34320,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -33529,9 +34352,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -33559,9 +34384,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -33591,7 +34418,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33622,9 +34449,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -34019,7 +34848,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34052,7 +34881,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34085,7 +34914,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34118,7 +34947,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34151,7 +34980,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34184,7 +35013,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34217,7 +35046,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34250,7 +35079,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34283,7 +35112,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34316,7 +35145,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34349,7 +35178,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34382,7 +35211,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34415,7 +35244,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34448,7 +35277,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34481,7 +35310,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3052957-61-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34511,9 +35340,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34542,9 +35373,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34573,9 +35406,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34604,9 +35439,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34635,9 +35472,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34666,9 +35505,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34697,9 +35538,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34728,9 +35571,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34759,9 +35604,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34790,9 +35637,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34821,9 +35670,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34852,9 +35703,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34883,9 +35736,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34914,9 +35769,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34945,9 +35802,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -34976,9 +35835,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35007,9 +35868,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35038,9 +35901,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35069,9 +35934,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35100,9 +35967,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35131,9 +36000,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35162,9 +36033,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35193,9 +36066,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35224,9 +36099,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35255,9 +36132,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35286,10 +36165,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - TBAB (CAS: 1643-19-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** TBAB/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35319,10 +36200,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - TBAB (CAS: 1643-19-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** TBAB/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35352,10 +36235,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - TBAB (CAS: 1643-19-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** TBAB/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35681,7 +36566,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35714,7 +36599,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35747,7 +36632,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35780,7 +36665,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35813,7 +36698,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35846,7 +36731,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35879,7 +36764,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35942,9 +36827,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -35975,7 +36862,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36006,7 +36893,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36037,7 +36924,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36057,7 +36944,7 @@
   - Yield: 81%
 
 **SMILES:**
-  - Reactants: `OB(O)c1ccccc1.O=Cc1ccc2ccccc2c1Br.CC(C)[Mg]Br`
+  - Reactants: `OB(O)c1ccccc1.O=Cc1ccc2ccccc2c1Br.C[CH](C)[Mg][Br]`
   - Products: `C=C(C)C(=O)c1ccc2ccccc2c1-c1ccccc1`
 
 **Reference:**
@@ -36074,7 +36961,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36172,9 +37059,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -36203,9 +37092,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -36234,9 +37125,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -36264,9 +37157,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -36298,7 +37193,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2245139-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36330,7 +37225,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2245139-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36362,7 +37257,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2245139-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36394,7 +37289,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2245139-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36426,7 +37321,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36459,7 +37354,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36492,7 +37387,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36525,7 +37420,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36558,7 +37453,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36591,7 +37486,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36693,7 +37588,7 @@
   - PD (CAS: 7440-05-3)
   - Desitin (CAS: 1314-13-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36726,7 +37621,7 @@
   - PD (CAS: 7440-05-3)
   - Desitin (CAS: 1314-13-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36759,7 +37654,7 @@
   - PD (CAS: 7440-05-3)
   - Desitin (CAS: 1314-13-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36792,7 +37687,7 @@
   - PD (CAS: 7440-05-3)
   - Desitin (CAS: 1314-13-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36825,7 +37720,7 @@
   - PD (CAS: 7440-05-3)
   - Desitin (CAS: 1314-13-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36855,9 +37750,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -36885,9 +37782,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -36913,9 +37812,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Solvents:**
   - PhMe (CAS: 108-88-3)
@@ -36941,9 +37842,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -36971,9 +37874,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -37001,9 +37906,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -37033,7 +37940,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37064,7 +37971,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37093,9 +38000,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -37123,9 +38032,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -37156,7 +38067,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37189,7 +38100,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37222,7 +38133,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37255,7 +38166,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37288,7 +38199,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37321,7 +38232,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37354,7 +38265,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37387,7 +38298,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37420,7 +38331,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37453,7 +38364,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37483,9 +38394,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -37576,9 +38489,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -37607,7 +38522,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37641,7 +38556,7 @@
   - Acetaldehyde (CAS: 9002-89-5)
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37675,7 +38590,7 @@
   - Acetaldehyde (CAS: 9002-89-5)
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37709,7 +38624,7 @@
   - Acetaldehyde (CAS: 9002-89-5)
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37743,7 +38658,7 @@
   - Acetaldehyde (CAS: 9002-89-5)
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37777,7 +38692,7 @@
   - Acetaldehyde (CAS: 9002-89-5)
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37811,7 +38726,7 @@
   - Acetaldehyde (CAS: 9002-89-5)
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37845,7 +38760,7 @@
   - Acetaldehyde (CAS: 9002-89-5)
   - GlyTouCan:G06348JD (CAS: 9004-34-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37878,7 +38793,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37911,7 +38826,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37944,7 +38859,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37977,7 +38892,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38010,7 +38925,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38043,7 +38958,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38076,7 +38991,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38109,7 +39024,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38142,7 +39057,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38175,7 +39090,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38208,7 +39123,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38241,7 +39156,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38274,7 +39189,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38307,7 +39222,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38340,7 +39255,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38373,7 +39288,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38406,7 +39321,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38439,7 +39354,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38472,7 +39387,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38505,7 +39420,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38538,7 +39453,7 @@
   - PD (CAS: 7440-05-3)
   - Corundum (CAS: 1344-28-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38568,9 +39483,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -38735,7 +39652,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38768,7 +39685,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38801,7 +39718,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38834,7 +39751,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38867,7 +39784,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38900,7 +39817,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38933,7 +39850,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38966,7 +39883,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38999,7 +39916,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39032,7 +39949,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39065,7 +39982,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39098,7 +40015,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39131,7 +40048,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39164,7 +40081,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39197,7 +40114,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39230,7 +40147,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39263,7 +40180,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39296,7 +40213,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39329,7 +40246,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 319914-37-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39359,9 +40276,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -39426,9 +40345,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -39459,10 +40380,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39494,10 +40415,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39529,10 +40450,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39564,10 +40485,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39599,10 +40520,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39634,10 +40555,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39669,10 +40590,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39704,10 +40625,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39739,10 +40660,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39774,10 +40695,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39809,10 +40730,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -39844,10 +40765,10 @@
 **Full Catalytic System:**
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
-  - GAI (CAS: 113-00-8)
+  - Guanidine (CAS: 113-00-8)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -40220,13 +41141,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40255,13 +41176,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40290,13 +41211,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40325,13 +41246,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40360,13 +41281,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40395,13 +41316,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40430,13 +41351,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40465,13 +41386,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40500,13 +41421,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40535,13 +41456,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -40570,13 +41491,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Titanium dioxide (CAS: 13463-67-7)
   - GOLD (CAS: 7440-57-5)
+  - Titanium dioxide (CAS: 13463-67-7)
   - Bismuth vanadium tetraoxide (CAS: 14059-33-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au+Ti/*
 
-**Generic Catalyst:** Pd, Ti
+**Generic Catalyst:** Pd, Au, Ti
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -41642,7 +42563,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41675,7 +42596,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41708,7 +42629,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41741,7 +42662,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41774,7 +42695,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41807,7 +42728,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41838,7 +42759,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41869,7 +42790,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41900,7 +42821,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -41931,7 +42852,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42024,9 +42945,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -42594,9 +43517,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -42656,9 +43581,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -42686,9 +43613,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -42716,9 +43645,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -42746,9 +43677,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
@@ -42776,9 +43709,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -42806,9 +43741,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -42836,9 +43773,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -42868,7 +43807,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42899,7 +43838,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42930,7 +43869,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42959,9 +43898,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -42989,9 +43930,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -43019,9 +43962,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -43297,9 +44242,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -43328,9 +44275,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -43358,9 +44307,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -43391,7 +44342,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43423,7 +44374,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43455,7 +44406,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43487,7 +44438,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43519,7 +44470,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43551,7 +44502,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43583,7 +44534,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43615,7 +44566,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 97938-91-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -43644,9 +44595,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -43711,9 +44664,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -43742,9 +44697,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -43809,9 +44766,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -43839,9 +44798,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -43872,7 +44833,9 @@
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
   - SPhos (CAS: 564483-18-7)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane/SPhos
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -43894,6 +44857,7 @@
   - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(11), 1582-1588
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'SPhos' (CAS 564483-18-7): registry compound_type -> CAT_LIG
 
 ---
@@ -44102,9 +45066,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -44134,7 +45100,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -44167,7 +45133,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -44200,7 +45166,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -44233,7 +45199,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -44266,7 +45232,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -44298,7 +45264,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44330,7 +45296,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44362,7 +45328,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44394,7 +45360,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44426,7 +45392,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44458,7 +45424,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44490,7 +45456,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44522,7 +45488,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44554,7 +45520,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44650,7 +45616,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44680,9 +45646,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -44710,9 +45678,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -44740,9 +45710,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -44769,9 +45741,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -44802,7 +45776,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44832,9 +45806,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45343,9 +46319,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45373,9 +46351,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
@@ -45404,7 +46384,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45434,9 +46414,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45465,9 +46447,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45494,9 +46478,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -45525,9 +46511,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -45555,9 +46543,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45621,9 +46611,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45650,9 +46642,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45680,9 +46674,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45710,9 +46706,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45742,7 +46740,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45763,6 +46763,9 @@
   - **Authors:** Henry, Martyn C.; Riley, Christopher M.; Hunter, Irene; Elwood, Jessica M. L.; Lopez-Fernandez, J. Daniel; Minty, Laura; Coe, Diane M.; McEwan, Iain J.; Jamieson, Craig
   - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(12), 1800-1806
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-38455512
@@ -45772,7 +46775,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -45793,6 +46798,9 @@
   - **Authors:** Henry, Martyn C.; Riley, Christopher M.; Hunter, Irene; Elwood, Jessica M. L.; Lopez-Fernandez, J. Daniel; Minty, Laura; Coe, Diane M.; McEwan, Iain J.; Jamieson, Craig
   - **Citation:** ACS Medicinal Chemistry Letters (2023), 14(12), 1800-1806
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-38458451
@@ -45800,9 +46808,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45831,9 +46841,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45862,9 +46874,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45893,9 +46907,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45923,9 +46939,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45956,7 +46974,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -45986,7 +47006,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46016,7 +47038,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46046,7 +47070,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46076,7 +47102,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46106,7 +47134,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46136,7 +47166,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46166,7 +47198,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -46196,7 +47230,9 @@
   - Cycloocta-1,5-diene;palladium(2+);dichloride (CAS: 12107-56-1)
   - CAS: 2127834-82-4
 
-**ConditionCore:** Cycloocta-1,5-diene;palladium(2+);dichloride/2127834-82-4
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -47765,7 +48801,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -47795,9 +48831,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -47827,7 +48865,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -47858,7 +48896,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -47887,9 +48925,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -47917,9 +48957,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -47947,9 +48989,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -47977,9 +49021,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48007,9 +49053,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48037,9 +49085,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48067,9 +49117,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48097,9 +49149,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48127,9 +49181,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48157,9 +49213,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48187,9 +49245,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48217,9 +49277,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48247,9 +49309,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48277,9 +49341,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48307,9 +49373,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48337,9 +49405,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48367,9 +49437,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48397,9 +49469,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -48427,9 +49501,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48458,9 +49534,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48489,9 +49567,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48520,9 +49600,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48551,9 +49633,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48582,9 +49666,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48613,9 +49699,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48644,9 +49732,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48675,9 +49765,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48706,9 +49798,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48737,9 +49831,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48768,9 +49864,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48799,9 +49897,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48833,7 +49933,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Urea (CAS: 57-13-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -48863,9 +49963,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48894,9 +49996,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -48927,7 +50031,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -48956,9 +50060,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -48986,9 +50092,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -49020,7 +50128,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49054,7 +50162,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49088,7 +50196,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49122,7 +50230,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49156,7 +50264,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49190,7 +50298,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49224,7 +50332,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49258,7 +50366,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49292,7 +50400,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49326,7 +50434,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49360,7 +50468,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49394,7 +50502,7 @@
   - N-Methylimidazole (CAS: 616-47-7)
   - CAS: 1821696-65-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49424,9 +50532,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49454,9 +50564,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49486,7 +50598,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -49516,9 +50628,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -49547,9 +50661,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -49577,9 +50693,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -49608,13 +50726,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49649,13 +50767,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49690,13 +50808,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49731,13 +50849,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49772,13 +50890,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49813,13 +50931,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49854,13 +50972,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49895,13 +51013,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49966,9 +51084,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -49997,9 +51117,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -50028,9 +51150,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -50059,9 +51183,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -50092,7 +51218,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -50120,7 +51246,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -50151,7 +51277,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -50182,7 +51308,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -50211,9 +51337,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -50241,9 +51369,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -50271,9 +51401,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -50301,9 +51433,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -51163,9 +52297,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -51196,7 +52332,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Urea (CAS: 57-13-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51229,7 +52365,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Urea (CAS: 57-13-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51330,7 +52466,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -51362,7 +52498,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -51394,7 +52530,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -51426,7 +52562,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -51458,7 +52594,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -51490,7 +52626,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -51521,7 +52657,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51553,7 +52689,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51585,7 +52721,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51618,7 +52754,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51650,7 +52786,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51682,7 +52818,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51714,7 +52850,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51746,7 +52882,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51778,7 +52914,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51810,7 +52946,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51842,7 +52978,7 @@
   - PD (CAS: 7440-05-3)
   - 2,5-Pyridinedicarboxylic acid (CAS: 100-26-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51874,7 +53010,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51906,7 +53042,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51938,7 +53074,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -51970,7 +53106,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52002,7 +53138,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52034,7 +53170,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52066,7 +53202,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52098,7 +53234,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52130,7 +53266,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52162,7 +53298,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52194,7 +53330,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52226,7 +53362,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52258,7 +53394,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 89698-81-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52325,7 +53461,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52357,7 +53493,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52390,7 +53526,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -52422,7 +53558,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -52454,7 +53590,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -52486,7 +53622,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -52517,7 +53653,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52548,7 +53684,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52579,7 +53715,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52610,7 +53746,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52641,7 +53777,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52672,7 +53808,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52703,7 +53839,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52734,7 +53870,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52765,7 +53901,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52796,7 +53932,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52828,7 +53964,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-07-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52861,7 +53997,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-08-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52894,7 +54030,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-07-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52927,7 +54063,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-07-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52959,7 +54095,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-07-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -52992,7 +54128,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-07-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -53025,7 +54161,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-12-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -53058,7 +54194,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3025258-11-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -53088,9 +54224,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -53118,9 +54256,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -53148,9 +54288,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -53215,9 +54357,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -53246,9 +54390,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -53276,9 +54422,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -53308,9 +54456,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -53338,9 +54488,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -53368,9 +54520,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -53398,9 +54552,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -53906,7 +55062,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-40-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -53938,7 +55094,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-42-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -53970,7 +55126,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-39-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54002,7 +55158,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-40-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54034,7 +55190,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-40-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54066,7 +55222,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-40-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54098,7 +55254,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-40-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54130,7 +55286,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3026834-40-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54159,9 +55315,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54190,9 +55348,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -54221,9 +55381,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -54252,9 +55414,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -54283,9 +55447,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -54314,9 +55480,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -54345,9 +55513,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -54376,9 +55546,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -54407,9 +55579,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54471,9 +55645,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54502,7 +55678,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54565,7 +55741,9 @@
   - PD (CAS: 1314-08-5)
   - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54596,7 +55774,9 @@
   - PD (CAS: 1314-08-5)
   - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54627,7 +55807,9 @@
   - PD (CAS: 1314-08-5)
   - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54658,7 +55840,9 @@
   - PD (CAS: 1314-08-5)
   - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54689,7 +55873,9 @@
   - PD (CAS: 1314-08-5)
   - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54720,7 +55906,9 @@
   - PD (CAS: 1314-08-5)
   - 1-(5-Methyl-2-furanyl)-1,2-propanedione (CAS: 12037-29-5)
 
-**ConditionCore:** PD/1-(5-Methyl-2-furanyl)-1,2-propanedione
+**ConditionCore:** Pd/*
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54748,10 +55936,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/P(tBu)3·HBF4
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Trimethyl orthoformate (CAS: 7789-23-3) - Role: UNK
@@ -54782,9 +55972,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -54815,7 +56007,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54847,7 +56039,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54879,7 +56071,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54911,7 +56103,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54943,7 +56135,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -54975,7 +56167,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55007,7 +56199,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55039,7 +56231,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55108,7 +56300,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55141,7 +56333,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55174,7 +56366,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55207,7 +56399,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55240,7 +56432,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55273,7 +56465,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55306,7 +56498,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55339,7 +56531,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55372,7 +56564,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55405,7 +56597,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55438,7 +56630,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55471,7 +56663,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55504,7 +56696,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55537,7 +56729,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55570,7 +56762,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55603,7 +56795,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55636,7 +56828,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55669,7 +56861,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55702,7 +56894,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55735,7 +56927,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55768,7 +56960,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55801,7 +56993,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55834,7 +57026,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -55867,7 +57059,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2652015-77-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56072,9 +57264,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -56101,9 +57295,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -56132,9 +57328,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -56198,9 +57396,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -56230,9 +57430,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -56262,9 +57464,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -56294,9 +57498,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -56326,9 +57532,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -56360,7 +57568,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56392,7 +57600,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56424,7 +57632,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56456,7 +57664,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56488,7 +57696,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56520,7 +57728,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56552,7 +57760,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56618,9 +57826,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -56652,7 +57862,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56684,7 +57894,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56716,7 +57926,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56748,7 +57958,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56780,7 +57990,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56812,7 +58022,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56844,7 +58054,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56876,7 +58086,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56908,7 +58118,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56940,7 +58150,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -56972,7 +58182,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57004,7 +58214,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57036,7 +58246,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57068,7 +58278,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57100,7 +58310,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1445972-46-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57133,7 +58343,7 @@
   - PD (CAS: 7440-05-3)
   - Sodium alginate (CAS: 9005-38-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -57167,7 +58377,7 @@
   - PD (CAS: 7440-05-3)
   - Sodium alginate (CAS: 9005-38-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -57201,7 +58411,7 @@
   - PD (CAS: 7440-05-3)
   - Sodium alginate (CAS: 9005-38-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -57235,7 +58445,7 @@
   - PD (CAS: 7440-05-3)
   - Sodium alginate (CAS: 9005-38-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -57269,7 +58479,7 @@
   - PD (CAS: 7440-05-3)
   - Sodium alginate (CAS: 9005-38-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -57303,7 +58513,7 @@
   - PD (CAS: 7440-05-3)
   - Sodium alginate (CAS: 9005-38-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -57337,7 +58547,7 @@
   - PD (CAS: 7440-05-3)
   - Sodium alginate (CAS: 9005-38-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -57547,9 +58757,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -57577,9 +58789,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -57592,8 +58806,8 @@
   - Yield: 82%
 
 **SMILES:**
-  - Reactants: `OB(O)c1ccccc1F.CC1=CC=CC(Br)=C1C(=O)NC[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29`
-  - Products: `CC1=CC=CC(C2=C(F)C=CC=C2)=C1C(=O)NC[C-]12->[Fe+2]3456789(<-[CH-]%10[CH]3=[CH]4[CH]5=[CH]%106)[CH](=[CH]17)[CH]8=[CH]29`
+  - Reactants: `OB(O)c1ccccc1F.Cc1cccc(Br)c1C(=O)NC[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92`
+  - Products: `Cc1cccc(-c2ccccc2F)c1C(=O)NC[c-]12->[Fe+2]3456789(<-[cH]%10[cH]->3[cH]->4[cH-]->5[cH]->6%10)<-[cH]([cH]->7[cH]->81)[cH]->92`
 
 **Reference:**
   - **Title:** Synthesis of Ferrocene 1,3-Derivatives by Distal C-H Activation
@@ -57609,7 +58823,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57640,7 +58854,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57671,7 +58885,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57702,7 +58916,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57733,7 +58947,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57764,7 +58978,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57795,7 +59009,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57826,7 +59040,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57857,7 +59071,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57888,7 +59102,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -57917,9 +59131,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -57947,9 +59163,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -57979,7 +59197,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -58011,7 +59229,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -58043,7 +59261,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -58075,7 +59293,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -58107,7 +59325,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -58139,7 +59357,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -58169,9 +59387,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -58293,9 +59513,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -58324,9 +59546,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -58355,9 +59579,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -58385,9 +59611,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -58415,9 +59643,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -58446,9 +59676,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -58477,9 +59709,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -58508,9 +59742,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -58539,9 +59775,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -58571,7 +59809,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58592,6 +59832,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153598
@@ -58601,7 +59844,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58622,6 +59867,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153601
@@ -58631,7 +59879,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58652,6 +59902,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153602
@@ -58661,7 +59914,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58682,6 +59937,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153604
@@ -58691,7 +59949,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58712,6 +59972,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153607
@@ -58721,7 +59984,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58742,6 +60007,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153608
@@ -58751,7 +60019,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58772,6 +60042,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153609
@@ -58781,7 +60054,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58802,6 +60077,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153616
@@ -58811,7 +60089,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58832,6 +60112,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153623
@@ -58841,7 +60124,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -58862,6 +60147,9 @@
   - **Authors:** Kumagai, Yukiko; Kobayashi, Akihiro; Nakamura, Keisuke; Yoshida, Suguru
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(12), 1611-1614
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39153908
@@ -58871,7 +60159,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -58900,9 +60188,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -59427,7 +60717,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Urea (CAS: 57-13-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59460,7 +60750,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Urea (CAS: 57-13-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59490,9 +60780,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -59522,9 +60814,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -59551,9 +60845,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -59583,7 +60879,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59614,7 +60910,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59645,7 +60941,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59676,7 +60972,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59707,7 +61003,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59738,7 +61034,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59769,7 +61065,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -59798,9 +61094,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -59829,9 +61127,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -59860,9 +61160,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -59891,9 +61193,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -59922,9 +61226,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -59952,13 +61258,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -59990,13 +61296,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60028,13 +61334,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60066,13 +61372,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60104,13 +61410,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60142,13 +61448,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60180,13 +61486,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60218,13 +61524,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60256,13 +61562,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
   - PdCl2(PPh3)2 (CAS: 13965-03-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PdCl2(PPh3)2
+**ConditionCore:** Pd(PPh3)4 + PdCl2(PPh3)2
 
-**Generic Catalyst:** Cu, Pd
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - TEA (CAS: 121-44-8) - Role: BASE
@@ -60296,7 +61602,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60328,7 +61634,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60360,7 +61666,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60390,9 +61696,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -60421,9 +61729,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -60452,9 +61762,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -60664,7 +61976,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60694,9 +62006,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -60727,7 +62041,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60759,7 +62073,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60791,7 +62105,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60823,7 +62137,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60855,7 +62169,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60887,7 +62201,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60919,7 +62233,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60951,7 +62265,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -60983,7 +62297,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61015,7 +62329,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61047,7 +62361,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61079,7 +62393,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61111,7 +62425,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61143,7 +62457,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2416855-72-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61172,9 +62486,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -61202,9 +62518,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -61232,9 +62550,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61262,9 +62582,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61292,9 +62614,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61324,7 +62648,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61353,7 +62677,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61386,7 +62710,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61417,9 +62741,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61450,7 +62776,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61479,9 +62805,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61509,9 +62837,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -61544,7 +62874,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61576,7 +62906,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61608,7 +62938,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61640,7 +62970,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61672,7 +63002,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61704,7 +63034,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61736,7 +63066,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61768,7 +63098,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61800,7 +63130,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -61830,9 +63160,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61861,9 +63193,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61892,9 +63226,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61923,9 +63259,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61954,9 +63292,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -61985,9 +63325,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62016,9 +63358,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62047,9 +63391,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62078,9 +63424,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62109,9 +63457,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62140,9 +63490,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62171,9 +63523,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62202,9 +63556,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62233,9 +63589,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62264,9 +63622,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -62332,9 +63692,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62394,9 +63756,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -62426,9 +63790,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -62458,7 +63824,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62491,7 +63857,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62524,7 +63890,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62557,7 +63923,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62590,7 +63956,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62623,7 +63989,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62657,7 +64023,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62691,7 +64057,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62725,7 +64091,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62759,7 +64125,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62793,7 +64159,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62827,7 +64193,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62861,7 +64227,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62895,7 +64261,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62929,7 +64295,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62963,7 +64329,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -62997,7 +64363,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63031,7 +64397,7 @@
   - TBAB (CAS: 1643-19-2)
   - VCN (CAS: 25014-41-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63064,7 +64430,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63097,7 +64463,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63130,7 +64496,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63163,7 +64529,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63196,7 +64562,7 @@
   - PD (CAS: 7440-05-3)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63228,7 +64594,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63327,10 +64693,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - TBAB (CAS: 1643-19-2)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** TBAB/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63359,9 +64727,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -63390,9 +64760,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63420,9 +64792,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63450,9 +64824,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63480,9 +64856,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63510,9 +64888,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63540,9 +64920,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63570,9 +64952,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63600,9 +64984,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63630,9 +65016,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63660,9 +65048,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63690,9 +65080,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63720,9 +65112,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63750,9 +65144,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63780,9 +65176,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63810,9 +65208,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -63840,9 +65240,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -63870,9 +65272,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -63900,9 +65304,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -63932,7 +65338,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63961,7 +65367,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -63990,7 +65396,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64019,7 +65425,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64048,7 +65454,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64077,7 +65483,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64106,7 +65512,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64136,7 +65542,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64169,7 +65575,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64202,7 +65608,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64235,7 +65641,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64268,7 +65674,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64301,7 +65707,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64334,7 +65740,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64367,7 +65773,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64400,7 +65806,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64433,7 +65839,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64466,7 +65872,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64499,7 +65905,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64532,7 +65938,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64565,7 +65971,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64598,7 +66004,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64631,7 +66037,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64664,7 +66070,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64697,7 +66103,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64730,7 +66136,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64763,7 +66169,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64796,7 +66202,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64829,7 +66235,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-71-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64862,7 +66268,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031442-03-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64895,7 +66301,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-79-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64928,7 +66334,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-85-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64961,7 +66367,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031442-11-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -64994,7 +66400,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031441-87-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65027,7 +66433,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031442-15-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65060,7 +66466,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031442-17-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65093,7 +66499,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3031442-05-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65123,9 +66529,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65155,7 +66563,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65192,7 +66600,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65222,9 +66630,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65252,9 +66662,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -65284,9 +66696,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -65318,7 +66732,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65350,7 +66764,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65380,9 +66794,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65500,9 +66916,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -65534,9 +66952,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65567,9 +66985,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65600,9 +67018,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65633,9 +67051,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65666,9 +67084,9 @@
   - PD (CAS: 7440-05-3)
   - Iron;manganese;tetrahydrate (CAS: 12063-10-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65731,7 +67149,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3033463-22-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65764,7 +67182,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3033463-22-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65797,7 +67215,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3033463-20-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65830,7 +67248,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3033463-23-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -65862,7 +67280,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65883,6 +67303,9 @@
   - **Authors:** Liao, Qiuyan; Li, Aisen; Huang, Arui; Wang, Jiaqiang; Chang, Kai; Li, Hehua; Yao, Pengfei; Zhong, Cheng; Xie, Peidong; Wang, Jinfeng; Li, Zhen; Li, Qianqian
   - **Citation:** Chemical Science (2024), 15(12), 4364-4373
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39573039
@@ -65892,7 +67315,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65913,6 +67338,9 @@
   - **Authors:** Liao, Qiuyan; Li, Aisen; Huang, Arui; Wang, Jiaqiang; Chang, Kai; Li, Hehua; Yao, Pengfei; Zhong, Cheng; Xie, Peidong; Wang, Jinfeng; Li, Zhen; Li, Qianqian
   - **Citation:** Chemical Science (2024), 15(12), 4364-4373
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39573040
@@ -65922,7 +67350,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -65943,6 +67373,9 @@
   - **Authors:** Liao, Qiuyan; Li, Aisen; Huang, Arui; Wang, Jiaqiang; Chang, Kai; Li, Hehua; Yao, Pengfei; Zhong, Cheng; Xie, Peidong; Wang, Jinfeng; Li, Zhen; Li, Qianqian
   - **Citation:** Chemical Science (2024), 15(12), 4364-4373
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39575827
@@ -65950,9 +67383,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -65979,9 +67414,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -66013,7 +67450,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - MEPHOS (CAS: 251320-86-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/MEPHOS
 
 **Generic Catalyst:** Pd
 
@@ -66036,6 +67473,9 @@
   - **Authors:** Pausch, Tobias; David, Tim; Fleck-Kunde, Tom; Pols, Hendrik; Gurke, Johannes; Schmidt, Bernd M.
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(15), e202318362
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'MEPHOS' (CAS 251320-86-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39587248
@@ -66045,7 +67485,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -66077,7 +67517,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -66109,7 +67549,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -66141,7 +67581,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -66173,7 +67613,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -66202,9 +67642,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66233,9 +67675,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66264,9 +67708,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -66294,9 +67740,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -66324,9 +67772,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -66353,9 +67803,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -66420,7 +67872,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -66449,9 +67901,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66553,7 +68007,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -66583,9 +68037,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
@@ -66613,9 +68069,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66642,9 +68100,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66674,9 +68134,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66706,9 +68168,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66738,9 +68202,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66770,9 +68236,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66802,9 +68270,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66834,9 +68304,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66866,9 +68338,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66898,9 +68372,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66930,9 +68406,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66962,9 +68440,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -66994,9 +68474,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67026,9 +68508,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67058,9 +68542,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67090,9 +68576,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67122,9 +68610,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67154,9 +68644,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67186,9 +68678,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67218,9 +68712,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67250,9 +68746,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67282,9 +68780,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67499,9 +68999,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67679,9 +69181,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -67708,9 +69212,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67950,9 +69456,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -67983,7 +69491,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68013,9 +69521,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -68080,7 +69590,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3025138-70-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68112,7 +69622,7 @@
   - Pd (CAS: 32005-36-0)
   - CAS: 3025138-69-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68144,7 +69654,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3025138-70-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68176,7 +69686,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3025138-70-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68208,7 +69718,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3025138-70-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68240,7 +69750,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3025138-70-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68272,7 +69782,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3025138-70-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68304,7 +69814,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3025138-70-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68365,9 +69875,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -68396,9 +69908,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -68427,9 +69941,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -68459,7 +69975,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68491,7 +70007,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68523,7 +70039,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68555,7 +70071,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68587,7 +70103,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68619,7 +70135,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68651,7 +70167,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68683,7 +70199,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68713,9 +70229,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -68780,7 +70298,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -68812,9 +70330,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -68842,9 +70362,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -68872,9 +70394,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -68902,9 +70426,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -68932,9 +70458,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -68963,9 +70491,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -68993,9 +70523,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69023,9 +70555,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69053,9 +70587,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -69084,9 +70620,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -69116,7 +70654,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -69137,6 +70677,9 @@
   - **Authors:** Granberg, Kenneth L.; Sakamaki, Shigeki; Fuchigami, Ryuichi; Niwa, Yasuki; Fujio, Masakazu; Kato, Harutoshi; Bergstroem, Fredrik; Larsson, Niklas; Persson, Mikael; Villar, Inmaculada C.; Fujita, Takuya; Sugikawa, Emiko; Althage, Magnus; Yano, Naoko; Yokoyama, Yoshito; Kimura, Junpei; Lal, Mark; Mochida, Hideki
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(6), 4442-4462
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-39865079
@@ -69148,9 +70691,9 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ti
+**ConditionCore:** Pd+Ti/*
 
-**Generic Catalyst:** Ti
+**Generic Catalyst:** Pd, Ti
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -69179,9 +70722,9 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ti
+**ConditionCore:** Pd+Ti/*
 
-**Generic Catalyst:** Ti
+**Generic Catalyst:** Pd, Ti
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -69210,9 +70753,9 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ti
+**ConditionCore:** Pd+Ti/*
 
-**Generic Catalyst:** Ti
+**Generic Catalyst:** Pd, Ti
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -69241,9 +70784,9 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Ti
+**ConditionCore:** Pd+Ti/*
 
-**Generic Catalyst:** Ti
+**Generic Catalyst:** Pd, Ti
 
 **Solvents:**
   - EtOH (CAS: 64-17-5)
@@ -69375,9 +70918,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69438,9 +70983,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -69468,9 +71015,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69498,9 +71047,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69528,9 +71079,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69558,9 +71111,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69588,9 +71143,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69618,9 +71175,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69648,9 +71207,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69678,9 +71239,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69708,9 +71271,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -69835,9 +71400,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -69905,7 +71472,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Urea (CAS: 57-13-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -70719,9 +72286,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -70750,9 +72319,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -70781,9 +72352,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -70812,9 +72385,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -70846,7 +72421,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -70878,7 +72453,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -70910,7 +72485,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -70942,7 +72517,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -70974,7 +72549,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71006,7 +72581,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71038,7 +72613,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71070,7 +72645,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71102,7 +72677,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3024407-24-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71133,7 +72708,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71165,7 +72740,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71197,7 +72772,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71229,7 +72804,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71261,7 +72836,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71293,7 +72868,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71325,7 +72900,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71357,7 +72932,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71389,7 +72964,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71419,9 +72994,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -71450,7 +73027,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71482,7 +73059,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71514,7 +73091,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71546,7 +73123,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71578,7 +73155,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71610,7 +73187,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71642,7 +73219,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71674,7 +73251,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71706,7 +73283,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71738,7 +73315,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71770,7 +73347,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71802,7 +73379,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71834,7 +73411,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71866,7 +73443,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71898,7 +73475,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71930,7 +73507,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71962,7 +73539,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -71994,7 +73571,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72024,9 +73601,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72054,9 +73633,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72084,9 +73665,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72114,9 +73697,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72144,9 +73729,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72174,9 +73761,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72204,9 +73793,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72236,7 +73827,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72267,9 +73858,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -72298,9 +73891,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72329,9 +73924,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -72429,7 +74026,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1275613-89-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72461,7 +74058,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1275613-89-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72493,7 +74090,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1275613-89-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72525,7 +74122,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1275613-89-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72557,7 +74154,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1275613-89-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72621,9 +74218,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - n-BuLi (CAS: 109-72-8) - Role: BASE
@@ -72657,9 +74256,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -72687,9 +74288,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -72717,9 +74320,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -72747,9 +74352,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -72780,7 +74387,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72812,7 +74419,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72844,7 +74451,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72876,7 +74483,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72908,7 +74515,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72940,7 +74547,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -72972,7 +74579,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73004,7 +74611,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73036,7 +74643,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73068,7 +74675,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73100,7 +74707,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73132,7 +74739,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73164,7 +74771,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73196,7 +74803,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73228,7 +74835,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73260,7 +74867,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73292,7 +74899,7 @@
   - PD (CAS: 7440-05-3)
   - Pyridine, 4,4'-(1,2-ethenediyl)bis- (CAS: 1135-32-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -73324,7 +74931,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73347,6 +74954,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40102997
@@ -73357,7 +74967,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73380,6 +74990,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40102999
@@ -73390,7 +75003,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73413,6 +75026,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103004
@@ -73423,7 +75039,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73446,6 +75062,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103006
@@ -73456,7 +75075,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73479,6 +75098,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103011
@@ -73489,7 +75111,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73512,6 +75134,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103012
@@ -73522,7 +75147,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73545,6 +75170,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103013
@@ -73555,7 +75183,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73578,6 +75206,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103014
@@ -73588,7 +75219,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73611,6 +75242,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103016
@@ -73621,7 +75255,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73644,6 +75278,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103018
@@ -73654,7 +75291,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73677,6 +75314,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103019
@@ -73687,7 +75327,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73710,6 +75350,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103020
@@ -73720,7 +75363,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73743,6 +75386,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103023
@@ -73753,7 +75399,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73776,6 +75422,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40103026
@@ -73786,7 +75435,7 @@
   - Palladium (CAS: 7647-10-1)
   - Bis(2-dicyclohexylphosphinophenyl)ether (CAS: 434336-16-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Bis(2-dicyclohexylphosphinophenyl)ether
 
 **Generic Catalyst:** Pd
 
@@ -73809,6 +75458,9 @@
   - **Authors:** Shen, Mingzhu; Li, Min; Yu, Jingxun
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(16), 3268-3272
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(2-dicyclohexylphosphinophenyl)ether' (CAS 434336-16-0): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40111142
@@ -73816,9 +75468,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -73846,9 +75500,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -73876,9 +75532,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74047,7 +75705,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74079,7 +75737,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74111,7 +75769,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74143,7 +75801,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74175,7 +75833,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74207,7 +75865,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74239,7 +75897,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74271,7 +75929,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74303,7 +75961,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74335,7 +75993,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74367,7 +76025,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - dl-proline (CAS: 147-85-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -74396,9 +76054,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74426,9 +76086,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74456,9 +76118,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74486,9 +76150,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74516,9 +76182,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74546,9 +76214,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74576,9 +76246,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74606,9 +76278,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74636,9 +76310,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74666,9 +76342,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74696,9 +76374,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -74826,9 +76506,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74857,9 +76539,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74888,9 +76572,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74919,9 +76605,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -74950,9 +76638,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -74981,9 +76671,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
@@ -75011,9 +76703,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -75041,9 +76735,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -75073,7 +76769,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -75105,7 +76801,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -75137,7 +76833,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -75169,7 +76865,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -75201,7 +76897,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -75263,9 +76959,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -75294,9 +76992,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -75328,7 +77028,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - 1-Methyl-3-propylimidazolium Iodide (CAS: 119171-18-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -75358,7 +77058,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 3037871-61-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -75558,6 +77258,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 90%
 
 **SMILES:**
@@ -75595,6 +77296,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 93%
 
 **SMILES:**
@@ -75632,6 +77334,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 85%
 
 **SMILES:**
@@ -75669,6 +77372,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 88%
 
 **SMILES:**
@@ -75706,6 +77410,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 85%
 
 **SMILES:**
@@ -75743,6 +77448,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 88%
 
 **SMILES:**
@@ -75780,6 +77486,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 89%
 
 **SMILES:**
@@ -75817,6 +77524,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 95%
 
 **SMILES:**
@@ -75854,6 +77562,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 89%
 
 **SMILES:**
@@ -75891,6 +77600,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 94%
 
 **SMILES:**
@@ -75928,6 +77638,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 92%
 
 **SMILES:**
@@ -75965,6 +77676,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 90%
 
 **SMILES:**
@@ -76002,6 +77714,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 95%
 
 **SMILES:**
@@ -76039,6 +77752,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 85%
 
 **SMILES:**
@@ -76076,6 +77790,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 85%
 
 **SMILES:**
@@ -76113,6 +77828,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 88%
 
 **SMILES:**
@@ -76150,6 +77866,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 88%
 
 **SMILES:**
@@ -76187,6 +77904,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 87%
 
 **SMILES:**
@@ -76224,6 +77942,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 93%
 
 **SMILES:**
@@ -76261,6 +77980,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 87%
 
 **SMILES:**
@@ -76298,6 +78018,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 1.0 hours
   - Yield: 90%
 
 **SMILES:**
@@ -76321,7 +78042,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76351,9 +78072,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -76417,9 +78140,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -76483,9 +78208,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -76514,7 +78241,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76548,7 +78275,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - PHU (CAS: 64-10-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76582,7 +78309,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76616,7 +78343,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76650,7 +78377,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76684,7 +78411,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76718,7 +78445,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76752,7 +78479,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76786,7 +78513,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76820,7 +78547,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76854,7 +78581,7 @@
   - TBAB (CAS: 1643-19-2)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76888,7 +78615,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76922,7 +78649,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76956,7 +78683,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -76990,7 +78717,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77024,7 +78751,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77058,7 +78785,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77092,7 +78819,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77126,7 +78853,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77160,7 +78887,7 @@
   - Tetraglyme (CAS: 143-24-8)
   - CAS: 3022418-51-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77298,11 +79025,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
   - SPhos (CAS: 657408-07-6)
 
-**ConditionCore:** Pd/SPhos
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -77336,11 +79063,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
   - SPhos (CAS: 657408-07-6)
 
-**ConditionCore:** Pd/SPhos
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -77374,11 +79101,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
   - SPhos (CAS: 657408-07-6)
 
-**ConditionCore:** Pd/SPhos
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -77412,11 +79139,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
   - SPhos (CAS: 657408-07-6)
 
-**ConditionCore:** Pd/SPhos
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -77450,11 +79177,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - Pd(OAc)2 (CAS: 3375-31-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
   - SPhos (CAS: 657408-07-6)
 
-**ConditionCore:** Pd/SPhos
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -77488,9 +79215,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -77517,9 +79246,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -77552,7 +79283,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77586,7 +79317,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77620,7 +79351,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77654,7 +79385,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77688,7 +79419,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77722,7 +79453,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77756,7 +79487,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77790,7 +79521,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77824,7 +79555,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77858,7 +79589,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77892,7 +79623,7 @@
   - Fe (CAS: 7439-89-6)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -77925,7 +79656,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-27-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77957,7 +79688,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-28-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -77989,7 +79720,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1355317-55-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78021,7 +79752,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1355317-55-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78053,7 +79784,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-28-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78120,7 +79851,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1355317-55-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78152,7 +79883,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1355317-55-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78184,7 +79915,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-28-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78216,7 +79947,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-27-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78248,7 +79979,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-28-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78280,7 +80011,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-27-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78312,7 +80043,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-28-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78344,7 +80075,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-27-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78376,7 +80107,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-28-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78443,7 +80174,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2685837-28-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78475,7 +80206,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1355317-55-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78508,7 +80239,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1355317-55-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78674,9 +80405,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -78703,9 +80436,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -78735,7 +80470,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78764,9 +80499,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -78868,9 +80605,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -78901,7 +80640,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2694107-66-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78934,7 +80673,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2694107-66-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -78967,7 +80706,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2694107-66-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -79000,7 +80739,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2694107-66-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -79033,7 +80772,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2694107-66-7
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -79129,9 +80868,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79190,9 +80931,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79221,7 +80964,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -79252,7 +80995,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79274,6 +81019,9 @@
   - **Authors:** Mo, Lingchao; Wan, Danyang; Li, Juanli; Che, Zhaoyi; Hu, Minggang; An, Zhongwei; Li, Jian
   - **Citation:** Journal of Molecular Liquids (2024), 405125061
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40536930
@@ -79281,9 +81029,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79313,9 +81063,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79345,9 +81097,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79377,9 +81131,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79409,9 +81165,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79441,9 +81199,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79473,9 +81233,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -79503,9 +81265,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -79533,9 +81297,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -79567,7 +81333,7 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Ti/*
 
 **Generic Catalyst:** Pd, Ti
 
@@ -79600,7 +81366,7 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Ti/*
 
 **Generic Catalyst:** Pd, Ti
 
@@ -79633,7 +81399,7 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Ti/*
 
 **Generic Catalyst:** Pd, Ti
 
@@ -79666,7 +81432,7 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Ti/*
 
 **Generic Catalyst:** Pd, Ti
 
@@ -79699,7 +81465,7 @@
   - Titanium dioxide (CAS: 13463-67-7)
   - HCN (CAS: 143334-20-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Ti/*
 
 **Generic Catalyst:** Pd, Ti
 
@@ -79728,9 +81494,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79759,9 +81527,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79822,9 +81592,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79854,7 +81626,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -79883,9 +81655,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -79945,9 +81719,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -80014,7 +81790,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -80044,9 +81820,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -80074,9 +81852,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -80104,9 +81884,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -80134,9 +81916,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -80164,9 +81948,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -80194,10 +81980,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80220,6 +82008,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676425
@@ -80227,10 +82018,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80253,6 +82046,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676426
@@ -80260,10 +82056,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80286,6 +82084,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676428
@@ -80293,10 +82094,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80319,6 +82122,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676431
@@ -80326,10 +82132,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80352,6 +82160,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676432
@@ -80359,10 +82170,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80385,6 +82198,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676433
@@ -80392,10 +82208,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80418,6 +82236,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676434
@@ -80425,10 +82246,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80451,6 +82274,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676435
@@ -80458,10 +82284,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80484,6 +82312,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676436
@@ -80491,10 +82322,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80517,6 +82350,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676437
@@ -80524,10 +82360,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80550,6 +82388,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676438
@@ -80557,10 +82398,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80583,6 +82426,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676439
@@ -80590,10 +82436,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80616,6 +82464,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676440
@@ -80623,10 +82474,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80649,6 +82502,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676441
@@ -80656,10 +82512,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80682,6 +82540,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676443
@@ -80689,10 +82550,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80715,6 +82578,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676444
@@ -80722,10 +82588,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80748,6 +82616,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676445
@@ -80755,10 +82626,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80781,6 +82654,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676446
@@ -80788,10 +82664,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80814,6 +82692,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676447
@@ -80821,10 +82702,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80847,6 +82730,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676450
@@ -80854,10 +82740,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80880,6 +82768,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676452
@@ -80887,10 +82778,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80913,6 +82806,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676453
@@ -80920,10 +82816,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80946,6 +82844,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676454
@@ -80953,10 +82854,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -80979,6 +82882,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676456
@@ -80986,10 +82892,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81012,6 +82920,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676458
@@ -81019,10 +82930,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81045,6 +82958,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676460
@@ -81052,10 +82968,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81078,6 +82996,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40676461
@@ -81085,10 +83006,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - tert-Butyldicyclohexylphosphine (CAS: 93634-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/tert-Butyldicyclohexylphosphine
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -81111,6 +83034,9 @@
   - **Authors:** Li, Zhenhua; Rong, Dayou; Yuan, Longfeng; Zhao, Zhihong; Dai, Fenghao; Chen, Lijun; Xie, Yuanyuan
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(22), 4559-4567
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphine' (CAS 93634-87-8): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-40710242
@@ -81121,7 +83047,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2488500-64-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -81153,7 +83079,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2488500-64-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -81185,7 +83111,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2488500-64-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -81214,9 +83140,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81244,9 +83172,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -81275,9 +83205,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81305,9 +83237,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81335,9 +83269,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81365,9 +83301,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81454,9 +83392,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -81547,9 +83487,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -81577,9 +83519,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -81607,9 +83551,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81637,9 +83583,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81667,9 +83615,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81697,9 +83647,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -81911,12 +83863,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - VQO (CAS: 1111-78-0) - Role: UNK
@@ -81954,9 +83906,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -82051,7 +84005,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82085,7 +84039,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82119,7 +84073,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82153,7 +84107,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82187,7 +84141,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82221,7 +84175,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82255,7 +84209,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82289,7 +84243,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82323,7 +84277,7 @@
   - CAS: 12736-97-9
   - LDP (CAS: 86389-83-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82356,7 +84310,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82386,7 +84340,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82416,7 +84370,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82446,7 +84400,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82476,7 +84430,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82506,7 +84460,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82536,7 +84490,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82566,7 +84520,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82596,7 +84550,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82626,7 +84580,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82656,7 +84610,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82686,7 +84640,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82716,7 +84670,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82746,7 +84700,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82776,7 +84730,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82806,7 +84760,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82836,7 +84790,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82866,7 +84820,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82896,7 +84850,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82926,7 +84880,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 887498-56-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -82953,9 +84907,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -82983,9 +84939,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -83013,9 +84971,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -83046,7 +85006,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83077,7 +85037,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83108,7 +85068,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83139,7 +85099,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83170,7 +85130,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83201,7 +85161,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83232,7 +85192,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83261,9 +85221,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Bromosuccinimide (CAS: 128-08-5) - Role: UNK
@@ -83294,9 +85256,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83327,9 +85291,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83360,9 +85326,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83393,9 +85361,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83426,9 +85396,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83459,9 +85431,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83492,9 +85466,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83525,9 +85501,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -83558,9 +85536,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -83590,7 +85570,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -83619,9 +85599,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -83793,9 +85775,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -83822,9 +85806,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -83852,9 +85838,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -83915,9 +85903,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -83946,9 +85936,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -83977,9 +85969,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -84008,9 +86002,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -84039,9 +86035,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -84066,9 +86064,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -84095,9 +86095,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -84165,7 +86167,7 @@
   - PD (CAS: 7440-05-3)
   - DTAC (CAS: 1119-94-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84197,7 +86199,7 @@
   - PD (CAS: 7440-05-3)
   - DTAC (CAS: 1119-94-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84229,7 +86231,7 @@
   - PD (CAS: 7440-05-3)
   - DTAC (CAS: 1119-94-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84261,7 +86263,7 @@
   - PD (CAS: 7440-05-3)
   - DTAC (CAS: 1119-94-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84293,7 +86295,7 @@
   - PD (CAS: 7440-05-3)
   - DTAC (CAS: 1119-94-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84325,7 +86327,7 @@
   - PD (CAS: 7440-05-3)
   - DTAC (CAS: 1119-94-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84354,9 +86356,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -84384,9 +86388,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -84417,7 +86423,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84514,9 +86520,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -84650,7 +86658,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84683,7 +86691,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84716,7 +86724,7 @@
   - PD (CAS: 7440-05-3)
   - Methane (CAS: 7440-44-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84748,7 +86756,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -84910,9 +86918,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -84942,9 +86952,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -85005,9 +87017,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -85035,9 +87049,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -85064,9 +87080,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -85093,9 +87111,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -85122,9 +87142,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -85151,9 +87173,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -85180,9 +87204,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -85243,9 +87269,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - EtOAc (CAS: 141-78-6) - Role: SOLVENT
@@ -85277,7 +87305,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85309,7 +87337,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85339,9 +87367,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -85661,7 +87691,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85692,7 +87722,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85723,7 +87753,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85754,7 +87784,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85785,7 +87815,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85816,7 +87846,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85847,7 +87877,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -85876,9 +87906,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -85905,9 +87937,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -85937,9 +87971,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -85966,9 +88002,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -85996,9 +88034,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -86028,7 +88068,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86060,7 +88100,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86092,7 +88132,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86124,7 +88164,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86156,7 +88196,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86188,7 +88228,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86220,7 +88260,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86284,7 +88324,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86316,7 +88356,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86348,7 +88388,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86380,7 +88420,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86412,7 +88452,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86444,7 +88484,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86476,7 +88516,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86508,7 +88548,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86538,9 +88578,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -86572,7 +88614,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86604,7 +88646,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86636,7 +88678,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86668,7 +88710,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86700,7 +88742,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86732,7 +88774,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86764,7 +88806,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86796,7 +88838,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86828,7 +88870,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86860,7 +88902,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86892,7 +88934,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86924,7 +88966,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86956,7 +88998,7 @@
   - PD (CAS: 7440-05-3)
   - (3-Azaniumyl-5-carboxyphenyl)azanium;dichloride (CAS: 535-87-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -86985,9 +89027,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -87017,9 +89061,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -87047,9 +89093,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -87077,9 +89125,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -87112,7 +89162,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1651150-94-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87144,7 +89194,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - 2-Mesityl-1H-indene-3-yldicyclohexylphosphine (CAS: 1373165-93-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/2-Mesityl-1H-indene-3-yldicyclohexylphosphine
 
 **Generic Catalyst:** Pd
 
@@ -87166,6 +89216,9 @@
   - **Authors:** Chen, You; Meng, Tong; Guo, Rui; Liu, Zhaoru; Meng, Sixuan; Chen, Jian; Yu, Guang-Ao
   - **Citation:** Advanced Agrochem (2024), 3(3), 256-260
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '2-Mesityl-1H-indene-3-yldicyclohexylphosphine' (CAS 1373165-93-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41258367
@@ -87176,7 +89229,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 1651150-90-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87205,9 +89258,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -87268,9 +89323,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -87324,9 +89381,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -87354,9 +89413,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -87452,7 +89513,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87486,7 +89547,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87520,7 +89581,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87554,7 +89615,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87588,7 +89649,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87622,7 +89683,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87656,7 +89717,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87690,7 +89751,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87724,7 +89785,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87758,7 +89819,7 @@
   - Corundum (CAS: 1344-28-1)
   - Aluminum (CAS: 7429-90-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87865,9 +89926,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -87898,7 +89961,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87930,7 +89993,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87962,7 +90025,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -87994,7 +90057,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88026,7 +90089,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88058,7 +90121,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88090,7 +90153,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88156,9 +90219,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -88251,7 +90316,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88283,7 +90348,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88315,7 +90380,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88347,7 +90412,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88379,7 +90444,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88411,7 +90476,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88443,7 +90508,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88475,7 +90540,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88507,7 +90572,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88539,7 +90604,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88572,7 +90637,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - MEPHOS (CAS: 251320-86-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/MEPHOS
 
 **Generic Catalyst:** Pd
 
@@ -88594,6 +90659,9 @@
   - **Authors:** Ma, Sicong; Cao, Yanwei; Shi, Yun-Fei; Shang, Cheng; He, Lin; Liu, Zhi-Pan
   - **Citation:** Chemical Science (2024), 15(33), 13359-13368
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'MEPHOS' (CAS 251320-86-2): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41356016
@@ -88604,7 +90672,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine (CAS: 819867-23-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine
 
 **Generic Catalyst:** Pd
 
@@ -88626,6 +90694,9 @@
   - **Authors:** Ma, Sicong; Cao, Yanwei; Shi, Yun-Fei; Shang, Cheng; He, Lin; Liu, Zhi-Pan
   - **Citation:** Chemical Science (2024), 15(33), 13359-13368
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine' (CAS 819867-23-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41356017
@@ -88636,7 +90707,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine (CAS: 819867-23-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine
 
 **Generic Catalyst:** Pd
 
@@ -88658,6 +90729,9 @@
   - **Authors:** Ma, Sicong; Cao, Yanwei; Shi, Yun-Fei; Shang, Cheng; He, Lin; Liu, Zhi-Pan
   - **Citation:** Chemical Science (2024), 15(33), 13359-13368
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Diphenyl(2',4',6'-tris(1-methylethyl)(1,1'-biphenyl)-2-yl)-phosphine' (CAS 819867-23-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41356594
@@ -88665,9 +90739,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -88697,7 +90773,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88729,7 +90805,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88761,7 +90837,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88793,7 +90869,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88825,7 +90901,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88857,7 +90933,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88889,7 +90965,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88921,7 +90997,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88953,7 +91029,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -88985,7 +91061,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -89110,9 +91186,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89140,9 +91218,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89170,9 +91250,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89200,9 +91282,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89230,9 +91314,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89260,9 +91346,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89293,7 +91381,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -89386,9 +91474,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89418,7 +91508,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -89451,7 +91541,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - tert-Butyldicyclohexylphosphonium tetrafluoroborate (CAS: 1220349-00-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/tert-Butyldicyclohexylphosphonium tetrafluoroborate
 
 **Generic Catalyst:** Pd
 
@@ -89474,6 +91564,9 @@
   - **Authors:** Nie, Xukun; Zhong, Sishi; Zou, Jiaming; Tang, Yurong; Xia, Yong; Cai, Yunfei
   - **Citation:** Organic Letters (2024), 26(31), 6766-6770
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphonium tetrafluoroborate' (CAS 1220349-00-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41421725
@@ -89484,7 +91577,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - tert-Butyldicyclohexylphosphonium tetrafluoroborate (CAS: 1220349-00-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/tert-Butyldicyclohexylphosphonium tetrafluoroborate
 
 **Generic Catalyst:** Pd
 
@@ -89507,6 +91600,9 @@
   - **Authors:** Nie, Xukun; Zhong, Sishi; Zou, Jiaming; Tang, Yurong; Xia, Yong; Cai, Yunfei
   - **Citation:** Organic Letters (2024), 26(31), 6766-6770
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'tert-Butyldicyclohexylphosphonium tetrafluoroborate' (CAS 1220349-00-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41423016
@@ -89514,9 +91610,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89544,9 +91642,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89574,9 +91674,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89604,9 +91706,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89634,9 +91738,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89664,9 +91770,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89694,9 +91802,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89724,9 +91834,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -89790,9 +91902,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -89820,9 +91934,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TAA4 (CAS: 429-41-4) - Role: UNK
@@ -89849,9 +91965,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TAA4 (CAS: 429-41-4) - Role: UNK
@@ -89880,7 +91998,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -89944,7 +92062,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -90006,9 +92124,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -90038,9 +92158,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -90069,9 +92191,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -90100,9 +92224,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90130,9 +92256,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90196,9 +92324,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -90226,9 +92356,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - CsF (CAS: 13400-13-0) - Role: UNK
@@ -90259,9 +92391,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90291,9 +92423,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90323,9 +92455,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90355,9 +92487,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90387,9 +92519,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90419,9 +92551,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90451,9 +92583,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90483,9 +92615,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum trifluoride (CAS: 13709-38-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90515,7 +92647,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - 3-(tert-Butyl)-4-(2,6-dimethoxyphenyl)-2,3-dihydrobenzo[d][1,3]oxaphosphole (CAS: 1246888-90-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/3-(tert-Butyl)-4-(2,6-dimethoxyphenyl)-2,3-dihydrobenzo[d][1,3]oxaphosphole
 
 **Generic Catalyst:** Pd
 
@@ -90538,6 +92670,9 @@
   - **Authors:** Tian, Jin-Rui; Qiao, Yu-Hao; Zhuang, Qing-Bo; Fan, Rong; Li, Zhen; Zhang, Xiao-Ming; Zhang, Fu-Min; Tu, Yong-Qiang
   - **Citation:** Chemical Communications (Cambridge, United Kingdom) (2024), 60(73), 9954-9957
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '3-(tert-Butyl)-4-(2,6-dimethoxyphenyl)-2,3-dihydrobenzo[d][1,3]oxaphosphole' (CAS 1246888-90-3): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41579898
@@ -90545,9 +92680,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90576,9 +92713,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -90607,9 +92746,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90638,9 +92779,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -90953,9 +93096,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91021,9 +93166,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91050,9 +93197,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91079,9 +93228,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91143,7 +93294,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91175,7 +93326,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91207,7 +93358,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91239,7 +93390,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91271,7 +93422,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91303,7 +93454,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91335,7 +93486,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91367,7 +93518,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91397,9 +93548,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91427,9 +93580,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91459,7 +93614,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91487,7 +93642,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91515,7 +93670,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91543,7 +93698,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -91607,7 +93762,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91628,6 +93785,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91640,7 +93798,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91661,6 +93821,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91673,7 +93834,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91694,6 +93857,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91706,7 +93870,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91727,6 +93893,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91739,7 +93906,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91760,6 +93929,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91772,7 +93942,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91793,6 +93965,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91805,7 +93978,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91826,6 +94001,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91838,7 +94014,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91859,6 +94037,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91871,7 +94050,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91892,6 +94073,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91904,7 +94086,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91925,6 +94109,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91937,7 +94122,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91958,6 +94145,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -91970,7 +94158,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -91991,6 +94181,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -92003,7 +94194,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92024,6 +94217,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -92036,7 +94230,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92057,6 +94253,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -92069,7 +94266,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92090,6 +94289,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -92101,7 +94301,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -92133,7 +94333,9 @@
   - Dichlorobis(tricyclohexylphosphino)palladium (CAS: 29934-17-6)
   - PPh3 (CAS: 603-35-0)
 
-**ConditionCore:** Dichlorobis(tricyclohexylphosphino)palladium/PPh3
+**ConditionCore:** Pd/Dichlorobis(tricyclohexylphosphino)palladium
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92154,6 +94356,7 @@
   - **Citation:** Journal of Organic Chemistry (2024), 89(18), 13296-13307
 
 **Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Dichlorobis(tricyclohexylphosphino)palladium' (CAS 29934-17-6): registry compound_type -> CAT_LIG
   - ⚠️ Full Catalytic System: Role conflict for 'PPh3' (CAS 603-35-0): registry compound_type -> CAT_LIG
 
 ---
@@ -92163,9 +94366,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92194,9 +94399,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92223,9 +94430,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92252,9 +94461,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92281,9 +94492,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92310,9 +94523,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -92411,9 +94626,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92475,7 +94692,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -92497,6 +94716,9 @@
   - **Authors:** Pospisilova, Jana; Heger, Tomas; Kurka, Ondrej; Kvasnicova, Marie; Chladkova, Anna; Nemec, Ivan; Rarova, Lucie; Cankar, Petr
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(34), 6966-6980
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-41763429
@@ -92506,7 +94728,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - HCl (CAS: 7647-01-0) - Role: UNK
@@ -92527,6 +94751,9 @@
   - **Title:** Atropisomeric 1-phenylbenzimidazoles affecting microtubule organization: influence of axial chirality
   - **Authors:** Pospisilova, Jana; Heger, Tomas; Kurka, Ondrej; Kvasnicova, Marie; Chladkova, Anna; Nemec, Ivan; Rarova, Lucie; Cankar, Petr
   - **Citation:** Organic & Biomolecular Chemistry (2024), 22(34), 6966-6980
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
 
 ---
 
@@ -92835,9 +95062,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -92898,9 +95127,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -92927,9 +95158,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -92958,9 +95191,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -92989,9 +95224,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -93020,10 +95257,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - PtBu3 (CAS: 13716-12-6)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PtBu3/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Trimethyl orthoformate (CAS: 7789-23-3) - Role: UNK
@@ -93053,10 +95292,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - PtBu3 (CAS: 13716-12-6)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PtBu3/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Trimethyl orthoformate (CAS: 7789-23-3) - Role: UNK
@@ -93086,10 +95327,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - PtBu3 (CAS: 13716-12-6)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** PtBu3/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Trimethyl orthoformate (CAS: 7789-23-3) - Role: UNK
@@ -93127,7 +95370,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: CAT_LIG
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -93162,7 +95405,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: CAT_LIG
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -93197,7 +95440,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: CAT_LIG
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -93232,7 +95475,7 @@
 **Generic Catalyst:** Pd
 
 **Reagents:**
-  - Triphosphoric acid (CAS: 13845-36-8) - Role: UNK
+  - Triphosphoric acid (CAS: 13845-36-8) - Role: CAT_LIG
 
 **Solvents:**
   - dioxane (CAS: 123-91-1)
@@ -93259,9 +95502,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -93288,9 +95533,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -93318,9 +95565,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -93349,9 +95598,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -93380,9 +95631,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -93413,7 +95666,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93446,7 +95699,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3052912-64-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93473,9 +95726,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -93505,7 +95760,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93535,9 +95790,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -93566,9 +95823,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -93597,9 +95856,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -93628,9 +95889,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -93658,9 +95921,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -93688,9 +95953,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -93721,7 +95988,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93747,7 +96014,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93773,7 +96040,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93799,7 +96066,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93825,7 +96092,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93851,7 +96118,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93877,7 +96144,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93903,7 +96170,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93929,7 +96196,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93955,7 +96222,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -93981,7 +96248,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -94007,7 +96274,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -94033,7 +96300,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -94089,9 +96356,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94120,9 +96389,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94151,9 +96422,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94182,9 +96455,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94213,9 +96488,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94244,9 +96521,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94275,9 +96554,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94306,9 +96587,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94337,9 +96620,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94368,9 +96653,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94399,9 +96686,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94430,9 +96719,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94461,9 +96752,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94492,9 +96785,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94523,9 +96818,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94554,9 +96851,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -94616,9 +96915,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -94646,9 +96947,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -94676,9 +96979,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -94706,9 +97011,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -94736,9 +97043,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -94767,9 +97076,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -94871,9 +97182,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94902,9 +97215,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94933,9 +97248,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -94966,7 +97283,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -94998,7 +97315,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95027,9 +97344,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -95056,9 +97375,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaOH (CAS: 1310-73-2) - Role: BASE
@@ -95085,9 +97406,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -95117,7 +97440,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95146,7 +97469,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95175,7 +97498,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95204,7 +97527,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95233,7 +97556,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95262,7 +97585,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95291,7 +97614,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95320,7 +97643,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95349,7 +97672,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95378,7 +97701,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -95571,9 +97894,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -95812,9 +98137,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -95842,9 +98169,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -95872,9 +98201,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -95962,9 +98293,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -95994,9 +98327,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -96029,7 +98364,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96061,7 +98396,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96093,7 +98428,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2140898-20-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96125,7 +98460,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96157,7 +98492,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96189,7 +98524,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96221,7 +98556,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96253,7 +98588,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96285,7 +98620,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96317,7 +98652,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96349,7 +98684,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1897438-56-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96450,9 +98785,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Barium(2+);dihydroxide (CAS: 17194-00-2) - Role: UNK
@@ -96697,9 +99034,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -96791,7 +99130,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -96823,7 +99162,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Tri-n-butylphosphonium tetrafluoroborate (CAS: 113978-91-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Tri-n-butylphosphonium tetrafluoroborate
 
 **Generic Catalyst:** Pd
 
@@ -96845,6 +99184,9 @@
   - **Authors:** Yuan, Fushan; Qi, Xingyu; Zhao, Yuanyue; Jia, Jie; Yan, Xufei; Hu, Fangdong; Xia, Ying
   - **Citation:** Angewandte Chemie, International Edition (2024), 63(23), e202401451
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tri-n-butylphosphonium tetrafluoroborate' (CAS 113978-91-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42278566
@@ -96857,7 +99199,7 @@
   - Methane (CAS: 7440-44-0)
   - Carmellose (CAS: 9004-32-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cu/*
 
 **Generic Catalyst:** Pd, Cu
 
@@ -96893,7 +99235,7 @@
   - Methane (CAS: 7440-44-0)
   - Carmellose (CAS: 9004-32-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Cu/*
 
 **Generic Catalyst:** Pd, Cu
 
@@ -96924,9 +99266,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -96954,9 +99298,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -96984,9 +99330,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97013,9 +99361,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97043,9 +99393,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -97073,9 +99425,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -97103,9 +99457,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -97133,9 +99489,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97164,9 +99522,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -97196,7 +99556,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97217,6 +99579,9 @@
   - **Authors:** Nawa, Felix; Sai, Minh; Vietor, Jan; Schwarzenbach, Roman; Bitic, Anesa; Wolff, Sina; Ildefeld, Niklas; Pabel, Joerg; Wein, Thomas; Marschner, Julian A.; Heering, Jan; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(18), 16338-16354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42307405
@@ -97226,7 +99591,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97247,6 +99614,9 @@
   - **Authors:** Nawa, Felix; Sai, Minh; Vietor, Jan; Schwarzenbach, Roman; Bitic, Anesa; Wolff, Sina; Ildefeld, Niklas; Pabel, Joerg; Wein, Thomas; Marschner, Julian A.; Heering, Jan; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(18), 16338-16354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42307406
@@ -97256,7 +99626,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97277,6 +99649,9 @@
   - **Authors:** Nawa, Felix; Sai, Minh; Vietor, Jan; Schwarzenbach, Roman; Bitic, Anesa; Wolff, Sina; Ildefeld, Niklas; Pabel, Joerg; Wein, Thomas; Marschner, Julian A.; Heering, Jan; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(18), 16338-16354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42307407
@@ -97286,7 +99661,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97307,6 +99684,9 @@
   - **Authors:** Nawa, Felix; Sai, Minh; Vietor, Jan; Schwarzenbach, Roman; Bitic, Anesa; Wolff, Sina; Ildefeld, Niklas; Pabel, Joerg; Wein, Thomas; Marschner, Julian A.; Heering, Jan; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(18), 16338-16354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42307409
@@ -97316,7 +99696,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97337,6 +99719,9 @@
   - **Authors:** Nawa, Felix; Sai, Minh; Vietor, Jan; Schwarzenbach, Roman; Bitic, Anesa; Wolff, Sina; Ildefeld, Niklas; Pabel, Joerg; Wein, Thomas; Marschner, Julian A.; Heering, Jan; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(18), 16338-16354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42307413
@@ -97346,7 +99731,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -97367,6 +99754,9 @@
   - **Authors:** Nawa, Felix; Sai, Minh; Vietor, Jan; Schwarzenbach, Roman; Bitic, Anesa; Wolff, Sina; Ildefeld, Niklas; Pabel, Joerg; Wein, Thomas; Marschner, Julian A.; Heering, Jan; Merk, Daniel
   - **Citation:** Journal of Medicinal Chemistry (2024), 67(18), 16338-16354
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-42331478
@@ -97374,9 +99764,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97404,9 +99796,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97434,9 +99828,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97464,9 +99860,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97495,9 +99893,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97558,9 +99958,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97589,9 +99991,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97620,9 +100024,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97651,9 +100057,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -97682,9 +100090,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -97717,7 +100127,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -97823,9 +100233,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -97853,9 +100265,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -97949,9 +100363,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TsOH (CAS: 104-15-4) - Role: UNK
@@ -97980,9 +100396,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TsOH (CAS: 104-15-4) - Role: UNK
@@ -98011,9 +100429,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TsOH (CAS: 104-15-4) - Role: UNK
@@ -98042,9 +100462,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TsOH (CAS: 104-15-4) - Role: UNK
@@ -98073,9 +100495,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -98103,9 +100527,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -98168,9 +100594,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -98198,9 +100626,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -98230,9 +100660,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -98262,9 +100694,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -98294,9 +100728,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -98326,9 +100762,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -98360,7 +100798,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -98392,7 +100830,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -98424,7 +100862,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -98454,9 +100892,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98484,9 +100924,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98514,9 +100956,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98544,9 +100988,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98574,9 +101020,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98604,9 +101052,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98634,9 +101084,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98664,9 +101116,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98694,9 +101148,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98724,9 +101180,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98754,9 +101212,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98784,9 +101244,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -98814,9 +101276,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -98844,9 +101308,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -98876,7 +101342,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -98905,9 +101371,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98935,9 +101403,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -98964,9 +101434,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -98995,9 +101467,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99094,9 +101568,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -99124,9 +101600,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -99154,9 +101632,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -99186,9 +101666,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -99216,9 +101698,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -99246,9 +101730,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -99276,9 +101762,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - TBAB (CAS: 1643-19-2) - Role: UNK
@@ -99309,7 +101797,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99341,7 +101829,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99373,7 +101861,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99405,7 +101893,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99437,7 +101925,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99469,7 +101957,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99501,7 +101989,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99533,7 +102021,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99565,7 +102053,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -99595,9 +102083,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -99625,13 +102115,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99659,13 +102149,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99693,13 +102183,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99727,13 +102217,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99761,13 +102251,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99795,13 +102285,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99829,13 +102319,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99863,13 +102353,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99897,13 +102387,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99931,13 +102421,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99965,13 +102455,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -99999,13 +102489,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -100033,13 +102523,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -100067,13 +102557,13 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Cobalt(II) oxide (CAS: 1307-96-6)
   - PD (CAS: 1314-08-5)
   - PD (CAS: 7440-05-3)
-  - Cobalt(II) oxide (CAS: 1307-96-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Co+Pd/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Co, Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -100105,7 +102595,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100138,7 +102628,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100171,7 +102661,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100204,7 +102694,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100237,7 +102727,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100270,7 +102760,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100303,7 +102793,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100336,7 +102826,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100369,7 +102859,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100402,7 +102892,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100435,7 +102925,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100468,7 +102958,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100501,7 +102991,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100534,7 +103024,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100565,7 +103055,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -100598,7 +103088,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100631,7 +103121,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100664,7 +103154,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100697,7 +103187,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100730,7 +103220,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100763,7 +103253,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100796,7 +103286,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100829,7 +103319,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100862,7 +103352,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100895,7 +103385,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -100928,7 +103418,7 @@
   - PD (CAS: 7440-05-3)
   - 2-Amino-3-hydroxybutanoic acid (CAS: 72-19-5)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -101101,9 +103591,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -101133,7 +103625,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101162,7 +103654,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101191,7 +103683,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101220,7 +103712,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101247,10 +103739,12 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/P(tBu)3·HBF4
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Trimethyl orthoformate (CAS: 7789-23-3) - Role: UNK
@@ -101284,7 +103778,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 894797-42-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101316,7 +103810,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 894797-42-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101348,7 +103842,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 894797-42-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101380,7 +103874,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 894797-42-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101412,7 +103906,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 894797-42-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101444,7 +103938,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 894797-42-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101766,7 +104260,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101797,7 +104291,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101828,7 +104322,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101859,7 +104353,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101890,7 +104384,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101921,7 +104415,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101952,7 +104446,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -101983,7 +104477,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -102014,7 +104508,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -102045,7 +104539,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -102076,7 +104570,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -102107,7 +104601,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -102136,9 +104630,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102295,9 +104791,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -102397,9 +104895,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102430,7 +104930,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -102461,7 +104961,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -102491,13 +104991,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102526,13 +105026,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102561,13 +105061,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102596,13 +105096,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102631,13 +105131,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102666,13 +105166,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102701,13 +105201,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102736,13 +105236,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102771,13 +105271,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102806,13 +105306,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102841,13 +105341,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102876,13 +105376,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102911,13 +105411,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102946,13 +105446,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -102981,13 +105481,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -103016,13 +105516,13 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Metasilicic acid (CAS: 7631-86-9)
   - Diiron magnesium tetraoxide (CAS: 12068-86-9)
+  - Metasilicic acid (CAS: 7631-86-9)
   - AJU (CAS: 60835-75-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Fe/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Fe
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -103082,9 +105582,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -103112,9 +105614,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -103146,7 +105650,7 @@
   - PD (CAS: 7440-05-3)
   - Cesium Lead Tribromide (CAS: 15243-48-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103178,7 +105682,7 @@
   - PD (CAS: 7440-05-3)
   - Cesium Lead Tribromide (CAS: 15243-48-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103243,9 +105747,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -103276,7 +105782,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103308,7 +105814,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103340,7 +105846,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103372,7 +105878,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103404,7 +105910,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103436,7 +105942,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103468,7 +105974,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103500,7 +106006,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103532,7 +106038,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103564,7 +106070,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103596,7 +106102,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103628,7 +106134,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103660,7 +106166,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3066350-94-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103689,9 +106195,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -103721,7 +106229,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103750,9 +106258,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -103780,9 +106290,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -103914,9 +106426,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -103948,7 +106462,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 3061848-01-6
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -103978,9 +106492,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -104040,9 +106556,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -104071,9 +106589,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -104102,9 +106622,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -104165,9 +106687,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -104195,9 +106719,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -104279,8 +106805,8 @@
   - Yield: 93%
 
 **SMILES:**
-  - Reactants: `OB(O)c1ccccc1.Brc1cc(Br)cc([C@]2(C3=O->[Rh+2]456<-O=C([O-]->[Rh+2]4(<-O=C([O-]->5)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)(<-O=C([O-]->6)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)<-[O-]3)[C@@]3(c4cc(Br)cc(Br)c4)CC3(c3ccccc3)c3ccccc3)CC2(c2ccccc2)c2ccccc2)c1`
-  - Products: `c1ccc(-c2cc(-c3ccccc3)cc([C@]3(C4=O->[Rh+2]567<-O=C([O-]->[Rh+2]5(<-O=C([O-]->6)[C@@]5(c6cc(-c8ccccc8)cc(-c8ccccc8)c6)CC5(c5ccccc5)c5ccccc5)(<-O=C([O-]->7)[C@@]5(c6cc(-c7ccccc7)cc(-c7ccccc7)c6)CC5(c5ccccc5)c5ccccc5)<-[O-]4)[C@@]4(c5cc(-c6ccccc6)cc(-c6ccccc6)c5)CC4(c4ccccc4)c4ccccc4)CC3(c3ccccc3)c3ccccc3)c2)cc1`
+  - Reactants: `OB(O)c1ccccc1.Brc1cc(Br)cc([C@]2(C3=[O]->[Rh+2]456<-[O]=C([O-]->[Rh+2]4(<-[O]=C([O-]->5)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)(<-[O]=C([O-]->6)[C@@]4(c5cc(Br)cc(Br)c5)CC4(c4ccccc4)c4ccccc4)<-[O-]3)[C@@]3(c4cc(Br)cc(Br)c4)CC3(c3ccccc3)c3ccccc3)CC2(c2ccccc2)c2ccccc2)c1`
+  - Products: `c1ccc(-c2cc(-c3ccccc3)cc([C@]3(C4=[O]->[Rh+2]567<-[O]=C([O-]->[Rh+2]5(<-[O]=C([O-]->6)[C@@]5(c6cc(-c8ccccc8)cc(-c8ccccc8)c6)CC5(c5ccccc5)c5ccccc5)(<-[O]=C([O-]->7)[C@@]5(c6cc(-c7ccccc7)cc(-c7ccccc7)c6)CC5(c5ccccc5)c5ccccc5)<-[O-]4)[C@@]4(c5cc(-c6ccccc6)cc(-c6ccccc6)c5)CC4(c4ccccc4)c4ccccc4)CC3(c3ccccc3)c3ccccc3)c2)cc1`
 
 **Reference:**
   - **Title:** Asymmetric dearomative single-atom skeletal editing of indoles and pyrroles
@@ -104329,9 +106855,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -104359,9 +106887,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -104389,9 +106919,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -104419,9 +106951,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -104450,9 +106984,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -104480,9 +107016,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Tripotassium phosphate trihydrate (CAS: 22763-03-7) - Role: CAT_LIG
@@ -104605,9 +107143,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -104635,9 +107175,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -104665,9 +107207,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -104698,7 +107242,9 @@
   - Bis(cyanophenyl)palladium dichloride (CAS: 14220-64-5)
   - P(tBu)3·HBF4 (CAS: 131274-22-1)
 
-**ConditionCore:** Bis(cyanophenyl)palladium dichloride/P(tBu)3·HBF4
+**ConditionCore:** Pd/P(tBu)3·HBF4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -104943,9 +107489,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -104973,9 +107521,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -105003,9 +107553,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -105033,9 +107585,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -105065,7 +107619,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105096,7 +107650,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105126,12 +107680,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105160,12 +107714,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105194,12 +107748,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105228,12 +107782,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105262,12 +107816,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105296,12 +107850,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105330,12 +107884,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105364,12 +107918,12 @@
 
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
-  - Ceria (CAS: 1306-38-3)
   - GOLD (CAS: 7440-57-5)
+  - Ceria (CAS: 1306-38-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+Au/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, Au
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -105397,10 +107951,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - PD (CAS: 7440-05-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -105435,10 +107989,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - PD (CAS: 7440-05-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -105473,10 +108027,10 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - PD (CAS: 7440-05-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd(PPh3)4
 
 **Generic Catalyst:** Pd
 
@@ -105511,9 +108065,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -105544,7 +108100,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105576,7 +108132,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105608,7 +108164,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105640,7 +108196,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105672,7 +108228,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105704,7 +108260,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105736,7 +108292,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105768,7 +108324,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105800,7 +108356,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105832,7 +108388,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105864,7 +108420,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -105896,7 +108452,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -106982,9 +109538,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -107079,7 +109637,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -107111,7 +109669,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -107141,9 +109699,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -107171,9 +109731,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -107236,9 +109798,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum orthoferrite (CAS: 12022-43-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -107269,9 +109831,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum orthoferrite (CAS: 12022-43-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -107302,9 +109864,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum orthoferrite (CAS: 12022-43-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -107335,9 +109897,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum orthoferrite (CAS: 12022-43-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -107368,9 +109930,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum orthoferrite (CAS: 12022-43-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -107401,9 +109963,9 @@
   - PD (CAS: 7440-05-3)
   - Lanthanum orthoferrite (CAS: 12022-43-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+La/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, La
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -107434,7 +109996,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -107468,7 +110030,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -107502,7 +110064,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -107536,7 +110098,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -107570,7 +110132,7 @@
   - Ni (CAS: 7440-02-0)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -108433,9 +110995,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -108462,9 +111026,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -108491,9 +111057,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -108521,9 +111089,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -108551,9 +111121,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -108583,7 +111155,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108613,9 +111185,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -108643,9 +111217,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -108673,9 +111249,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -108703,9 +111281,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -108735,7 +111315,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108767,7 +111347,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108799,7 +111379,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108831,7 +111411,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108863,7 +111443,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108895,7 +111475,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108927,7 +111507,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -108992,7 +111572,9 @@
 **Full Catalytic System:**
   - [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane (CAS: 1310584-14-5)
 
-**ConditionCore:** [2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+**ConditionCore:** Pd/[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -109012,6 +111594,9 @@
   - **Title:** Silylimidazolium Hexafluorophosphate Salts as Synthetic Precursors to N-Heterocyclic Carbene Pentafluorophosphorus Adducts
   - **Authors:** Rowsey, Rylan A.; Hilgar, Jeremy D.; Romero, Nathan A.
   - **Citation:** Organic Letters (2024), 26(22), 4750-4755
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '[2-(2-Aminophenyl)phenyl]-chloro-palladium dicyclohexyl-[2-(2,4,6-triisopropylphenyl)phenyl]phosphane' (CAS 1310584-14-5): registry compound_type -> CAT_LIG
 
 ---
 
@@ -109119,9 +111704,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -109150,9 +111737,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -109181,9 +111770,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -109212,9 +111803,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -109283,7 +111876,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109316,7 +111909,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109349,7 +111942,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109382,7 +111975,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109415,7 +112008,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109448,7 +112041,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109481,7 +112074,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109514,7 +112107,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109547,7 +112140,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109580,7 +112173,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109613,7 +112206,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109646,7 +112239,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109679,7 +112272,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109712,7 +112305,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109745,7 +112338,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109778,7 +112371,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109811,7 +112404,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109844,7 +112437,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109877,7 +112470,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109910,7 +112503,7 @@
   - Ethanolamine (CAS: 141-43-5)
   - TBAB (CAS: 1643-19-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109942,7 +112535,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -109975,7 +112568,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110008,7 +112601,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110041,7 +112634,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110074,7 +112667,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110107,7 +112700,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110140,7 +112733,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110173,7 +112766,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110206,7 +112799,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110239,7 +112832,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110272,7 +112865,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110305,7 +112898,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110338,7 +112931,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110371,7 +112964,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110404,7 +112997,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110437,7 +113030,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110470,7 +113063,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110503,7 +113096,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110536,7 +113129,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110569,7 +113162,7 @@
   - PD (CAS: 7440-05-3)
   - CID 23977 (CAS: 7440-48-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -110631,9 +113224,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110664,9 +113259,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110697,9 +113292,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110730,9 +113325,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110763,9 +113358,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110796,9 +113391,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110829,9 +113424,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110862,9 +113457,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110895,9 +113490,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110928,9 +113523,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110961,9 +113556,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -110994,9 +113589,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111027,9 +113622,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111060,9 +113655,9 @@
   - PD (CAS: 7440-05-3)
   - Vanadium oxide (V2O5) (CAS: 11099-11-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd+V/*
 
-**Generic Catalyst:** Pd
+**Generic Catalyst:** Pd, V
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111189,7 +113784,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3074807-15-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111222,7 +113817,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3074807-17-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111255,7 +113850,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3074807-16-9
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111288,7 +113883,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3074807-19-2
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111318,9 +113913,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -111348,9 +113945,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -111379,9 +113978,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111445,9 +114046,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111474,9 +114077,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111503,9 +114108,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111532,9 +114139,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111561,9 +114170,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111591,9 +114202,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111622,9 +114235,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -111724,9 +114339,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -111756,7 +114373,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111788,7 +114405,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111820,7 +114437,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111852,7 +114469,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111884,7 +114501,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111916,7 +114533,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111948,7 +114565,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -111980,7 +114597,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112012,7 +114629,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112044,7 +114661,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112076,7 +114693,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112108,7 +114725,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112140,7 +114757,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112203,7 +114820,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112235,7 +114852,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112267,7 +114884,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112299,7 +114916,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112331,7 +114948,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112363,7 +114980,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112393,9 +115010,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -112422,9 +115041,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -112451,9 +115072,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -112484,7 +115107,7 @@
   - PD (CAS: 7440-05-3)
   - Ammonia (CAS: 7664-41-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -112518,7 +115141,7 @@
   - PD (CAS: 7440-05-3)
   - Ammonia (CAS: 7664-41-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -112552,7 +115175,7 @@
   - PD (CAS: 7440-05-3)
   - Ammonia (CAS: 7664-41-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -112586,7 +115209,7 @@
   - PD (CAS: 7440-05-3)
   - Ammonia (CAS: 7664-41-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -112620,7 +115243,7 @@
   - PD (CAS: 7440-05-3)
   - Ammonia (CAS: 7664-41-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -112654,7 +115277,7 @@
   - PD (CAS: 7440-05-3)
   - Ammonia (CAS: 7664-41-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -112688,7 +115311,7 @@
   - PD (CAS: 7440-05-3)
   - Ammonia (CAS: 7664-41-7)
 
-**ConditionCore:** Ni
+**ConditionCore:** Ni+Pd/*
 
 **Generic Catalyst:** Ni, Pd
 
@@ -112721,7 +115344,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112755,7 +115378,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112789,7 +115412,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112823,7 +115446,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112857,7 +115480,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112891,7 +115514,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112925,7 +115548,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112959,7 +115582,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -112993,7 +115616,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113027,7 +115650,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113061,7 +115684,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113095,7 +115718,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113129,7 +115752,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113163,7 +115786,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113196,7 +115819,7 @@
   - Palladium (CAS: 7647-10-1)
   - CAS: 2448338-96-1
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113231,7 +115854,7 @@
   - Carmellose (CAS: 9000-11-7)
   - Acetaldehyde (CAS: 9002-89-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113265,7 +115888,7 @@
   - Carmellose (CAS: 9000-11-7)
   - Acetaldehyde (CAS: 9002-89-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113299,7 +115922,7 @@
   - Carmellose (CAS: 9000-11-7)
   - Acetaldehyde (CAS: 9002-89-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113333,7 +115956,7 @@
   - Carmellose (CAS: 9000-11-7)
   - Acetaldehyde (CAS: 9002-89-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113367,7 +115990,7 @@
   - Carmellose (CAS: 9000-11-7)
   - Acetaldehyde (CAS: 9002-89-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -113396,9 +116019,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -113462,9 +116087,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -113522,9 +116149,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -113555,7 +116184,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3077087-20-5
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -113589,7 +116218,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3077087-20-5
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -113623,7 +116252,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3077087-20-5
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -113657,7 +116286,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3077087-20-5
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -113691,7 +116320,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3077087-20-5
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -113725,7 +116354,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3077087-20-5
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -113759,7 +116388,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 3077087-20-5
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -114199,9 +116828,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -114229,9 +116860,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -114259,9 +116892,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114290,9 +116925,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114320,9 +116957,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114350,9 +116989,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114381,9 +117022,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -114442,9 +117085,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -114471,9 +117116,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114502,9 +117149,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114533,9 +117182,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114564,9 +117215,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114595,9 +117248,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -114628,7 +117283,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114659,7 +117314,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114690,7 +117345,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114721,7 +117376,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114752,7 +117407,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114783,7 +117438,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114814,7 +117469,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114845,7 +117500,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114876,7 +117531,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -114905,9 +117560,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -114937,7 +117594,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1352299-78-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115000,7 +117657,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115031,7 +117688,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115062,7 +117719,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115093,7 +117750,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115124,7 +117781,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115155,7 +117812,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115186,7 +117843,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115217,7 +117874,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115248,7 +117905,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115279,7 +117936,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115310,7 +117967,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115341,7 +117998,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115372,7 +118029,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115403,7 +118060,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115434,7 +118091,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115465,7 +118122,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115496,7 +118153,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115527,7 +118184,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115558,7 +118215,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115590,7 +118247,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - 1-[(3aR,8aR)-Tetrahydro-2,2-dimethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[4,5-e][1,3,2]dioxaphosphepin-6-yl]pyrrolidine (CAS: 913706-72-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/1-[(3aR,8aR)-Tetrahydro-2,2-dimethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[4,5-e][1,3,2]dioxaphosphepin-6-yl]pyrrolidine
 
 **Generic Catalyst:** Pd
 
@@ -115612,6 +118269,9 @@
   - **Authors:** Zhao, Siyu; Liu, Jiahao; Xu, Xunfang; Chen, Xuemei; Kato, Terumasa; Wang, Zhe; Liu, Yan; Maruoka, Keiji
   - **Citation:** ACS Catalysis (2024), 14(19), 14762-14768
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '1-[(3aR,8aR)-Tetrahydro-2,2-dimethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[4,5-e][1,3,2]dioxaphosphepin-6-yl]pyrrolidine' (CAS 913706-72-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-44307269
@@ -115621,7 +118281,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115653,7 +118313,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -115685,13 +118345,13 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
-  - Bis(1-adamantyl)-butylphosphanium;iodide (CAS: 714951-87-8) - Role: UNK
+  - Bis(1-adamantyl)-butylphosphanium;iodide (CAS: 714951-87-8) - Role: CAT_LIG
 
 **Solvents:**
   - 1,2-Dichloroethane (CAS: 107-06-2)
@@ -115751,9 +118411,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -115784,7 +118446,7 @@
   - Pd (CAS: 32005-36-0)
   - 2-(di-tert-butylphosphino)-N-phenylindole (CAS: 740815-37-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/2-(di-tert-butylphosphino)-N-phenylindole
 
 **Generic Catalyst:** Pd
 
@@ -115807,6 +118469,9 @@
   - **Authors:** Nakamura, Keisuke; Suzuki, Minori; Yoshida, Suguru
   - **Citation:** Organic Letters (2024), 26(45), 9676-9681
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '2-(di-tert-butylphosphino)-N-phenylindole' (CAS 740815-37-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-44357886
@@ -115817,7 +118482,7 @@
   - Pd (CAS: 32005-36-0)
   - 2-(di-tert-butylphosphino)-N-phenylindole (CAS: 740815-37-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/2-(di-tert-butylphosphino)-N-phenylindole
 
 **Generic Catalyst:** Pd
 
@@ -115840,6 +118505,9 @@
   - **Authors:** Nakamura, Keisuke; Suzuki, Minori; Yoshida, Suguru
   - **Citation:** Organic Letters (2024), 26(45), 9676-9681
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '2-(di-tert-butylphosphino)-N-phenylindole' (CAS 740815-37-6): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-44357897
@@ -115850,7 +118518,7 @@
   - Pd (CAS: 32005-36-0)
   - 2-(di-tert-butylphosphino)-N-phenylindole (CAS: 740815-37-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/2-(di-tert-butylphosphino)-N-phenylindole
 
 **Generic Catalyst:** Pd
 
@@ -115872,6 +118540,9 @@
   - **Title:** Synthesis of Thiaphenanthridinones from Sulfinate Esters and 2-Borylanilines
   - **Authors:** Nakamura, Keisuke; Suzuki, Minori; Yoshida, Suguru
   - **Citation:** Organic Letters (2024), 26(45), 9676-9681
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for '2-(di-tert-butylphosphino)-N-phenylindole' (CAS 740815-37-6): registry compound_type -> CAT_LIG
 
 ---
 
@@ -115950,9 +118621,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -115981,9 +118654,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -116011,9 +118686,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -116365,9 +119042,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -116397,9 +119076,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -116427,9 +119108,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -116815,9 +119498,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -116845,9 +119530,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -116879,7 +119566,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -116913,7 +119600,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -116947,7 +119634,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -116981,7 +119668,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117015,7 +119702,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117047,7 +119734,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -117081,7 +119768,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117115,7 +119802,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117149,7 +119836,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117183,7 +119870,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117217,7 +119904,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117251,7 +119938,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117285,7 +119972,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117319,7 +120006,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117351,7 +120038,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -117385,7 +120072,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117419,7 +120106,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 2641196-04-3
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -117589,9 +120276,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NaHCO3 (CAS: 144-55-8) - Role: BASE
@@ -117654,9 +120343,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -117861,9 +120552,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -117892,9 +120585,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -117923,9 +120618,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - NH4Cl (CAS: 12125-02-9) - Role: UNK
@@ -118306,9 +121003,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -118368,9 +121067,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -118398,9 +121099,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -118428,9 +121131,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -118458,9 +121163,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -118491,7 +121198,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -118616,7 +121323,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -118646,9 +121353,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118714,9 +121423,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118745,9 +121456,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -118775,9 +121488,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118805,9 +121520,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118835,9 +121552,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118866,9 +121585,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118897,9 +121618,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118928,9 +121651,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -118958,9 +121683,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -118989,9 +121716,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -119058,7 +121787,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -119090,7 +121819,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -119122,7 +121851,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -119154,7 +121883,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -119186,7 +121915,7 @@
   - PD (CAS: 7440-05-3)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -119215,9 +121944,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -119246,9 +121977,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -119276,9 +122009,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -119307,9 +122042,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119342,9 +122079,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119377,9 +122116,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119412,9 +122153,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119447,9 +122190,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119482,9 +122227,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119517,9 +122264,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119552,9 +122301,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119587,9 +122338,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119622,9 +122375,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119657,9 +122412,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119692,9 +122449,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119727,9 +122486,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119762,9 +122523,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119797,9 +122560,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119832,9 +122597,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119867,9 +122634,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Pyridine (CAS: 110-86-1) - Role: BASE
@@ -119943,7 +122712,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -119976,7 +122745,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -120009,7 +122778,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -120042,7 +122811,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -120075,7 +122844,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -120108,7 +122877,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -120141,7 +122910,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -120234,7 +123003,7 @@
   - Feraheme/Rienso (CAS: 1309-38-2)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -120268,7 +123037,7 @@
   - Feraheme/Rienso (CAS: 1309-38-2)
   - Metasilicic acid (CAS: 7631-86-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -120297,9 +123066,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -120327,9 +123098,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -120356,9 +123129,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -120385,9 +123160,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -120452,9 +123229,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Water (CAS: 7732-18-5) - Role: SOLVENT
@@ -120484,9 +123263,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120514,9 +123295,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120544,9 +123327,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120574,9 +123359,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120604,9 +123391,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120634,9 +123423,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120664,9 +123455,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120694,9 +123487,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -120858,9 +123653,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -120888,9 +123685,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -120918,9 +123717,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -120950,7 +123751,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -120971,6 +123774,9 @@
   - **Authors:** Rodino, Ricardo; Verdugo, Felipe; Mascarenas, Jose L.; Lopez, Fernando
   - **Citation:** ChemistryEurope (2025), 3(3), e202500005
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45148313
@@ -120978,9 +123784,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -121045,7 +123853,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121077,7 +123885,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121109,7 +123917,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121141,7 +123949,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121173,7 +123981,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121205,7 +124013,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121237,7 +124045,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121269,7 +124077,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -121368,7 +124176,9 @@
 **Full Catalytic System:**
   - Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II) (CAS: 887919-35-9)
 
-**ConditionCore:** Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+**ConditionCore:** Pd/Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -121389,6 +124199,9 @@
   - **Authors:** Saunders, John M.; Nava, Esveidy Oceguera; Li, Jason; Wong, Madison J.; Freiberg, Kaitlyn M.; Lipshutz, Bruce H.
   - **Citation:** ACS Sustainable Chemistry & Engineering (2025), 13(18), 6646-6655
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II)' (CAS 887919-35-9): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-45241847
@@ -121396,9 +124209,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -121427,9 +124242,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -121457,9 +124274,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -121487,9 +124306,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -121517,9 +124338,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K3PO4 (CAS: 7778-53-2) - Role: BASE
@@ -121552,7 +124375,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -121587,7 +124410,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -121622,7 +124445,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -121657,7 +124480,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -121692,7 +124515,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Methyl 3,5-diamino-6-chloropyrazine-2-carboxylate (CAS: 14814-09-6)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -121722,9 +124545,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -121753,9 +124578,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -121784,9 +124611,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -121815,9 +124644,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -121846,9 +124677,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -121877,9 +124710,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -121908,9 +124743,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -121939,9 +124776,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -122044,9 +124883,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -122073,9 +124914,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -122105,7 +124948,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1262433-88-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122137,7 +124980,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1262433-88-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122169,7 +125012,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1262433-88-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122201,7 +125044,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1262433-88-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122233,7 +125076,7 @@
   - PD (CAS: 7440-05-3)
   - CAS: 1262433-88-4
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122262,9 +125105,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -122292,9 +125137,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -122323,9 +125170,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -122354,9 +125203,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -122384,9 +125235,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -122449,7 +125302,7 @@
   - Fe3O4 (CAS: 1317-61-9)
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Fe
+**ConditionCore:** Fe+Pd/*
 
 **Generic Catalyst:** Fe, Pd
 
@@ -122515,9 +125368,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -122581,7 +125436,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122613,7 +125468,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122645,7 +125500,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122677,7 +125532,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122709,7 +125564,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122741,7 +125596,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122773,7 +125628,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122805,7 +125660,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122837,7 +125692,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122869,7 +125724,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122901,7 +125756,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122933,7 +125788,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122965,7 +125820,7 @@
   - Palladium (CAS: 7647-10-1)
   - PIY (CAS: 670-96-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -122994,9 +125849,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -123024,9 +125881,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123057,7 +125916,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aminopropyltrimethoxysilane (CAS: 31024-56-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123088,7 +125947,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aminopropyltrimethoxysilane (CAS: 31024-56-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123119,7 +125978,7 @@
   - Metasilicic acid (CAS: 7631-86-9)
   - Aminopropyltrimethoxysilane (CAS: 31024-56-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123146,9 +126005,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123176,9 +126037,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123206,9 +126069,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123236,9 +126101,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123266,9 +126133,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123296,9 +126165,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123326,9 +126197,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123356,9 +126229,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -123386,9 +126261,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -123416,9 +126293,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -123447,7 +126326,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123479,7 +126358,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123511,7 +126390,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123543,7 +126422,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123639,7 +126518,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123673,7 +126552,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123707,7 +126586,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123741,7 +126620,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123775,7 +126654,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123809,7 +126688,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123843,7 +126722,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123877,7 +126756,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123911,7 +126790,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123945,7 +126824,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -123979,7 +126858,7 @@
   - FS-4075 (CAS: 9012-76-4)
   - Methane (CAS: 1034343-98-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -124012,7 +126891,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Tris(dibutylamino)phosphine
 
 **Generic Catalyst:** Pd
 
@@ -124036,6 +126915,9 @@
   - **Authors:** Oftadeh, Erfan; Baumann, Max; Ortiz, Marco; Mamo, Kirubel; Boeira, Eduam; Oceguera Nava, Esveidy; Lopez Lemus, Monica S.; Fang, Shili; Aue, Donald H.; Lipshutz, Bruce H.
   - **Citation:** Chemical Science (2025), 16(29), 13316-13332
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(dibutylamino)phosphine' (CAS 5848-65-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-46005127
@@ -124046,7 +126928,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Tris(dibutylamino)phosphine
 
 **Generic Catalyst:** Pd
 
@@ -124070,6 +126952,9 @@
   - **Authors:** Oftadeh, Erfan; Baumann, Max; Ortiz, Marco; Mamo, Kirubel; Boeira, Eduam; Oceguera Nava, Esveidy; Lopez Lemus, Monica S.; Fang, Shili; Aue, Donald H.; Lipshutz, Bruce H.
   - **Citation:** Chemical Science (2025), 16(29), 13316-13332
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(dibutylamino)phosphine' (CAS 5848-65-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-46005129
@@ -124080,7 +126965,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Tris(dibutylamino)phosphine
 
 **Generic Catalyst:** Pd
 
@@ -124104,6 +126989,9 @@
   - **Authors:** Oftadeh, Erfan; Baumann, Max; Ortiz, Marco; Mamo, Kirubel; Boeira, Eduam; Oceguera Nava, Esveidy; Lopez Lemus, Monica S.; Fang, Shili; Aue, Donald H.; Lipshutz, Bruce H.
   - **Citation:** Chemical Science (2025), 16(29), 13316-13332
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(dibutylamino)phosphine' (CAS 5848-65-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-46005130
@@ -124114,7 +127002,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Tris(dibutylamino)phosphine
 
 **Generic Catalyst:** Pd
 
@@ -124138,6 +127026,9 @@
   - **Authors:** Oftadeh, Erfan; Baumann, Max; Ortiz, Marco; Mamo, Kirubel; Boeira, Eduam; Oceguera Nava, Esveidy; Lopez Lemus, Monica S.; Fang, Shili; Aue, Donald H.; Lipshutz, Bruce H.
   - **Citation:** Chemical Science (2025), 16(29), 13316-13332
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(dibutylamino)phosphine' (CAS 5848-65-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-46005135
@@ -124148,7 +127039,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Tris(dibutylamino)phosphine
 
 **Generic Catalyst:** Pd
 
@@ -124172,6 +127063,9 @@
   - **Authors:** Oftadeh, Erfan; Baumann, Max; Ortiz, Marco; Mamo, Kirubel; Boeira, Eduam; Oceguera Nava, Esveidy; Lopez Lemus, Monica S.; Fang, Shili; Aue, Donald H.; Lipshutz, Bruce H.
   - **Citation:** Chemical Science (2025), 16(29), 13316-13332
 
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(dibutylamino)phosphine' (CAS 5848-65-7): registry compound_type -> CAT_LIG
+
 ---
 
 ## Reaction 31-614-CAS-46005148
@@ -124182,7 +127076,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Tris(dibutylamino)phosphine (CAS: 5848-65-7)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/Tris(dibutylamino)phosphine
 
 **Generic Catalyst:** Pd
 
@@ -124205,6 +127099,9 @@
   - **Title:** A new P3N ligand for Pd-catalyzed cross-couplings in water
   - **Authors:** Oftadeh, Erfan; Baumann, Max; Ortiz, Marco; Mamo, Kirubel; Boeira, Eduam; Oceguera Nava, Esveidy; Lopez Lemus, Monica S.; Fang, Shili; Aue, Donald H.; Lipshutz, Bruce H.
   - **Citation:** Chemical Science (2025), 16(29), 13316-13332
+
+**Data Quality Warnings:**
+  - ⚠️ Full Catalytic System: Role conflict for 'Tris(dibutylamino)phosphine' (CAS 5848-65-7): registry compound_type -> CAT_LIG
 
 ---
 
@@ -124434,7 +127331,7 @@
   - Dialuminum;dimagnesium;dioxido(oxo)silane (CAS: 12174-11-7)
   - CAS: 29254-21-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -124467,7 +127364,7 @@
   - Dialuminum;dimagnesium;dioxido(oxo)silane (CAS: 12174-11-7)
   - CAS: 29254-21-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -124500,7 +127397,7 @@
   - Dialuminum;dimagnesium;dioxido(oxo)silane (CAS: 12174-11-7)
   - CAS: 29254-21-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -124529,9 +127426,11 @@
 **Type:** Suzuki
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -124562,7 +127461,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 3023404-07-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 

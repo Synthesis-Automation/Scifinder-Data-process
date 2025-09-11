@@ -171,6 +171,90 @@ class RDFWorker(QtCore.QObject):
         
         return txt_map
 
+    def _extract_temp_time_from_md(self, md_path: str) -> Dict[str, Dict[str, Optional[float]]]:
+        """Parse a markdown file to map CAS Reaction Number -> {temperature_c, time_h}.
+
+        Heuristics:
+        - Within each block following a line like "CAS Reaction Number: <ID>",
+          accumulate time across all occurrences and take the max temperature.
+        - Recognize units h/hr/hrs/hour/min/mins/minute/day/days; minutes converted to hours; days*24.
+        - Recognize temperatures like "80 C" or "80 °C"; recognize 'rt'/'room temperature' as 25 °C when no numeric temp.
+        - Ignore 'reflux' for temperature.
+        """
+        result: Dict[str, Dict[str, Optional[float]]] = {}
+        if not os.path.exists(md_path):
+            return result
+
+        import re, math
+        re_time = re.compile(r"(?<![A-Za-z0-9])(\d+(?:\.\d+)?)\s*(h|hr|hrs|hour|hours|min|mins|minute|minutes|d|day|days)(?![A-Za-z0-9])", re.I)
+        re_temp_c = re.compile(r"(-?\d+(?:\.\d+)?)\s*[^A-Za-z0-9]{0,3}C\b")
+        re_rt = re.compile(r"\brt\b|room temperature", re.I)
+        re_rid = re.compile(r"^\s*CAS Reaction Number:\s*(\S+)\s*$", re.I)
+
+        current_id: Optional[str] = None
+        agg_time: float = 0.0
+        agg_max_c: float = -math.inf
+        had_rt: bool = False
+
+        def _flush():
+            nonlocal current_id, agg_time, agg_max_c, had_rt
+            if current_id:
+                temp_c: Optional[float]
+                if agg_max_c != -math.inf:
+                    temp_c = round(agg_max_c, 1)
+                elif had_rt:
+                    temp_c = 25.0
+                else:
+                    temp_c = None
+                time_h = round(agg_time, 3) if agg_time > 0 else None
+                result[current_id] = {"temperature_c": temp_c, "time_h": time_h}
+            current_id = None
+            agg_time = 0.0
+            agg_max_c = -math.inf
+            had_rt = False
+
+        try:
+            with open(md_path, "r", encoding="utf-8", errors="ignore") as f:
+                for raw in f:
+                    line = raw.rstrip("\n")
+                    m_id = re_rid.match(line)
+                    if m_id:
+                        # flush previous block
+                        _flush()
+                        current_id = m_id.group(1).strip()
+                        continue
+                    if not current_id:
+                        continue
+                    # Accumulate within current block
+                    for m in re_time.finditer(line):
+                        try:
+                            val = float(m.group(1))
+                        except Exception:
+                            continue
+                        unit = (m.group(2) or "").lower()
+                        if unit.startswith("min"):
+                            agg_time += val / 60.0
+                        elif unit in ("d", "day", "days"):
+                            agg_time += val * 24.0
+                        else:
+                            agg_time += val
+                    mtemp = re_temp_c.findall(line)
+                    for t in mtemp:
+                        try:
+                            v = float(t)
+                        except Exception:
+                            continue
+                        if v > agg_max_c:
+                            agg_max_c = v
+                    if re_rt.search(line):
+                        had_rt = True
+            # flush last block
+            _flush()
+        except Exception:
+            return result
+
+        return result
+
     def _process_rdf_files(self) -> Dict[str, Dict[str, Any]]:
         """Process all RDF files and combine them into a single RDF map"""
         combined_rdf_map: Dict[str, Dict[str, Any]] = {}
@@ -260,6 +344,29 @@ class RDFWorker(QtCore.QObject):
             self._emit("Assembling reaction rows...")
             rows = assemble_rows(txt_map, combined_rdf_map, cas_map, txt_preferred=False)
             self._emit(f"Assembled {len(rows)} rows")
+
+            # Override Temperature_C and Time_h from dataset/temp_time.md when available
+            here = os.path.dirname(os.path.abspath(__file__))
+            md_path = os.path.join(here, 'dataset', 'temp_time.md')
+            md_map = self._extract_temp_time_from_md(md_path)
+            if md_map:
+                overridden = 0
+                for row in rows:
+                    rid = row.get('ReactionID')
+                    if not rid:
+                        continue
+                    mt = md_map.get(rid)
+                    if not mt:
+                        continue
+                    t_c = mt.get('temperature_c')
+                    t_h = mt.get('time_h')
+                    if t_c is not None:
+                        row['Temperature_C'] = t_c
+                    if t_h is not None:
+                        row['Time_h'] = t_h
+                    if (t_c is not None) or (t_h is not None):
+                        overridden += 1
+                self._emit(f"Applied temp/time overrides from temp_time.md for {overridden} reactions.")
 
             # Override ReactionType using the parent folder name (e.g., ...\Suzuki\2023-2025 -> 'Suzuki')
             try:

@@ -1075,7 +1075,9 @@ class ReactionMarkdownGenerator:
         if metal_label and ligand_label:
             return f"{metal_label}/{ligand_label}"
         if metal_label:
-            return metal_label
+            # Requirement: when a metal is identified but no ligand resolved, emit a canonical placeholder '/*'
+            # to make the absence explicit (e.g., 'Pd/*'). Skip placeholder for preformed complexes handled earlier.
+            return f"{metal_label}/*"
         if activator_label and ligand_label:
             return f"{activator_label}/{ligand_label}"
         # Last resort: join the first two components of pool

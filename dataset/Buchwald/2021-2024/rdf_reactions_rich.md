@@ -1,6 +1,6 @@
 # Reaction Data Report
 
-**Generated:** 2025-09-08 23:29:51
+**Generated:** 2025-09-11 12:39:36
 **Source Folder:** RDF_Folder_2021-2024
 **Total Reactions:** 1343
 
@@ -1623,7 +1623,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2599846-83-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -1655,7 +1655,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2599846-83-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -2970,9 +2970,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -3143,7 +3145,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Pipecolic Acid (CAS: 98-98-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3314,7 +3316,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3347,7 +3349,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3379,7 +3381,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3410,7 +3412,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3442,7 +3444,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3474,7 +3476,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -3718,7 +3720,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4036,7 +4038,7 @@
 **Full Catalytic System:**
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4246,7 +4248,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4419,7 +4421,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4560,7 +4562,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4591,7 +4593,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4693,7 +4695,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4721,7 +4723,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4749,7 +4751,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4851,7 +4853,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4883,7 +4885,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4915,7 +4917,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4947,7 +4949,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -4979,7 +4981,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5011,7 +5013,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5043,7 +5045,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5075,7 +5077,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5107,7 +5109,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5139,7 +5141,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5171,7 +5173,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -5203,7 +5205,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2097737-81-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6113,7 +6115,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6144,7 +6146,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6175,7 +6177,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6206,7 +6208,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6237,7 +6239,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6268,7 +6270,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6299,7 +6301,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6330,7 +6332,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6361,7 +6363,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6392,7 +6394,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6423,7 +6425,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6454,7 +6456,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6485,7 +6487,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6516,7 +6518,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6547,7 +6549,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6578,7 +6580,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6609,7 +6611,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6640,7 +6642,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6671,7 +6673,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6702,7 +6704,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6733,7 +6735,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6764,7 +6766,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6795,7 +6797,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6826,7 +6828,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6857,7 +6859,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -6888,7 +6890,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -7891,7 +7893,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CID 139269947 (CAS: 2183514-08-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -7924,7 +7926,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CID 139269947 (CAS: 2183514-08-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -7993,7 +7995,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CID 139269947 (CAS: 2183514-08-9)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -9880,9 +9882,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -9909,9 +9913,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -9938,9 +9944,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -9967,9 +9975,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -9996,9 +10006,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10025,9 +10037,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -10054,9 +10068,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -10083,9 +10099,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10112,9 +10130,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -10141,9 +10161,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -10170,9 +10192,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -10199,9 +10223,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -10228,9 +10254,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - KOH (CAS: 1310-58-3) - Role: BASE
@@ -10260,7 +10288,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10293,7 +10321,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10608,12 +10636,12 @@
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu/DMEDA
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10646,13 +10674,13 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - CuI (CAS: 7681-65-4)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
 
-**ConditionCore:** Cu/DMEDA
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Pd, Cu
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10686,12 +10714,12 @@
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu/DMEDA
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10725,12 +10753,12 @@
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu/DMEDA
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10764,12 +10792,12 @@
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu/DMEDA
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10803,12 +10831,12 @@
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu/DMEDA
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10842,12 +10870,12 @@
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - DMEDA (CAS: 110-70-3)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** Cu/DMEDA
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -10882,7 +10910,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10913,7 +10941,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10944,7 +10972,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -10975,7 +11003,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11006,7 +11034,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11037,7 +11065,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11068,7 +11096,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11099,7 +11127,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11130,7 +11158,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11161,7 +11189,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11192,7 +11220,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11223,7 +11251,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11254,7 +11282,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11285,7 +11313,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11316,7 +11344,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11347,7 +11375,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11378,7 +11406,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11409,7 +11437,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11440,7 +11468,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11471,7 +11499,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11502,7 +11530,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11533,7 +11561,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11564,7 +11592,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11595,7 +11623,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11626,7 +11654,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11658,7 +11686,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -11936,7 +11964,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -11968,7 +11996,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12000,7 +12028,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12032,7 +12060,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12064,7 +12092,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12096,7 +12124,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12128,7 +12156,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12161,7 +12189,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12193,7 +12221,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12225,7 +12253,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12257,7 +12285,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12289,7 +12317,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12321,7 +12349,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12353,7 +12381,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12385,7 +12413,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12417,7 +12445,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12449,7 +12477,7 @@
   - Cu(OAc)2 (CAS: 142-71-2)
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -12481,7 +12509,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -12768,7 +12796,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13007,7 +13035,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13109,7 +13137,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13501,7 +13529,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 58856-12-5
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13677,7 +13705,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13709,7 +13737,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13916,7 +13944,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -13952,7 +13980,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14443,7 +14471,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14477,7 +14505,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 2768502-03-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14722,7 +14750,7 @@
   - Cs2CO3 (CAS: 534-17-8)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14789,7 +14817,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14822,7 +14850,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14856,7 +14884,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14893,7 +14921,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -14925,7 +14953,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15453,7 +15481,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15485,7 +15513,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15517,7 +15545,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15549,7 +15577,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15581,7 +15609,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15613,7 +15641,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15645,7 +15673,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15677,7 +15705,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15709,7 +15737,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15741,7 +15769,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15773,7 +15801,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15805,7 +15833,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15837,7 +15865,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15869,7 +15897,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15901,7 +15929,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -15933,7 +15961,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16069,7 +16097,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16621,10 +16649,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - XantPhos (CAS: 161265-03-8)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
 
-**ConditionCore:** XantPhos/Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Cs2CO3 (CAS: 534-17-8) - Role: BASE
@@ -16693,7 +16723,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -16900,7 +16930,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -17189,7 +17219,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -17224,7 +17254,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -17572,7 +17602,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -17605,7 +17635,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -17638,7 +17668,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18053,7 +18083,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18086,7 +18116,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18118,7 +18148,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18150,7 +18180,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18182,7 +18212,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18214,7 +18244,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18246,7 +18276,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18278,7 +18308,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18310,7 +18340,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18342,7 +18372,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18374,7 +18404,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18406,7 +18436,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18438,7 +18468,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18470,7 +18500,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - CAS: 2783952-04-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -18784,7 +18814,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - CAS: 12095-42-0
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -20574,7 +20604,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -20642,7 +20672,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -20884,7 +20914,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -20916,7 +20946,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21092,7 +21122,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21229,11 +21259,11 @@
 
 **Full Catalytic System:**
   - CuI (CAS: 7681-65-4)
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Cu
+**ConditionCore:** Pd(PPh3)4
 
-**Generic Catalyst:** Cu
+**Generic Catalyst:** Cu, Pd
 
 **Reagents:**
   - DIPA (CAS: 108-18-9) - Role: BASE
@@ -21515,7 +21545,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21692,7 +21722,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21727,7 +21757,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21795,7 +21825,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21899,7 +21929,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21931,7 +21961,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21963,7 +21993,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -21995,7 +22025,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22027,7 +22057,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22059,7 +22089,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22091,7 +22121,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22123,7 +22153,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22155,7 +22185,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22187,7 +22217,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22219,7 +22249,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22251,7 +22281,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22283,7 +22313,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22315,7 +22345,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22347,7 +22377,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22379,7 +22409,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22411,7 +22441,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22443,7 +22473,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22475,7 +22505,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22507,7 +22537,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22570,7 +22600,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -22777,7 +22807,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -23070,9 +23100,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -23838,7 +23870,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -23909,7 +23941,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24049,7 +24081,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24377,7 +24409,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24420,6 +24452,7 @@
   - THF (CAS: 109-99-9)
 
 **Reaction Conditions:**
+  - Time: 2.0 hours
   - Yield: 78%
 
 **SMILES:**
@@ -24901,7 +24934,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24933,7 +24966,7 @@
 **Full Catalytic System:**
   - PdTFA2 (CAS: 42196-31-6)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -24965,7 +24998,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25000,7 +25033,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25032,7 +25065,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25064,7 +25097,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25096,7 +25129,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25128,7 +25161,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25160,7 +25193,7 @@
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - CAS: 918545-92-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25192,7 +25225,7 @@
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - CAS: 918545-92-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25224,7 +25257,7 @@
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - CAS: 918545-92-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25256,7 +25289,7 @@
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - CAS: 918545-92-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25288,7 +25321,7 @@
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - CAS: 918545-92-3
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25319,7 +25352,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25351,7 +25384,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -25383,7 +25416,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26413,7 +26446,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26618,7 +26651,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -26682,7 +26715,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27094,7 +27127,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -27425,6 +27458,7 @@
   - PhMe (CAS: 108-88-3)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 74%
 
 **SMILES:**
@@ -27462,6 +27496,7 @@
   - PhMe (CAS: 108-88-3)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 79%
 
 **SMILES:**
@@ -27499,6 +27534,7 @@
   - PhMe (CAS: 108-88-3)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 84%
 
 **SMILES:**
@@ -27536,6 +27572,7 @@
   - PhMe (CAS: 108-88-3)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 86%
 
 **SMILES:**
@@ -27573,6 +27610,7 @@
   - PhMe (CAS: 108-88-3)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 74%
 
 **SMILES:**
@@ -27610,6 +27648,7 @@
   - PhMe (CAS: 108-88-3)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 90%
 
 **SMILES:**
@@ -27647,6 +27686,7 @@
   - PhMe (CAS: 108-88-3)
 
 **Reaction Conditions:**
+  - Time: 0.167 hours
   - Yield: 72%
 
 **SMILES:**
@@ -28959,7 +28999,7 @@
   - Pd (CAS: 32005-36-0)
   - 1,3,5-Tribromobenzene (CAS: 73183-34-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -29376,7 +29416,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -29405,7 +29445,7 @@
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -29439,7 +29479,7 @@
   - Di-μ-chlorobis(η3-2-propenyl)dipalladium (CAS: 12012-95-2)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -29472,7 +29512,7 @@
   - PD (CAS: 7440-05-3)
   - DACH (CAS: 1121-22-8)
 
-**ConditionCore:** Cu
+**ConditionCore:** Cu/*
 
 **Generic Catalyst:** Cu, Pd
 
@@ -30776,7 +30816,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -30808,7 +30848,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -30840,7 +30880,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -30909,7 +30949,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -30942,7 +30982,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -31047,7 +31087,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -31079,7 +31119,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -31722,7 +31762,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -31861,7 +31901,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -31929,9 +31969,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Solvents:**
   - THF (CAS: 109-99-9)
@@ -33207,7 +33249,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33392,7 +33434,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33424,7 +33466,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33456,7 +33498,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -33488,7 +33530,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -34768,7 +34810,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35474,7 +35516,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35544,7 +35586,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35678,7 +35720,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35707,10 +35749,12 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Thiophene-3-carboxylic acid/Imidazole
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - K2CO3 (CAS: 584-08-7) - Role: BASE
@@ -35884,7 +35928,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35919,7 +35963,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35954,7 +35998,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -35989,7 +36033,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36024,7 +36068,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36059,7 +36103,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36443,7 +36487,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36476,7 +36520,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -36611,9 +36655,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36640,9 +36686,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36669,9 +36717,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36698,9 +36748,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36727,9 +36779,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36756,9 +36810,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36785,9 +36841,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36814,9 +36872,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36843,9 +36903,11 @@
 **Type:** Buchwald
 
 **Full Catalytic System:**
-  - Thiophene-3-carboxylic acid (CAS: 14221-01-3)
+  - Pd(PPh3)4 (CAS: 14221-01-3)
 
-**ConditionCore:** Thiophene-3-carboxylic acid
+**ConditionCore:** Pd(PPh3)4
+
+**Generic Catalyst:** Pd
 
 **Reagents:**
   - Na2CO3 (CAS: 497-19-8) - Role: BASE
@@ -36982,7 +37044,7 @@
   - Pd (CAS: 32005-36-0)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37503,7 +37565,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37571,7 +37633,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37603,7 +37665,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37635,7 +37697,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37668,7 +37730,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37701,7 +37763,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37734,7 +37796,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37767,7 +37829,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37800,7 +37862,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - (+/-)BINAP (CAS: 76189-55-4)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37831,7 +37893,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37864,7 +37926,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37897,7 +37959,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37967,7 +38029,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -37999,7 +38061,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38031,7 +38093,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38063,7 +38125,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38095,7 +38157,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38127,7 +38189,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38302,7 +38364,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38333,7 +38395,7 @@
 **Full Catalytic System:**
   - PD (CAS: 7440-05-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38718,7 +38780,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -38822,7 +38884,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39761,7 +39823,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -39828,7 +39890,7 @@
 **Full Catalytic System:**
   - Pd2(dba)3 (CAS: 51364-51-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -40034,7 +40096,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Silver nitrite (CAS: 7783-99-5)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd, Ag
 
@@ -41922,7 +41984,7 @@
   - Pd2(dba)3·CHCl3 (CAS: 52522-40-4)
   - CAS: 950982-66-8
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42549,7 +42611,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42581,7 +42643,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42829,7 +42891,7 @@
   - 4-Nitrobenzoic Acid (CAS: 62-23-7)
   - Hexamethyldisilane (CAS: 1450-14-2)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -42857,7 +42919,7 @@
 **Full Catalytic System:**
   - Pd (CAS: 32005-36-0)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44717,7 +44779,7 @@
 **Full Catalytic System:**
   - Pd(OAc)2 (CAS: 3375-31-3)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44915,7 +44977,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44947,7 +45009,7 @@
   - Pd(OAc)2 (CAS: 3375-31-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -44979,7 +45041,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45011,7 +45073,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45043,7 +45105,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45075,7 +45137,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45107,7 +45169,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45139,7 +45201,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45171,7 +45233,7 @@
   - Pd2(dba)3 (CAS: 51364-51-3)
   - Imidazole (CAS: 98327-87-8)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45272,7 +45334,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45303,7 +45365,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45334,7 +45396,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 
@@ -45365,7 +45427,7 @@
 **Full Catalytic System:**
   - Palladium (CAS: 7647-10-1)
 
-**ConditionCore:** Pd
+**ConditionCore:** Pd/*
 
 **Generic Catalyst:** Pd
 

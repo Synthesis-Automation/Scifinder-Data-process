@@ -103,13 +103,62 @@ class RDFWorker(QtCore.QObject):
     def _create_minimal_txt_map(self, rdf_map: Dict[str, Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
         """Create a minimal TXT map from RDF data (since we only have RDF)"""
         txt_map: Dict[str, Dict[str, Any]] = {}
-        
+        # Lightweight regex patterns (mirrors logic in process_reactions but simplified)
+        import re, math
+        re_time = re.compile(r"(?P<val>\d+(?:\.\d+)?)\s*(?P<unit>h|hr|hrs|hour|hours|min|mins|minute|minutes|d|day|days)\b", re.I)
+        re_temp = re.compile(r"(?P<val>-?\d+(?:\.\d+)?)\s*[^A-Za-z0-9]{0,3}C\b")
+        re_rt = re.compile(r"\brt\b|room temperature", re.I)
+
         for rid, rdf_data in rdf_map.items():
+            notes = rdf_data.get('notes') or []
+            all_condition_lines: List[str] = []
+            # Use notes lines as condition lines source (SciFinder often stores experimental snippets here)
+            for ln in notes:
+                if isinstance(ln, str) and ln.strip():
+                    all_condition_lines.append(ln.strip())
+
+            # Aggregate time and temperature heuristically from notes
+            total_h = 0.0
+            max_c = -math.inf
+            had_rt = False
+            for ln in all_condition_lines:
+                # Skip DOI-like lines
+                if re.search(r"\b10\.\d{4,9}/", ln):
+                    continue
+                # time
+                for m in re_time.finditer(ln):
+                    try:
+                        val = float(m.group('val'))
+                    except ValueError:
+                        continue
+                    unit = m.group('unit').lower()
+                    if unit.startswith('min'):
+                        total_h += val / 60.0
+                    elif unit in ('d', 'day', 'days'):
+                        total_h += val * 24.0
+                    else:
+                        total_h += val
+                if re.search(r"\bovernight\b", ln, re.I):
+                    total_h += 16.0
+                # temperature
+                for m in re_temp.finditer(ln):
+                    try:
+                        valc = float(m.group('val'))
+                    except ValueError:
+                        continue
+                    if valc > max_c:
+                        max_c = valc
+                if re_rt.search(ln):
+                    had_rt = True
+
+            temperature_c = max_c if max_c != -math.inf else (25.0 if had_rt else None)
+            time_h = round(total_h, 3) if total_h > 0 else None
+
             txt_map[rid] = {
                 'original_text': [],
-                'all_condition_lines': [],
-                'time_h': None,
-                'temperature_c': None,
+                'all_condition_lines': all_condition_lines,
+                'time_h': time_h,
+                'temperature_c': round(temperature_c, 1) if temperature_c is not None else None,
                 'title': rdf_data.get('title', ''),
                 'authors': rdf_data.get('authors', ''),
                 'citation': rdf_data.get('citation', ''),

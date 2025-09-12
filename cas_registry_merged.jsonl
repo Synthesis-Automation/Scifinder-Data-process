@@ -451,7 +451,7 @@
 {"cas": "127-08-2", "name": "Potassium Acetate", "abbreviation": "E261", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "smile": "[K+].CC([O-])=O"}
 {"cas": "480-63-7", "name": "2,4,6-Trimethylbenzoic acid", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "smile": "Cc1cc(C)c(c(C)c1)C(O)=O"}
 {"cas": "7775-41-9", "name": "Silver", "abbreviation": "SILVER", "generic_core": "Ag", "category_hint": null, "token": null, "compound_type": "metal", "smile": "[F-].[Ag+]"}
-{"cas": "2897656-97-0", "name": "N1-(2-Biphenylyl)-N2-(2-phenyl-1-naphthyl)benzene-1,2-diamine", "generic_core": null, "category_hint": null, "token": null, "compound_type": "ligand", "smile": "N(c1ccccc1Nc2c3ccccc3ccc2c4ccccc4)c5ccccc5c6ccccc6"}
+{"cas": "2897656-97-0", "name": "N,N'-Bis(2-phenyl-1-naphthyl)-1,2-benzenediamine", "generic_core": null, "category_hint": null, "token": null, "compound_type": "ligand", "smile": "N(c1ccccc1Nc2c3ccccc3ccc2c4ccccc4)c5ccccc5c6ccccc6"}
 {"cas": "9000-30-0", "name": "Octane-1,4,7-triyl tributanoate", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "smile": "CCCC(=O)OCCCC(CCC(C)OC(=O)CCC)OC(=O)CCC"}
 {"cas": "69010-90-8", "name": "N,N'-Difurfuryloxamide", "abbreviation": "BFMO", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "smile": "O=C(NCc1occc1)C(=O)NCc2occc2"}
 {"cas": "67579-81-1", "name": "1-N,2-N-dimethylcyclohexane-1,2-diamine", "generic_core": null, "category_hint": null, "token": null, "compound_type": null, "smile": "CNC1CCCCC1NC"}
